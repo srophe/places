@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -48,7 +48,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -80,7 +80,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -92,12 +92,11 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib376-3">Qidr Monastery</placeName>
                <placeName xml:id="name376-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܩܕܪ</placeName>
-               <placeName xml:id="name376-3" xml:lang="syr-Syrj" source="#bib376-1">ܕܰܝܪܳ</placeName>
-               <placeName xml:id="name376-4" xml:lang="syr-Syrj" source="#bib376-1">ܕܩܕܪ</placeName>
-               <placeName xml:id="name376-5" xml:lang="syr-Syrj" source="#bib376-1">ܕܩܝܕܪ</placeName>
-               <placeName xml:id="name376-6" xml:lang="ar" source="#bib376-2">دير قدر</placeName>
-               <placeName xml:id="name376-7" xml:lang="ar" source="#bib376-2">دير قيدار</placeName>
-               <placeName xml:id="name376-8" xml:lang="en" source="#bib376-3">Qidar Monastery</placeName>
+               <placeName xml:id="name376-3" xml:lang="en">ܕܰܝܪܳܐ ܕܩܕܪ</placeName>
+               <placeName xml:id="name376-4" xml:lang="en">ܕܰܝܪܳܐ ܕܩܝܕܪ</placeName>
+               <placeName xml:id="name376-5" xml:lang="ar" source="#bib376-2">دير قدر</placeName>
+               <placeName xml:id="name376-6" xml:lang="ar" source="#bib376-2">دير قيدار</placeName>
+               <placeName xml:id="name376-7" xml:lang="en" source="#bib376-3">Qidar Monastery</placeName>
                <desc xml:id="abstract-en-376"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib376-1">ܐܰܘ ܩܝܕܪ ܡܶܢ ܕܰܝܪ̈ܳܬܐ ܕܪܝܫ ܥܰܝܢܐ ܕܟܝܪ ܒܡܰܐܬܳܐ ܫܬܺܝܬܳܝܬܐ ܘܡܶܢܗ ܗܘܳܐ ܡܰܟܬܒܳܢܐ ܩܰܫܝܫܐ ܬܳܐܘܡܐ ܫܢܰܬ  636  ܘܐܰܫܩܶܠܘ ܕܰܝܪ̈ܳܝܘܗܝ ܠܕܰܝܪܐ ܕܥܰܡܘܕܐ.</quote>

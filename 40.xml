@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -44,7 +44,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -76,7 +76,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -92,12 +92,11 @@
                           xml:lang="syr"
                           syriaca-tags="#syriaca-headword"
                           source="#bib40-2">ܒܘܨܪ</placeName>
-               <placeName xml:id="name40-4" xml:lang="syr-Syrj" source="#bib40-2">ܐܰܣܟܺ</placeName>
-               <placeName xml:id="name40-5" xml:lang="syr-Syrj" source="#bib40-2">ܫܶܐܡ</placeName>
-               <placeName xml:id="name40-6" xml:lang="ar" source="#bib40-3">بُصرى</placeName>
-               <placeName xml:id="name40-7" xml:lang="ar" source="#bib40-3">اسكي شام</placeName>
-               <placeName xml:id="name40-8" xml:lang="en" source="#bib40-4">Buṣra</placeName>
-               <placeName xml:id="name40-9" xml:lang="en" source="#bib40-4">Eski Shām</placeName>
+               <placeName xml:id="name40-4" xml:lang="en">ܐܰܣܟܺܝ ܫܶܐܡ</placeName>
+               <placeName xml:id="name40-5" xml:lang="ar" source="#bib40-3">بُصرى</placeName>
+               <placeName xml:id="name40-6" xml:lang="ar" source="#bib40-3">اسكي شام</placeName>
+               <placeName xml:id="name40-7" xml:lang="en" source="#bib40-4">Buṣra</placeName>
+               <placeName xml:id="name40-8" xml:lang="en" source="#bib40-4">Eski Shām</placeName>
                <desc xml:id="abstract-en-40">A city east of the Jordan River in the Roman province of Arabia.</desc>
                <desc xml:lang="en">
                   <quote source="#bib40-1">112. Bostra</quote>

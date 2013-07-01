@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <respStmt>
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
@@ -35,7 +35,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -76,10 +76,9 @@
             <place xml:id="place-560" type="mountain">
                <placeName xml:id="name560-1" xml:lang="en" syriaca-tags="#syriaca-headword">al-Jabal al-Qāḥil</placeName>
                <placeName xml:id="name560-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܛܘܪܐ ܨܗܝܐ</placeName>
-               <placeName xml:id="name560-3" xml:lang="syr-Syrj" source="#bib560-1">ܛܘܪ</placeName>
-               <placeName xml:id="name560-4" xml:lang="syr-Syrj" source="#bib560-1">ܨܗܝܳܐ</placeName>
-               <placeName xml:id="name560-5" xml:lang="ar" source="#bib560-2">الجبل القاحل</placeName>
-               <placeName xml:id="name560-6" xml:lang="en" source="#bib560-3">Barren Mountain</placeName>
+               <placeName xml:id="name560-3" xml:lang="en">ܛܘܪܐ ܨܗܝܳܐ</placeName>
+               <placeName xml:id="name560-4" xml:lang="ar" source="#bib560-2">الجبل القاحل</placeName>
+               <placeName xml:id="name560-5" xml:lang="en" source="#bib560-3">Barren Mountain</placeName>
                <desc xml:id="abstract-en-560"/>
                <idno type="URI">http://syriaca.org/place/560</idno>
                <bibl xml:id="bib560-1">

@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -44,7 +44,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -76,7 +76,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -85,13 +85,12 @@
             <place xml:id="place-351" type="monastery">
                <placeName xml:id="name351-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mor Ḥanino</placeName>
                <placeName xml:id="name351-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܚܢܝܢܐ</placeName>
-               <placeName xml:id="name351-3" xml:lang="syr-Syrj" source="#bib351-1">ܕܰܝܪܳ</placeName>
-               <placeName xml:id="name351-4" xml:lang="syr-Syrj" source="#bib351-1">ܕܚܰܢܝܢܳܐ</placeName>
-               <placeName xml:id="name351-5" xml:lang="syr-Syrj" source="#bib351-1">ܕܚܰܢܰܢܝܳܐ</placeName>
-               <placeName xml:id="name351-6" xml:lang="ar" source="#bib351-2">دير حنينا</placeName>
-               <placeName xml:id="name351-7" xml:lang="ar" source="#bib351-2">دير حنانيا</placeName>
-               <placeName xml:id="name351-8" xml:lang="en" source="#bib351-3">Ḥananya Monastery</placeName>
-               <placeName xml:id="name351-9" xml:lang="en" source="#bib351-4">monastery of Mar Hanina</placeName>
+               <placeName xml:id="name351-3" xml:lang="en">ܕܰܝܪܳܐ ܕܚܰܢܝܢܳܐ</placeName>
+               <placeName xml:id="name351-4" xml:lang="en">ܕܰܝܪܳܐ ܕܚܰܢܰܢܝܳܐ</placeName>
+               <placeName xml:id="name351-5" xml:lang="ar" source="#bib351-2">دير حنينا</placeName>
+               <placeName xml:id="name351-6" xml:lang="ar" source="#bib351-2">دير حنانيا</placeName>
+               <placeName xml:id="name351-7" xml:lang="en" source="#bib351-3">Ḥananya Monastery</placeName>
+               <placeName xml:id="name351-8" xml:lang="en" source="#bib351-4">monastery of Mar Hanina</placeName>
                <desc xml:id="abstract-en-351"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib351-1">ܘܰܟܒܰܪ ܡܶܬܒܰܝܬܶܐ ܠܚܰܢܝܢܳܐ ܥܢܘܳܝܐ  500  ܒܶܗ ܐܶܬܬܣܪܰܚ ܦܶܛܪܘܣ ܬܠܝܬܳܝܐ ܫܢܰܬ  581.  </quote>

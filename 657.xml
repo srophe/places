@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <respStmt>
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
@@ -35,7 +35,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -76,10 +76,8 @@
             <place xml:id="place-657" type="monastery">
                <placeName xml:id="name657-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mor ʿAzozoʾil</placeName>
                <placeName xml:id="name657-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܪܝ ܥܙܙܐܝܠ</placeName>
-               <placeName xml:id="name657-3" xml:lang="syr-Syrj" source="#bib657-1">ܕܰܝܪ</placeName>
-               <placeName xml:id="name657-4" xml:lang="syr-Syrj" source="#bib657-1">ܕܡܳܪ</placeName>
-               <placeName xml:id="name657-5" xml:lang="syr-Syrj" source="#bib657-1">ܥܙܳܙܳܐܝܠ</placeName>
-               <placeName xml:id="name657-6" xml:lang="ar" source="#bib657-2">دير مار عززائيل</placeName>
+               <placeName xml:id="name657-3" xml:lang="en">ܕܰܝܪܐ ܕܡܳܪܝ ܥܙܳܙܳܐܝܠ</placeName>
+               <placeName xml:id="name657-4" xml:lang="ar" source="#bib657-2">دير مار عززائيل</placeName>
                <desc xml:id="abstract-en-657"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/657</idno>

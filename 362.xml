@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -44,7 +44,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -76,7 +76,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -85,12 +85,11 @@
             <place xml:id="place-362" type="monastery">
                <placeName xml:id="name362-1" xml:lang="en" syriaca-tags="#syriaca-headword">Dayr Sinun</placeName>
                <placeName xml:id="name362-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܣܢܘܢ</placeName>
-               <placeName xml:id="name362-3" xml:lang="syr-Syrj" source="#bib362-1">ܕܰܝܪܳ</placeName>
-               <placeName xml:id="name362-4" xml:lang="syr-Syrj" source="#bib362-1">ܕܣܢܘܢ</placeName>
-               <placeName xml:id="name362-5" xml:lang="ar" source="#bib362-2">دير سنون</placeName>
-               <placeName xml:id="name362-6" xml:lang="ar" source="#bib362-2">دير سنين</placeName>
-               <placeName xml:id="name362-7" xml:lang="en" source="#bib362-3">Sinun Monastery</placeName>
-               <placeName xml:id="name362-8" xml:lang="en" source="#bib362-3">Sinin Monastery</placeName>
+               <placeName xml:id="name362-3" xml:lang="en">ܕܰܝܪܳܐ ܕܣܢܘܢ</placeName>
+               <placeName xml:id="name362-4" xml:lang="ar" source="#bib362-2">دير سنون</placeName>
+               <placeName xml:id="name362-5" xml:lang="ar" source="#bib362-2">دير سنين</placeName>
+               <placeName xml:id="name362-6" xml:lang="en" source="#bib362-3">Sinun Monastery</placeName>
+               <placeName xml:id="name362-7" xml:lang="en" source="#bib362-3">Sinin Monastery</placeName>
                <desc xml:id="abstract-en-362"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib362-1">ܒܩܘܪܒܳܐ ܕܐܘܪܗܳܝ. ܕܟܝܺܪ ܫܢܰܝ̈  512  -  565  ܐܰܚܪܒܗ ܥܳܫܘܡܐ ܥܰܒܕܐܠܠܗ ܒܰܪ ܒܰܟܬܰܪܝ  751.  </quote>

@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -48,7 +48,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -80,7 +80,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -89,12 +89,10 @@
             <place xml:id="place-392" type="monastery">
                <placeName xml:id="name392-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mor Malke</placeName>
                <placeName xml:id="name392-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܪܝ ܡܠܟܐ</placeName>
-               <placeName xml:id="name392-3" xml:lang="syr-Syrj" source="#bib392-1">ܕܰܝܪܳ</placeName>
-               <placeName xml:id="name392-4" xml:lang="syr-Syrj" source="#bib392-1">ܕܡܳܪ</placeName>
-               <placeName xml:id="name392-5" xml:lang="syr-Syrj" source="#bib392-1">ܡܰܠܟܶܐ</placeName>
-               <placeName xml:id="name392-6" xml:lang="ar" source="#bib392-2">دير مار ملكي</placeName>
-               <placeName xml:id="name392-7" xml:lang="en" source="#bib392-3">Malke Monastery</placeName>
-               <placeName xml:id="name392-8" xml:lang="en" source="#bib392-4">monastery of Mar Malkha</placeName>
+               <placeName xml:id="name392-3" xml:lang="en">ܕܰܝܪܳܐ ܕܡܳܪܝ ܡܰܠܟܶܐ</placeName>
+               <placeName xml:id="name392-4" xml:lang="ar" source="#bib392-2">دير مار ملكي</placeName>
+               <placeName xml:id="name392-5" xml:lang="en" source="#bib392-3">Malke Monastery</placeName>
+               <placeName xml:id="name392-6" xml:lang="en" source="#bib392-4">monastery of Mar Malkha</placeName>
                <desc xml:id="abstract-en-392"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib392-1">ܒܛܘܪܥܰܒܕܝܢ ܒܶܝܬ ܩܘܪ̈ܝܳܐ ܕܐܰܪܟܰܚ ܘܒܶܝܬ ܕܶܒܶܐ. ܐܶܬܒܢܝ ܚܕܳܪ̈ܝ ܕܳܪܐ ܫܬܝܬܳܝܐ. ܘܰܗܘܐ ܟܘܪܣܝܳܐ ܐܶܦܝܣܩܘܦܳܝܐ ܒܕܳܪܐ ܕܐܰܪܒܰܥܣܪ. ܐܶܣܬܚܦ ܫܢܰܬ  1926  ܘܬܘܒ ܒܰܪ ܕܪܝܫ ܐܶܬܚܰܕܰܬ ܘܐܶܬܝܰܬܒ. ܢܰܦܶܩ ܥܣܪܐ ܐܶܦܝܣܩܘ̈ܦܐ</quote>

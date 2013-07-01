@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <respStmt>
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
@@ -35,7 +35,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -79,9 +79,8 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib499-3">Maʿarrat al-Nuʿmān</placeName>
                <placeName xml:id="name499-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܡܥܪܝܐ ܢܥܡܢ</placeName>
-               <placeName xml:id="name499-3" xml:lang="syr-Syrj" source="#bib499-1">ܡܥܪܝ</placeName>
-               <placeName xml:id="name499-4" xml:lang="syr-Syrj" source="#bib499-1">ܢܥܡܰܢ</placeName>
-               <placeName xml:id="name499-5" xml:lang="ar" source="#bib499-2">معرة النعمان</placeName>
+               <placeName xml:id="name499-3" xml:lang="en">ܡܥܪܝܐ ܢܥܡܰܢ</placeName>
+               <placeName xml:id="name499-4" xml:lang="ar" source="#bib499-2">معرة النعمان</placeName>
                <desc xml:id="abstract-en-499"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/499</idno>

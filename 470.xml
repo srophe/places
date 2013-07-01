@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <respStmt>
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
@@ -35,7 +35,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -79,12 +79,9 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib470-1">Dayro d-Mor Yaʿqub</placeName>
                <placeName xml:id="name470-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܪܝ ܝܥܩܘܒ ܡܠܦܢܐ</placeName>
-               <placeName xml:id="name470-3" xml:lang="syr-Syrj" source="#bib470-2">ܕܰܝܪܳ</placeName>
-               <placeName xml:id="name470-4" xml:lang="syr-Syrj" source="#bib470-2">ܕܡܳܪ</placeName>
-               <placeName xml:id="name470-5" xml:lang="syr-Syrj" source="#bib470-2">ܝܰܥܩܘ</placeName>
-               <placeName xml:id="name470-6" xml:lang="syr-Syrj" source="#bib470-2">ܡܰܠܦܳܢܐ</placeName>
-               <placeName xml:id="name470-7" xml:lang="ar" source="#bib470-3">دير مار يعقوب الملفان</placeName>
-               <placeName xml:id="name470-8" xml:lang="en" source="#bib470-4">Jacob the Doctor of the Church Monastery</placeName>
+               <placeName xml:id="name470-3" xml:lang="en">ܕܰܝܪܳܐ ܕܡܳܪܝ ܝܰܥܩܘܒ ܡܰܠܦܳܢܐ</placeName>
+               <placeName xml:id="name470-4" xml:lang="ar" source="#bib470-3">دير مار يعقوب الملفان</placeName>
+               <placeName xml:id="name470-5" xml:lang="en" source="#bib470-4">Jacob the Doctor of the Church Monastery</placeName>
                <desc xml:id="abstract-en-470"/>
                <desc xml:lang="en">
                   <quote source="#bib470-4">first mentioned in history in 1165 and still active.</quote>

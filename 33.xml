@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -40,7 +40,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -72,7 +72,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -84,11 +84,10 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib33-1 #bib33-4">Beth Garmai</placeName>
                <placeName xml:id="name33-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܝܬ ܓܪ̈ܡܝ</placeName>
-               <placeName xml:id="name33-3" xml:lang="syr-Syrj" source="#bib33-2">ܒܶܝ</placeName>
-               <placeName xml:id="name33-4" xml:lang="syr-Syrj" source="#bib33-2">ܓܰܪ̈ܡܰܝ</placeName>
-               <placeName xml:id="name33-5" xml:lang="ar" source="#bib33-3">باجرمي</placeName>
-               <placeName xml:id="name33-6" xml:lang="en" source="#bib33-4">Bajermi</placeName>
-               <placeName xml:id="name33-7" xml:lang="en" source="#bib33-5">Bet Garmai</placeName>
+               <placeName xml:id="name33-3" xml:lang="en">ܒܶܝܬ ܓܰܪ̈ܡܰܝ</placeName>
+               <placeName xml:id="name33-4" xml:lang="ar" source="#bib33-3">باجرمي</placeName>
+               <placeName xml:id="name33-5" xml:lang="en" source="#bib33-4">Bajermi</placeName>
+               <placeName xml:id="name33-6" xml:lang="en" source="#bib33-5">Bet Garmai</placeName>
                <desc xml:id="abstract-en-33"/>
                <desc xml:lang="en">
                   <quote source="#bib33-1">99. Beth Garmai</quote>

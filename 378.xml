@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -48,7 +48,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -80,7 +80,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -92,13 +92,11 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib378-3">Qanqart Monastery</placeName>
                <placeName xml:id="name378-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܩܢܩܪܬ</placeName>
-               <placeName xml:id="name378-3" xml:lang="syr-Syrj" source="#bib378-1">ܕܰܝܪ</placeName>
-               <placeName xml:id="name378-4" xml:lang="syr-Syrj" source="#bib378-1">ܕܩܰܢܩܪܬ</placeName>
-               <placeName xml:id="name378-5" xml:lang="syr-Syrj" source="#bib378-1">ܩܰܪܰ</placeName>
-               <placeName xml:id="name378-6" xml:lang="syr-Syrj" source="#bib378-1">ܟܺܝܠܺܝܣܰܐ</placeName>
-               <placeName xml:id="name378-7" xml:lang="ar" source="#bib378-2">دير قَنْقرت</placeName>
-               <placeName xml:id="name378-8" xml:lang="ar" source="#bib378-2">قره كليسا</placeName>
-               <placeName xml:id="name378-9" xml:lang="en" source="#bib378-3">Qara Kelisa</placeName>
+               <placeName xml:id="name378-3" xml:lang="en">ܕܰܝܪܐ ܕܩܰܢܩܪܬ</placeName>
+               <placeName xml:id="name378-4" xml:lang="en">ܩܰܪܰܗ ܟܺܝܠܺܝܣܰܐ</placeName>
+               <placeName xml:id="name378-5" xml:lang="ar" source="#bib378-2">دير قَنْقرت</placeName>
+               <placeName xml:id="name378-6" xml:lang="ar" source="#bib378-2">قره كليسا</placeName>
+               <placeName xml:id="name378-7" xml:lang="en" source="#bib378-3">Qara Kelisa</placeName>
                <desc xml:id="abstract-en-378"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib378-1">ܒܫܶܡ ܐܠܝܐ ܢܺܒܝܐ. ܠܒܰܪ ܡܶܢ ܐܳܡܝ̣ܕ ܗܘ ܡܰܪܕܶܐ ܫܳܥܐ ܘܦܶܠܓܳܐ ܠܘܳܬ ܩܰܢܩܪܰܬ ܩܪܝܬܳܐ ܕܟܺܝܪ ܫܢܰܬ  1050  ܘܚܰܕܶܬܘ ܒܶܢܝܳܢܰܘ̈ܗܝ ܡܝܟܳܐܝܠ ܪܰܒܐ ܫܢܬ  1173  ܘܐܝܓܢܰܐܛܝܘܣ ܫܟܪܐܠܠܗ ܫܢܰܬ 1730  ܘܐܶܬܓܰܙܝ ܡܶܢ ܐܢ̈ܫܰܘܗܝ ܒܫܘܪܳܝܐ ܕܡܰܐܬܐ ܬܫܰܥܣܝܪܳܝܬܐ. ܘܩܳܡܰܬ ܒܕܘܟܬܗ ܩܪܝܬܐ ܕܡܶܬܐܡܰܪ ܠܗ ܬܘܪܟܳܐܝܬ ܩܰܪܰܗ ܟܺܝܠܺܝܣܰܐ ܗܳܢܰܘ ܥܕܬܐ ܐܘܟܳܡܬܐ. ܡܶܛܠ ܐܘܟܳܡܘܬܐ ܕܐܰܬܪ̈ܘܳܬܐ ܗܳܢܘܢ ܘܰܥܕܰܡܐ ܠܝܰܘܡܳܢ ܩܳܝ̈ܡܝܢ ܚܰܪ̈ܒܬܳܗ̇</quote>

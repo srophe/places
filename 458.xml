@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -48,7 +48,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -80,7 +80,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -92,9 +92,8 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib458-3">Mashhad Kuḥayl</placeName>
                <placeName xml:id="name458-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܡܫܗܕ ܟܘܚܝܠ</placeName>
-               <placeName xml:id="name458-3" xml:lang="syr-Syrj" source="#bib458-1">ܡܰܫܗ</placeName>
-               <placeName xml:id="name458-4" xml:lang="syr-Syrj" source="#bib458-1">ܟܘܚܰܝܠ</placeName>
-               <placeName xml:id="name458-5" xml:lang="ar" source="#bib458-2">مشهد كحيل</placeName>
+               <placeName xml:id="name458-3" xml:lang="en">ܡܰܫܗܕ ܟܘܚܰܝܠ</placeName>
+               <placeName xml:id="name458-4" xml:lang="ar" source="#bib458-2">مشهد كحيل</placeName>
                <desc xml:id="abstract-en-458"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib458-1">ܡܕܺܝܢܬܐ ܗܘܳܬ ܪܰܒܬܐ ܕܥܰܠ ܕܶܩܠܰܬ ܒܰܝܢܳܬ ܬܪܶܝܢ ܙܒܐ ܠܥܶܠ ܡܶܢ ܬܰܓܪܺܝܬ ܒܓܰܒܳܐ ܡܰܥܪܒܳܝܐ. ܝܰܘܡܳܢ ܕܶܝܢ ܠܰܝܬ ܠܳܗ̇ ܛܶܒܐ ܘܠܐ ܐܳܬܳܐ ܘܐܝܺܬܝܶܗ̇ ܡܳܬܳܐ ܕܡܘܫܶܐ ܕܒܰܪ ܟܐܺܦܳܐ ܝܰܕܘܥܬܳܢܐ ܣܘܪܝܳܝܳܐ  903</quote>

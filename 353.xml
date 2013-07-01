@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -44,7 +44,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -76,7 +76,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -85,13 +85,9 @@
             <place xml:id="place-353" type="monastery">
                <placeName xml:id="name353-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mor Daniel of Jolsh</placeName>
                <placeName xml:id="name353-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܪܝ ܕܢܝܐܝܠ ܕܓܠܫ ܥܢܘܝܐ</placeName>
-               <placeName xml:id="name353-3" xml:lang="syr-Syrj" source="#bib353-1">ܕܰܝܪܳ</placeName>
-               <placeName xml:id="name353-4" xml:lang="syr-Syrj" source="#bib353-1">ܕܡܳܪ</placeName>
-               <placeName xml:id="name353-5" xml:lang="syr-Syrj" source="#bib353-1">ܕܳܢܝܐܝ</placeName>
-               <placeName xml:id="name353-6" xml:lang="syr-Syrj" source="#bib353-1">ܕܓܳܠ</placeName>
-               <placeName xml:id="name353-7" xml:lang="syr-Syrj" source="#bib353-1">ܥܢܘܳܝܳܐ</placeName>
-               <placeName xml:id="name353-8" xml:lang="ar" source="#bib353-2">دير مار دانيال الجلشي الناسك</placeName>
-               <placeName xml:id="name353-9" xml:lang="en" source="#bib353-3">Monastery of Daniel the Jalshian ascetic</placeName>
+               <placeName xml:id="name353-3" xml:lang="en">ܕܰܝܪܳܐ ܕܡܳܪܝ ܕܳܢܝܐܝܠ ܕܓܳܠܫ ܥܢܘܳܝܳܐ</placeName>
+               <placeName xml:id="name353-4" xml:lang="ar" source="#bib353-2">دير مار دانيال الجلشي الناسك</placeName>
+               <placeName xml:id="name353-5" xml:lang="en" source="#bib353-3">Monastery of Daniel the Jalshian ascetic</placeName>
                <desc xml:id="abstract-en-353"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib353-1">439 ܒܛܘܪܳܐ ܕܡܬܝܢܝܗ ܘܰܒܓܰܪܒܰܝ ܡܰܪܕܝܢ ܡܰܪܕܶܐ ܡܰܫܩܠܐ ܕܚܰܕ ܝܰܘܡܐ ܡܶܢܗ̇ ܫܰܟܠܠܗ ܝܘܚܰܢܢ ܡܺܝܛܪܘܦܘܠܝܛܳܐ ܕܡܰܪܕܝܢ ܗܘܐ ܫܢܰܬ   1230  ܘܗܐ ܠܗܫܐ ܒܶܢܝ̈ܢܰܘܗܝ ܪܰܘܪܒ̈ܐ ܩܰܝܳܡ̈ܝܢ.</quote>

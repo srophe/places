@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -44,7 +44,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -76,7 +76,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -88,9 +88,8 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib329-3">Ḥiṣn Baṭrīq</placeName>
                <placeName xml:id="name329-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܚܣܢ ܒܛܪܝܩ</placeName>
-               <placeName xml:id="name329-3" xml:lang="syr-Syrj" source="#bib329-1">ܚܣ</placeName>
-               <placeName xml:id="name329-4" xml:lang="syr-Syrj" source="#bib329-1">ܒܰܛܪܝܩ</placeName>
-               <placeName xml:id="name329-5" xml:lang="ar" source="#bib329-2">حصن بطريق</placeName>
+               <placeName xml:id="name329-3" xml:lang="en">ܚܣܢ ܒܰܛܪܝܩ</placeName>
+               <placeName xml:id="name329-4" xml:lang="ar" source="#bib329-2">حصن بطريق</placeName>
                <desc xml:id="abstract-en-329"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib329-1">ܡܕܺܝܢܬܐܗܝ ܕܘܟܬܳܐ ܕܒܶܝܬ ܚܳܠܒ ܠܩܰܠܘܽܢܺܝܩܝ.</quote>

@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -44,7 +44,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -76,7 +76,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -85,11 +85,9 @@
             <place xml:id="place-341" type="monastery">
                <placeName xml:id="name341-1" xml:lang="en" syriaca-tags="#syriaca-headword">Eusebona</placeName>
                <placeName xml:id="name341-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܪܝ ܐܘܣܝܒܝܢܐ</placeName>
-               <placeName xml:id="name341-3" xml:lang="syr-Syrj" source="#bib341-1">ܕܰܝܪ</placeName>
-               <placeName xml:id="name341-4" xml:lang="syr-Syrj" source="#bib341-1">ܕܡܳܪ</placeName>
-               <placeName xml:id="name341-5" xml:lang="syr-Syrj" source="#bib341-1">ܐܘܣܝܒܝܢܶܐ</placeName>
-               <placeName xml:id="name341-6" xml:lang="ar" source="#bib341-2">دير مار اوسيبونا</placeName>
-               <placeName xml:id="name341-7" xml:lang="en" source="#bib341-3">Eusebius Monastery</placeName>
+               <placeName xml:id="name341-3" xml:lang="en">ܕܰܝܪܐ ܕܡܳܪܝ ܐܘܣܝܒܝܢܶܐ</placeName>
+               <placeName xml:id="name341-4" xml:lang="ar" source="#bib341-2">دير مار اوسيبونا</placeName>
+               <placeName xml:id="name341-5" xml:lang="en" source="#bib341-3">Eusebius Monastery</placeName>
                <desc xml:id="abstract-en-341"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib341-1">ܒܩܘܪܒܳܐ ܕܬܰܠܥܕܰܐ ܩܪܺܝܬܳܐ ܒܟܘܪܳܐ ܕܐܰܢܛܝܘܟܺܝܰܐ ܒܢܰܐܘܗܝ ܬܪܝܢ ܥܢܘ̈ܝܶܐ ܡܝܰܬܪ̈ܐ ܡܳܪܝ ܐܘܣܝܒܘܢܶܐ ܘܗܽܘܝܘ ܐܘܣܰܐܒܝܺܘܣ ܪܰܒܳܐ. ܘܐܰܡܝܐܢ ܗܰܘ ܕܫܰܬܶܐܣ ܡܰܕܪܰܫܬܳܐ ܠܡܰܠܦܘܬ ܦܺܝܠܳܣܘܦܘܬܐ ܗܳܝ ܡܶܢ ܚܕܳܪ̈ܰܝ  340  ܘܒܶܗ ܐܶܣܬܰܦܪ ܡܳܪܝ ܫܶܡܥܘܢ ܕܐܶܣܛܘܢܗ ܒܫܘܪܳܝܳܐ ܘܡܰܛܝ ܡܶܢܝܳܢ ܕܰܝܪ̈ܳܝܘܗܝ  ܫܢܰܬ  409  ܡܐܐ ܘܥܶܣܪܝܢ ܐܰܦܶܩ ܝܘܚܰܢܢ ܬܠܝܬܳܝܐ ܘܰܬܪܶܝܢ ܐܶܦܝܣܩܘܦ̈ܐ ܒܡܰܐܬܳܐ ܕܰܬܫܥ.</quote>

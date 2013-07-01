@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <respStmt>
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
@@ -35,7 +35,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -79,9 +79,8 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib493-3">Sufniyyin province</placeName>
                <placeName xml:id="name493-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܬܪܐ ܕܨܘܦܢܝ̈ܐ</placeName>
-               <placeName xml:id="name493-3" xml:lang="syr-Syrj" source="#bib493-1">ܐܰܬܪܳ</placeName>
-               <placeName xml:id="name493-4" xml:lang="syr-Syrj" source="#bib493-1">ܕܨܘܦܢܳܝ̈ܐ</placeName>
-               <placeName xml:id="name493-5" xml:lang="ar" source="#bib493-2">قطر الصوفنيين</placeName>
+               <placeName xml:id="name493-3" xml:lang="en">ܐܰܬܪܳܐ ܕܨܘܦܢܳܝ̈ܐ</placeName>
+               <placeName xml:id="name493-4" xml:lang="ar" source="#bib493-2">قطر الصوفنيين</placeName>
                <desc xml:id="abstract-en-493"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/493</idno>

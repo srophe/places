@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -44,7 +44,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -76,7 +76,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -89,12 +89,11 @@
                           source="#bib11-1 #bib11-4">Apamea</placeName>
                <placeName xml:id="name11-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܘܦܡܝܐ</placeName>
                <placeName xml:id="name11-3" xml:lang="syr-Syrj" source="#bib11-2">ܐܘܦܰܡܝܰܐ</placeName>
-               <placeName xml:id="name11-4" xml:lang="syr-Syrj" source="#bib11-2">ܩܰܠܥܗ</placeName>
-               <placeName xml:id="name11-5" xml:lang="syr-Syrj" source="#bib11-2">ܐܠܡܨ̇ܝܩ</placeName>
-               <placeName xml:id="name11-6" xml:lang="ar" source="#bib11-3">آفامية</placeName>
-               <placeName xml:id="name11-7" xml:lang="ar" source="#bib11-3">فامية</placeName>
-               <placeName xml:id="name11-8" xml:lang="ar" source="#bib11-3">قلعة المضيق</placeName>
-               <placeName xml:id="name11-9" xml:lang="en" source="#bib11-4">Qalʿat al-Madīq</placeName>
+               <placeName xml:id="name11-4" xml:lang="en">ܩܰܠܥܗ̈ ܐܠܡܨ̇ܝܩ</placeName>
+               <placeName xml:id="name11-5" xml:lang="ar" source="#bib11-3">آفامية</placeName>
+               <placeName xml:id="name11-6" xml:lang="ar" source="#bib11-3">فامية</placeName>
+               <placeName xml:id="name11-7" xml:lang="ar" source="#bib11-3">قلعة المضيق</placeName>
+               <placeName xml:id="name11-8" xml:lang="en" source="#bib11-4">Qalʿat al-Madīq</placeName>
                <desc xml:id="abstract-en-11"/>
                <desc xml:lang="en">
                   <quote source="#bib11-1">38. Apamea</quote>

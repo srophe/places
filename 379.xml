@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -48,7 +48,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -80,7 +80,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -89,12 +89,11 @@
             <place xml:id="place-379" type="monastery">
                <placeName xml:id="name379-1" xml:lang="en" syriaca-tags="#syriaca-headword">Dayro d-Qube</placeName>
                <placeName xml:id="name379-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܩܘܒ̈ܐ</placeName>
-               <placeName xml:id="name379-3" xml:lang="syr-Syrj" source="#bib379-1">ܕܰܝܪ</placeName>
-               <placeName xml:id="name379-4" xml:lang="syr-Syrj" source="#bib379-1">ܕܩܘܒ̈ܐ</placeName>
-               <placeName xml:id="name379-5" xml:lang="ar" source="#bib379-2">دير قوبا</placeName>
-               <placeName xml:id="name379-6" xml:lang="ar" source="#bib379-2">دير القبب</placeName>
-               <placeName xml:id="name379-7" xml:lang="en" source="#bib379-3">Qūbā Monastery</placeName>
-               <placeName xml:id="name379-8" xml:lang="en" source="#bib379-3">Monastery of the Domes</placeName>
+               <placeName xml:id="name379-3" xml:lang="en">ܕܰܝܪܐ ܕܩܘܒ̈ܐ</placeName>
+               <placeName xml:id="name379-4" xml:lang="ar" source="#bib379-2">دير قوبا</placeName>
+               <placeName xml:id="name379-5" xml:lang="ar" source="#bib379-2">دير القبب</placeName>
+               <placeName xml:id="name379-6" xml:lang="en" source="#bib379-3">Qūbā Monastery</placeName>
+               <placeName xml:id="name379-7" xml:lang="en" source="#bib379-3">Monastery of the Domes</placeName>
                <desc xml:id="abstract-en-379"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib379-1">ܒܰܫܦܘܽܠܐ ܕܛܘܪܐ ܕܐܽܘܪܗܳܝ ܠܬܰܝܡܢ ܥܕܬܐ ܕܡܳܪܝ ܩܘܙܡܐ ܐܶܬܒܢܺܝ ܒܫܘܪܳܝܐ ܕܕܳܪܐ ܚܡܺܝܫܝܐ. ܘܐܰܚܪܒܗ ܒܪܳܐ ܕܒܰܟܬܰܪܝ ܫܢܰܬ  751  ܘܬܶܢܝܳܢܘܬ ܐܶܬܗܦܟ ܒܶܢܝܳܢܗ ܘܢܰܦܩ ܬܠܳܬܐ ܐܶܦܝܣܩܘ̈ܦܐ ܥܕܰܡܐ ܠܰܫܢܬ  873</quote>

@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <respStmt>
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
@@ -35,7 +35,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -76,10 +76,9 @@
             <place xml:id="place-518" type="mountain">
                <placeName xml:id="name518-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mount Qāsiyūn</placeName>
                <placeName xml:id="name518-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܛܘܪܐ ܕܩܐܣܝܘܢ</placeName>
-               <placeName xml:id="name518-3" xml:lang="syr-Syrj" source="#bib518-1">ܛܘܪܳ</placeName>
-               <placeName xml:id="name518-4" xml:lang="syr-Syrj" source="#bib518-1">ܕܩܰܐܣܒܘܢ</placeName>
-               <placeName xml:id="name518-5" xml:lang="ar" source="#bib518-2">جبل قاسيون</placeName>
-               <placeName xml:id="name518-6" xml:lang="en" source="#bib518-3">Qasyun Mountain</placeName>
+               <placeName xml:id="name518-3" xml:lang="en">ܛܘܪܳܐ ܕܩܰܐܣܒܘܢ</placeName>
+               <placeName xml:id="name518-4" xml:lang="ar" source="#bib518-2">جبل قاسيون</placeName>
+               <placeName xml:id="name518-5" xml:lang="en" source="#bib518-3">Qasyun Mountain</placeName>
                <desc xml:id="abstract-en-518">A mountain north of Damascus.</desc>
                <idno type="URI">http://syriaca.org/place/518</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Mount_Qasioun</idno>

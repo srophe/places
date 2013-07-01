@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -40,7 +40,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -72,7 +72,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -84,9 +84,8 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib160-1 #bib160-4">Qamishli</placeName>
                <placeName xml:id="name160-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܝܬ ܙ̈ܠܐ</placeName>
-               <placeName xml:id="name160-3" xml:lang="syr-Syrj" source="#bib160-2">ܒܶܝ</placeName>
-               <placeName xml:id="name160-4" xml:lang="syr-Syrj" source="#bib160-2">ܙ̈ܠܐ</placeName>
-               <placeName xml:id="name160-5" xml:lang="ar" source="#bib160-3">القامشلي</placeName>
+               <placeName xml:id="name160-3" xml:lang="en">ܒܶܝܬ ܙ̈ܠܐ</placeName>
+               <placeName xml:id="name160-4" xml:lang="ar" source="#bib160-3">القامشلي</placeName>
                <desc xml:id="abstract-en-160"/>
                <location type="gps" source="#bib160-1">
                   <geo>37.05 41.216667</geo>

@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -40,7 +40,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -72,7 +72,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -84,10 +84,9 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib243-1">Beth Manʿem</placeName>
                <placeName xml:id="name243-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܝܬ ܡܢܥܡ</placeName>
-               <placeName xml:id="name243-3" xml:lang="syr-Syrj" source="#bib243-2">ܒܶܝ</placeName>
-               <placeName xml:id="name243-4" xml:lang="syr-Syrj" source="#bib243-2">ܡܰܢܥܡ</placeName>
-               <placeName xml:id="name243-5" xml:lang="ar" source="#bib243-3">بانمعم </placeName>
-               <placeName xml:id="name243-6" xml:lang="en" source="#bib243-4">Banimʿim</placeName>
+               <placeName xml:id="name243-3" xml:lang="en">ܒܶܝܬ ܡܰܢܥܡ</placeName>
+               <placeName xml:id="name243-4" xml:lang="ar" source="#bib243-3">بانمعم </placeName>
+               <placeName xml:id="name243-5" xml:lang="en" source="#bib243-4">Banimʿim</placeName>
                <desc xml:id="abstract-en-243"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/243</idno>

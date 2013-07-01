@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -44,7 +44,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -76,7 +76,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -88,12 +88,10 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib70-1">Dayro d-Mor Abay</placeName>
                <placeName xml:id="name70-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܪܝ ܐܒܝ</placeName>
-               <placeName xml:id="name70-3" xml:lang="syr-Syrj" source="#bib70-2">ܕܰܝܪ</placeName>
-               <placeName xml:id="name70-4" xml:lang="syr-Syrj" source="#bib70-2">ܕܡܳܪ</placeName>
-               <placeName xml:id="name70-5" xml:lang="syr-Syrj" source="#bib70-2">ܐܰܒܝ</placeName>
-               <placeName xml:id="name70-6" xml:lang="ar" source="#bib70-3">دير مار آباي</placeName>
-               <placeName xml:id="name70-7" xml:lang="en" source="#bib70-4">Abai Monastery</placeName>
-               <placeName xml:id="name70-8" xml:lang="en" source="#bib70-5">monastery of Mar Abai</placeName>
+               <placeName xml:id="name70-3" xml:lang="en">ܕܰܝܪܐ ܕܡܳܪܝ ܐܰܒܝ</placeName>
+               <placeName xml:id="name70-4" xml:lang="ar" source="#bib70-3">دير مار آباي</placeName>
+               <placeName xml:id="name70-5" xml:lang="en" source="#bib70-4">Abai Monastery</placeName>
+               <placeName xml:id="name70-6" xml:lang="en" source="#bib70-5">monastery of Mar Abai</placeName>
                <desc xml:id="abstract-en-70">A monastery near Qeleth in Ṭur ʿAbdin.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib70-2">ܣܳܗܕܐ ܦܳܪܣܳܝܐ ܠܓܰܪܒܰܝ ܩܶܠܬ ܩܪܝܬܳܐ ܡܰܪܕܶܐ ܩܰܛܝ̈ܢܢ. ܕܰܝܪܰܐ ܗܘ ܪܰܒܐ ܐܶܬܒܢܝ ܒܕܳܪܳܐ ܫܬܝܬܳܝܐ ܘܒܰܫܢܰܬ  1250  ܐܝܬ ܗܘܐ ܒܗ ܫܬܝܺܢ ܕܰܝܪ̈ܳܝܐ. ܟܶܢ ܗܘܐ ܒܶܝܬ ܟܘܪܣܝܳܐ ܕܐܶܦܣܩܘܦܳܐ. ܘܰܢܦܰܩ ܡܶܢܗ ܚܰܕ ܦܰܛܪܝܰܪܟܳܐ ܘܰܚܕܰܥܣܪ ܐܶܦܝ̈ܣܩܘܦܶܐ. ܘܰܚܕܳܪ̈ܰܝ ܫܢܰܬ  1700  ܥܰܠܥܶܠܘ ܙܰܒ̈ܢܐ ܒܐܢܳܫܰܘ̈ܗܝ ܘܚܰܪ̈ܒܳܬܗ ܩܰܝ̈ܡܳܢ </quote>

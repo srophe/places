@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <respStmt>
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
@@ -39,7 +39,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -80,10 +80,9 @@
             <place xml:id="place-511" type="settlement">
                <placeName xml:id="name511-1" xml:lang="en" syriaca-tags="#syriaca-headword">Byzantine Nisibis</placeName>
                <placeName xml:id="name511-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܢܨܝܒܝܢ ܕܪ̈ܘܡܝܐ</placeName>
-               <placeName xml:id="name511-3" xml:lang="syr-Syrj" source="#bib511-1">ܢܨܝܒܝ</placeName>
-               <placeName xml:id="name511-4" xml:lang="syr-Syrj" source="#bib511-1">ܕܪ̈ܘܡܳܝܐ</placeName>
-               <placeName xml:id="name511-5" xml:lang="ar" source="#bib511-2">نصيبين الروم</placeName>
-               <placeName xml:id="name511-6" xml:lang="en" source="#bib511-3">Byzantine Nisibin</placeName>
+               <placeName xml:id="name511-3" xml:lang="en">ܢܨܝܒܝܢ ܕܪ̈ܘܡܳܝܐ</placeName>
+               <placeName xml:id="name511-4" xml:lang="ar" source="#bib511-2">نصيبين الروم</placeName>
+               <placeName xml:id="name511-5" xml:lang="en" source="#bib511-3">Byzantine Nisibin</placeName>
                <desc xml:id="abstract-en-511"/>
                <desc xml:lang="ar">
                   <quote source="#bib511-2">ونصيبين ايضا قرية على شاطئ الفرات غربي بيرهجك كانت تعرف بنصيبين الروم.</quote>

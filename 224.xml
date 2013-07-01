@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -44,7 +44,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -76,7 +76,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -88,12 +88,10 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib224-1">Mor Barṣawmo</placeName>
                <placeName xml:id="name224-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܪܝ ܒܪܨܘܡܐ</placeName>
-               <placeName xml:id="name224-3" xml:lang="syr-Syrj" source="#bib224-2">ܕܰܝܪ</placeName>
-               <placeName xml:id="name224-4" xml:lang="syr-Syrj" source="#bib224-2">ܕܡܳܪ</placeName>
-               <placeName xml:id="name224-5" xml:lang="syr-Syrj" source="#bib224-2">ܒܰܪܨܘܡܐ</placeName>
-               <placeName xml:id="name224-6" xml:lang="ar" source="#bib224-3">دير مار برصوم</placeName>
-               <placeName xml:id="name224-7" xml:lang="en" source="#bib224-4">Barṣoum Monastery</placeName>
-               <placeName xml:id="name224-8" xml:lang="en" source="#bib224-5">monastery of Mar Barsauma</placeName>
+               <placeName xml:id="name224-3" xml:lang="en">ܕܰܝܪܐ ܕܡܳܪܝ ܒܰܪܨܘܡܐ</placeName>
+               <placeName xml:id="name224-4" xml:lang="ar" source="#bib224-3">دير مار برصوم</placeName>
+               <placeName xml:id="name224-5" xml:lang="en" source="#bib224-4">Barṣoum Monastery</placeName>
+               <placeName xml:id="name224-6" xml:lang="en" source="#bib224-5">monastery of Mar Barsauma</placeName>
                <desc xml:id="abstract-en-224"/>
                <desc xml:lang="en">
                   <quote source="#bib224-1">81. Barṣawmo, Dayro d-Mor</quote>

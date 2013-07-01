@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -44,7 +44,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -76,7 +76,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -88,15 +88,13 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib233-1">Tell ʿAda</placeName>
                <placeName xml:id="name233-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܬܠܥܕܐ</placeName>
-               <placeName xml:id="name233-3" xml:lang="syr-Syrj" source="#bib233-2">ܕܰܝܪ</placeName>
-               <placeName xml:id="name233-4" xml:lang="syr-Syrj" source="#bib233-2">ܕܬܰܠܥܕܰܐ</placeName>
-               <placeName xml:id="name233-5" xml:lang="syr-Syrj" source="#bib233-2">ܕܰܝܪܳ</placeName>
-               <placeName xml:id="name233-6" xml:lang="syr-Syrj" source="#bib233-2">ܪܰܒܳܐ</placeName>
-               <placeName xml:id="name233-7" xml:lang="ar" source="#bib233-3">دير تلعدا</placeName>
-               <placeName xml:id="name233-8" xml:lang="ar" source="#bib233-3">الدير الكبير</placeName>
-               <placeName xml:id="name233-9" xml:lang="en" source="#bib233-4">Talʿada Monastery</placeName>
-               <placeName xml:id="name233-10" xml:lang="en" source="#bib233-4">Great Monastery</placeName>
-               <placeName xml:id="name233-11" xml:lang="en" source="#bib233-5">monastery of Tell Ada</placeName>
+               <placeName xml:id="name233-3" xml:lang="en">ܕܰܝܪܐ ܕܬܰܠܥܕܰܐ</placeName>
+               <placeName xml:id="name233-4" xml:lang="en">ܕܰܝܪܳܐ ܪܰܒܳܐ</placeName>
+               <placeName xml:id="name233-5" xml:lang="ar" source="#bib233-3">دير تلعدا</placeName>
+               <placeName xml:id="name233-6" xml:lang="ar" source="#bib233-3">الدير الكبير</placeName>
+               <placeName xml:id="name233-7" xml:lang="en" source="#bib233-4">Talʿada Monastery</placeName>
+               <placeName xml:id="name233-8" xml:lang="en" source="#bib233-4">Great Monastery</placeName>
+               <placeName xml:id="name233-9" xml:lang="en" source="#bib233-5">monastery of Tell Ada</placeName>
                <desc xml:id="abstract-en-233"/>
                <desc xml:lang="en">
                   <quote source="#bib233-1">537. Tell ʿAda, Monastery of</quote>

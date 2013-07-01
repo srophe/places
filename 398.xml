@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -48,7 +48,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -80,7 +80,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -89,16 +89,12 @@
             <place xml:id="place-398" type="monastery">
                <placeName xml:id="name398-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mor Yaʿqub Malpono </placeName>
                <placeName xml:id="name398-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܪܝ ܝܥܩܘܒ ܡܠܦܢܐ</placeName>
-               <placeName xml:id="name398-3" xml:lang="syr-Syrj" source="#bib398-1">ܕܰܝܪܳ</placeName>
-               <placeName xml:id="name398-4" xml:lang="syr-Syrj" source="#bib398-1">ܕܡܳܪ</placeName>
-               <placeName xml:id="name398-5" xml:lang="syr-Syrj" source="#bib398-1">ܝܰܥܩܘ</placeName>
-               <placeName xml:id="name398-6" xml:lang="syr-Syrj" source="#bib398-1">ܡܰܠܦܢܐ</placeName>
-               <placeName xml:id="name398-7" xml:lang="syr-Syrj" source="#bib398-1">ܕܰܝܪ</placeName>
-               <placeName xml:id="name398-8" xml:lang="syr-Syrj" source="#bib398-1">ܕܢܰܦܫ̈ܬܐ</placeName>
-               <placeName xml:id="name398-9" xml:lang="ar" source="#bib398-2">دير مار يعقوب الملفان</placeName>
-               <placeName xml:id="name398-10" xml:lang="ar" source="#bib398-2">دير النواويس</placeName>
-               <placeName xml:id="name398-11" xml:lang="en" source="#bib398-3">Jacob the Doctor of the Church Monastery</placeName>
-               <placeName xml:id="name398-12" xml:lang="en" source="#bib398-3">Nawawīs Monastery</placeName>
+               <placeName xml:id="name398-3" xml:lang="en">ܕܰܝܪܳܐ ܕܡܳܪܝ ܝܰܥܩܘܒ ܡܰܠܦܢܐ</placeName>
+               <placeName xml:id="name398-4" xml:lang="en">ܕܰܝܪܐ ܕܢܰܦܫ̈ܬܐ</placeName>
+               <placeName xml:id="name398-5" xml:lang="ar" source="#bib398-2">دير مار يعقوب الملفان</placeName>
+               <placeName xml:id="name398-6" xml:lang="ar" source="#bib398-2">دير النواويس</placeName>
+               <placeName xml:id="name398-7" xml:lang="en" source="#bib398-3">Jacob the Doctor of the Church Monastery</placeName>
+               <placeName xml:id="name398-8" xml:lang="en" source="#bib398-3">Nawawīs Monastery</placeName>
                <desc xml:id="abstract-en-398"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib398-1">ܒܛܘܪܐ ܕܐܘܪܗܳܝ ܒܬܰܝܡܢܳܗ̇ ܕܰܡܕܝܢܬܐ ܡܰܪܕܶܐ ܫܳܥܳܐ ܘܦܶܠܓܳܐ. ܐܶܬܒܢܝ ܒܡܰܐܬܰܐ ܚܡܝܫܳܝܬܐ ܘܰܕܟܝܪ ܠܗ ܠܝܘܚܰܢܢ ܕܐܶܦܣܘܣ ܫܢܰܬ  519  ܚܰܕܬܗ ܪܝܫܳܢܗ ܕܰܝܪܳܝܐ ܝܘܚܰܢܢ ܣܪܘܓܳܝܳܐ ܗܰܘ ܕܐܶܬܥܰܠܝ ܠܡܰܦܪܝܳܢܘܬܐ ܕܡܰܕܢܚܐ ܫܢܰܬ  1164  ܘܥܰܡܝܪ ܗܘܐ ܫܢܰܬ  1223  ܘܫܶܬܶܐܣܰܘ̈ܗܝ ܩܰܝܳܡ̈ܢ. </quote>

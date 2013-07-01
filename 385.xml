@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -48,7 +48,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -80,7 +80,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -89,10 +89,9 @@
             <place xml:id="place-385" type="monastery">
                <placeName xml:id="name385-1" xml:lang="en" syriaca-tags="#syriaca-headword">Gawikat</placeName>
                <placeName xml:id="name385-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܓܘܝܟܐܬ</placeName>
-               <placeName xml:id="name385-3" xml:lang="syr-Syrj" source="#bib385-1">ܕܰܝܪܳ</placeName>
-               <placeName xml:id="name385-4" xml:lang="syr-Syrj" source="#bib385-1">ܕܟܘܝ̣ܒܰܐܬ</placeName>
-               <placeName xml:id="name385-5" xml:lang="ar" source="#bib385-2">دير كريخات</placeName>
-               <placeName xml:id="name385-6" xml:lang="en" source="#bib385-3">Kuwaykhat Monastery</placeName>
+               <placeName xml:id="name385-3" xml:lang="en">ܕܰܝܪܳܐ ܕܟܘܝ̣ܒܰܐܬ</placeName>
+               <placeName xml:id="name385-4" xml:lang="ar" source="#bib385-2">دير كريخات</placeName>
+               <placeName xml:id="name385-5" xml:lang="en" source="#bib385-3">Kuwaykhat Monastery</placeName>
                <desc xml:id="abstract-en-385"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib385-1">ܒܓܶܢܒ ܡܣܝܣܛܐ ܒܩܝܺܠܝܩܝܰܐ  ܕܟܺܝܪ ܫܢܬ  1208  ܘܡܶܢܗ ܗܘܰܘ ܬܪܶܝܢ ܦܰܛܪܝܰܪ̈ܟܐ ܐܺܝܓܢܰܐܛܝܘܣ ܪܒܺܝܥܳܝܐ  1282  ܘܡܝܟܳܐܝܠ ܬܪܰܝܳܢܐ  1312 .  ܘܒܗ ܐܶܬܬܰܫܠܡ ܦܝܠܠܘܟܣܝܢ ܬܪܰܝܳܢܐ ܙܡܳܡܐ ܕܦܰܛܪܝܰܪܟܘܬܐ ܫܢܰܬ  1389</quote>

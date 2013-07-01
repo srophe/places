@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -44,7 +44,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -76,7 +76,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -85,12 +85,10 @@
             <place xml:id="place-339" type="monastery">
                <placeName xml:id="name339-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mar Awgen</placeName>
                <placeName xml:id="name339-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܪܝ ܐܘܓܝܢ</placeName>
-               <placeName xml:id="name339-3" xml:lang="syr-Syrj" source="#bib339-1">ܕܰܝܪ</placeName>
-               <placeName xml:id="name339-4" xml:lang="syr-Syrj" source="#bib339-1">ܕܡܳܪ</placeName>
-               <placeName xml:id="name339-5" xml:lang="syr-Syrj" source="#bib339-1">ܐܰܘܓܝܢ</placeName>
-               <placeName xml:id="name339-6" xml:lang="ar" source="#bib339-2">دير مار اوجين</placeName>
-               <placeName xml:id="name339-7" xml:lang="en" source="#bib339-3">Eugene Monastery</placeName>
-               <placeName xml:id="name339-8" xml:lang="en" source="#bib339-4">monastery of Mar Awgen</placeName>
+               <placeName xml:id="name339-3" xml:lang="en">ܕܰܝܪܐ ܕܡܳܪܝ ܐܰܘܓܝܢ</placeName>
+               <placeName xml:id="name339-4" xml:lang="ar" source="#bib339-2">دير مار اوجين</placeName>
+               <placeName xml:id="name339-5" xml:lang="en" source="#bib339-3">Eugene Monastery</placeName>
+               <placeName xml:id="name339-6" xml:lang="en" source="#bib339-4">monastery of Mar Awgen</placeName>
                <desc xml:id="abstract-en-339"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib339-1">ܒܰܫܦܘܠܳܐ ܕܛܘܪܳܐ ܕܐܝܺܙܠܐ ܗ̇ܘ ܕܚܳܐܰܪ ܠܰܢܨܝܒܝܢ ܐܶܫܬܰܬܐܣ ܒܡܰܐܬܐ ܪܒܝܥܳܝܬܐ ܐܰܘ ܒܪܺܝܫܐ ܕܰܚܡܝܫܳܝܬܐ ܘܐܶܫܬܰܚܠܦܘ ܙܰܒ̈ܢܐ ܥܠܰܘܗܝ ܘܐܶܫܬܰܠܛܘ ܥܠܰܘܗܝ ܢܰܣܛܘܪ̈ܝܰܢܘ ܙܰܒܢܳܐ ܢܰܓܝܪܐ ܘܰܗܦܟ ܠܘܳܬܢ ܒܰܐܚܪ̈ܝܬܗ̇ ܕܡܰܐܬܐ ܕܰܬܡܳܢܰܥܶܣܪ̈ܐ ܢܦܰܩܘ ܡܶܢܗ ܬܪܶܝܢ ܐܶܦܝܣܩܘܦ̈ܐ ܘܰܥܕܰܡܐ ܠܗܳܫܐ ܥܰܡܝܪ ܘܰܫܟܝܺܚ ܒܗ ܕܰܝܪܳܝܐ ܚܰܕ.</quote>

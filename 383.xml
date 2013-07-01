@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -48,7 +48,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -80,7 +80,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -89,11 +89,9 @@
             <place xml:id="place-383" type="monastery">
                <placeName xml:id="name383-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mor Giwargis</placeName>
                <placeName xml:id="name383-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܪܝ ܓܘܪܓܝܣ</placeName>
-               <placeName xml:id="name383-3" xml:lang="syr-Syrj" source="#bib383-1">ܕܰܝܪܳ</placeName>
-               <placeName xml:id="name383-4" xml:lang="syr-Syrj" source="#bib383-1">ܕܡܳܪ</placeName>
-               <placeName xml:id="name383-5" xml:lang="syr-Syrj" source="#bib383-1">ܓܶܘܪܓܝܣ</placeName>
-               <placeName xml:id="name383-6" xml:lang="ar" source="#bib383-2">دير مار كوركيس</placeName>
-               <placeName xml:id="name383-7" xml:lang="en" source="#bib383-3">George Monastery</placeName>
+               <placeName xml:id="name383-3" xml:lang="en">ܕܰܝܪܳܐ ܕܡܳܪܝ ܓܶܘܪܓܝܣ</placeName>
+               <placeName xml:id="name383-4" xml:lang="ar" source="#bib383-2">دير مار كوركيس</placeName>
+               <placeName xml:id="name383-5" xml:lang="en" source="#bib383-3">George Monastery</placeName>
                <desc xml:id="abstract-en-383"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib383-1">ܒܢܰܚܠܐ ܕܫܥܒ ܩܪܺܝܬܐ ܠܬܰܝܡܢܳܗ̇ ܕܡܶܪܕܝܢ ܫܰܟܠܠܗ ܝܘܚܰܢܢ ܡܝܛܪܘܦܘܠܝܛܐ ܕܡܪܕܝܢ ܒܡܶܨܥܳܝ̈ܬܗ̇ ܕܡܰܐܬܐ ܕܝ̄ܒ ܆ ܘܐܶܬܢܰܦܰܩ ܒܗ ܚܰܕ ܐܶܦܝܣܩܘܦܐ ܘܥܰܡܝܪ ܗܘܐ ܫܢܰܬ  1332</quote>

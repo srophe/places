@@ -57,8 +57,8 @@
                                 <funder>The National Endowment for the Humanities</funder>
                                 <funder>The International Balzan Prize Foundation</funder>
                                 <principal>David A. Michelson</principal>
-                                <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-                                <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+                                <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+                                <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
                                 <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
                                 <!-- Add Luk van Rompay for GEDSH?  Check with him -->
                                 <xsl:if test="(Barsoum_English_Name != '' or Barsoum_Arabic_Name != '') and Place_ID &lt; 470">
@@ -181,7 +181,7 @@
                                             <xsl:sequence select="(Barsoum_Syriac_Name)"/>
                                         </xsl:if>
                                         <xsl:if test="Barsoum_Syriac_Name_Vocalized != ''">
-                                            <xsl:sequence select="tokenize(Barsoum_Syriac_Name_Vocalized,'.\s')"/>
+                                            <xsl:sequence select="tokenize(Barsoum_Syriac_Name_Vocalized,'\.\s')"/>
                                         </xsl:if>
                                         <xsl:if test="Barsoum_Arabic_Name != ''">
                                             <xsl:sequence select="tokenize(Barsoum_Arabic_Name,'،\s')"/>

@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -48,7 +48,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -80,7 +80,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -89,11 +89,9 @@
             <place xml:id="place-393" type="monastery">
                <placeName xml:id="name393-1" xml:lang="en" syriaca-tags="#syriaca-headword">Beth Malka</placeName>
                <placeName xml:id="name393-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܒܝܬ ܡܠܟܐ</placeName>
-               <placeName xml:id="name393-3" xml:lang="syr-Syrj" source="#bib393-1">ܕܰܝܪܳ</placeName>
-               <placeName xml:id="name393-4" xml:lang="syr-Syrj" source="#bib393-1">ܕܒܶܝ</placeName>
-               <placeName xml:id="name393-5" xml:lang="syr-Syrj" source="#bib393-1">ܡܰܠܟܐ</placeName>
-               <placeName xml:id="name393-6" xml:lang="ar" source="#bib393-2">دير بيث ملكي</placeName>
-               <placeName xml:id="name393-7" xml:lang="en" source="#bib393-3">Beth Malke Monastery</placeName>
+               <placeName xml:id="name393-3" xml:lang="en">ܕܰܝܪܳܐ ܕܒܶܝܬ ܡܰܠܟܐ</placeName>
+               <placeName xml:id="name393-4" xml:lang="ar" source="#bib393-2">دير بيث ملكي</placeName>
+               <placeName xml:id="name393-5" xml:lang="en" source="#bib393-3">Beth Malke Monastery</placeName>
                <desc xml:id="abstract-en-393"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib393-1">ܒܟܘܪܳܐ ܕܐܰܢܛܝܘܟܝܐ ܒܓܰܘܗ ܥܡܰܪ ܐܰܬܰܢܐܣܝܘܣ ܬܪܰܝܳܢܐ ܡܝܰܒܠ ܟܬܳܒ̈ܐ ܦܝܠܳܣܘܦܳܝ̈ܐ ܠܠܶܫܳܢܰܢ ܒܡܶܨܥܳܝ̈ܬܗ ܕܕܳܪܐ ܫܒܝܥܳܝܐ</quote>

@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -44,7 +44,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -76,7 +76,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -85,12 +85,11 @@
             <place xml:id="place-302" type="settlement">
                <placeName xml:id="name302-1" xml:lang="en" syriaca-tags="#syriaca-headword">Beth Sheriye</placeName>
                <placeName xml:id="name302-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܝܬ ܫܐܪ̈ܝܐ</placeName>
-               <placeName xml:id="name302-3" xml:lang="syr-Syrj" source="#bib302-1">ܒܶܝ</placeName>
-               <placeName xml:id="name302-4" xml:lang="syr-Syrj" source="#bib302-1">ܫܶܐܪ̈ܺܝܐ</placeName>
-               <placeName xml:id="name302-5" xml:lang="syr-Syrj" source="#bib302-1">ܒܶܫܶܝܪܺܝܶܗ</placeName>
-               <placeName xml:id="name302-6" xml:lang="ar" source="#bib302-2">بشيريّة</placeName>
-               <placeName xml:id="name302-7" xml:lang="ar" source="#bib302-2">اللام</placeName>
-               <placeName xml:id="name302-8" xml:lang="en" source="#bib302-3">Bushayriyya</placeName>
+               <placeName xml:id="name302-3" xml:lang="en">ܒܶܝܬ ܫܶܐܪ̈ܺܝܐ</placeName>
+               <placeName xml:id="name302-4" xml:lang="syr-Syrj" source="#bib302-1">ܒܶܫܶܝܪܺܝܶܗ</placeName>
+               <placeName xml:id="name302-5" xml:lang="ar" source="#bib302-2">بشيريّة</placeName>
+               <placeName xml:id="name302-6" xml:lang="ar" source="#bib302-2">اللام</placeName>
+               <placeName xml:id="name302-7" xml:lang="en" source="#bib302-3">Bushayriyya</placeName>
                <desc xml:id="abstract-en-302"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib302-1">ܘܝܰܘܡܳܢ ܡܶܫܬܰܡܗܐ ܒܶܫܶܝܪܺܝܶܗ ܠܓܰܪܒܰܝ ܐܳܡܝܕ. ܡܰܪܕܶܐ ܬܪܝܢ ܝܰܘܡ̈ܝܢ.</quote>

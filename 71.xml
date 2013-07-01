@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -44,7 +44,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -76,7 +76,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -88,14 +88,9 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib71-1">Dayro d-Mor Abrohom</placeName>
                <placeName xml:id="name71-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܪܝ ܐܒܪܗܡ ܐܘ ܡܪܝ ܗܒܝܠ</placeName>
-               <placeName xml:id="name71-3" xml:lang="syr-Syrj" source="#bib71-2">ܕܰܝܪ</placeName>
-               <placeName xml:id="name71-4" xml:lang="syr-Syrj" source="#bib71-2">ܕܡܳܪ</placeName>
-               <placeName xml:id="name71-5" xml:lang="syr-Syrj" source="#bib71-2">ܐܰܒܪܗ</placeName>
-               <placeName xml:id="name71-6" xml:lang="syr-Syrj" source="#bib71-2">ܐܰ</placeName>
-               <placeName xml:id="name71-7" xml:lang="syr-Syrj" source="#bib71-2">ܡܳܪ</placeName>
-               <placeName xml:id="name71-8" xml:lang="syr-Syrj" source="#bib71-2">ܗܳܒܝܠ</placeName>
-               <placeName xml:id="name71-9" xml:lang="ar" source="#bib71-3">دير مار ابرهيم وهابيل</placeName>
-               <placeName xml:id="name71-10" xml:lang="en" source="#bib71-4">Abraham and Abel Monastery</placeName>
+               <placeName xml:id="name71-3" xml:lang="en">ܕܰܝܪܐ ܕܡܳܪܝ ܐܰܒܪܗܡ ܐܰܘ ܡܳܪܝ ܗܳܒܝܠ</placeName>
+               <placeName xml:id="name71-4" xml:lang="ar" source="#bib71-3">دير مار ابرهيم وهابيل</placeName>
+               <placeName xml:id="name71-5" xml:lang="en" source="#bib71-4">Abraham and Abel Monastery</placeName>
                <desc xml:id="abstract-en-71">A monastery near Midyat in Ṭur ʿAbdin.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib71-2">ܒܩܘܪܒܳܐ ܕܡܶܕܝܰܕ ܡܕܝܢܳܬܐ. ܕܰܝܪܳܐ ܥܰܬܝܩܬܳܐ ܘܥܰܡܝܪܐ ܐܶܬܒܢܝ ܗܰܝܟܠܗ ܚܕܳܪ ܫܢܰܬ  763  ܘܩܳܡܘ ܡܢܗ ܬܠܬܐ ܐܶܦܝܣܩܘܦ̈ܐ.</quote>

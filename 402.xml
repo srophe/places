@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -48,7 +48,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -80,7 +80,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -89,10 +89,9 @@
             <place xml:id="place-402" type="settlement">
                <placeName xml:id="name402-1" xml:lang="en" syriaca-tags="#syriaca-headword">Dayr Hābīl</placeName>
                <placeName xml:id="name402-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܗܒܝܠ</placeName>
-               <placeName xml:id="name402-3" xml:lang="syr-Syrj" source="#bib402-1">ܕܰܝܪܳ</placeName>
-               <placeName xml:id="name402-4" xml:lang="syr-Syrj" source="#bib402-1">ܕܗܳܒܝܠ</placeName>
-               <placeName xml:id="name402-5" xml:lang="ar" source="#bib402-2">دير هابيل</placeName>
-               <placeName xml:id="name402-6" xml:lang="en" source="#bib402-3">Dayr Hābil</placeName>
+               <placeName xml:id="name402-3" xml:lang="en">ܕܰܝܪܳܐ ܕܗܳܒܝܠ</placeName>
+               <placeName xml:id="name402-4" xml:lang="ar" source="#bib402-2">دير هابيل</placeName>
+               <placeName xml:id="name402-5" xml:lang="en" source="#bib402-3">Dayr Hābil</placeName>
                <desc xml:id="abstract-en-402"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib402-1">ܩܪܺܝܬܳܐ ܗܝ ܕܰܒܟܘܪܐ ܕܰܣܥܶܪܬ ܠܐ ܣܳܒܰܪ ܐܢܳܐ ܕܥܰܡܝܪܐ.</quote>

@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -48,7 +48,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -80,7 +80,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -92,12 +92,11 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib92-1">Hasankeyf</placeName>
                <placeName xml:id="name92-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܚܣܢ ܟܐܦܐ</placeName>
-               <placeName xml:id="name92-3" xml:lang="syr-Syrj" source="#bib92-2">ܚܰܣ</placeName>
-               <placeName xml:id="name92-4" xml:lang="syr-Syrj" source="#bib92-2">ܟܺܐܦܐ</placeName>
-               <placeName xml:id="name92-5" xml:lang="ar" source="#bib92-3">حصن كيفا</placeName>
-               <placeName xml:id="name92-6" xml:lang="en" source="#bib92-4">Ḥiṣn Kifa</placeName>
-               <placeName xml:id="name92-7" xml:lang="en" source="#bib92-5">Ḥesnā d'Kīfā</placeName>
-               <placeName xml:id="name92-8" xml:lang="en" source="#bib92-5">Ḥiṣn Kayf</placeName>
+               <placeName xml:id="name92-3" xml:lang="en">ܚܰܣܢ ܟܺܐܦܐ</placeName>
+               <placeName xml:id="name92-4" xml:lang="ar" source="#bib92-3">حصن كيفا</placeName>
+               <placeName xml:id="name92-5" xml:lang="en" source="#bib92-4">Ḥiṣn Kifa</placeName>
+               <placeName xml:id="name92-6" xml:lang="en" source="#bib92-5">Ḥesnā d'Kīfā</placeName>
+               <placeName xml:id="name92-7" xml:lang="en" source="#bib92-5">Ḥiṣn Kayf</placeName>
                <desc xml:id="abstract-en-92"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib92-2">ܡܕܝܢܬܐ ܘܩܶܠܥܳܐ ܪܰܒܬܳܐ ܕܚܳܝܪܐ ܠܕܶܩܠܰܬ ܒܶܝܬ ܐܳܡܝܺܕ ܠܰܓܙܺܝܪܳܬܐ ܕܒܰܪ ܥܽܘܡܰܪ. ܗܘܳܬ ܒܰܙܒܰܢ ܐܶܡܳܐ ܕܰܡܕܝܢ̈ܬܳܐ ܠܚܰܕ ܦܶܪܥܐ ܕܡܰܠܟܘܬܳܐ ܐܰܝܘܒܳܝܬܐ ܥܕܰܡܳܐ ܠܪܺܝܫ ܡܰܐܬܳܐ ܥܣܝܪܳܝܬܳܐ. ܘܝܰܘܡܳܢ ܐܝܬܶܝܗ̇ ܩܪܺܝܬܳܐ.</quote>

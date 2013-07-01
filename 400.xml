@@ -16,8 +16,8 @@
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
             <principal>David A. Michelson</principal>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <respStmt>
@@ -48,7 +48,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-06-30-04:00</date>
+            <date>2013-07-01-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -80,7 +80,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -89,14 +89,11 @@
             <place xml:id="place-400" type="monastery">
                <placeName xml:id="name400-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mor Yuḥanon d-Norab</placeName>
                <placeName xml:id="name400-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܪܝ ܝܘܚܢܢ ܕܢܐܪܒ</placeName>
-               <placeName xml:id="name400-3" xml:lang="syr-Syrj" source="#bib400-1">ܕܰܝܪܳ</placeName>
-               <placeName xml:id="name400-4" xml:lang="syr-Syrj" source="#bib400-1">ܕܡܳܪ</placeName>
-               <placeName xml:id="name400-5" xml:lang="syr-Syrj" source="#bib400-1">ܝܘܚܰܢ</placeName>
-               <placeName xml:id="name400-6" xml:lang="syr-Syrj" source="#bib400-1">ܕܢܐܪܒ</placeName>
-               <placeName xml:id="name400-7" xml:lang="ar" source="#bib400-2">دير مار يوحنا نيرب</placeName>
-               <placeName xml:id="name400-8" xml:lang="ar" source="#bib400-2">دير مار يوحنا نارب</placeName>
-               <placeName xml:id="name400-9" xml:lang="en" source="#bib400-3">John Nayrab Monastery</placeName>
-               <placeName xml:id="name400-10" xml:lang="en" source="#bib400-3">John Nārab Monastery</placeName>
+               <placeName xml:id="name400-3" xml:lang="en">ܕܰܝܪܳܐ ܕܡܳܪܝ ܝܘܚܰܢܢ ܕܢܐܪܒ</placeName>
+               <placeName xml:id="name400-4" xml:lang="ar" source="#bib400-2">دير مار يوحنا نيرب</placeName>
+               <placeName xml:id="name400-5" xml:lang="ar" source="#bib400-2">دير مار يوحنا نارب</placeName>
+               <placeName xml:id="name400-6" xml:lang="en" source="#bib400-3">John Nayrab Monastery</placeName>
+               <placeName xml:id="name400-7" xml:lang="en" source="#bib400-3">John Nārab Monastery</placeName>
                <desc xml:id="abstract-en-400"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib400-1">ܠܐ ܝܳܕܥܝܢܰܢ ܠܕܘܟܬܗ ܕܟܺܝܪ ܪܝܫܳܢܗ ܐܰܒܐ ܓܶܘܰܪܓܝ ܫܢܰܬ  563  -  569 </quote>
