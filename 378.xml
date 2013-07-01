@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="placedemo.xsl"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     xmlns:syriaca="http://syriaca.org"
+     xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="en">Qanqart Monastery</title>
+            <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
+            <funder>The National Endowment for the Humanities</funder>
+            <funder>The International Balzan Prize Foundation</funder>
+            <principal>David A. Michelson</principal>
+            <editor role="general-editor" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="general-editor" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <respStmt>
+               <resp>Initial Barsoum entry creation by</resp>
+               <name ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</name>
+            </respStmt>
+            <respStmt>
+               <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
+               <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
+            </respStmt>
+            <respStmt>
+               <resp>Syriac description entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#raydin">Robert Aydin</name>
+            </respStmt>
+            <respStmt>
+               <resp>Arabic description entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#rakhrass">Dayroyo Roger-Youssef Akhrass</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="1.0"/>
+         </editionStmt>
+         <publicationStmt>
+            <authority>Syriaca.org: The Syriac Reference Portal</authority>
+            <idno type="URI">http://syriaca.org/place/378/source</idno>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/3.0/">
+                                        Distributed under a Creative Commons Attribution 3.0 Unported License
+                                    </licence>
+            </availability>
+            <date>2013-06-30-04:00</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital.</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This record created following the Syriaca.org guidelines. Documentation available at: <ref target="http://syriaca.org/documentation">http://syriaca.org/documentation</ref>.</p>
+            <p>The capitalization of names from GEDSH (<idno type="URI">http://syriaca.org/bibl/1</idno>) was normalized (i.e. names in ALL-CAPS were replaced by Proper-noun capitalization).</p>
+            <p>The unchanging parts of alternate names from Barsoum (<idno type="URI">http://syriaca.org/bibl/2</idno>, <idno type="URI">http://syriaca.org/bibl/3</idno>, or <idno type="URI">http://syriaca.org/bibl/4</idno>) have been supplied to each alternate.</p>
+            <p>Names from the English translation of Barsoum (<idno type="URI">http://syriaca.org/bibl/4</idno>) were put in sentence word order rather than fronting a dictionary headword.  Any commas in the Barsoum name in English were removed.</p>
+            <p>The <gi>state</gi> element of @type="existence" indicates the period for which this place was in use as a place of its indicated type (e.g. an inhabited settlement, a functioning monastery or church, an administrative province).  Natural features always in existence have no <gi>state</gi> element of @type="existence".</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="syriaca-headword">
+                  <catDesc>The form of a name preferred by Syriaca.org</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="syr">Unvocalized Syriac of any variety or period</language>
+            <language ident="syr-Syrj">Vocalized West Syriac</language>
+            <language ident="syr-Syrn">Vocalized East Syriac</language>
+            <language ident="en">English</language>
+            <language ident="ar">Arabic</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-06-30-04:00">CREATED: place</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place xml:id="place-378" type="monastery">
+               <placeName xml:id="name378-1"
+                          xml:lang="en"
+                          syriaca-tags="#syriaca-headword"
+                          source="#bib378-3">Qanqart Monastery</placeName>
+               <placeName xml:id="name378-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܩܢܩܪܬ</placeName>
+               <placeName xml:id="name378-3" xml:lang="syr-Syrj" source="#bib378-1">ܕܰܝܪ</placeName>
+               <placeName xml:id="name378-4" xml:lang="syr-Syrj" source="#bib378-1">ܕܩܰܢܩܪܬ</placeName>
+               <placeName xml:id="name378-5" xml:lang="syr-Syrj" source="#bib378-1">ܩܰܪܰ</placeName>
+               <placeName xml:id="name378-6" xml:lang="syr-Syrj" source="#bib378-1">ܟܺܝܠܺܝܣܰܐ</placeName>
+               <placeName xml:id="name378-7" xml:lang="ar" source="#bib378-2">دير قَنْقرت</placeName>
+               <placeName xml:id="name378-8" xml:lang="ar" source="#bib378-2">قره كليسا</placeName>
+               <placeName xml:id="name378-9" xml:lang="en" source="#bib378-3">Qara Kelisa</placeName>
+               <desc xml:id="abstract-en-378"/>
+               <desc xml:lang="syr-Syrj">
+                  <quote source="#bib378-1">ܒܫܶܡ ܐܠܝܐ ܢܺܒܝܐ. ܠܒܰܪ ܡܶܢ ܐܳܡܝ̣ܕ ܗܘ ܡܰܪܕܶܐ ܫܳܥܐ ܘܦܶܠܓܳܐ ܠܘܳܬ ܩܰܢܩܪܰܬ ܩܪܝܬܳܐ ܕܟܺܝܪ ܫܢܰܬ  1050  ܘܚܰܕܶܬܘ ܒܶܢܝܳܢܰܘ̈ܗܝ ܡܝܟܳܐܝܠ ܪܰܒܐ ܫܢܬ  1173  ܘܐܝܓܢܰܐܛܝܘܣ ܫܟܪܐܠܠܗ ܫܢܰܬ 1730  ܘܐܶܬܓܰܙܝ ܡܶܢ ܐܢ̈ܫܰܘܗܝ ܒܫܘܪܳܝܐ ܕܡܰܐܬܐ ܬܫܰܥܣܝܪܳܝܬܐ. ܘܩܳܡܰܬ ܒܕܘܟܬܗ ܩܪܝܬܐ ܕܡܶܬܐܡܰܪ ܠܗ ܬܘܪܟܳܐܝܬ ܩܰܪܰܗ ܟܺܝܠܺܝܣܰܐ ܗܳܢܰܘ ܥܕܬܐ ܐܘܟܳܡܬܐ. ܡܶܛܠ ܐܘܟܳܡܘܬܐ ܕܐܰܬܪ̈ܘܳܬܐ ܗܳܢܘܢ ܘܰܥܕܰܡܐ ܠܝܰܘܡܳܢ ܩܳܝ̈ܡܝܢ ܚܰܪ̈ܒܬܳܗ̇</quote>
+               </desc>
+               <desc xml:lang="ar">
+                  <quote source="#bib378-2">باسم ايليا النبي بظاهر مدينة ديار بكر مسيرة ساعة ونصف عنها عند قرية قنقرت ذكر سنة 1050 وجدد ميخائيل الكبير عمارته عام 1173 ثم اغناطيوس شكرالله سنة 1730 وخلا من اهله في اوائل المئة التاسعة عشرة وقامت مكانه قرية يقال لها قره كليسا (الكنيسة السوداء لسواد حجارة تلك الديار) ولا تزال اطلاله ماثلة.</quote>
+               </desc>
+               <desc xml:lang="en">
+                  <quote source="#bib378-3">built in the name of the prophet Elijah near Qanqart, a journey of an hour and a half from Diyarbakir, was first mentioned in history in 1050. It was twice renovated, once by Patriarch Michael the Great in 1173 and again in 1730 by Patriarch Ignatius Shukr Allah. It was abandoned at the start of the nineteenth century and on its site today stands a village called Qara Kelisa (“The Black Church,” because of the black stones of the area). Its remains are still visible. See the Patriarchal Magazine, VI, 144-153.</quote>
+               </desc>
+               <state type="existence"/>
+               <idno type="URI">http://syriaca.org/place/378</idno>
+               <bibl xml:id="bib378-1">
+                  <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
+                  <ptr target="http://syriaca.org/bibl/3"/>
+                  <citedRange unit="pp">551</citedRange>
+               </bibl>
+               <bibl xml:id="bib378-2">
+                  <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
+                  <ptr target="http://syriaca.org/bibl/2"/>
+                  <citedRange unit="pp">513</citedRange>
+               </bibl>
+               <bibl xml:id="bib378-3">
+                  <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
+                  <ptr target="http://syriaca.org/bibl/4"/>
+                  <citedRange unit="pp">567</citedRange>
+               </bibl>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>
