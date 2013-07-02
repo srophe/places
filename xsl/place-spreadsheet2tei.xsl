@@ -119,7 +119,7 @@
                             <classDecl>
                                 <taxonomy>
                                     <category xml:id="syriaca-headword">
-                                        <catDesc>The form of a name preferred by Syriaca.org</catDesc>
+                                        <catDesc>The name used by Syriaca.org for document titles, citation, and disambiguation. These names have been created according to the Syriac.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
                                     </category>
                                 </taxonomy>
                             </classDecl>
