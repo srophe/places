@@ -209,7 +209,7 @@
                                             <xsl:attribute name="xml:lang">
                                                 <xsl:choose>
                                                     <xsl:when test="$this_row/Barsoum_Syriac_Name = .">syr</xsl:when>
-                                                    <xsl:when test="exists(index-of(tokenize($this_row/Barsoum_Syriac_Name_Vocalized,'.\s'), .))">syr-Syrj</xsl:when>  <!-- when "vocalized" form equals unvocalized, use 'syr' -->
+                                                    <xsl:when test="exists(index-of(tokenize($this_row/Barsoum_Syriac_Name_Vocalized,'\.\s'), .))">syr-Syrj</xsl:when>  <!-- when "vocalized" form equals unvocalized, use 'syr' -->
                                                     <xsl:when test="exists(index-of(tokenize($this_row/Barsoum_Arabic_Name,'،\s'), .))">ar</xsl:when>
                                                     <xsl:otherwise>en</xsl:otherwise>
                                                 </xsl:choose>
@@ -222,12 +222,12 @@
                                             
                                             <!-- if it is from a print source, it needs a @source attribute -->
                                             <!-- to achieve space-separated xml:id references, we create a sequence of references and then print it -->
-                                            <xsl:if test="exists(index-of(tokenize($this_row/GEDSH_Name,'/'),.)) or exists(index-of(tokenize($this_row/Barsoum_Syriac_Name_Vocalized,'.\s'), .)) or exists(index-of(tokenize($this_row/Barsoum_Arabic_Name,'،\s'), .)) or exists(index-of(tokenize($this_row/Barsoum_English_Name,',\s'), .)) or exists(index-of(tokenize($this_row/CBSC_Keyword,'; '),.)) or exists(index-of(tokenize($this_row/Wilmshurst_Names,'; '), .))">
+                                            <xsl:if test="exists(index-of(tokenize($this_row/GEDSH_Name,'/'),.)) or exists(index-of(tokenize($this_row/Barsoum_Syriac_Name_Vocalized,'\.\s'), .)) or exists(index-of(tokenize($this_row/Barsoum_Arabic_Name,'،\s'), .)) or exists(index-of(tokenize($this_row/Barsoum_English_Name,',\s'), .)) or exists(index-of(tokenize($this_row/CBSC_Keyword,'; '),.)) or exists(index-of(tokenize($this_row/Wilmshurst_Names,'; '), .))">
                                                 <xsl:variable name="this_source_attribute" as="xs:string*">
                                                     <xsl:if test="exists(index-of(tokenize($this_row/GEDSH_Name,'/'),.))">
                                                         <xsl:sequence select="(concat('#',$bib-prefix,index-of($sources,'GEDSH')))"/>
                                                     </xsl:if>
-                                                    <xsl:if test="exists(index-of(tokenize($this_row/Barsoum_Syriac_Name_Vocalized,'.\s'), .))">
+                                                    <xsl:if test="exists(index-of(tokenize($this_row/Barsoum_Syriac_Name_Vocalized,'\.\s'), .))">
                                                         <xsl:sequence select="(concat('#',$bib-prefix,index-of($sources,'Barsoum-Syriac')))"/>
                                                     </xsl:if>
                                                     <xsl:if test="exists(index-of(tokenize($this_row/Barsoum_Arabic_Name,'،\s'), .))">

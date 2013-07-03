@@ -44,7 +44,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-01-04:00</date>
+            <date>2013-07-03-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -61,7 +61,7 @@
          <classDecl>
             <taxonomy>
                <category xml:id="syriaca-headword">
-                  <catDesc>The form of a name preferred by Syriaca.org</catDesc>
+                  <catDesc>The name used by Syriaca.org for document titles, citation, and disambiguation. These names have been created according to the Syriac.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
                </category>
             </taxonomy>
          </classDecl>
@@ -76,7 +76,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-03-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -88,7 +88,7 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib225-1">Mor Behnam</placeName>
                <placeName xml:id="name225-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܪܝ ܒܗܢܡ</placeName>
-               <placeName xml:id="name225-3" xml:lang="en">ܕܰܝܪܳܐ ܕܡܳܪܝ ܒܶܗܢܰܡ</placeName>
+               <placeName xml:id="name225-3" xml:lang="syr-Syrj" source="#bib225-2">ܕܰܝܪܳܐ ܕܡܳܪܝ ܒܶܗܢܰܡ</placeName>
                <placeName xml:id="name225-4" xml:lang="ar" source="#bib225-3">دير مار بهنام</placeName>
                <placeName xml:id="name225-5" xml:lang="en" source="#bib225-4">Bahnam Monastery</placeName>
                <placeName xml:id="name225-6" xml:lang="en" source="#bib225-5">Monastery of Mar Behnam</placeName>

@@ -44,7 +44,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-01-04:00</date>
+            <date>2013-07-03-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -61,7 +61,7 @@
          <classDecl>
             <taxonomy>
                <category xml:id="syriaca-headword">
-                  <catDesc>The form of a name preferred by Syriaca.org</catDesc>
+                  <catDesc>The name used by Syriaca.org for document titles, citation, and disambiguation. These names have been created according to the Syriac.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
                </category>
             </taxonomy>
          </classDecl>
@@ -76,7 +76,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-03-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -85,8 +85,8 @@
             <place xml:id="place-321" type="region">
                <placeName xml:id="name321-1" xml:lang="en" syriaca-tags="#syriaca-headword">Diyār Rabīʿa</placeName>
                <placeName xml:id="name321-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܓܙܪܬܐ ܥܠܝܬܐ</placeName>
-               <placeName xml:id="name321-3" xml:lang="en">ܓܳܙܰܪܬܐ ܥܶܠܳܝܬܳܐ</placeName>
-               <placeName xml:id="name321-4" xml:lang="en">ܐܰܬܪ̈ܘܬܳܐ ܕܪܒܝܥܗ̇</placeName>
+               <placeName xml:id="name321-3" xml:lang="syr-Syrj" source="#bib321-1">ܓܳܙܰܪܬܐ ܥܶܠܳܝܬܳܐ</placeName>
+               <placeName xml:id="name321-4" xml:lang="syr-Syrj" source="#bib321-1">ܐܰܬܪ̈ܘܬܳܐ ܕܪܒܝܥܗ̇</placeName>
                <placeName xml:id="name321-5" xml:lang="ar" source="#bib321-2">الجزيرة العليا</placeName>
                <placeName xml:id="name321-6" xml:lang="ar" source="#bib321-2">ديار ربيعة</placeName>
                <placeName xml:id="name321-7" xml:lang="en" source="#bib321-3">Upper Jazira</placeName>

@@ -35,7 +35,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-01-04:00</date>
+            <date>2013-07-03-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -52,7 +52,7 @@
          <classDecl>
             <taxonomy>
                <category xml:id="syriaca-headword">
-                  <catDesc>The form of a name preferred by Syriaca.org</catDesc>
+                  <catDesc>The name used by Syriaca.org for document titles, citation, and disambiguation. These names have been created according to the Syriac.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
                </category>
             </taxonomy>
          </classDecl>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-03-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -76,7 +76,7 @@
             <place xml:id="place-658" type="monastery">
                <placeName xml:id="name658-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mor Behnam Hermitage</placeName>
                <placeName xml:id="name658-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܚܒܝ̈ܫܝܬܐ ܕܡܪܝ ܒܗܢܡ (ܘܡܪܝ ܝܘܣܦ)</placeName>
-               <placeName xml:id="name658-3" xml:lang="en">ܚܒܝ̈ܫܳܝܳܬܐ ܕܡܳܪܝ ܒܶܗܢܰܡ (ܘܡܳܪܝ ܝܰܘܣܦ)</placeName>
+               <placeName xml:id="name658-3" xml:lang="syr-Syrj" source="#bib658-1">ܚܒܝ̈ܫܳܝܳܬܐ ܕܡܳܪܝ ܒܶܗܢܰܡ (ܘܡܳܪܝ ܝܰܘܣܦ)</placeName>
                <placeName xml:id="name658-4" xml:lang="ar" source="#bib658-2">صومعة مار بهنام</placeName>
                <desc xml:id="abstract-en-658">A hermitage in the hills above Dayr al-Zaʿfarān.</desc>
                <state type="existence" notAfter="1625"/>

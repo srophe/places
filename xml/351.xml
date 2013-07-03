@@ -44,7 +44,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-01-04:00</date>
+            <date>2013-07-03-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -61,7 +61,7 @@
          <classDecl>
             <taxonomy>
                <category xml:id="syriaca-headword">
-                  <catDesc>The form of a name preferred by Syriaca.org</catDesc>
+                  <catDesc>The name used by Syriaca.org for document titles, citation, and disambiguation. These names have been created according to the Syriac.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
                </category>
             </taxonomy>
          </classDecl>
@@ -76,7 +76,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-03-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -85,8 +85,8 @@
             <place xml:id="place-351" type="monastery">
                <placeName xml:id="name351-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mor Ḥanino</placeName>
                <placeName xml:id="name351-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܚܢܝܢܐ</placeName>
-               <placeName xml:id="name351-3" xml:lang="en">ܕܰܝܪܳܐ ܕܚܰܢܝܢܳܐ</placeName>
-               <placeName xml:id="name351-4" xml:lang="en">ܕܰܝܪܳܐ ܕܚܰܢܰܢܝܳܐ</placeName>
+               <placeName xml:id="name351-3" xml:lang="syr-Syrj" source="#bib351-1">ܕܰܝܪܳܐ ܕܚܰܢܝܢܳܐ</placeName>
+               <placeName xml:id="name351-4" xml:lang="syr-Syrj" source="#bib351-1">ܕܰܝܪܳܐ ܕܚܰܢܰܢܝܳܐ</placeName>
                <placeName xml:id="name351-5" xml:lang="ar" source="#bib351-2">دير حنينا</placeName>
                <placeName xml:id="name351-6" xml:lang="ar" source="#bib351-2">دير حنانيا</placeName>
                <placeName xml:id="name351-7" xml:lang="en" source="#bib351-3">Ḥananya Monastery</placeName>

@@ -52,7 +52,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-01-04:00</date>
+            <date>2013-07-03-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -69,7 +69,7 @@
          <classDecl>
             <taxonomy>
                <category xml:id="syriaca-headword">
-                  <catDesc>The form of a name preferred by Syriaca.org</catDesc>
+                  <catDesc>The name used by Syriaca.org for document titles, citation, and disambiguation. These names have been created according to the Syriac.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
                </category>
             </taxonomy>
          </classDecl>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-03-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>

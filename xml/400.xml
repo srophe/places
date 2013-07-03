@@ -48,7 +48,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-01-04:00</date>
+            <date>2013-07-03-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -65,7 +65,7 @@
          <classDecl>
             <taxonomy>
                <category xml:id="syriaca-headword">
-                  <catDesc>The form of a name preferred by Syriaca.org</catDesc>
+                  <catDesc>The name used by Syriaca.org for document titles, citation, and disambiguation. These names have been created according to the Syriac.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
                </category>
             </taxonomy>
          </classDecl>
@@ -80,7 +80,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-03-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -89,7 +89,7 @@
             <place xml:id="place-400" type="monastery">
                <placeName xml:id="name400-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mor Yuḥanon d-Norab</placeName>
                <placeName xml:id="name400-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܪܝ ܝܘܚܢܢ ܕܢܐܪܒ</placeName>
-               <placeName xml:id="name400-3" xml:lang="en">ܕܰܝܪܳܐ ܕܡܳܪܝ ܝܘܚܰܢܢ ܕܢܐܪܒ</placeName>
+               <placeName xml:id="name400-3" xml:lang="syr-Syrj" source="#bib400-1">ܕܰܝܪܳܐ ܕܡܳܪܝ ܝܘܚܰܢܢ ܕܢܐܪܒ</placeName>
                <placeName xml:id="name400-4" xml:lang="ar" source="#bib400-2">دير مار يوحنا نيرب</placeName>
                <placeName xml:id="name400-5" xml:lang="ar" source="#bib400-2">دير مار يوحنا نارب</placeName>
                <placeName xml:id="name400-6" xml:lang="en" source="#bib400-3">John Nayrab Monastery</placeName>

@@ -35,7 +35,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-01-04:00</date>
+            <date>2013-07-03-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -52,7 +52,7 @@
          <classDecl>
             <taxonomy>
                <category xml:id="syriaca-headword">
-                  <catDesc>The form of a name preferred by Syriaca.org</catDesc>
+                  <catDesc>The name used by Syriaca.org for document titles, citation, and disambiguation. These names have been created according to the Syriac.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
                </category>
             </taxonomy>
          </classDecl>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-03-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -76,7 +76,7 @@
             <place xml:id="place-518" type="mountain">
                <placeName xml:id="name518-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mount Qāsiyūn</placeName>
                <placeName xml:id="name518-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܛܘܪܐ ܕܩܐܣܝܘܢ</placeName>
-               <placeName xml:id="name518-3" xml:lang="en">ܛܘܪܳܐ ܕܩܰܐܣܒܘܢ</placeName>
+               <placeName xml:id="name518-3" xml:lang="syr-Syrj" source="#bib518-1">ܛܘܪܳܐ ܕܩܰܐܣܒܘܢ</placeName>
                <placeName xml:id="name518-4" xml:lang="ar" source="#bib518-2">جبل قاسيون</placeName>
                <placeName xml:id="name518-5" xml:lang="en" source="#bib518-3">Qasyun Mountain</placeName>
                <desc xml:id="abstract-en-518">A mountain north of Damascus.</desc>

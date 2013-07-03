@@ -44,7 +44,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-01-04:00</date>
+            <date>2013-07-03-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -61,7 +61,7 @@
          <classDecl>
             <taxonomy>
                <category xml:id="syriaca-headword">
-                  <catDesc>The form of a name preferred by Syriaca.org</catDesc>
+                  <catDesc>The name used by Syriaca.org for document titles, citation, and disambiguation. These names have been created according to the Syriac.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
                </category>
             </taxonomy>
          </classDecl>
@@ -76,7 +76,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-01-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-03-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -88,8 +88,8 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib335-1">Mor Abḥai</placeName>
                <placeName xml:id="name335-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܪܝ ܐܒܚܝ</placeName>
-               <placeName xml:id="name335-3" xml:lang="en">ܕܰܝܪܐ ܕܡܳܪܝ ܐܰܒܚܝ</placeName>
-               <placeName xml:id="name335-4" xml:lang="en">ܕܰܝܪܳܐ ܕܣܶܒܠܬܐ</placeName>
+               <placeName xml:id="name335-3" xml:lang="syr-Syrj" source="#bib335-2">ܕܰܝܪܐ ܕܡܳܪܝ ܐܰܒܚܝ</placeName>
+               <placeName xml:id="name335-4" xml:lang="syr-Syrj" source="#bib335-2">ܕܰܝܪܳܐ ܕܣܶܒܠܬܐ</placeName>
                <placeName xml:id="name335-5" xml:lang="ar" source="#bib335-3">دير مار ابحاي</placeName>
                <placeName xml:id="name335-6" xml:lang="ar" source="#bib335-3">دير السلالم</placeName>
                <placeName xml:id="name335-7" xml:lang="en" source="#bib335-4">Abḥai Monastery</placeName>
