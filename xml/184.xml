@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="placedemo.xsl"?>
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude"
      xmlns:svg="http://www.w3.org/2000/svg"
      xmlns:math="http://www.w3.org/1998/Math/MathML"
@@ -36,6 +35,10 @@
                <resp>Arabic description entry by</resp>
                <name ref="http://syriaca.org/editors.xml#rakhrass">Dayroyo Roger-Youssef Akhrass</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -48,7 +51,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-03-04:00</date>
+            <date>2013-07-10-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -80,7 +83,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-03-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-10-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -97,6 +100,7 @@
                <placeName xml:id="name184-5" xml:lang="syr-Syrj" source="#bib184-2">ܫܝܓܳܪ</placeName>
                <placeName xml:id="name184-6" xml:lang="ar" source="#bib184-3">سنجار</placeName>
                <placeName xml:id="name184-7" xml:lang="en" source="#bib184-5">Singar</placeName>
+               <placeName xml:id="name184-8" xml:lang="en" source="#bib184-6">Sinjār</placeName>
                <desc xml:id="abstract-en-184"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib184-2">ܐܰܬܪܐ ܗܘ ܕܒܰܫܦܘܠܳܐ ܕܛܘܪܳܐ ܕܫܝܓܳܪ ܠܡܰܥܪܰܒ ܡܰܘܨܠ ܒܰܝܢܳܬܗܝܢ ܬܠܳܬܐ ܝܰܘܡܝ̈ܢ.</quote>
@@ -138,6 +142,12 @@
                <bibl xml:id="bib184-5">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+               </bibl>
+               <bibl xml:id="bib184-6">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">44, 49, 345, 352</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

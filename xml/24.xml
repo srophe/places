@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="placedemo.xsl"?>
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude"
      xmlns:svg="http://www.w3.org/2000/svg"
      xmlns:math="http://www.w3.org/1998/Math/MathML"
@@ -40,7 +39,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-03-04:00</date>
+            <date>2013-07-10-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -72,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-03-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-10-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -87,7 +86,7 @@
                <placeName xml:id="name24-3" xml:lang="syr-Syrj" source="#bib24-2">ܐܰܢܚܠ</placeName>
                <placeName xml:id="name24-4" xml:lang="ar" source="#bib24-3">انحل</placeName>
                <placeName xml:id="name24-5" xml:lang="en" source="#bib24-4">Anḥil</placeName>
-               <desc xml:id="abstract-en-24">A village in Ṭur ʿAbdin.</desc>
+               <desc xml:id="abstract-en-24">A village in &lt;placeName ref="http://syriaca.org/place/221"&gt;Ṭur ʿAbdin&lt;/placeName&gt;.</desc>
                <location type="gps" source="#bib24-1">
                   <geo>37.33 41.34</geo>
                </location>

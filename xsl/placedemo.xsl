@@ -337,7 +337,8 @@
                     <xsl:value-of select="t:ptr/@target"/>
                 </xsl:attribute>
                 <xsl:value-of select="t:title"/>
-            </a>&#x200E;<xsl:if test="t:citedRange">, <xsl:value-of select="t:citedRange"/></xsl:if>. <!-- LRM makes citation comma work well --> <!-- FUTURE: fix this so , Map appears for GEDSH maps -->
+            </a>&#x200E;<xsl:if test="t:citedRange">, </xsl:if> <!-- LRM makes citation comma work well --> <!-- FUTURE: fix this so , Map appears for GEDSH maps -->
+            <xsl:if test="t:citedRange[@unit='pp']"><xsl:value-of select="t:citedRange[@unit='pp']"/><xsl:if test="t:citedRange[@unit='maps']">, Map <xsl:value-of select="t:citedRange[@unit='maps']"/></xsl:if></xsl:if>.
         </li>
     </xsl:template>
     

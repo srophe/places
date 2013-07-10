@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="placedemo.xsl"?>
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude"
      xmlns:svg="http://www.w3.org/2000/svg"
      xmlns:math="http://www.w3.org/1998/Math/MathML"
@@ -28,6 +27,10 @@
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -40,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-03-04:00</date>
+            <date>2013-07-10-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -72,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-03-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-10-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -87,6 +90,7 @@
                <placeName xml:id="name130-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܡܪܕܝܢ</placeName>
                <placeName xml:id="name130-4" xml:lang="syr-Syrj" source="#bib130-2">ܡܰܪܕܝܢ</placeName>
                <placeName xml:id="name130-5" xml:lang="ar" source="#bib130-3">ماردين</placeName>
+               <placeName xml:id="name130-6" xml:lang="en" source="#bib130-6">Mardīn</placeName>
                <desc xml:id="abstract-en-130"/>
                <desc xml:lang="en">
                   <quote source="#bib130-1">351. Mardin</quote>
@@ -122,6 +126,12 @@
                <bibl xml:id="bib130-5">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+               </bibl>
+               <bibl xml:id="bib130-6">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">5, 11, 13, 23, 26, 27, 28, 31, 38, 39, 42, 48, 49, 52, 56, 57, 64, 72-75, 76-80, 89, 95, 101, 102, 169, 185, 205, 210, 211, 225, 263, 264, 265, 345, 348, 351, 352, 357, 359</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

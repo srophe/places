@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="placedemo.xsl"?>
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude"
      xmlns:svg="http://www.w3.org/2000/svg"
      xmlns:math="http://www.w3.org/1998/Math/MathML"
@@ -11,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Jūbās</title>
+            <title xml:lang="en">Baitūṯā</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
@@ -23,19 +22,23 @@
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
          <publicationStmt>
             <authority>Syriaca.org: The Syriac Reference Portal</authority>
-            <idno type="URI">http://syriaca.org/place/566/source</idno>
+            <idno type="URI">http://syriaca.org/place/961/source</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-03-04:00</date>
+            <date>2013-07-10-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,35 +70,29 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-03-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-10-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-566" type="settlement">
-               <placeName xml:id="name566-1" xml:lang="en" syriaca-tags="#syriaca-headword">Jūbās</placeName>
-               <placeName xml:id="name566-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܓܘܒܐܣ</placeName>
-               <placeName xml:id="name566-3" xml:lang="syr-Syrj" source="#bib566-1">ܓܘܒܰܐܣ</placeName>
-               <placeName xml:id="name566-4" xml:lang="ar" source="#bib566-2">جوباس</placeName>
-               <placeName xml:id="name566-5" xml:lang="en" source="#bib566-3">Jubas</placeName>
-               <desc xml:id="abstract-en-566"/>
+            <place xml:id="place-961" type="settlement">
+               <placeName xml:id="name961-1"
+                          xml:lang="en"
+                          syriaca-tags="#syriaca-headword"
+                          source="#bib961-1">Baitūṯā</placeName>
+               <desc xml:id="abstract-en-961"/>
+               <location type="geopolitical" source="#bib961-1">
+                  <region ref="http://syriaca.org/place/90">Hakkārī region</region>
+                  <region ref="http://syriaca.org/place/778">Shemsdīn district</region>
+               </location>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/566</idno>
-               <bibl xml:id="bib566-1">
-                  <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
-                  <ptr target="http://syriaca.org/bibl/3"/>
-                  <citedRange unit="pp">546</citedRange>
-               </bibl>
-               <bibl xml:id="bib566-2">
-                  <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
-                  <ptr target="http://syriaca.org/bibl/2"/>
-                  <citedRange unit="pp">511</citedRange>
-               </bibl>
-               <bibl xml:id="bib566-3">
-                  <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
-                  <ptr target="http://syriaca.org/bibl/4"/>
-                  <citedRange unit="pp">569</citedRange>
+               <idno type="URI">http://syriaca.org/place/961</idno>
+               <bibl xml:id="bib961-1">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">305</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

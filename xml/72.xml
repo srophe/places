@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="placedemo.xsl"?>
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude"
      xmlns:svg="http://www.w3.org/2000/svg"
      xmlns:math="http://www.w3.org/1998/Math/MathML"
@@ -48,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-03-04:00</date>
+            <date>2013-07-10-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -80,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-03-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-10-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -95,7 +94,7 @@
                <placeName xml:id="name72-3" xml:lang="syr-Syrj" source="#bib72-2">ܕܰܝܪܳܐ ܕܡܳܪܝ ܝܰܥܩܘܒ ܚܒܝܫܝܐ</placeName>
                <placeName xml:id="name72-4" xml:lang="ar" source="#bib72-3">دير مار يعقوب الحبيس</placeName>
                <placeName xml:id="name72-5" xml:lang="en" source="#bib72-4">Jacob the Solitary Monastery</placeName>
-               <desc xml:id="abstract-en-72"/>
+               <desc xml:id="abstract-en-72">A monastery near Ṣalaḥ in Ṭur ʿAbdin, seat of the Syrian Orthodox patriarchate of Ṭur ʿAbdin from 1365.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib72-2">ܒܓܶܢܒ ܨܰܠܚ ܩܪܝܬܐ ܕܰܒܛܘܪܥܰܒܕܝܢ. ܕܰܝܪܐ ܗܘ ܪܰܒܐ ܒܢܳܝܗܝ ܥܢܘܳܝܐ ܡܳܪܝ ܝܰܥܩܘܒ ܩܕܳܡ ܫܢܰܬ  419  ܘܐܶܬܒܢܝ ܗܰܝܟܠܗ ܚܕܳܪ  770 . ܗܘܐ ܟܘܪܣܝܳܐ ܕܦܰܛܪܝܰܪܟܐ ܕܛܘܪܥܰܒܕܝܢ ܫܢܰܬ  1365  ܐܶܬܢܰܦܰܩܘ ܒܗ ܬܪܶܝܢ ܦܰܛܪܝܰܪ̈ܟܶܐ ܘܚܰܕ ܡܰܦܪܝܳܢܐ ܘܫܰܒܥܐ ܐܶܦܝܣ̈ܩܘܦܶܐ ܘܰܥܕܰܡܐ ܠܝܰܘܡܢ ܥܰܡܝܪ.</quote>
                </desc>
@@ -105,7 +104,7 @@
                <desc xml:lang="en">
                   <quote source="#bib72-4">near the village of Ṣalaḥ in Tur ʿAbdin, is a big monastery built by St. Jacob the ascetic shortly before 419. Its nave, however, was not built until 770. This monastery became the see of the patriarchs of Tur ʿAbdin in 1365. Two Patriarchs, a Maphryono and seven bishops graduated from it. It is still inhabited.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0419"/>
                <idno type="URI">http://syriaca.org/place/72</idno>
                <bibl xml:id="bib72-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

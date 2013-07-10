@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="placedemo.xsl"?>
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude"
      xmlns:svg="http://www.w3.org/2000/svg"
      xmlns:math="http://www.w3.org/1998/Math/MathML"
@@ -23,10 +22,6 @@
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
             </respStmt>
-            <respStmt>
-               <resp>Wilmshurst index information entry by</resp>
-               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
-            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -39,7 +34,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-03-04:00</date>
+            <date>2013-07-10-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,41 +66,31 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-03-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-10-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-6" type="province">
+            <place xml:id="place-6" type="diocese">
                <placeName xml:id="name6-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib6-1">Ḥadyab</placeName>
-               <placeName xml:id="name6-2" xml:lang="en" source="#bib6-1 #bib6-2 #bib6-3">Adiabene</placeName>
-               <placeName xml:id="name6-3" xml:lang="en" source="#bib6-3">Erbil</placeName>
-               <desc xml:id="abstract-en-6">A province of the Sasanian Persian Empire around Arbela.</desc>
+               <placeName xml:id="name6-2" xml:lang="en" source="#bib6-1">Adiabene</placeName>
+               <desc xml:id="abstract-en-6"/>
                <desc xml:lang="en">
                   <quote source="#bib6-1">20. Adiabene</quote>
                </desc>
-               <state type="existence" notBefore="0224" notAfter="0651"/>
+               <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/6</idno>
                <idno type="URI">http://pleiades.stoa.org/places/893935</idno>
-               <idno type="URI">http://en.wikipedia.org/wiki/Adiabene</idno>
+               <idno type="URI">http://en.wikipedia.org/wiki/Adiabene_(East_Syrian_Ecclesiastical_Province)</idno>
+               <idno type="URI">http://dbpedia.org/resource/Adiabene_(East_Syrian_Ecclesiastical_Province)</idno>
                <bibl xml:id="bib6-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map I C1, II C1</citedRange>
-               </bibl>
-               <bibl xml:id="bib6-2">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
-                  <ptr target="http://syriaca.org/bibl/5"/>
-               </bibl>
-               <bibl xml:id="bib6-3">
-                  <author>David Wilmshurst</author>
-                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
-                  <citedRange unit="pp">14, 20, 30, 95, 127, 165, 166-174, 346, 347, 350, 354, 355, 358</citedRange>
-                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

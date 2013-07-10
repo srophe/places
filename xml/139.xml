@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="placedemo.xsl"?>
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude"
      xmlns:svg="http://www.w3.org/2000/svg"
      xmlns:math="http://www.w3.org/1998/Math/MathML"
@@ -28,6 +27,10 @@
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -40,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-03-04:00</date>
+            <date>2013-07-10-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -72,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-03-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-10-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -82,7 +85,7 @@
                <placeName xml:id="name139-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib139-1 #bib139-4 #bib139-5">Mosul</placeName>
+                          source="#bib139-1 #bib139-4 #bib139-5 #bib139-6">Mosul</placeName>
                <placeName xml:id="name139-2"
                           xml:lang="syr"
                           syriaca-tags="#syriaca-headword"
@@ -123,6 +126,12 @@
                <bibl xml:id="bib139-5">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+               </bibl>
+               <bibl xml:id="bib139-6">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">1, 2, 5, 8, 11, 12, 14, 17, 20, 22, 24, 25, 26, 27, 28, 29, 30, 33, 35, 36, 38, 39, 47, 49, 53, 64, 66, 70, 78, 80, 89, 109, 112, 121, 122, 136, 140, 147, 160, 166, 172, 173, 176, 180, 185, 186, 187, 188, 189, 190, 191, 192-199, 200, 201, 204, 205-216 , 217 , 219 , 220, 222, 223 , 224, 231, 231, 232, 234, 236, 241, 242, 254, 257, 259, 263, 264, 265, 267, 269, 271, 283, 288, 289, 313, 316, 318, 320, 321, 345, 348, 349, 350, 352, 355, 357, 358, 359, 363</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

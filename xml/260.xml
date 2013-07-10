@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="placedemo.xsl"?>
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude"
      xmlns:svg="http://www.w3.org/2000/svg"
      xmlns:math="http://www.w3.org/1998/Math/MathML"
@@ -32,6 +31,10 @@
                <resp>Syriac description entry by</resp>
                <name ref="http://syriaca.org/editors.xml#raydin">Robert Aydin</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -44,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-03-04:00</date>
+            <date>2013-07-10-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -76,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-03-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-10-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -91,6 +94,8 @@
                <placeName xml:id="name260-3" xml:lang="syr-Syrj" source="#bib260-2">ܒܰܪܛܶܠܗ</placeName>
                <placeName xml:id="name260-4" xml:lang="ar" source="#bib260-3">برطلى</placeName>
                <placeName xml:id="name260-5" xml:lang="en" source="#bib260-4">Barṭille</placeName>
+               <placeName xml:id="name260-6" xml:lang="en" source="#bib260-5">Barṭallāh</placeName>
+               <placeName xml:id="name260-7" xml:lang="en" source="#bib260-5">Beṯ Bar Ṭelaï</placeName>
                <desc xml:id="abstract-en-260"/>
                <desc xml:lang="en">
                   <quote source="#bib260-1">85. Barṭelle</quote>
@@ -104,6 +109,9 @@
                <desc xml:lang="en">
                   <quote source="#bib260-4">a large village in the province of Nineveh, north of Mosul.</quote>
                </desc>
+               <location type="geopolitical" source="#bib260-5">
+                  <region ref="http://syriaca.org/place/722">Mosul region</region>
+               </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/260</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Bartella</idno>
@@ -127,6 +135,12 @@
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">552</citedRange>
+               </bibl>
+               <bibl xml:id="bib260-5">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">189, 201, 202</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

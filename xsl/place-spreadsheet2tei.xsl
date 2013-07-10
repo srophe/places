@@ -39,10 +39,6 @@
                     <xsl:text>href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"</xsl:text>
                 </xsl:processing-instruction>
                 <xsl:value-of select="$n"/>
-                <xsl:processing-instruction name="xml-stylesheet">
-                    <xsl:text>type="text/xsl" href="placedemo.xsl"</xsl:text>
-                </xsl:processing-instruction>
-                <xsl:value-of select="$n"/>
                 <TEI
                     xml:lang="en"
                     xmlns:xi="http://www.w3.org/2001/XInclude"
