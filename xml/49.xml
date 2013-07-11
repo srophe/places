@@ -39,7 +39,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-10-04:00</date>
+            <date>2013-07-11-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-10-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -86,7 +86,7 @@
                <placeName xml:id="name49-3" xml:lang="syr-Syrj" source="#bib49-2">ܒܶܝܬ ܣܒܝܪܝܢܳܐ</placeName>
                <placeName xml:id="name49-4" xml:lang="ar" source="#bib49-3">باسبرينة</placeName>
                <placeName xml:id="name49-5" xml:lang="en" source="#bib49-4">Basibrina</placeName>
-               <desc xml:id="abstract-en-49">A village in &lt;placeName ref="http://syriaca.org/place/221"&gt;Ṭur ʿAbdin&lt;/placeName&gt;.</desc>
+               <desc xml:id="abstract-en-49">A village in Ṭur ʿAbdin.</desc>
                <location type="gps" source="#bib49-1">
                   <geo>37.316667 41.616667</geo>
                </location>
