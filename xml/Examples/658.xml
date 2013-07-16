@@ -66,6 +66,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15">FIXED: <gi>precision</gi> element in <gi>state</gi> of @type="existence" </change>
          <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11">ADDED: relative location and cross-reference in abstract</change>
          <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
       </revisionDesc>
@@ -83,7 +84,9 @@
                   <placeName ref="http://syriaca.org/place/69">Dayr al-Zaʿfarān</placeName>
                </location>
                <desc xml:id="abstract-en-658" xml:lang="en">A hermitage in the hills above <placeName ref="http://syriaca.org/place/69">Dayr al-Zaʿfarān</placeName>.</desc>
-               <state type="existence" notAfter="1625"/>
+               <state type="existence" to="1625">
+                  <precision match="@to" notAfter="1625"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/658</idno>
                <bibl xml:id="bib658-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

@@ -43,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -75,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -90,7 +90,7 @@
                <placeName xml:id="name344-6" xml:lang="ar" source="#bib344-2">دير بني باعوث</placeName>
                <placeName xml:id="name344-7" xml:lang="en" source="#bib344-3">Bāʿūth Monastery</placeName>
                <placeName xml:id="name344-8" xml:lang="en" source="#bib344-3">Banu Bāʿūth Monastery</placeName>
-               <desc xml:id="abstract-en-344"/>
+               <desc xml:id="abstract-en-344" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib344-1">ܒܰܫܒܳܒܘܬܗ̇ ܕܟܰܪܒܘܬ. ܐܶܬܥܗܰܕ ܫܢܰܬ  1057  ܘܒܗ ܐܶܬܢܰܦܩܘ ܐܰܪܒܥܳܐ ܐܶܦܝܣܩܘܦ̈ܐ. ܒܰܙܘܗܝ ܟܶܢܫܳܐ ܕܡܰܫܠܡ̈ܳܢܐ ܫܢܰܬ  1290  ܘܐܰܚܕܘܗܝ ܒܰܩܛܝܪܳܐ ܚܕܳܪ̈ܰܝ  1131</quote>
                </desc>

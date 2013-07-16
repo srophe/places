@@ -34,7 +34,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -66,7 +66,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -76,7 +76,7 @@
                <placeName xml:id="name655-1" xml:lang="en" syriaca-tags="#syriaca-headword">Ṣarrīn</placeName>
                <placeName xml:id="name655-2" xml:lang="en" source="#bib655-1">Serrin</placeName>
                <placeName xml:id="name655-3" xml:lang="en" source="#bib655-1">Sirrin</placeName>
-               <desc xml:id="abstract-en-655">A village in modern Syria near the Euphrates.</desc>
+               <desc xml:id="abstract-en-655" xml:lang="en">A village in modern Syria near the Euphrates.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/655</idno>
                <idno type="URI">http://pleiades.stoa.org/places/658437/</idno>

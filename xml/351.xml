@@ -43,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -75,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -90,7 +90,7 @@
                <placeName xml:id="name351-6" xml:lang="ar" source="#bib351-2">دير حنانيا</placeName>
                <placeName xml:id="name351-7" xml:lang="en" source="#bib351-3">Ḥananya Monastery</placeName>
                <placeName xml:id="name351-8" xml:lang="en" source="#bib351-4">monastery of Mar Hanina</placeName>
-               <desc xml:id="abstract-en-351"/>
+               <desc xml:id="abstract-en-351" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib351-1">ܘܰܟܒܰܪ ܡܶܬܒܰܝܬܶܐ ܠܚܰܢܝܢܳܐ ܥܢܘܳܝܐ  500  ܒܶܗ ܐܶܬܬܣܪܰܚ ܦܶܛܪܘܣ ܬܠܝܬܳܝܐ ܫܢܰܬ  581.  </quote>
                </desc>

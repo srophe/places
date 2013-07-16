@@ -43,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -75,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -87,7 +87,7 @@
                <placeName xml:id="name342-3" xml:lang="syr-Syrj" source="#bib342-1">ܕܰܝܪܐ ܕܒܰܐܪܝܕ</placeName>
                <placeName xml:id="name342-4" xml:lang="ar" source="#bib342-2">دير البارد</placeName>
                <placeName xml:id="name342-5" xml:lang="en" source="#bib342-3">Bārid Monastery</placeName>
-               <desc xml:id="abstract-en-342"/>
+               <desc xml:id="abstract-en-342" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib342-1">ܫܰܬܐܣܶܗ ܦܰܛܪܝܰܪܟܐ ܝܘܚܰܢܢ ܫܒܝܥܳܝܳܐ ܒܰܐܬܪ̈ܘܬܳܐ ܕܡܝܠܝܺܛܝܢܝ ܫܢܰܬ  969  ܘܒܶܗ ܥܡܰܪ ܘܰܥܢܰܕ. ܘܕܰܝܪܳܐ ܗܘܳܐ ܪܰܒܐ ܛܰܝܶܒ ܚܰܕ ܦܰܛܪܝܰܪܟܐ ܘܚܰܕ ܡܰܦܪܝܳܢܐ ܘܚܰܕ ܡܺܝܛܪܘܦܘܠܝܛܳܐ ܘܰܬܡܳܢܰܥܣܪ ܐܶܦܝܣܩܘܦ̈ܐ ܘܠܐ ܚܙܰܝܢܰܢ ܠܗ ܥܘܗܕܳܢܐ ܒܳܬܰܪ ܫܢܰܬ 1343</quote>
                </desc>

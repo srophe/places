@@ -38,7 +38,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -70,7 +70,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -82,7 +82,7 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib96-1 #bib96-2">Hormizd Ardashir</placeName>
                <placeName xml:id="name96-2" xml:lang="en" source="#bib96-3">Ahwaz</placeName>
-               <desc xml:id="abstract-en-96"/>
+               <desc xml:id="abstract-en-96" xml:lang="en"/>
                <location type="gps" source="#bib96-1">
                   <geo>31.31671 48.68438</geo>
                </location>

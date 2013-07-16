@@ -47,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -79,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -91,7 +91,7 @@
                <placeName xml:id="name380-3" xml:lang="syr-Syrj" source="#bib380-1">ܕܰܝܪܳܐ ܕܟܣܠܝܘܕ</placeName>
                <placeName xml:id="name380-4" xml:lang="ar" source="#bib380-2">دير كاسليود</placeName>
                <placeName xml:id="name380-5" xml:lang="en" source="#bib380-3">Kasliyud Monastery</placeName>
-               <desc xml:id="abstract-en-380"/>
+               <desc xml:id="abstract-en-380" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib380-1">ܒܐܽܘܚܕܳܢܐ ܕܓܰܪܡܰܐܢܺܝܩܝ (ܡܪܥܫ) ܐܶܬܢܰܦܰܩ ܒܗ ܐܰܪܒܥܐ ܐܶܦܝܣܩܘ̈ܦܐ ܡܶܢ ܫܢܰܬ  1100  -  1200  </quote>
                </desc>

@@ -47,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -79,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -93,7 +93,7 @@
                <placeName xml:id="name182-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܣܠܝܩ</placeName>
                <placeName xml:id="name182-3" xml:lang="syr-Syrj" source="#bib182-2">ܣܠܝܺܩ</placeName>
                <placeName xml:id="name182-4" xml:lang="ar" source="#bib182-3">سليق</placeName>
-               <desc xml:id="abstract-en-182"/>
+               <desc xml:id="abstract-en-182" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib182-1">483. Seleucia-Ctesiphon</quote>
                </desc>

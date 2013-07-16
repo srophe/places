@@ -43,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -75,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -92,14 +92,17 @@
                           source="#bib41-2">ܒܓܕܕ</placeName>
                <placeName xml:id="name41-3" xml:lang="ar" source="#bib41-3">بغداد</placeName>
                <placeName xml:id="name41-4" xml:lang="en" source="#bib41-6">Babylon</placeName>
-               <desc xml:id="abstract-en-41">The capital of the Abbasid caliphate and modern Iraq.</desc>
+               <desc xml:id="abstract-en-41" xml:lang="en">The capital of the Abbasid caliphate and modern Iraq.</desc>
                <desc xml:lang="en">
                   <quote source="#bib41-1">68. Baghdad</quote>
                </desc>
                <location type="gps" source="#bib41-1">
                   <geo>33.325 44.422</geo>
                </location>
-               <state type="existence" from="0762"/>
+               <state type="existence" from="0762" to="0762">
+                  <precision match="@from" notAfter="0762"/>
+                  <precision match="@to" notBefore="0762"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/41</idno>
                <idno type="URI">http://pleiades.stoa.org/places/893952</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Baghdad</idno>

@@ -335,6 +335,7 @@
                                     <!-- insert the descriptions, starting with the abstract, which should always be present -->
                                     <desc>
                                         <xsl:attribute name="xml:id">abstract-en-<xsl:value-of select="Place_ID"/></xsl:attribute>
+                                        <xsl:attribute name="xml:lang">en</xsl:attribute>
                                         <xsl:value-of select="Abstract"/>
                                     </desc>
                                     <xsl:if test="GEDSH_Entry_Heading != ''">
@@ -408,23 +409,47 @@
                                     
                                     <!-- spreadsheet does not have relative locations, events, or confessions, so we can ignore those -->
                                     
-                                    <!-- create existence <state> element if type is not a natural feature -->
-                                    <xsl:if test="Category != 'river' and Category != 'open-water' and Category != 'mountain'">
-                                        <state type="existence">
-                                            <xsl:if test="Existence_From != ''">
-                                                <xsl:attribute name="from"><xsl:value-of select="syriaca:normalizeYear(Existence_From)"/></xsl:attribute>
-                                            </xsl:if>
-                                            <xsl:if test="Existence_To != ''">
-                                                <xsl:attribute name="to"><xsl:value-of select="syriaca:normalizeYear(Existence_To)"/></xsl:attribute>
-                                            </xsl:if>
-                                            <xsl:if test="Existence_NotBefore != ''">
-                                                <xsl:attribute name="notBefore"><xsl:value-of select="syriaca:normalizeYear(Existence_NotBefore)"/></xsl:attribute>
-                                            </xsl:if>
-                                            <xsl:if test="Existence_NotAfter != ''">
-                                                <xsl:attribute name="notAfter"><xsl:value-of select="syriaca:normalizeYear(Existence_NotAfter)"/></xsl:attribute>
-                                            </xsl:if>
-                                        </state>
-                                    </xsl:if>
+                                    <!-- create existence <state> element  -->
+                                    <!-- the spreadsheet indicates terminus ante quem and terminus post quem for both beginning and ending -->
+                                    <!-- if terminus ante quem = terminus post quem, result is exact -->
+                                    <!-- otherwise we need a <precision> child element to indicate the imprecision, and the attribute value is either end of the range -->
+                                    <state type="existence">
+                                        <!-- first put in the attributes; need @from if either BeginsBefore or Begins After or both -->
+                                        <xsl:if test="Existence_BeginsBefore != ''">
+                                            <xsl:attribute name="from"><xsl:value-of select="syriaca:normalizeYear(Existence_BeginsBefore)"/></xsl:attribute>
+                                        </xsl:if>
+                                        <xsl:if test="Existence_BeginsAfter != '' and Existence_BeginsBefore = ''"> <!-- the test on Existence_BeginsBefore ensures no double @from attribute -->
+                                            <xsl:attribute name="from"><xsl:value-of select="syriaca:normalizeYear(Existence_BeginsAfter)"/></xsl:attribute>
+                                        </xsl:if>
+                                        <xsl:if test="Existence_EndsAfter != ''">
+                                            <xsl:attribute name="to"><xsl:value-of select="syriaca:normalizeYear(Existence_EndsAfter)"/></xsl:attribute>
+                                        </xsl:if>
+                                        <xsl:if test="Existence_EndsBefore != '' and Existence_EndsAfter = ''">
+                                            <xsl:attribute name="to"><xsl:value-of select="syriaca:normalizeYear(Existence_EndsBefore)"/></xsl:attribute>
+                                        </xsl:if>
+                                        
+                                        <!-- now put in any necessary <precision> elements, needed if Before != After (and either is not empty!) -->
+                                        <xsl:if test="Existence_BeginsBefore != Existence_BeginsAfter and (Existence_BeginsAfter != '' or Existence_BeginsBefore != '')">
+                                            <precision match="@from">
+                                                <xsl:if test="Existence_BeginsBefore != ''">
+                                                    <xsl:attribute name="notAfter"><xsl:value-of select="syriaca:normalizeYear(Existence_BeginsBefore)"/></xsl:attribute>
+                                                </xsl:if>
+                                                <xsl:if test="Existence_BeginsAfter != ''">
+                                                    <xsl:attribute name="notBefore"><xsl:value-of select="syriaca:normalizeYear(Existence_BeginsAfter)"/></xsl:attribute>
+                                                </xsl:if>
+                                            </precision>
+                                        </xsl:if>
+                                        <xsl:if test="Existence_EndsBefore != Existence_EndsAfter and (Existence_EndsAfter != '' or Existence_EndsBefore != '')">
+                                            <precision match="@to">
+                                                <xsl:if test="Existence_EndsBefore != ''">
+                                                    <xsl:attribute name="notAfter"><xsl:value-of select="syriaca:normalizeYear(Existence_EndsBefore)"/></xsl:attribute>
+                                                </xsl:if>
+                                                <xsl:if test="Existence_EndsAfter != ''">
+                                                    <xsl:attribute name="notBefore"><xsl:value-of select="syriaca:normalizeYear(Existence_EndsAfter)"/></xsl:attribute>
+                                                </xsl:if>
+                                            </precision>
+                                        </xsl:if>
+                                    </state>
                                     
                                     <!-- Insert the ID numbers for Syriaca.org and, if they exist, for Pleiades, Wikipedia, and DBpedia -->
                                     <idno type="URI">http://syriaca.org/place/<xsl:value-of select="Place_ID"/></idno>

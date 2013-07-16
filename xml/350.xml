@@ -39,7 +39,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -82,7 +82,7 @@
                <placeName xml:id="name350-2" xml:lang="ar" source="#bib350-1">دير حِرباز</placeName>
                <placeName xml:id="name350-3" xml:lang="en" source="#bib350-2">Harbaz Monastery</placeName>
                <placeName xml:id="name350-4" xml:lang="en" source="#bib350-2">George Monastery</placeName>
-               <desc xml:id="abstract-en-350"/>
+               <desc xml:id="abstract-en-350" xml:lang="en"/>
                <desc xml:lang="ar">
                   <quote source="#bib350-1">باسم مار كوركيس (جرجس) في ولاية سميساط ورد ذكره اول مرة فى اواخر القرن السابع، وآخر عهدنا به اواسط العاشر تخرج فيه بطريرك وخمسة اساقفة</quote>
                </desc>

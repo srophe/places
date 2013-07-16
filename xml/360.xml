@@ -43,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -75,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -91,7 +91,7 @@
                <placeName xml:id="name360-4" xml:lang="ar" source="#bib360-3">دير السريان</placeName>
                <placeName xml:id="name360-5" xml:lang="en" source="#bib360-4">Monastery of the Syrians</placeName>
                <placeName xml:id="name360-6" xml:lang="en" source="#bib360-5">Deir al-Surian</placeName>
-               <desc xml:id="abstract-en-360"/>
+               <desc xml:id="abstract-en-360" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib360-1">523. al-Suryān, Dayr</quote>
                </desc>

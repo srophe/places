@@ -38,7 +38,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -70,7 +70,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -81,7 +81,7 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib957-1">Baijō</placeName>
-               <desc xml:id="abstract-en-957"/>
+               <desc xml:id="abstract-en-957" xml:lang="en"/>
                <location type="geopolitical" source="#bib957-1">
                   <region ref="http://syriaca.org/place/712">Gāzartā region</region>
                   <region ref="http://syriaca.org/place/749">Goyan district</region>

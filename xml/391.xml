@@ -47,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -79,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -94,7 +94,7 @@
                <placeName xml:id="name391-6" xml:lang="ar" source="#bib391-2">دير مار سرجيس</placeName>
                <placeName xml:id="name391-7" xml:lang="en" source="#bib391-3">Muʿallaq Monastery</placeName>
                <placeName xml:id="name391-8" xml:lang="en" source="#bib391-3">St. Sergius Monastery</placeName>
-               <desc xml:id="abstract-en-391"/>
+               <desc xml:id="abstract-en-391" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib391-1">ܒܫܶܡ ܥܢܘܳܝ̈ܐ ܣܰܪܓܝܣ ܘܰܙܥܘܪܐ ܘܒܳܥܘܬ ܥܰܠ ܪܳܡܬܐ ܕܛܘܪܐ ܨܗܝܳܐ ܠܥܶܠ ܡܶܢ ܒܳܠܕ ܡܕܝܢܬܐ ܒܰܬܠܳܬܐ ܦܪ̈ܣܚܝܢ ܒܶܝܬ ܠܗ̇ ܠܫܝܓܳܪ ܠܡܰܥܪܰܒ ܡܰܘܨܠ ܘܡܶܣܬܒܰܪ ܒܶܢܝܳܢܗ ܒܡܰܐܬܐ ܚܡܝܫܝܬܐ ܐܰܦܩ ܚܰܕ ܡܰܦܪܝܳܢܐ ܘܐܢܳܫ̈ܝܢ ܐܶܦܝܣܩܘ̈ܦܐ. ܘܰܗܘܐ ܟܘܪܣܝܳܐ ܐܶܦܝܣܩܘܦܳܝܐ ܡܶܢ ܫܢܰܬ  1167  -  1345  ܟܶܢ ܐܶܬܛܫܝ ܛܶܒܗ. ܘܐܶܬܠܰܝܬܝܰܬ ܕܘܟܬܗ</quote>
                </desc>

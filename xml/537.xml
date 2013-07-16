@@ -34,7 +34,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -66,7 +66,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -79,7 +79,7 @@
                <placeName xml:id="name537-4" xml:lang="ar" source="#bib537-2">باقسيان</placeName>
                <placeName xml:id="name537-5" xml:lang="en" source="#bib537-3">Baqsyan</placeName>
                <placeName xml:id="name537-6" xml:lang="en" source="#bib537-4">Bet Qustan</placeName>
-               <desc xml:id="abstract-en-537"/>
+               <desc xml:id="abstract-en-537" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/537</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Alagöz,_Mardin</idno>

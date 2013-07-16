@@ -39,7 +39,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -86,7 +86,8 @@
                <placeName xml:id="name114-3" xml:lang="syr-Syrj" source="#bib114-2">ܚܳܒܘܪ</placeName>
                <placeName xml:id="name114-4" xml:lang="ar" source="#bib114-3">الخابور</placeName>
                <placeName xml:id="name114-5" xml:lang="en" source="#bib114-4">Khabur River</placeName>
-               <desc xml:id="abstract-en-114"/>
+               <desc xml:id="abstract-en-114" xml:lang="en"/>
+               <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/114</idno>
                <idno type="URI">http://pleiades.stoa.org/places/893928</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Khabur_River</idno>

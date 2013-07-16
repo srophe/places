@@ -47,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -79,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -97,7 +97,7 @@
                <placeName xml:id="name88-6" xml:lang="ar" source="#bib88-3">جزيرة ابن عمر</placeName>
                <placeName xml:id="name88-7" xml:lang="en" source="#bib88-4">Jazirat Ibn ʿUmar</placeName>
                <placeName xml:id="name88-8" xml:lang="en" source="#bib88-5">Gāzartā</placeName>
-               <desc xml:id="abstract-en-88"/>
+               <desc xml:id="abstract-en-88" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib88-2">ܡܕܺܝܢܬܘܢܝܬܳܐ ܗܝ ܕܥܰܠ ܕܶܩܠܰܬ ܒܶܝܬ ܐܳܡܝܕ ܠܡܰܘܨܠ.</quote>
                </desc>

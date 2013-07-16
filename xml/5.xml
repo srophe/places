@@ -43,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -75,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -91,7 +91,7 @@
                <placeName xml:id="name5-4" xml:lang="ar" source="#bib5-3">اذربيجان</placeName>
                <placeName xml:id="name5-5" xml:lang="en" source="#bib5-4">Azerbayjan</placeName>
                <placeName xml:id="name5-6" xml:lang="en" source="#bib5-5">Azerbaijan</placeName>
-               <desc xml:id="abstract-en-5">A region west of the Caspian Sea, encompassing the modern country of Azerbaijan and the provinces of northwest Iran.</desc>
+               <desc xml:id="abstract-en-5" xml:lang="en">A region west of the Caspian Sea, encompassing the modern country of Azerbaijan and the provinces of northwest Iran.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib5-2">ܩܠܺܝܡܐ ܪܘܺܝܚܐ ܕܡܶܬܬܰܚܰܡ ܗܘܳܐ ܒܝܰܡܐ ܕܩܳܙܒܝܢ ܠܡܰܕܢܚܐ ܘܰܒܝܰܡܬܐ ܕܘܰܐܢ ܠܡܰܥܪܒܐ</quote>
                </desc>

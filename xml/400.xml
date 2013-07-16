@@ -47,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -79,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -93,7 +93,7 @@
                <placeName xml:id="name400-5" xml:lang="ar" source="#bib400-2">دير مار يوحنا نارب</placeName>
                <placeName xml:id="name400-6" xml:lang="en" source="#bib400-3">John Nayrab Monastery</placeName>
                <placeName xml:id="name400-7" xml:lang="en" source="#bib400-3">John Nārab Monastery</placeName>
-               <desc xml:id="abstract-en-400"/>
+               <desc xml:id="abstract-en-400" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib400-1">ܠܐ ܝܳܕܥܝܢܰܢ ܠܕܘܟܬܗ ܕܟܺܝܪ ܪܝܫܳܢܗ ܐܰܒܐ ܓܶܘܰܪܓܝ ܫܢܰܬ  563  -  569 </quote>
                </desc>

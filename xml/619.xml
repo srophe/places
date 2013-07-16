@@ -34,7 +34,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -66,7 +66,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -75,7 +75,7 @@
             <place xml:id="place-619" type="monastery">
                <placeName xml:id="name619-1" xml:lang="en" syriaca-tags="#syriaca-headword">Rabban Shapur</placeName>
                <placeName xml:id="name619-2" xml:lang="en" source="#bib619-1">monastery of Rabban Shapur</placeName>
-               <desc xml:id="abstract-en-619"/>
+               <desc xml:id="abstract-en-619" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/619</idno>
                <bibl xml:id="bib619-1">

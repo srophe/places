@@ -34,7 +34,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -66,7 +66,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -79,7 +79,7 @@
                <placeName xml:id="name556-4" xml:lang="ar" source="#bib556-2">دير يوحنا الطائي</placeName>
                <placeName xml:id="name556-5" xml:lang="en" source="#bib556-3">Monastery of St. John Ṭayoyo</placeName>
                <placeName xml:id="name556-6" xml:lang="en" source="#bib556-4">monastery of John the Arab</placeName>
-               <desc xml:id="abstract-en-556"/>
+               <desc xml:id="abstract-en-556" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/556</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874586</idno>

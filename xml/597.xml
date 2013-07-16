@@ -34,7 +34,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -66,7 +66,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -75,7 +75,8 @@
             <place xml:id="place-597" type="mountain">
                <placeName xml:id="name597-1" xml:lang="en" syriaca-tags="#syriaca-headword">Jabal Qalamūn</placeName>
                <placeName xml:id="name597-2" xml:lang="en" source="#bib597-1">Jebel Qalamun</placeName>
-               <desc xml:id="abstract-en-597"/>
+               <desc xml:id="abstract-en-597" xml:lang="en"/>
+               <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/597</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Qalamoun_Mountains</idno>
                <bibl xml:id="bib597-1">

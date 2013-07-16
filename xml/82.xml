@@ -39,7 +39,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -85,7 +85,8 @@
                <placeName xml:id="name82-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܦܪܬ</placeName>
                <placeName xml:id="name82-3" xml:lang="syr-Syrj" source="#bib82-2">ܦܪܰܬ</placeName>
                <placeName xml:id="name82-4" xml:lang="ar" source="#bib82-3">الفرات</placeName>
-               <desc xml:id="abstract-en-82">The western major river of Mesopotamia, flowing from eastern Turkey to the Persian Gulf.</desc>
+               <desc xml:id="abstract-en-82" xml:lang="en">The western major river of Mesopotamia, flowing from eastern Turkey to the Persian Gulf.</desc>
+               <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/82</idno>
                <idno type="URI">http://pleiades.stoa.org/places/912849</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Euphrates</idno>

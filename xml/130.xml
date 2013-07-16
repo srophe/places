@@ -43,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -75,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -91,7 +91,7 @@
                <placeName xml:id="name130-4" xml:lang="syr-Syrj" source="#bib130-2">ܡܰܪܕܝܢ</placeName>
                <placeName xml:id="name130-5" xml:lang="ar" source="#bib130-3">ماردين</placeName>
                <placeName xml:id="name130-6" xml:lang="en" source="#bib130-6">Mardīn</placeName>
-               <desc xml:id="abstract-en-130"/>
+               <desc xml:id="abstract-en-130" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib130-1">351. Mardin</quote>
                </desc>

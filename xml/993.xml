@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Erbil</title>
+            <title xml:lang="en">Adiabene</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
@@ -38,7 +38,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -70,7 +70,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -80,17 +80,26 @@
                <placeName xml:id="name993-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib993-2">Erbil</placeName>
-               <placeName xml:id="name993-2" xml:lang="en" source="#bib993-1 #bib993-2">Adiabene</placeName>
-               <desc xml:id="abstract-en-993"/>
+                          source="#bib993-1 #bib993-2 #bib993-3">Adiabene</placeName>
+               <placeName xml:id="name993-2" xml:lang="en" source="#bib993-3">Erbil</placeName>
+               <desc xml:id="abstract-en-993" xml:lang="en"/>
+               <desc xml:lang="en">
+                  <quote source="#bib993-1">20. Adiabene</quote>
+               </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/993</idno>
+               <idno type="URI">http://pleiades.stoa.org/places/893935</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Adiabene</idno>
                <bibl xml:id="bib993-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">10-11</citedRange>
+               </bibl>
+               <bibl xml:id="bib993-2">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                </bibl>
-               <bibl xml:id="bib993-2">
+               <bibl xml:id="bib993-3">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">14, 20, 30, 95, 127, 165, 166-174, 346, 347, 350, 354, 355, 358</citedRange>

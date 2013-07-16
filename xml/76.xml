@@ -47,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -79,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -98,7 +98,7 @@
                <placeName xml:id="name76-7" xml:lang="en" source="#bib76-4">Bānuhadrā</placeName>
                <placeName xml:id="name76-8" xml:lang="en" source="#bib76-4">Duhuk</placeName>
                <placeName xml:id="name76-9" xml:lang="en" source="#bib76-5">Dohuk</placeName>
-               <desc xml:id="abstract-en-76">A town in northern Iraq north of Alqosh and southeast of Zakho.</desc>
+               <desc xml:id="abstract-en-76" xml:lang="en">A town in northern Iraq north of Alqosh and southeast of Zakho.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib76-2">ܡܕܝܢܬܐ ܕܰܠܓܰܪܒܰܝ ܡܰܘܨܠ ܘܡܰܬܶܐܡܰܪ ܠܗ̇ ܕܰܗܽܘܟ.</quote>
                </desc>

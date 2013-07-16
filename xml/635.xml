@@ -34,7 +34,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -66,7 +66,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -75,7 +75,7 @@
             <place xml:id="place-635" type="monastery">
                <placeName xml:id="name635-1" xml:lang="en" syriaca-tags="#syriaca-headword">Qalʿat Simʿān</placeName>
                <placeName xml:id="name635-2" xml:lang="en" source="#bib635-1">Qalat Siman</placeName>
-               <desc xml:id="abstract-en-635"/>
+               <desc xml:id="abstract-en-635" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/635</idno>
                <idno type="URI">http://pleiades.stoa.org/places/658606/</idno>

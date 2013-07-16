@@ -178,7 +178,7 @@
                         <citedRange unit="pp">2:912</citedRange>
                     </bibl>
                 </place>
-                <relation name="contains" active="http://syriaca.org/place/145 http://syriaca.org/place/166" passive="#place-78" source="#bib78-1"/>
+                <relation name="contains" active="http://syriaca.org/place/145 http://syriaca.org/place/166" passive="#place-78" source="#bib78-1" to="0363"/>
                 <relation name="resided" active="http://syriaca.org/person/13" passive="#place-78" from="0363" to="0373" source="#bib78-1"/>
             </listPlace>
         </body>

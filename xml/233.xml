@@ -43,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -75,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -94,7 +94,7 @@
                <placeName xml:id="name233-7" xml:lang="en" source="#bib233-4">Talʿada Monastery</placeName>
                <placeName xml:id="name233-8" xml:lang="en" source="#bib233-4">Great Monastery</placeName>
                <placeName xml:id="name233-9" xml:lang="en" source="#bib233-5">monastery of Tell Ada</placeName>
-               <desc xml:id="abstract-en-233"/>
+               <desc xml:id="abstract-en-233" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib233-1">537. Tell ʿAda, Monastery of</quote>
                </desc>

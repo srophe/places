@@ -39,7 +39,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -85,7 +85,8 @@
                <placeName xml:id="name61-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܝܡܐ ܕܩܙܒܝܢ</placeName>
                <placeName xml:id="name61-3" xml:lang="syr-Syrj" source="#bib61-2">ܝܰܡܐ ܕܩܳܙܒܝܢ</placeName>
                <placeName xml:id="name61-4" xml:lang="ar" source="#bib61-3">بحر قزبين</placeName>
-               <desc xml:id="abstract-en-61">A large inland sea north of Iran and east of Adharbayjān.</desc>
+               <desc xml:id="abstract-en-61" xml:lang="en">A large inland sea north of Iran and east of Adharbayjān.</desc>
+               <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/61</idno>
                <idno type="URI">http://pleiades.stoa.org/places/884130</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Caspian_Sea</idno>

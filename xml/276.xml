@@ -43,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -75,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -87,7 +87,7 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib276-1 #bib276-3">Ṣadad</placeName>
                <placeName xml:id="name276-2" xml:lang="ar" source="#bib276-2">صدد</placeName>
-               <desc xml:id="abstract-en-276"/>
+               <desc xml:id="abstract-en-276" xml:lang="en"/>
                <desc xml:lang="ar">
                   <quote source="#bib276-2">بليدة قديمة جنوبي شرقي حمص على طريق دمشق مرحلة يوم عنها آهلة بنحو من اربعة آلاف نفس من السريان.</quote>
                </desc>

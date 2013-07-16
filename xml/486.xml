@@ -38,7 +38,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -70,7 +70,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -82,7 +82,7 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib486-2 #bib486-3">Syria</placeName>
                <placeName xml:id="name486-2" xml:lang="ar" source="#bib486-1">ارض الشام</placeName>
-               <desc xml:id="abstract-en-486"/>
+               <desc xml:id="abstract-en-486" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/486</idno>
                <idno type="URI">http://pleiades.stoa.org/places/1306</idno>

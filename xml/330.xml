@@ -43,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -75,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -92,7 +92,7 @@
                <placeName xml:id="name330-5" xml:lang="ar" source="#bib330-2">حصن زياد</placeName>
                <placeName xml:id="name330-6" xml:lang="ar" source="#bib330-2">خربوت</placeName>
                <placeName xml:id="name330-7" xml:lang="en" source="#bib330-3">Kharput</placeName>
-               <desc xml:id="abstract-en-330"/>
+               <desc xml:id="abstract-en-330" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib330-1">ܒܶܝܬ ܐܳܡܝܕ ܠܡܝܺܠܝܛܝܢܝ ܘܐܝܬܶܝܗ̇ ܡܕܝܢܰܬ ܟ݂ܰܪܒܘܬ ܕܐܰܫܩܶܠ ܝܰܘܡܳܢ ܐܢܳܫܶܝ̈ܗ̇ ܠܰܡܕܺܝܢܰܬ ܐܰܠܥܰܙܝܺܓ ܚܕܰܬܳܐ ܕܩܰܪܝܒܐ ܠܗ̇.</quote>
                </desc>

@@ -38,7 +38,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -70,7 +70,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -82,7 +82,7 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib46-1 #bib46-2 #bib46-3">Beirut</placeName>
                <placeName xml:id="name46-2" xml:lang="en" source="#bib46-1">Berytos</placeName>
-               <desc xml:id="abstract-en-46">A port city on the coast of Lebanon.</desc>
+               <desc xml:id="abstract-en-46" xml:lang="en">A port city on the coast of Lebanon.</desc>
                <desc xml:lang="en">
                   <quote source="#bib46-1">93. Beirut</quote>
                </desc>

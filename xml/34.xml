@@ -39,7 +39,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -90,7 +90,7 @@
                <placeName xml:id="name34-7" xml:lang="en" source="#bib34-4">Ahwaz</placeName>
                <placeName xml:id="name34-8" xml:lang="en" source="#bib34-5">Bet Huzaye</placeName>
                <placeName xml:id="name34-9" xml:lang="en" source="#bib34-5">Elam</placeName>
-               <desc xml:id="abstract-en-34">A diocese of the Church of the East, also known as Elam, centered around Beth Lapaṭ.</desc>
+               <desc xml:id="abstract-en-34" xml:lang="en">A diocese of the Church of the East, also known as Elam, centered around Beth Lapaṭ.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/34</idno>
                <idno type="URI">http://pleiades.stoa.org/places/912823</idno>

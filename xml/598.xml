@@ -34,7 +34,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -66,7 +66,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -75,7 +75,8 @@
             <place xml:id="place-598" type="mountain">
                <placeName xml:id="name598-1" xml:lang="en" syriaca-tags="#syriaca-headword">Jabal Rīḥāna</placeName>
                <placeName xml:id="name598-2" xml:lang="en" source="#bib598-1">Jebel Rihane</placeName>
-               <desc xml:id="abstract-en-598"/>
+               <desc xml:id="abstract-en-598" xml:lang="en"/>
+               <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/598</idno>
                <bibl xml:id="bib598-1">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>

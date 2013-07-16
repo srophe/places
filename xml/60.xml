@@ -47,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -79,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -97,7 +97,7 @@
                <placeName xml:id="name60-6" xml:lang="ar" source="#bib60-3">قيصرية</placeName>
                <placeName xml:id="name60-7" xml:lang="ar" source="#bib60-3">قيسر</placeName>
                <placeName xml:id="name60-8" xml:lang="en" source="#bib60-4">Kayseri</placeName>
-               <desc xml:id="abstract-en-60">A city in Cappadocia, modern Kayseri.</desc>
+               <desc xml:id="abstract-en-60" xml:lang="en">A city in Cappadocia, modern Kayseri.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib60-2">ܡܕܝܢܬܳܐ ܗܝ ܕܰܒܬܰܝܡܢܳܐ ܡܰܕܢܚܳܝܐ ܕܰܐܢܩܘܪܰܐ ܘܡܶܬܩܰܪܝܳܐ ܝܰܘܡܳܢ ܩܰܝܣܰܪ.</quote>
                </desc>

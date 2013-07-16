@@ -47,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -79,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -94,7 +94,7 @@
                <placeName xml:id="name398-6" xml:lang="ar" source="#bib398-2">دير النواويس</placeName>
                <placeName xml:id="name398-7" xml:lang="en" source="#bib398-3">Jacob the Doctor of the Church Monastery</placeName>
                <placeName xml:id="name398-8" xml:lang="en" source="#bib398-3">Nawawīs Monastery</placeName>
-               <desc xml:id="abstract-en-398"/>
+               <desc xml:id="abstract-en-398" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib398-1">ܒܛܘܪܐ ܕܐܘܪܗܳܝ ܒܬܰܝܡܢܳܗ̇ ܕܰܡܕܝܢܬܐ ܡܰܪܕܶܐ ܫܳܥܳܐ ܘܦܶܠܓܳܐ. ܐܶܬܒܢܝ ܒܡܰܐܬܰܐ ܚܡܝܫܳܝܬܐ ܘܰܕܟܝܪ ܠܗ ܠܝܘܚܰܢܢ ܕܐܶܦܣܘܣ ܫܢܰܬ  519  ܚܰܕܬܗ ܪܝܫܳܢܗ ܕܰܝܪܳܝܐ ܝܘܚܰܢܢ ܣܪܘܓܳܝܳܐ ܗܰܘ ܕܐܶܬܥܰܠܝ ܠܡܰܦܪܝܳܢܘܬܐ ܕܡܰܕܢܚܐ ܫܢܰܬ  1164  ܘܥܰܡܝܪ ܗܘܐ ܫܢܰܬ  1223  ܘܫܶܬܶܐܣܰܘ̈ܗܝ ܩܰܝܳܡ̈ܢ. </quote>
                </desc>

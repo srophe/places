@@ -47,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -79,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -91,7 +91,7 @@
                <placeName xml:id="name399-3" xml:lang="syr-Syrj" source="#bib399-1">ܕܰܝܪܳܐ ܕܡܳܪܝ ܝܘܚܰܢܢ ܕܐܘܪ̈ܛܝܐ</placeName>
                <placeName xml:id="name399-4" xml:lang="ar" source="#bib399-2">دير مار يوحنا الاورطي</placeName>
                <placeName xml:id="name399-5" xml:lang="en" source="#bib399-3">John Orti Monastery</placeName>
-               <desc xml:id="abstract-en-399"/>
+               <desc xml:id="abstract-en-399" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib399-1">ܒܢܳܝܗܝ ܗܳܢܐ ܥܢܘܳܝܐ ܒܰܫܒܳܒܘܬܗ̇ ܕܐܳܡܝܕ ܫܢܰܬ  590  ܐܰܦܩ ܬܠܳܬܐ ܐܶܦܝܣ̈ܩܘܦܐ ܗܰܘ ܕܶܝܢ ܕܛܰܒܝܒ ܒܗܘܢ ܝܘܚܰܢܢ ܕܐܶܦܣܘܣ ܘܠܐ ܦܓܰܥܢܢ ܒܛܶܐܒܐ ܥܠܰܘܗܝ ܒܳܬܰܪ ܫܢܰܬ  600 .</quote>
                </desc>

@@ -39,7 +39,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -86,8 +86,10 @@
                <placeName xml:id="name7-3" xml:lang="syr-Syrj" source="#bib7-2">ܡܶܨܪܝܢ</placeName>
                <placeName xml:id="name7-4" xml:lang="ar" source="#bib7-3">مصر</placeName>
                <placeName xml:id="name7-5" xml:lang="en" source="#bib7-4 #bib7-5">Egypt</placeName>
-               <desc xml:id="abstract-en-7">The Roman province of Egypt</desc>
-               <state type="existence" from="-0030" notAfter="0646"/>
+               <desc xml:id="abstract-en-7" xml:lang="en">The Roman province of Egypt</desc>
+               <state type="existence" from="-0030" to="0646">
+                  <precision match="@to" notAfter="0646"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/7</idno>
                <idno type="URI">http://pleiades.stoa.org/places/981503</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Egypt_(Roman_province)</idno>

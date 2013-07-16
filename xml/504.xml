@@ -34,7 +34,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -66,7 +66,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -81,7 +81,7 @@
                <placeName xml:id="name504-3" xml:lang="syr-Syrj" source="#bib504-1">ܐܰܢܰܐܛܳܘܠ</placeName>
                <placeName xml:id="name504-4" xml:lang="ar" source="#bib504-2">الاناضول</placeName>
                <placeName xml:id="name504-5" xml:lang="en" source="#bib504-4">Asia Minor</placeName>
-               <desc xml:id="abstract-en-504"/>
+               <desc xml:id="abstract-en-504" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/504</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Anatolia</idno>

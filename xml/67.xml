@@ -43,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -75,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -89,7 +89,7 @@
                <placeName xml:id="name67-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܪܐ</placeName>
                <placeName xml:id="name67-3" xml:lang="syr-Syrj" source="#bib67-2">ܕܳܪܳܐ</placeName>
                <placeName xml:id="name67-4" xml:lang="ar" source="#bib67-3">دارا</placeName>
-               <desc xml:id="abstract-en-67">A Roman city between Mardin and Nisibis.</desc>
+               <desc xml:id="abstract-en-67" xml:lang="en">A Roman city between Mardin and Nisibis.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib67-2">ܡܕܝܺܢܬܐ ܗܝ ܕܒܰܦܫܦܘܽܠܐ ܕܛܘܪܐ ܒܶܝܬ ܢܨܺܝܒܝܺܢ ܠܡܰܪܕܺܝܢ ܐܶܬܝܰܬܒܰܬ ܫܢܰܬ  506  ܘܩܰܘܝܰܬ ܟܘܪܣܝܳܐ ܐܶܦܝܣܩܘܦܳܝܐ ܠܣܘܪ̈ܝܳܝܐ ܥܕܡܐ ܠܡܶܨܥܝ̈ܬܗ ܕܕܳܪܳܐ ܕܝ̄ܒ ܘܝܰܘܡܳܢ ܩܪܺܝܬܳܐ ܗܝ ܙܥܘܽܪܬܐ.</quote>
                </desc>

@@ -43,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -75,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -90,7 +90,7 @@
                <placeName xml:id="name18-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܚܠܒ</placeName>
                <placeName xml:id="name18-4" xml:lang="syr-Syrj" source="#bib18-2">ܚܳܠܒ</placeName>
                <placeName xml:id="name18-5" xml:lang="ar" source="#bib18-3">حلب</placeName>
-               <desc xml:id="abstract-en-18">A major city in northern Syria.</desc>
+               <desc xml:id="abstract-en-18" xml:lang="en">A major city in northern Syria.</desc>
                <location type="gps" source="#bib18-1">
                   <geo>36.21667 37.16667</geo>
                </location>

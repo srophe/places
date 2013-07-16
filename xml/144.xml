@@ -39,7 +39,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -85,7 +85,7 @@
                <placeName xml:id="name144-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܢܝܢܘܐ</placeName>
                <placeName xml:id="name144-3" xml:lang="syr-Syrj" source="#bib144-2">ܢܺܝܢܘܶܐ</placeName>
                <placeName xml:id="name144-4" xml:lang="ar" source="#bib144-3">نينوى</placeName>
-               <desc xml:id="abstract-en-144"/>
+               <desc xml:id="abstract-en-144" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib144-1">399. Nineveh</quote>
                </desc>

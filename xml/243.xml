@@ -39,7 +39,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -86,7 +86,7 @@
                <placeName xml:id="name243-3" xml:lang="syr-Syrj" source="#bib243-2">ܒܶܝܬ ܡܰܢܥܡ</placeName>
                <placeName xml:id="name243-4" xml:lang="ar" source="#bib243-3">بانمعم </placeName>
                <placeName xml:id="name243-5" xml:lang="en" source="#bib243-4">Banimʿim</placeName>
-               <desc xml:id="abstract-en-243"/>
+               <desc xml:id="abstract-en-243" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/243</idno>
                <bibl xml:id="bib243-1">

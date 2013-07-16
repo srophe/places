@@ -47,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -79,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -91,7 +91,7 @@
                <placeName xml:id="name394-3" xml:lang="syr-Syrj" source="#bib394-1">ܕܰܝܪܳܐ ܕܡܳܪܝ ܐܰܗܪܘܢ</placeName>
                <placeName xml:id="name394-4" xml:lang="ar" source="#bib394-2">دير مار هارون</placeName>
                <placeName xml:id="name394-5" xml:lang="en" source="#bib394-3">Aaron Monastery</placeName>
-               <desc xml:id="abstract-en-394"/>
+               <desc xml:id="abstract-en-394" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib394-1">ܒܛܘܪܐ ܒܪܝܟܳܐ ܒܩܘܪܒܳܐ ܕܡܝܠܝܺܛܝܢܝ ܒܢܳܝܗܝ ܡܳܪܝ ܐܰܗܪܘܢ ܣܪܘܓܳܝܳܐ ܥܢܘܳܝܐ ܫܢܰܬ  389  ܥܰܕܰܪ ܠܥܺܕܬܳܐ ܒܶܫܬܐ ܐܶܦܝܣܩܘܦ̈ܐ ܡܢ ܫܢܰܬ  1088  -  1289</quote>
                </desc>

@@ -51,7 +51,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -83,7 +83,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -104,7 +104,7 @@
                <placeName xml:id="name108-9" xml:lang="en" source="#bib108-5">Karka de Beth Selok</placeName>
                <placeName xml:id="name108-10" xml:lang="en" source="#bib108-6">Kirkūk (Karkā d'Beṯ Ṣlōḥ)</placeName>
                <placeName xml:id="name108-11" xml:lang="en" source="#bib108-6">Slōḥ</placeName>
-               <desc xml:id="abstract-en-108"/>
+               <desc xml:id="abstract-en-108" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib108-1">316. Karka d-Beth Slokh</quote>
                </desc>

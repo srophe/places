@@ -47,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -79,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -101,7 +101,7 @@
                <placeName xml:id="name9-10" xml:lang="ar" source="#bib9-3">انازروه</placeName>
                <placeName xml:id="name9-11" xml:lang="en" source="#bib9-4">Anāzarba</placeName>
                <placeName xml:id="name9-12" xml:lang="en" source="#bib9-4">Anāzūra</placeName>
-               <desc xml:id="abstract-en-9">A city in Cilicia, a provincial capital of the Roman Empire and for a time the capital of the Armenian Kingdom of Cilicia.</desc>
+               <desc xml:id="abstract-en-9" xml:lang="en">A city in Cilicia, a provincial capital of the Roman Empire and for a time the capital of the Armenian Kingdom of Cilicia.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib9-2">ܡܕܝܢܬܳܐ ܕܰܒܩܝܠܺܝܩܝܰܐ ܣܺܝܡܳܐ ܗܘܳܬ ܥܰܠ ܢܗܰܪ ܓܺܝ̣ܚܘܢ ܘܝܰܘܡܳܢ ܗܘܳܬ ܩܪܺܝܬܳܐ ܕܡܶܬܶܐܡܰܪ ܠܳܗ̇ ܐܰܢܐܙܘܪܐ.</quote>
                </desc>

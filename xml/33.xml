@@ -39,7 +39,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -87,7 +87,7 @@
                <placeName xml:id="name33-4" xml:lang="ar" source="#bib33-3">باجرمي</placeName>
                <placeName xml:id="name33-5" xml:lang="en" source="#bib33-4">Bajermi</placeName>
                <placeName xml:id="name33-6" xml:lang="en" source="#bib33-5">Bet Garmai</placeName>
-               <desc xml:id="abstract-en-33"/>
+               <desc xml:id="abstract-en-33" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib33-1">99. Beth Garmai</quote>
                </desc>

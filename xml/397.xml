@@ -47,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -79,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -94,7 +94,7 @@
                <placeName xml:id="name397-3" xml:lang="syr-Syrj" source="#bib397-2">ܕܰܝܪܳܐ ܕܡܳܪܝ ܝܰܥܩܘܒ</placeName>
                <placeName xml:id="name397-4" xml:lang="ar" source="#bib397-3">دير مار يعقوب</placeName>
                <placeName xml:id="name397-5" xml:lang="en" source="#bib397-4">Jacob Monastery</placeName>
-               <desc xml:id="abstract-en-397"/>
+               <desc xml:id="abstract-en-397" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib397-2">ܒܩܘܪܒܐ ܕܟܰܝܫܘܡ ܕܟܝܪ ܒܡܰܟܬܰܒ̈ܙܰܒܢܐ ܒܰܐܚܪ̈ܝܳܬܗ ܕܕܳܪܐ ܫܒܝܥܳܝܐ. ܘܗܘܐ ܡܢܗ ܥܶܣܪܐ ܐܶܦܝܣ̈ܩܘܦܐ ܡܢ ܫܢܰܬ  810  - 925</quote>
                </desc>

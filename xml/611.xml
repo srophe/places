@@ -34,7 +34,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -66,7 +66,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -76,7 +76,7 @@
                <placeName xml:id="name611-1" xml:lang="en" syriaca-tags="#syriaca-headword">Beth Qoqa</placeName>
                <placeName xml:id="name611-2" xml:lang="en" source="#bib611-1">monastery of Bet Qoqa</placeName>
                <placeName xml:id="name611-3" xml:lang="en" source="#bib611-1">monastery of Sabrisho</placeName>
-               <desc xml:id="abstract-en-611"/>
+               <desc xml:id="abstract-en-611" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/611</idno>
                <bibl xml:id="bib611-1">

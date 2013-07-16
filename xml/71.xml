@@ -43,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -75,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -90,7 +90,7 @@
                <placeName xml:id="name71-3" xml:lang="syr-Syrj" source="#bib71-2">ܕܰܝܪܐ ܕܡܳܪܝ ܐܰܒܪܗܡ ܐܰܘ ܡܳܪܝ ܗܳܒܝܠ</placeName>
                <placeName xml:id="name71-4" xml:lang="ar" source="#bib71-3">دير مار ابرهيم وهابيل</placeName>
                <placeName xml:id="name71-5" xml:lang="en" source="#bib71-4">Abraham and Abel Monastery</placeName>
-               <desc xml:id="abstract-en-71">A monastery near Midyat in Ṭur ʿAbdin.</desc>
+               <desc xml:id="abstract-en-71" xml:lang="en">A monastery near Midyat in Ṭur ʿAbdin.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib71-2">ܒܩܘܪܒܳܐ ܕܡܶܕܝܰܕ ܡܕܝܢܳܬܐ. ܕܰܝܪܳܐ ܥܰܬܝܩܬܳܐ ܘܥܰܡܝܪܐ ܐܶܬܒܢܝ ܗܰܝܟܠܗ ܚܕܳܪ ܫܢܰܬ  763  ܘܩܳܡܘ ܡܢܗ ܬܠܬܐ ܐܶܦܝܣܩܘܦ̈ܐ.</quote>
                </desc>
@@ -100,7 +100,9 @@
                <desc xml:lang="en">
                   <quote source="#bib71-4">an old monastery near Midyat, built about 763. It produced three bishops. </quote>
                </desc>
-               <state type="existence" notBefore="0763"/>
+               <state type="existence" from="0763">
+                  <precision match="@from" notBefore="0763"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/71</idno>
                <bibl xml:id="bib71-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

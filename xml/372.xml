@@ -47,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -79,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -94,7 +94,7 @@
                <placeName xml:id="name372-6" xml:lang="ar" source="#bib372-2">دير الحفاة</placeName>
                <placeName xml:id="name372-7" xml:lang="en" source="#bib372-3">Fusqīn Monastery</placeName>
                <placeName xml:id="name372-8" xml:lang="en" source="#bib372-3">Barefooted Monastery</placeName>
-               <desc xml:id="abstract-en-372"/>
+               <desc xml:id="abstract-en-372" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib372-1">ܥܠ ܣܶܦܰܬ ܦܪܳܬ ܢܰܗܪܐ ܒܩܘܽܪܒܐ ܕܕܰܝܪܐ ܕܡܳܪܝ ܐܰܒܚܰܝ ܒܓܰܪܓܪܰ. ܚܰܕܶܬ ܠܒܶܢܝܳܢܗ ܕܰܝܪܳܝܐ ܕܰܘܝܕ ܘܟܶܢܫܐ ܕܥܶܢܘ̈ܝܐ ܒܪܺܝܫܐ ܕܡܰܐܬܐ ܕܰܚܕܰܥܣܪ̈ܐ ܘܠܗ ܡܬܒܰܝܬܝܢ ܚܰܡܫܐ ܐܶܦܝܣܩܘ̈ܦܐ ܒܕܳܪܗ ܩܰܕܡܳܝܐ ܒܡܰܐܬܐ ܕܰܥܣܪ ܘܰܒܢܳܐ ܗܰܝܟܠܗ ܪܰܒܰܢ ܚܰܒܩܘܩ ܗܘ ܕܰܫܟܝܚ ܗܘܐ ܒܰܫܢܰܬ  1160  ܘܥܰܡܝܪ ܗܘܐ ܫܢܰܬ  1565  ܐܠܐ ܒܳܬܰܪ ܩܰܠܝܠ ܫܢ̈ܝܐ ܠܰܝܬ ܗܘܐ ܒܗ̇ ܥܳܡܘܪ.</quote>
                </desc>

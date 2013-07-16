@@ -39,7 +39,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -89,7 +89,7 @@
                           source="#bib91-2">ܚܡܬ</placeName>
                <placeName xml:id="name91-4" xml:lang="ar" source="#bib91-3">حماه</placeName>
                <placeName xml:id="name91-5" xml:lang="en" source="#bib91-5">Hamah</placeName>
-               <desc xml:id="abstract-en-91"/>
+               <desc xml:id="abstract-en-91" xml:lang="en"/>
                <location type="gps" source="#bib91-1">
                   <geo>35.13333 36.75</geo>
                </location>

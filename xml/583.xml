@@ -38,7 +38,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -70,7 +70,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -83,7 +83,7 @@
                           source="#bib583-1">Bohtan</placeName>
                <placeName xml:id="name583-2" xml:lang="en" source="#bib583-2">Bohtān</placeName>
                <placeName xml:id="name583-3" xml:lang="en" source="#bib583-2">Sherwāye</placeName>
-               <desc xml:id="abstract-en-583"/>
+               <desc xml:id="abstract-en-583" xml:lang="en"/>
                <location type="geopolitical" source="#bib583-2">
                   <region ref="http://syriaca.org/place/724">Seert region</region>
                </location>

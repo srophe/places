@@ -51,7 +51,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -83,7 +83,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -105,7 +105,7 @@
                <placeName xml:id="name25-7" xml:lang="en" source="#bib25-4">ʿAqr al-Ḥumaydiyya</placeName>
                <placeName xml:id="name25-8" xml:lang="en" source="#bib25-5">‘Aqrā</placeName>
                <placeName xml:id="name25-9" xml:lang="en" source="#bib25-5">‘Eqrā</placeName>
-               <desc xml:id="abstract-en-25">A town east of the Tigris and north of the Great Zab in northern Iraq.</desc>
+               <desc xml:id="abstract-en-25" xml:lang="en">A town east of the Tigris and north of the Great Zab in northern Iraq.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib25-2">ܩܶܠܥܳܐ ܕܰܒܛܘܪܐ ܕܡܘܨܠ. ܘܰܠܡܰܕܢܚܳܗ̇ ܡܰܪܕܶܐ ܬܪܶܝܢ ܝܰܘ̈ܡܝܢ ܡܶܬܝܰܕܥܳܐ ܗܘܳܬ ܥܰܩܪ ܚܘܡܰܝܕܝܗ. </quote>
                </desc>

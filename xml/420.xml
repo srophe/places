@@ -43,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -75,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -85,7 +85,7 @@
                <placeName xml:id="name420-1" xml:lang="en" syriaca-tags="#syriaca-headword">Ṣalāḥiyya</placeName>
                <placeName xml:id="name420-2" xml:lang="ar" source="#bib420-1">صلاحية</placeName>
                <placeName xml:id="name420-3" xml:lang="en" source="#bib420-2">Ṣalaḥiyya</placeName>
-               <desc xml:id="abstract-en-420"/>
+               <desc xml:id="abstract-en-420" xml:lang="en"/>
                <desc xml:lang="ar">
                   <quote source="#bib420-1">بلدة شرقي يربوز في ولاية ادنة.</quote>
                </desc>

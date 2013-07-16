@@ -39,7 +39,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -85,7 +85,7 @@
                <placeName xml:id="name266-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܛܪܘܢ</placeName>
                <placeName xml:id="name266-3" xml:lang="syr-Syrj" source="#bib266-2">ܒܰܛܪܘܢ</placeName>
                <placeName xml:id="name266-4" xml:lang="ar" source="#bib266-3">البترون</placeName>
-               <desc xml:id="abstract-en-266"/>
+               <desc xml:id="abstract-en-266" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/266</idno>
                <idno type="URI">http://pleiades.stoa.org/places/668214</idno>

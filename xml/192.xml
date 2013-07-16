@@ -38,7 +38,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -70,7 +70,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -83,7 +83,7 @@
                           source="#bib192-1">Sulaymāniyya</placeName>
                <placeName xml:id="name192-2" xml:lang="en" source="#bib192-2">Sulemaniyya</placeName>
                <placeName xml:id="name192-3" xml:lang="en" source="#bib192-3">Suleimaniya</placeName>
-               <desc xml:id="abstract-en-192"/>
+               <desc xml:id="abstract-en-192" xml:lang="en"/>
                <location type="gps" source="#bib192-1">
                   <geo>35.55 45.433333</geo>
                </location>

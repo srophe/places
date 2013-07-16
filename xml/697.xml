@@ -34,7 +34,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-15-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -66,7 +66,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -80,8 +80,10 @@
                <placeName xml:id="name697-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܠܥܙܝܓ</placeName>
                <placeName xml:id="name697-3" xml:lang="syr-Syrj" source="#bib697-1">ܐܰܠܥܰܙܝܺܓ</placeName>
                <placeName xml:id="name697-4" xml:lang="ar" source="#bib697-2">معمورة العزيز</placeName>
-               <desc xml:id="abstract-en-697"/>
-               <state type="existence" from="1834"/>
+               <desc xml:id="abstract-en-697" xml:lang="en"/>
+               <state type="existence" from="1834">
+                  <precision match="@from" notAfter="1834"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/697</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Elâzığ</idno>
                <idno type="URI">http://dbpedia.org/resource/Elâzığ</idno>

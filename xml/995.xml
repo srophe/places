@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Manchester</title>
+            <title xml:lang="en">Antioch</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
@@ -22,17 +22,13 @@
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
             </respStmt>
-            <respStmt>
-               <resp>Wilmshurst index information entry by</resp>
-               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
-            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
          <publicationStmt>
             <authority>Syriaca.org: The Syriac Reference Portal</authority>
-            <idno type="URI">http://syriaca.org/place/853/source</idno>
+            <idno type="URI">http://syriaca.org/place/995/source</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
@@ -76,19 +72,31 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-853" type="settlement">
-               <placeName xml:id="name853-1"
+            <place xml:id="place-995" type="region">
+               <placeName xml:id="name995-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib853-1">Manchester</placeName>
-               <desc xml:id="abstract-en-853" xml:lang="en"/>
+                          source="#bib995-3">Antioch</placeName>
+               <placeName xml:id="name995-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܢܛܝܘܟܝܐ</placeName>
+               <placeName xml:id="name995-3" xml:lang="syr-Syrj" source="#bib995-1">ܐܰܢܛܝܘܟܝܰܐ</placeName>
+               <placeName xml:id="name995-4" xml:lang="ar" source="#bib995-2">كورة انطاكية</placeName>
+               <desc xml:id="abstract-en-995" xml:lang="en"/>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/853</idno>
-               <bibl xml:id="bib853-1">
-                  <author>David Wilmshurst</author>
-                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
-                  <citedRange unit="pp">10</citedRange>
-                  <ptr target="http://syriaca.org/bibl/9"/>
+               <idno type="URI">http://syriaca.org/place/995</idno>
+               <bibl xml:id="bib995-1">
+                  <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
+                  <ptr target="http://syriaca.org/bibl/3"/>
+                  <citedRange unit="pp">561</citedRange>
+               </bibl>
+               <bibl xml:id="bib995-2">
+                  <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
+                  <ptr target="http://syriaca.org/bibl/2"/>
+                  <citedRange unit="pp">519</citedRange>
+               </bibl>
+               <bibl xml:id="bib995-3">
+                  <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
+                  <ptr target="http://syriaca.org/bibl/4"/>
+                  <citedRange unit="pp">555</citedRange>
                </bibl>
             </place>
          </listPlace>
