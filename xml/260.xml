@@ -47,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-15-04:00</date>
+            <date>2013-07-22-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -79,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -109,7 +109,7 @@
                <desc xml:lang="en">
                   <quote source="#bib260-4">a large village in the province of Nineveh, north of Mosul.</quote>
                </desc>
-               <location type="geopolitical" source="#bib260-5">
+               <location type="nested" source="#bib260-5">
                   <region ref="http://syriaca.org/place/722">Mosul region</region>
                </location>
                <state type="existence"/>

@@ -51,7 +51,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-15-04:00</date>
+            <date>2013-07-22-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -83,7 +83,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -107,7 +107,7 @@
                <desc xml:lang="en">
                   <quote source="#bib461-3">a territory in southwest India, on the coast of the Indian Ocean [sic]; it includes the provinces of Travancore and Cochin.</quote>
                </desc>
-               <location type="geopolitical" source="#bib461-5">
+               <location type="nested" source="#bib461-5">
                   <region ref="http://syriaca.org/place/500">India</region>
                </location>
                <state type="existence"/>

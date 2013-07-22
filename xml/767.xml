@@ -38,7 +38,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-15-04:00</date>
+            <date>2013-07-22-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -70,7 +70,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -82,7 +82,7 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib767-1">Nōrdūz</placeName>
                <desc xml:id="abstract-en-767" xml:lang="en"/>
-               <location type="geopolitical" source="#bib767-1">
+               <location type="nested" source="#bib767-1">
                   <region ref="http://syriaca.org/place/90">Hakkārī region</region>
                </location>
                <state type="existence"/>

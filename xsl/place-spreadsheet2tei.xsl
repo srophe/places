@@ -381,28 +381,25 @@
                                     
                                     <!-- Deal with nested Wilmshurst locations -->
                                     <xsl:if test="Containing_Town != '' or Containing_District != '' or Containing_Region != ''">
-                                        <location type="geopolitical">
+                                        <location type="nested">
                                             <xsl:attribute name="source">#<xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'Wilmshurst')"/></xsl:attribute>
-                                            <xsl:if test="Containing_Region != ''">
-                                                <region>
-                                                    <xsl:variable name="this_region"><xsl:value-of select="Containing_Region"/></xsl:variable>
-                                                    <xsl:attribute name="ref">http://syriaca.org/place/<xsl:value-of select="substring-after(Containing_Region,'-')"/></xsl:attribute>
-                                                    <xsl:value-of select="substring-before(Containing_Region,'-')"/>
-                                                </region>
+                                            <xsl:if test="Containing_Town != ''">
+                                                <settlement>
+                                                    <xsl:attribute name="ref">http://syriaca.org/place/<xsl:value-of select="substring-after(Containing_Town,'-')"/></xsl:attribute>
+                                                    <xsl:value-of select="substring-before(Containing_Town,'-')"/>
+                                                </settlement>
                                             </xsl:if>
                                             <xsl:if test="Containing_District != ''">
                                                 <region>
-                                                    <xsl:variable name="this_district"><xsl:value-of select="Containing_District"/></xsl:variable>
                                                     <xsl:attribute name="ref">http://syriaca.org/place/<xsl:value-of select="substring-after(Containing_District,'-')"/></xsl:attribute>
                                                     <xsl:value-of select="substring-before(Containing_District,'-')"/>
                                                 </region>
                                             </xsl:if>
-                                            <xsl:if test="Containing_Town != ''">
-                                                <settlement>
-                                                    <xsl:variable name="this_town"><xsl:value-of select="Containing_Town"/></xsl:variable>
-                                                    <xsl:attribute name="ref">http://syriaca.org/place/<xsl:value-of select="substring-after(Containing_Town,'-')"/></xsl:attribute>
-                                                    <xsl:value-of select="substring-before(Containing_Town,'-')"/>
-                                                </settlement>
+                                            <xsl:if test="Containing_Region != ''">
+                                                <region>
+                                                    <xsl:attribute name="ref">http://syriaca.org/place/<xsl:value-of select="substring-after(Containing_Region,'-')"/></xsl:attribute>
+                                                    <xsl:value-of select="substring-before(Containing_Region,'-')"/>
+                                                </region>
                                             </xsl:if>
                                         </location>
                                     </xsl:if>
