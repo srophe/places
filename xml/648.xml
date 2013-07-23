@@ -83,8 +83,10 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Turkey</idno>
                <idno type="URI">http://dbpedia.org/resource/Turkey</idno>
                <bibl xml:id="bib648-1">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Turkey"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=T&amp;sK=Turkey&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

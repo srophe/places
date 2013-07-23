@@ -95,8 +95,10 @@
                   <citedRange unit="maps">Map II C1, IV</citedRange>
                </bibl>
                <bibl xml:id="bib168-2">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"monastery of Rabban Hormizd"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of Rabban Hormizd&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

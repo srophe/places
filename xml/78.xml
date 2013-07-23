@@ -51,7 +51,7 @@
                         Distributed under a Creative Commons Attribution 3.0 Unported License
                     </licence>
                 </availability>
-                <date>2013-07-10-04:00</date>
+                <date>2013-07-22-04:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -83,6 +83,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
+            <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22">ADDED: CBSC article name and link</change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-10-04:00">CREATED: place</change>
         </revisionDesc>
     </teiHeader>
@@ -163,8 +164,10 @@
                         <citedRange unit="pp">553</citedRange>
                     </bibl>
                     <bibl xml:id="bib78-5">
-                        <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                        <title level="a" xml:lang="en">"Edessa"</title>
+                        <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
+                        <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=E&amp;sK=Edessa&amp;sT=keywords"/>
                     </bibl>
                     <bibl xml:id="bib78-6">
                         <author>David Wilmshurst</author>

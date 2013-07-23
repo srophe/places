@@ -83,8 +83,10 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Mount_Judi</idno>
                <idno type="URI">http://dbpedia.org/resource/Mount_Judi</idno>
                <bibl xml:id="bib637-1">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Qardu"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=Q&amp;sK=Qardu&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

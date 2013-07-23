@@ -96,8 +96,10 @@
                   <citedRange unit="maps">Map II A3</citedRange>
                </bibl>
                <bibl xml:id="bib105-2">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Jericho"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=J&amp;sK=Jericho&amp;sT=keywords"/>
                </bibl>
                <bibl xml:id="bib105-3">
                   <author>David Wilmshurst</author>

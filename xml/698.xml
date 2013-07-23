@@ -106,8 +106,10 @@
                   <citedRange unit="pp">553</citedRange>
                </bibl>
                <bibl xml:id="bib698-4">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Palestine"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=P&amp;sK=Palestine&amp;sT=keywords"/>
                </bibl>
                <bibl xml:id="bib698-5">
                   <author>David Wilmshurst</author>

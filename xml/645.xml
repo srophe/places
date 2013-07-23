@@ -82,8 +82,10 @@
                <idno type="URI">http://syriaca.org/place/645</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874762</idno>
                <bibl xml:id="bib645-1">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Tell Tuneinir"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=T&amp;sK=Tell Tuneinir&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

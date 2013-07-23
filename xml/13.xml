@@ -137,8 +137,10 @@
                   <citedRange unit="pp">551</citedRange>
                </bibl>
                <bibl xml:id="bib13-5">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Arbela"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=A&amp;sK=Arbela&amp;sT=keywords"/>
                </bibl>
                <bibl xml:id="bib13-6">
                   <author>David Wilmshurst</author>

@@ -90,8 +90,10 @@
                   <citedRange unit="maps">Map I A2, II A2, V</citedRange>
                </bibl>
                <bibl xml:id="bib147-2">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Orontes"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=O&amp;sK=Orontes&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

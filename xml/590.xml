@@ -83,8 +83,10 @@
                <idno type="URI">http://pleiades.stoa.org/places/39274</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Ethiopia</idno>
                <bibl xml:id="bib590-1">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Ethiopia"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=E&amp;sK=Ethiopia&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

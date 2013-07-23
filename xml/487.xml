@@ -105,8 +105,10 @@
                   <citedRange unit="pp">552</citedRange>
                </bibl>
                <bibl xml:id="bib487-4">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Lebanon"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=L&amp;sK=Lebanon&amp;sT=keywords"/>
                </bibl>
                <bibl xml:id="bib487-5">
                   <author>David Wilmshurst</author>

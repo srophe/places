@@ -79,8 +79,10 @@
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/625</idno>
                <bibl xml:id="bib625-1">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"monastery of Gabrona and Shmona"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of Gabrona and Shmona&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

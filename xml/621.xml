@@ -84,8 +84,10 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Nicaea</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Iznik</idno>
                <bibl xml:id="bib621-1">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Nicaea"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=N&amp;sK=Nicaea&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

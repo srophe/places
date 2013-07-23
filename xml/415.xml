@@ -133,8 +133,10 @@
                   <citedRange unit="pp">558</citedRange>
                </bibl>
                <bibl xml:id="bib415-4">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Susa"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=S&amp;sK=Susa&amp;sT=keywords"/>
                </bibl>
                <bibl xml:id="bib415-5">
                   <author>David Wilmshurst</author>

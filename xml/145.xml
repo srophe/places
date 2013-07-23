@@ -89,8 +89,10 @@
                   <citedRange unit="maps">Map I B2</citedRange>
                </bibl>
                <bibl xml:id="bib145-2">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Osrhoene"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=O&amp;sK=Osrhoene&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

@@ -100,8 +100,10 @@
                   <citedRange unit="pp">559</citedRange>
                </bibl>
                <bibl xml:id="bib537-4">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Bet Qustan"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Bet Qustan&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

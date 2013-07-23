@@ -102,8 +102,10 @@
                   <citedRange unit="pp">555</citedRange>
                </bibl>
                <bibl xml:id="bib504-4">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Asia Minor"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=A&amp;sK=Asia Minor&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

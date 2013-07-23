@@ -88,8 +88,10 @@
                   <citedRange unit="maps">Map IV</citedRange>
                </bibl>
                <bibl xml:id="bib252-2">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Tyare"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=T&amp;sK=Tyare&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

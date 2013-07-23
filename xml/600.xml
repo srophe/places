@@ -83,8 +83,10 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Jordan_Valley_(Middle_East)</idno>
                <idno type="URI">http://dbpedia.org/resource/Jordan_Valley_(Middle_East)</idno>
                <bibl xml:id="bib600-1">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Jordan valley"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=J&amp;sK=Jordan valley&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

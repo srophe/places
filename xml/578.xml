@@ -84,8 +84,10 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Babylonia</idno>
                <idno type="URI">http://dbpedia.org/resource/Babylonia</idno>
                <bibl xml:id="bib578-1">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Babylonia"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Babylonia&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

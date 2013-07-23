@@ -112,8 +112,10 @@
                   <citedRange unit="pp">551</citedRange>
                </bibl>
                <bibl xml:id="bib82-5">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Euphrates"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=E&amp;sK=Euphrates&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

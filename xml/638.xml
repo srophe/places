@@ -82,8 +82,10 @@
                <idno type="URI">http://syriaca.org/place/638</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874655</idno>
                <bibl xml:id="bib638-1">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Qasr Serij"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=Q&amp;sK=Qasr Serij&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

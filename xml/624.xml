@@ -82,8 +82,10 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Çankırı</idno>
                <idno type="URI">http://dbpedia.org/resource/Çankırı</idno>
                <bibl xml:id="bib624-1">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Gangre"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=G&amp;sK=Gangre&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

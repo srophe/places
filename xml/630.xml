@@ -83,8 +83,10 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Nubia</idno>
                <idno type="URI">http://dbpedia.org/resource/Nubia</idno>
                <bibl xml:id="bib630-1">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Nubia"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=N&amp;sK=Nubia&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

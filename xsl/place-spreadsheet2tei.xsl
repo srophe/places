@@ -503,8 +503,14 @@
                                     <xsl:if test="exists(index-of($sources,'CBSC-Keyword'))">
                                         <bibl>
                                             <xsl:attribute name="xml:id"><xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'CBSC-Keyword')"/></xsl:attribute>
-                                            <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                                            <title level="a" xml:lang="en">"<xsl:value-of select="replace(CBSC_Keyword,'; ','&quot;, &quot;')"/>"</title>
+                                            <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                                             <ptr target="http://syriaca.org/bibl/5"/>
+                                            <xsl:for-each select="tokenize(CBSC_Keyword,'; ')">
+                                                <ref>
+                                                    <xsl:attribute name="target">http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=<xsl:value-of select="substring(.,1,1)"/>&amp;sK=<xsl:value-of select="."/>&amp;sT=keywords</xsl:attribute>
+                                                </ref>
+                                            </xsl:for-each>
                                         </bibl>
                                     </xsl:if>
                                     <xsl:if test="exists(index-of($sources,'Wilmshurst'))">

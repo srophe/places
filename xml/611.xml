@@ -80,8 +80,11 @@
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/611</idno>
                <bibl xml:id="bib611-1">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"monastery of Bet Qoqa", "monastery of Sabrisho"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of Bet Qoqa&amp;sT=keywords"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of Sabrisho&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

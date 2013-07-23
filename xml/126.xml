@@ -87,8 +87,10 @@
                   <citedRange unit="maps">Map IV</citedRange>
                </bibl>
                <bibl xml:id="bib126-2">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"monastery of Mar Ahha"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of Mar Ahha&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

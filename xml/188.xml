@@ -140,8 +140,10 @@
                   <citedRange unit="pp">558</citedRange>
                </bibl>
                <bibl xml:id="bib188-5">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Seert"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=S&amp;sK=Seert&amp;sT=keywords"/>
                </bibl>
                <bibl xml:id="bib188-6">
                   <author>David Wilmshurst</author>

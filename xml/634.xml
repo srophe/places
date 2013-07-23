@@ -80,8 +80,10 @@
                <idno type="URI">http://syriaca.org/place/634</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Qal'at_Najm</idno>
                <bibl xml:id="bib634-1">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Qalat Naym"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=Q&amp;sK=Qalat Naym&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

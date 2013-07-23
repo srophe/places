@@ -90,8 +90,10 @@
                   <citedRange unit="maps">Map I D3, II D3</citedRange>
                </bibl>
                <bibl xml:id="bib156-2">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Persian gulf"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=P&amp;sK=Persian gulf&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

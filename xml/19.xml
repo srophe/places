@@ -102,8 +102,10 @@
                   <citedRange unit="maps">Map IV</citedRange>
                </bibl>
                <bibl xml:id="bib19-2">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Alqosh"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=A&amp;sK=Alqosh&amp;sT=keywords"/>
                </bibl>
                <bibl xml:id="bib19-3">
                   <author>David Wilmshurst</author>

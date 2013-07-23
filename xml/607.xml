@@ -84,8 +84,10 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Merv</idno>
                <idno type="URI">http://dbpedia.org/resource/Merv</idno>
                <bibl xml:id="bib607-1">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Merv"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=M&amp;sK=Merv&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

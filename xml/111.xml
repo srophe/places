@@ -93,8 +93,10 @@
                   <citedRange unit="maps">Map I D3, II D3</citedRange>
                </bibl>
                <bibl xml:id="bib111-2">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Kashkar"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=K&amp;sK=Kashkar&amp;sT=keywords"/>
                </bibl>
                <bibl xml:id="bib111-3">
                   <author>David Wilmshurst</author>

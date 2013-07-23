@@ -80,8 +80,10 @@
                <idno type="URI">http://syriaca.org/place/594</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Harim_Mountains</idno>
                <bibl xml:id="bib594-1">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Jebel Baricha"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=J&amp;sK=Jebel Baricha&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

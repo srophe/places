@@ -84,8 +84,10 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Jordan_River</idno>
                <idno type="URI">http://dbpedia.org/resource/Jordan_River</idno>
                <bibl xml:id="bib599-1">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Jordan"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=J&amp;sK=Jordan&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

@@ -96,8 +96,10 @@
                   <citedRange unit="pp">10-11</citedRange>
                </bibl>
                <bibl xml:id="bib993-2">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Adiabene"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=A&amp;sK=Adiabene&amp;sT=keywords"/>
                </bibl>
                <bibl xml:id="bib993-3">
                   <author>David Wilmshurst</author>

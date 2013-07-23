@@ -85,8 +85,10 @@
                <idno type="URI">http://syriaca.org/place/603</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Greater_Khorasan</idno>
                <bibl xml:id="bib603-1">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Khorasan"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=K&amp;sK=Khorasan&amp;sT=keywords"/>
                </bibl>
                <bibl xml:id="bib603-2">
                   <author>David Wilmshurst</author>

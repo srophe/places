@@ -95,8 +95,11 @@
                   <citedRange unit="maps">Map I D3</citedRange>
                </bibl>
                <bibl xml:id="bib123-2">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Maishan", "Mesene"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=M&amp;sK=Maishan&amp;sT=keywords"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=M&amp;sK=Mesene&amp;sT=keywords"/>
                </bibl>
                <bibl xml:id="bib123-3">
                   <author>David Wilmshurst</author>

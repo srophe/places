@@ -100,8 +100,10 @@
                   <citedRange unit="maps">Map II C1, IV</citedRange>
                </bibl>
                <bibl xml:id="bib206-2">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Urmia"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=U&amp;sK=Urmia&amp;sT=keywords"/>
                </bibl>
                <bibl xml:id="bib206-3">
                   <author>David Wilmshurst</author>

@@ -81,8 +81,10 @@
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/644</idno>
                <bibl xml:id="bib644-1">
-                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title level="a" xml:lang="en">"Tell Magara"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=T&amp;sK=Tell Magara&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>
