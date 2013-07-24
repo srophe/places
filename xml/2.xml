@@ -39,7 +39,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -86,7 +86,7 @@
                <placeName xml:id="name2-3" xml:lang="syr-Syrj" source="#bib2-2">ܨܰܠܚ</placeName>
                <placeName xml:id="name2-4" xml:lang="ar" source="#bib2-3">صلح</placeName>
                <placeName xml:id="name2-5" xml:lang="en" source="#bib2-4">Salaḥ</placeName>
-               <desc xml:id="abstract-en-2" xml:lang="en">A village in Ṭur ʿAbdin.</desc>
+               <desc xml:id="abstract-en-2" xml:lang="en">A village in &lt;placeName ref="http://syriaca.org/place/221"&gt;Ṭur ʿAbdin&lt;/placeName&gt;.</desc>
                <location type="gps" source="#bib2-1">
                   <geo>37.483889 41.4025</geo>
                </location>

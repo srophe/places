@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">‘Āṭūsh</title>
+            <title xml:lang="en">ʿĀṭūsh</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
@@ -38,7 +38,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -70,7 +70,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -80,11 +80,11 @@
                <placeName xml:id="name951-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib951-1">‘Āṭūsh</placeName>
+                          source="#bib951-1">ʿĀṭūsh</placeName>
                <desc xml:id="abstract-en-951" xml:lang="en"/>
                <location type="nested" source="#bib951-1">
                   <region ref="http://syriaca.org/place/788">Ṭalānā district</region>
-                  <region ref="http://syriaca.org/place/708">‘Aqrā region</region>
+                  <region ref="http://syriaca.org/place/708">ʿAqrā region</region>
                </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/951</idno>

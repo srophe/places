@@ -38,7 +38,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -70,7 +70,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -82,8 +82,8 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib683-1">ʿAyn Tannūr</placeName>
                <placeName xml:id="name683-2" xml:lang="en" source="#bib683-1">Ali Pınar</placeName>
-               <placeName xml:id="name683-3" xml:lang="en" source="#bib683-2">‘Aïn Tannūr</placeName>
-               <placeName xml:id="name683-4" xml:lang="en" source="#bib683-2">Abū Gharbū‘a</placeName>
+               <placeName xml:id="name683-3" xml:lang="en" source="#bib683-2">ʿAïn Tannūr</placeName>
+               <placeName xml:id="name683-4" xml:lang="en" source="#bib683-2">Abū Gharbūʿa</placeName>
                <placeName xml:id="name683-5" xml:lang="en" source="#bib683-2">Ali Punar</placeName>
                <desc xml:id="abstract-en-683" xml:lang="en"/>
                <location type="nested" source="#bib683-2">

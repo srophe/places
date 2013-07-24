@@ -31,6 +31,10 @@
                <resp>Syriac description entry by</resp>
                <name ref="http://syriaca.org/editors.xml#raydin">Robert Aydin</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -43,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -75,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -89,6 +93,7 @@
                <placeName xml:id="name302-5" xml:lang="ar" source="#bib302-2">بشيريّة</placeName>
                <placeName xml:id="name302-6" xml:lang="ar" source="#bib302-2">اللام</placeName>
                <placeName xml:id="name302-7" xml:lang="en" source="#bib302-3">Bushayriyya</placeName>
+               <placeName xml:id="name302-8" xml:lang="en" source="#bib302-4">Bshīr</placeName>
                <desc xml:id="abstract-en-302" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib302-1">ܘܝܰܘܡܳܢ ܡܶܫܬܰܡܗܐ ܒܶܫܶܝܪܺܝܶܗ ܠܓܰܪܒܰܝ ܐܳܡܝܕ. ܡܰܪܕܶܐ ܬܪܝܢ ܝܰܘܡ̈ܝܢ.</quote>
@@ -99,6 +104,9 @@
                <desc xml:lang="en">
                   <quote source="#bib302-3">a town two day journey north of Diyarbakir.</quote>
                </desc>
+               <location type="nested" source="#bib302-4">
+                  <region ref="http://syriaca.org/place/724">Seert region</region>
+               </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/302</idno>
                <bibl xml:id="bib302-1">
@@ -115,6 +123,12 @@
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">552</citedRange>
+               </bibl>
+               <bibl xml:id="bib302-4">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">85, 86, 92-93, 99</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

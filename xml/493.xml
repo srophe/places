@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Sufniyyin province</title>
+            <title xml:lang="en">Sophene</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
@@ -34,7 +34,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -66,23 +66,23 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-493" type="province">
-               <placeName xml:id="name493-1"
-                          xml:lang="en"
-                          syriaca-tags="#syriaca-headword"
-                          source="#bib493-3">Sufniyyin province</placeName>
+            <place xml:id="place-493" type="region">
+               <placeName xml:id="name493-1" xml:lang="en" syriaca-tags="#syriaca-headword">Sophene</placeName>
                <placeName xml:id="name493-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܬܪܐ ܕܨܘܦܢܝ̈ܐ</placeName>
                <placeName xml:id="name493-3" xml:lang="syr-Syrj" source="#bib493-1">ܐܰܬܪܳܐ ܕܨܘܦܢܳܝ̈ܐ</placeName>
                <placeName xml:id="name493-4" xml:lang="ar" source="#bib493-2">قطر الصوفنيين</placeName>
+               <placeName xml:id="name493-5" xml:lang="en" source="#bib493-3">Sufniyyin province</placeName>
                <desc xml:id="abstract-en-493" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/493</idno>
+               <idno type="URI">http://pleiades.stoa.org/places/874707</idno>
+               <idno type="URI">http://en.wikipedia.org/wiki/Sophene</idno>
                <bibl xml:id="bib493-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>

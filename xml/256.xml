@@ -38,7 +38,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -70,7 +70,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -85,7 +85,7 @@
                <desc xml:id="abstract-en-256" xml:lang="en"/>
                <location type="nested" source="#bib256-2">
                   <region ref="http://syriaca.org/place/783">Ṣapnā district</region>
-                  <region ref="http://syriaca.org/place/703">‘Amādīyā region</region>
+                  <region ref="http://syriaca.org/place/703">ʿAmādīyā region</region>
                </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/256</idno>

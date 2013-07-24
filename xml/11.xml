@@ -43,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -75,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -85,7 +85,7 @@
                <placeName xml:id="name11-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib11-1 #bib11-4">Apamea</placeName>
+                          source="#bib11-1 #bib11-4 #bib11-5">Apamea</placeName>
                <placeName xml:id="name11-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܘܦܡܝܐ</placeName>
                <placeName xml:id="name11-3" xml:lang="syr-Syrj" source="#bib11-2">ܐܘܦܰܡܝܰܐ</placeName>
                <placeName xml:id="name11-4" xml:lang="syr-Syrj" source="#bib11-2">ܩܰܠܥܗ̈ ܐܠܡܨ̇ܝܩ</placeName>
@@ -133,6 +133,12 @@
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">551</citedRange>
+               </bibl>
+               <bibl xml:id="bib11-5">
+                  <title level="a" xml:lang="en">"Apamea"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=A&amp;sK=Apamea&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

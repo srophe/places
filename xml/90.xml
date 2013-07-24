@@ -38,7 +38,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -70,7 +70,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -80,8 +80,8 @@
                <placeName xml:id="name90-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib90-1">Hakkari</placeName>
-               <placeName xml:id="name90-2" xml:lang="en" source="#bib90-2">Hakkārī</placeName>
+                          source="#bib90-1 #bib90-2">Hakkari</placeName>
+               <placeName xml:id="name90-2" xml:lang="en" source="#bib90-3">Hakkārī</placeName>
                <desc xml:id="abstract-en-90" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib90-1">245. Hakkari</quote>
@@ -96,6 +96,12 @@
                   <citedRange unit="maps">Map II C1</citedRange>
                </bibl>
                <bibl xml:id="bib90-2">
+                  <title level="a" xml:lang="en">"Hakkari"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=H&amp;sK=Hakkari&amp;sT=keywords"/>
+               </bibl>
+               <bibl xml:id="bib90-3">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">1, 2, 3, 6, 8, 12, 14, 15, 17, 24, 33, 36, 37, 89, 166, 232, 242, 275, 276-311, 322, 324, 346, 352, 353, 354, 365, 366, 367, 369, 370</citedRange>

@@ -51,7 +51,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -83,7 +83,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -99,7 +99,7 @@
                <placeName xml:id="name221-4" xml:lang="ar" source="#bib221-3">طورعبدين</placeName>
                <placeName xml:id="name221-5" xml:lang="en" source="#bib221-4">Tur ʿAbdin</placeName>
                <placeName xml:id="name221-6" xml:lang="en" source="#bib221-5">Tur Abdin</placeName>
-               <placeName xml:id="name221-7" xml:lang="en" source="#bib221-6">Ṭūr ‘Abdīn</placeName>
+               <placeName xml:id="name221-7" xml:lang="en" source="#bib221-6">Ṭūr ʿAbdīn</placeName>
                <desc xml:id="abstract-en-221" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib221-2">ܛܘܪܐ ܗܘ ܕܡܶܬܚܰܝܕ ܒܛܘܪܳܐ ܕܐܝܙܠܳܐ. ܗܰܘ ܕܚܳܐܪ ܠܰܢܨܝܒܝܢ ܘܟܘܪܰܐ ܗܘ ܕܣܰܓ̈ܝܐܝܳܢ ܕܰܝܪ̈ܳܬܗ ܘܟܘܪ̈ܚܰܘܗܝ. ܘܐܶܡܳܐ ܕܰܡܕܺܝܢ̈ܬܗ ܐܰܬܪܐ ܕܡܶܕܝܰܕ ܕܚܳܕܪܝܢ ܠܗ ܝܰܬܝܪ ܡܶܢ ܚܰܡܫܝܢ ܩܘܪ̈ܝܳܐ ܕܰܬܪܝܢ ܬܘ̈ܠܬܐ ܡܫܝܚ̈ܝܐ ܣܘܪ̈ܝܳܝܐ ܘܰܕܫܰܪܟܐ ܛܰܝܳܝ̈ܐ ܘܝ̣ܺܙ݂ܝܼܕܳܝ̈ܐ. ܘܗܳܠܝܢ ܐܶܢܘܢ ܫܡܳܗ̈ܐ ܕܩܘܪ̈ܝܳܐ ܕܰܕܟܝܪܝܢ ܒܰܟܬܳܒܰܢ ܠܡܰܕܢܚܳܐ ܐܰܢܚܠ. ܦܳܦܝܰܬ. ܩܰܪܛܰܡܝܢ ܠܡܰܥܪܒܳܐ: ܒ̈ܬܶܐ. ܚܰܒܣܢܰܐܣ ܨܰܠܚ ܥܰܪܢܰܐܣ ܥܰܝܢܘܪܕ ܟܰܦܪܳܐ ܟܦܰܪܙܗ ܟܦܰܪܣܠܛܐ. ܟܦܰܪܫܳܡܥ ـ  ܟܰܢܕܝܪܝܒ. ܠܓܰܪܒܝܐ: ܒܶܝܬ ܩܶܣܝܳܢܳܐ. ܚܰܐܚ. ܚܰܣܢ ܟܺܐܦܳܐ. ܕܰܝܪܳܐ ܕܰܨܠܝܒܐ. ܙܰܐܙ ܟܦܰܪܒܘܪܰܐܢ. ܠܬܰܝܡܢܐ: ܐܰܪܒܳܐ ܒܶܝܬܕܶܒ̈ܐ ܒܶܝܬ ܣܒܝܪܝܢܳܐ ܒܶܝܬ ܡܰܢܥܡ ܬܰܡܰܪܙ ܚܒܳܒ. ܣܰܐܪܗ ܐܘ ܐܶܣܬܝܪ ܥܰܪܒܰܐܢ ܡܝܕܘܢ ܘܩܘܪ̈ܝܳܐ ܕܚܰܪ̈ܝܒܳܢ ܘܰܕܠܐ ܝܕܝ̈ܥܳܢ ܕܘܟܝ̈ܬܗܶܝܢ ܚܰܠܚ. ܙܰܒܕܝܩܐ. ܟܦܪܝܰܗܒ. ܒܠܫܬ.</quote>

@@ -47,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -79,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -96,6 +96,9 @@
                </desc>
                <desc xml:lang="ar">
                   <quote source="#bib442-2">من قرى ديار بكر الآهلة بالسريان دمرت في الحرب الماضية.</quote>
+               </desc>
+               <desc xml:lang="en">
+                  <quote source="#bib442-">a village in the vicinity of Diyarbakir which was populated by Syrians. It was destroyed in World War I.</quote>
                </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/442</idno>

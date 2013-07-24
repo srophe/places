@@ -47,7 +47,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -79,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -94,19 +94,21 @@
                <placeName xml:id="name8-3" xml:lang="en" source="#bib8-1">Diyarbakır</placeName>
                <placeName xml:id="name8-4" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܡܝܕ</placeName>
                <placeName xml:id="name8-5" xml:lang="syr-Syrj" source="#bib8-2">ܐܳܡܝ̣ܕ</placeName>
-               <placeName xml:id="name8-6" xml:lang="ar" source="#bib8-3">آمد</placeName>
-               <placeName xml:id="name8-7" xml:lang="en" source="#bib8-4">Diyarbakir</placeName>
-               <placeName xml:id="name8-8" xml:lang="en" source="#bib8-6">Āmid</placeName>
-               <placeName xml:id="name8-9" xml:lang="en" source="#bib8-6">Diyārbakr</placeName>
+               <placeName xml:id="name8-6" xml:lang="syr-Syrj" source="#bib8-2">ܕܝܰܐܪܒܟܶܪ</placeName>
+               <placeName xml:id="name8-7" xml:lang="ar" source="#bib8-3">آمد</placeName>
+               <placeName xml:id="name8-8" xml:lang="ar" source="#bib8-3"> ديار بكر</placeName>
+               <placeName xml:id="name8-9" xml:lang="en" source="#bib8-4">Diyarbakir</placeName>
+               <placeName xml:id="name8-10" xml:lang="en" source="#bib8-6">Āmid</placeName>
+               <placeName xml:id="name8-11" xml:lang="en" source="#bib8-6">Diyārbakr</placeName>
                <desc xml:id="abstract-en-8" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib8-1">32. Amid</quote>
                </desc>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib8-2">ܕܝܰܐܪܒܟܶܪ ܡܕܺܝܢܬܐ ܚܰܣܝ̣ܢܬܐ ܕܕܶܩܠܰܬ ܚܳܕܰܪ ܠܣܘܓܐܗ̇.</quote>
+                  <quote source="#bib8-2">ܡܕܺܝܢܬܐ ܚܰܣܝ̣ܢܬܐ ܕܕܶܩܠܰܬ ܚܳܕܰܪ ܠܣܘܓܐܗ̇.</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib8-3"> ديار بكر مدينة قديمة حصينة دجلة محيطة باكثرها</quote>
+                  <quote source="#bib8-3">مدينة قديمة حصينة دجلة محيطة باكثرها</quote>
                </desc>
                <desc xml:lang="en">
                   <quote source="#bib8-4">an ancient fortified city, virtually surrounded by the Tigris.</quote>

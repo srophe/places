@@ -51,7 +51,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -83,7 +83,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -103,8 +103,8 @@
                <placeName xml:id="name25-5" xml:lang="ar" source="#bib25-3">عقر الحميدية</placeName>
                <placeName xml:id="name25-6" xml:lang="en" source="#bib25-4">ʿAqr</placeName>
                <placeName xml:id="name25-7" xml:lang="en" source="#bib25-4">ʿAqr al-Ḥumaydiyya</placeName>
-               <placeName xml:id="name25-8" xml:lang="en" source="#bib25-5">‘Aqrā</placeName>
-               <placeName xml:id="name25-9" xml:lang="en" source="#bib25-5">‘Eqrā</placeName>
+               <placeName xml:id="name25-8" xml:lang="en" source="#bib25-5">ʿAqrā</placeName>
+               <placeName xml:id="name25-9" xml:lang="en" source="#bib25-5">ʿEqrā</placeName>
                <desc xml:id="abstract-en-25" xml:lang="en">A town east of the Tigris and north of the Great Zab in northern Iraq.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib25-2">ܩܶܠܥܳܐ ܕܰܒܛܘܪܐ ܕܡܘܨܠ. ܘܰܠܡܰܕܢܚܳܗ̇ ܡܰܪܕܶܐ ܬܪܶܝܢ ܝܰܘ̈ܡܝܢ ܡܶܬܝܰܕܥܳܐ ܗܘܳܬ ܥܰܩܪ ܚܘܡܰܝܕܝܗ. </quote>

@@ -43,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -75,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -91,19 +91,19 @@
                <placeName xml:id="name286-4" xml:lang="syr-Syrj" source="#bib286-1">ܫܡܺܝܫܰܛ</placeName>
                <placeName xml:id="name286-5" xml:lang="ar" source="#bib286-2">ارشميشاط</placeName>
                <placeName xml:id="name286-6" xml:lang="ar" source="#bib286-2">شمشاط</placeName>
+               <placeName xml:id="name286-7" xml:lang="en" source="#bib286-3">Samosata</placeName>
                <desc xml:id="abstract-en-286" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib286-1">ܡܕܺܝܢܬܐ ܕܥܠ ܣܦܳܪ̈ܝ ܦܪܳܬ ܠܡܰܕܢܰܚ ܒܰܐܠܘ ܘܰܠܡܰܥܪܰܒ ܟܰܪܒܘܬ</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib286-2">او شمشاط مدينة كانت بالروم على شاطئ الفرات شرقيها بالو وغربيها خربوت في طرف ارمينية</quote>
-               </desc>
-               <desc xml:lang="en">
-                  <quote source="#bib286-3">a village in the vicinity of Diyarbakir which was populated by Syrians. It was destroyed in World War I.</quote>
+                  <quote source="#bib286-2">مدينة كانت بالروم على شاطئ الفرات شرقيها بالو وغربيها خربوت في طرف ارمينية</quote>
                </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/286</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874354</idno>
+               <idno type="URI">http://en.wikipedia.org/wiki/Arsamosata</idno>
+               <idno type="URI">http://dbpedia.org/page/Arsamosata</idno>
                <bibl xml:id="bib286-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
@@ -117,7 +117,7 @@
                <bibl xml:id="bib286-3">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
-                  <citedRange unit="pp">551</citedRange>
+                  <citedRange unit="pp">551, 558</citedRange>
                </bibl>
             </place>
          </listPlace>

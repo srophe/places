@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Anhil</title>
+            <title xml:lang="en">Anḥil</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
@@ -27,6 +27,10 @@
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -39,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -81,14 +85,18 @@
                <placeName xml:id="name24-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib24-1">Anhil</placeName>
-               <placeName xml:id="name24-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܢܚܠ</placeName>
-               <placeName xml:id="name24-3" xml:lang="syr-Syrj" source="#bib24-2">ܐܰܢܚܠ</placeName>
-               <placeName xml:id="name24-4" xml:lang="ar" source="#bib24-3">انحل</placeName>
-               <placeName xml:id="name24-5" xml:lang="en" source="#bib24-4">Anḥil</placeName>
-               <desc xml:id="abstract-en-24" xml:lang="en">A village in Ṭur ʿAbdin.</desc>
+                          source="#bib24-4">Anḥil</placeName>
+               <placeName xml:id="name24-2" xml:lang="en" source="#bib24-1">Anhil</placeName>
+               <placeName xml:id="name24-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܢܚܠ</placeName>
+               <placeName xml:id="name24-4" xml:lang="syr-Syrj" source="#bib24-2">ܐܰܢܚܠ</placeName>
+               <placeName xml:id="name24-5" xml:lang="ar" source="#bib24-3">انحل</placeName>
+               <placeName xml:id="name24-6" xml:lang="en" source="#bib24-5">Enḥel</placeName>
+               <desc xml:id="abstract-en-24" xml:lang="en">A village in &lt;placeName ref="http://syriaca.org/place/221"&gt;Ṭur ʿAbdin&lt;/placeName&gt;.</desc>
                <location type="gps" source="#bib24-1">
                   <geo>37.33 41.34</geo>
+               </location>
+               <location type="nested" source="#bib24-5">
+                  <region ref="http://syriaca.org/place/221">Ṭūr ʿAbdīn</region>
                </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/24</idno>
@@ -113,6 +121,12 @@
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">559</citedRange>
+               </bibl>
+               <bibl xml:id="bib24-5">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">47</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

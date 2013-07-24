@@ -38,7 +38,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -70,7 +70,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -81,9 +81,10 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib254-1">Berwari</placeName>
-               <placeName xml:id="name254-2" xml:lang="en" source="#bib254-2">Berwārī</placeName>
-               <placeName xml:id="name254-3" xml:lang="en" source="#bib254-2">Beṯ Tannūrā</placeName>
-               <placeName xml:id="name254-4" xml:lang="en" source="#bib254-2">Julmar</placeName>
+               <placeName xml:id="name254-2" xml:lang="en" source="#bib254-2">Barwar</placeName>
+               <placeName xml:id="name254-3" xml:lang="en" source="#bib254-3">Berwārī</placeName>
+               <placeName xml:id="name254-4" xml:lang="en" source="#bib254-3">Beṯ Tannūrā</placeName>
+               <placeName xml:id="name254-5" xml:lang="en" source="#bib254-3">Julmar</placeName>
                <desc xml:id="abstract-en-254" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/254</idno>
@@ -95,6 +96,12 @@
                   <citedRange unit="maps">Map IV</citedRange>
                </bibl>
                <bibl xml:id="bib254-2">
+                  <title level="a" xml:lang="en">"Barwar"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Barwar&amp;sT=keywords"/>
+               </bibl>
+               <bibl xml:id="bib254-3">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">8, 14, 125, 126, 128, 132, 138, 139, 148-151, 166, 202, 260, 275, 276, 284, 287, 290, 346, 351, 352, 354, 357, 365, 366, 368</citedRange>

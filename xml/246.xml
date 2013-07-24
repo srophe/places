@@ -22,6 +22,10 @@
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -34,7 +38,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -66,7 +70,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -77,13 +81,24 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib246-1">Khosrowa</placeName>
+               <placeName xml:id="name246-2" xml:lang="en" source="#bib246-2">Khosrōwā</placeName>
                <desc xml:id="abstract-en-246" xml:lang="en"/>
+               <location type="nested" source="#bib246-2">
+                  <region ref="http://syriaca.org/place/775">Salmas district</region>
+                  <region ref="http://syriaca.org/place/729">Ūrmī region</region>
+               </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/246</idno>
                <bibl xml:id="bib246-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map IV</citedRange>
+               </bibl>
+               <bibl xml:id="bib246-2">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">25, 34, 89, 106, 222, 268, 270, 273, 304, 315, 316, 317, 324, 326, 327, 328, 338</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

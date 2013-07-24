@@ -34,7 +34,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -66,7 +66,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -77,6 +77,7 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib687-1">Babisqa</placeName>
+               <placeName xml:id="name687-2" xml:lang="en" source="#bib687-2">Babiska</placeName>
                <desc xml:id="abstract-en-687" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/687</idno>
@@ -85,6 +86,12 @@
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="pp">209</citedRange>
+               </bibl>
+               <bibl xml:id="bib687-2">
+                  <title level="a" xml:lang="en">"Babiska"</title>
+                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <ptr target="http://syriaca.org/bibl/5"/>
+                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Babiska&amp;sT=keywords"/>
                </bibl>
             </place>
          </listPlace>

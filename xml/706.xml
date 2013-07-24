@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">‘Īlām</title>
+            <title xml:lang="en">ʿĪlām</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
@@ -38,7 +38,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -70,7 +70,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -80,7 +80,7 @@
                <placeName xml:id="name706-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib706-1">‘Īlām</placeName>
+                          source="#bib706-1">ʿĪlām</placeName>
                <desc xml:id="abstract-en-706" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/706</idno>

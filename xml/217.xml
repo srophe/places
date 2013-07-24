@@ -27,6 +27,10 @@
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -39,7 +43,7 @@
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
                                     </licence>
             </availability>
-            <date>2013-07-22-04:00</date>
+            <date>2013-07-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +75,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-22-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -85,7 +89,11 @@
                <placeName xml:id="name217-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܚܐܚ</placeName>
                <placeName xml:id="name217-3" xml:lang="syr-Syrj" source="#bib217-2">ܚܰܐܚ</placeName>
                <placeName xml:id="name217-4" xml:lang="ar" source="#bib217-3">حاج</placeName>
+               <placeName xml:id="name217-5" xml:lang="en" source="#bib217-5">Hāḥ</placeName>
                <desc xml:id="abstract-en-217" xml:lang="en"/>
+               <location type="nested" source="#bib217-5">
+                  <region ref="http://syriaca.org/place/188">Seert region</region>
+               </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/217</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874496</idno>
@@ -108,6 +116,12 @@
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">559</citedRange>
+               </bibl>
+               <bibl xml:id="bib217-5">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">90</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>
