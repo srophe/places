@@ -10,7 +10,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Mor Behnam Hermitage</title>
+            <title level="a" xml:lang="en">Mor Behnam Hermitage (monastery) — ܚܒܝ̈ܫܝܬܐ ܕܡܪܝ ܒܗܢܡ (ܘܡܪܝ ܝܘܣܦ)</title>
+            <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
@@ -28,13 +29,15 @@
          </editionStmt>
          <publicationStmt>
             <authority>Syriaca.org: The Syriac Reference Portal</authority>
-            <idno type="URI">http://syriaca.org/place/658/source</idno>
+            <idno type="URI">http://syriaca.org/place/658/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                                         Distributed under a Creative Commons Attribution 3.0 Unported License
+                                        This entry incorporates copyrighted material from the following work(s):
+                                        I.A. Barsoum, The Scattered Pearls, © 1991 Bar Hebraeus Verlag (used under a Creative Commons Attribution license: http://creativecommons.org/licenses/by/3.0/).
                                     </licence>
             </availability>
-            <date>2013-07-11-04:00</date>
+            <date>2013-07-24</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -66,6 +69,8 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24">ADDED: License for Barsoum data</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24">FIXED: document titles and source URI</change>
          <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15">FIXED: <gi>precision</gi> element in <gi>state</gi> of @type="existence" </change>
          <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11">ADDED: relative location and cross-reference in abstract</change>
          <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>

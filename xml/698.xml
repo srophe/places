@@ -10,7 +10,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Filastīn</title>
+            <title level="a" xml:lang="en">Filastīn (region)
+                                    
+                                        — ܦܠܫܬ</title>
+            <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
@@ -32,11 +35,15 @@
          </editionStmt>
          <publicationStmt>
             <authority>Syriaca.org: The Syriac Reference Portal</authority>
-            <idno type="URI">http://syriaca.org/place/698/source</idno>
+            <idno type="URI">http://syriaca.org/place/698/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
-                                        Distributed under a Creative Commons Attribution 3.0 Unported License
-                                    </licence>
+                                        Distributed under a Creative Commons Attribution 3.0 Unported License.
+                                        
+                                        
+                                        This entry incorporates copyrighted material from the following work(s):
+                                        I.A. Barsoum, The Scattered Pearls, © 1991 Bar Hebraeus Verlag (used under a Creative Commons Attribution license: http://creativecommons.org/licenses/by/3.0/).
+                                        </licence>
             </availability>
             <date>2013-07-24-04:00</date>
          </publicationStmt>
@@ -90,6 +97,9 @@
                <idno type="URI">http://pleiades.stoa.org/places/687995</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Palestine</idno>
                <idno type="URI">http://dbpedia.org/resource/Palestine</idno>
+               <idno type="URI">
+                                            http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=P&amp;sK=Palestine&amp;sT=keywords
+                                        </idno>
                <bibl xml:id="bib698-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
@@ -106,10 +116,10 @@
                   <citedRange unit="pp">553</citedRange>
                </bibl>
                <bibl xml:id="bib698-4">
-                  <title level="a" xml:lang="en">"Palestine"</title>
-                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
-                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=P&amp;sK=Palestine&amp;sT=keywords"/>
+                  <citedRange unit="entry"
+                              target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=P&amp;sK=Palestine&amp;sT=keywords">Palestine</citedRange>
                </bibl>
                <bibl xml:id="bib698-5">
                   <author>David Wilmshurst</author>

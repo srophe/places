@@ -10,7 +10,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Ethiopia</title>
+            <title level="a" xml:lang="en">Ethiopia (state)
+                                    </title>
+            <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
@@ -28,11 +30,12 @@
          </editionStmt>
          <publicationStmt>
             <authority>Syriaca.org: The Syriac Reference Portal</authority>
-            <idno type="URI">http://syriaca.org/place/590/source</idno>
+            <idno type="URI">http://syriaca.org/place/590/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
-                                        Distributed under a Creative Commons Attribution 3.0 Unported License
-                                    </licence>
+                                        Distributed under a Creative Commons Attribution 3.0 Unported License.
+                                        
+                                        </licence>
             </availability>
             <date>2013-07-24-04:00</date>
          </publicationStmt>
@@ -82,11 +85,14 @@
                <idno type="URI">http://syriaca.org/place/590</idno>
                <idno type="URI">http://pleiades.stoa.org/places/39274</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Ethiopia</idno>
+               <idno type="URI">
+                                            http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=E&amp;sK=Ethiopia&amp;sT=keywords
+                                        </idno>
                <bibl xml:id="bib590-1">
-                  <title level="a" xml:lang="en">"Ethiopia"</title>
-                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
-                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=E&amp;sK=Ethiopia&amp;sT=keywords"/>
+                  <citedRange unit="entry"
+                              target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=E&amp;sK=Ethiopia&amp;sT=keywords">Ethiopia</citedRange>
                </bibl>
             </place>
          </listPlace>

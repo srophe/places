@@ -10,7 +10,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Ḥirta</title>
+            <title level="a" xml:lang="en">Ḥirta (settlement)
+                                    
+                                        — ܚܐܪܬܐ</title>
+            <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
@@ -41,11 +44,15 @@
          </editionStmt>
          <publicationStmt>
             <authority>Syriaca.org: The Syriac Reference Portal</authority>
-            <idno type="URI">http://syriaca.org/place/219/source</idno>
+            <idno type="URI">http://syriaca.org/place/219/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
-                                        Distributed under a Creative Commons Attribution 3.0 Unported License
-                                    </licence>
+                                        Distributed under a Creative Commons Attribution 3.0 Unported License.
+                                        
+                                        
+                                        This entry incorporates copyrighted material from the following work(s):
+                                        I.A. Barsoum, The Scattered Pearls, © 1991 Bar Hebraeus Verlag (used under a Creative Commons Attribution license: http://creativecommons.org/licenses/by/3.0/).
+                                        </licence>
             </availability>
             <date>2013-07-24-04:00</date>
          </publicationStmt>
@@ -120,6 +127,9 @@
                <idno type="URI">http://pleiades.stoa.org/places/912800</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Al-Hirah</idno>
                <idno type="URI">http://dbpedia.org/resource/Al-Hirah</idno>
+               <idno type="URI">
+                                            http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=H&amp;sK=Hira&amp;sT=keywords
+                                        </idno>
                <bibl xml:id="bib219-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
@@ -141,10 +151,10 @@
                   <citedRange unit="pp">554</citedRange>
                </bibl>
                <bibl xml:id="bib219-5">
-                  <title level="a" xml:lang="en">"Hira"</title>
-                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
-                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=H&amp;sK=Hira&amp;sT=keywords"/>
+                  <citedRange unit="entry"
+                              target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=H&amp;sK=Hira&amp;sT=keywords">Hira</citedRange>
                </bibl>
                <bibl xml:id="bib219-6">
                   <author>David Wilmshurst</author>

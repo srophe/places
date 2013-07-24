@@ -5,7 +5,7 @@
         <Name>Ṣalaḥ</Name>
         <Place_ID>2</Place_ID>
         <Category>settlement</Category>
-        <Abstract>A village in &lt;placeName ref="http://syriaca.org/place/221">Ṭur ʿAbdin&lt;/placeName>.</Abstract>
+        <Abstract>A village in <placeName ref="http://syriaca.org/place/221">Ṭur ʿAbdin</placeName>.</Abstract>
         <Existence_BeginsAfter></Existence_BeginsAfter>
         <Existence_BeginsBefore></Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>
@@ -54,7 +54,7 @@
         <Name>Ṣawro</Name>
         <Place_ID>4</Place_ID>
         <Category>settlement</Category>
-        <Abstract>A village in &lt;placeName ref="http://syriaca.org/place/221">Ṭur ʿAbdin&lt;/placeName>.</Abstract>
+        <Abstract>A village in <placeName ref="http://syriaca.org/place/221">Ṭur ʿAbdin</placeName>.</Abstract>
         <Existence_BeginsAfter></Existence_BeginsAfter>
         <Existence_BeginsBefore></Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>
@@ -936,7 +936,7 @@
         <Name>Anḥil</Name>
         <Place_ID>24</Place_ID>
         <Category>settlement</Category>
-        <Abstract>A village in &lt;placeName ref="http://syriaca.org/place/221">Ṭur ʿAbdin&lt;/placeName>.</Abstract>
+        <Abstract>A village in <placeName ref="http://syriaca.org/place/221">Ṭur ʿAbdin</placeName>.</Abstract>
         <Existence_BeginsAfter></Existence_BeginsAfter>
         <Existence_BeginsBefore></Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>
@@ -1132,7 +1132,7 @@
         <Name>Aynwardo</Name>
         <Place_ID>29</Place_ID>
         <Category>settlement</Category>
-        <Abstract>A village in &lt;placeName ref="http://syriaca.org/place/221">Ṭur ʿAbdin&lt;/placeName>.</Abstract>
+        <Abstract>A village in <placeName ref="http://syriaca.org/place/221">Ṭur ʿAbdin</placeName>.</Abstract>
         <Existence_BeginsAfter></Existence_BeginsAfter>
         <Existence_BeginsBefore></Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>
@@ -2112,7 +2112,7 @@
         <Name>Beth Sbirino</Name>
         <Place_ID>49</Place_ID>
         <Category>settlement</Category>
-        <Abstract>A village in &lt;placeName ref="http://syriaca.org/place/221">Ṭur ʿAbdin&lt;/placeName>.</Abstract>
+        <Abstract>A village in <placeName ref="http://syriaca.org/place/221">Ṭur ʿAbdin</placeName>.</Abstract>
         <Existence_BeginsAfter></Existence_BeginsAfter>
         <Existence_BeginsBefore></Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>

@@ -10,7 +10,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Beth Garmai</title>
+            <title level="a" xml:lang="en">Beth Garmai (diocese)
+                                    
+                                        — ܒܝܬ ܓܪ̈ܡܝ</title>
+            <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
@@ -33,11 +36,15 @@
          </editionStmt>
          <publicationStmt>
             <authority>Syriaca.org: The Syriac Reference Portal</authority>
-            <idno type="URI">http://syriaca.org/place/33/source</idno>
+            <idno type="URI">http://syriaca.org/place/33/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
-                                        Distributed under a Creative Commons Attribution 3.0 Unported License
-                                    </licence>
+                                        Distributed under a Creative Commons Attribution 3.0 Unported License.
+                                        
+                                        
+                                        This entry incorporates copyrighted material from the following work(s):
+                                        I.A. Barsoum, The Scattered Pearls, © 1991 Bar Hebraeus Verlag (used under a Creative Commons Attribution license: http://creativecommons.org/licenses/by/3.0/).
+                                        </licence>
             </availability>
             <date>2013-07-24-04:00</date>
          </publicationStmt>
@@ -96,6 +103,9 @@
                <idno type="URI">http://pleiades.stoa.org/places/893999</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Beth_Garmaï_(East_Syrian_Ecclesiastical_Province)</idno>
                <idno type="URI">http://dbpedia.org/resource/Beth_Garmaï_(East_Syrian_Ecclesiastical_Province)</idno>
+               <idno type="URI">
+                                            http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Bet Garmai&amp;sT=keywords
+                                        </idno>
                <bibl xml:id="bib33-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
@@ -117,10 +127,10 @@
                   <citedRange unit="pp">559</citedRange>
                </bibl>
                <bibl xml:id="bib33-5">
-                  <title level="a" xml:lang="en">"Bet Garmai"</title>
-                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
-                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Bet Garmai&amp;sT=keywords"/>
+                  <citedRange unit="entry"
+                              target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Bet Garmai&amp;sT=keywords">Bet Garmai</citedRange>
                </bibl>
             </place>
          </listPlace>

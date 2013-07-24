@@ -10,7 +10,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Ṣawro</title>
+            <title level="a" xml:lang="en">Ṣawro (settlement)
+                                    
+                                        — ܨܘܪܐ</title>
+            <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
@@ -41,11 +44,15 @@
          </editionStmt>
          <publicationStmt>
             <authority>Syriaca.org: The Syriac Reference Portal</authority>
-            <idno type="URI">http://syriaca.org/place/4/source</idno>
+            <idno type="URI">http://syriaca.org/place/4/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
-                                        Distributed under a Creative Commons Attribution 3.0 Unported License
-                                    </licence>
+                                        Distributed under a Creative Commons Attribution 3.0 Unported License.
+                                        
+                                        
+                                        This entry incorporates copyrighted material from the following work(s):
+                                        I.A. Barsoum, The Scattered Pearls, © 1991 Bar Hebraeus Verlag (used under a Creative Commons Attribution license: http://creativecommons.org/licenses/by/3.0/).
+                                        </licence>
             </availability>
             <date>2013-07-24-04:00</date>
          </publicationStmt>
@@ -94,7 +101,7 @@
                <placeName xml:id="name4-3" xml:lang="syr-Syrj" source="#bib4-2">ܨܰܘܪܐ</placeName>
                <placeName xml:id="name4-4" xml:lang="ar" source="#bib4-3">الصور</placeName>
                <placeName xml:id="name4-5" xml:lang="en" source="#bib4-4">Ṣawr</placeName>
-               <desc xml:id="abstract-en-4" xml:lang="en">A village in &lt;placeName ref="http://syriaca.org/place/221"&gt;Ṭur ʿAbdin&lt;/placeName&gt;.</desc>
+               <desc xml:id="abstract-en-4" xml:lang="en">A village in Ṭur ʿAbdin.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib4-2">ܐܰܬܪܐ ܘܩܶܠܥܳܐ ܕܰܠܓܰܪܒܝ ܡܰܕܢܰܚ ܡܰܪܕܝܢ ܡܰܪܕܶܐ ܝܰܘܡܳܐ</quote>
                </desc>

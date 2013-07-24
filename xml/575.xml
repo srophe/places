@@ -10,7 +10,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Ancient Near East</title>
+            <title level="a" xml:lang="en">Ancient Near East (region)
+                                    </title>
+            <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
             <funder>The International Balzan Prize Foundation</funder>
@@ -28,11 +30,12 @@
          </editionStmt>
          <publicationStmt>
             <authority>Syriaca.org: The Syriac Reference Portal</authority>
-            <idno type="URI">http://syriaca.org/place/575/source</idno>
+            <idno type="URI">http://syriaca.org/place/575/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
-                                        Distributed under a Creative Commons Attribution 3.0 Unported License
-                                    </licence>
+                                        Distributed under a Creative Commons Attribution 3.0 Unported License.
+                                        
+                                        </licence>
             </availability>
             <date>2013-07-24-04:00</date>
          </publicationStmt>
@@ -81,11 +84,14 @@
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/575</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Ancient_Near_East</idno>
+               <idno type="URI">
+                                            http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=A&amp;sK=Ancient Near East&amp;sT=keywords
+                                        </idno>
                <bibl xml:id="bib575-1">
-                  <title level="a" xml:lang="en">"Ancient Near East"</title>
-                  <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                  <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
-                  <ref target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=A&amp;sK=Ancient Near East&amp;sT=keywords"/>
+                  <citedRange unit="entry"
+                              target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=A&amp;sK=Ancient Near East&amp;sT=keywords">Ancient Near East</citedRange>
                </bibl>
             </place>
          </listPlace>

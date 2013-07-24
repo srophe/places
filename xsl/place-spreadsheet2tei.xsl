@@ -48,7 +48,13 @@
                     <teiHeader>
                         <fileDesc>
                             <titleStmt>
-                                <title xml:lang="en"><xsl:value-of select="Name"/></title>
+                                <title level="a" xml:lang="en">
+                                    <xsl:value-of select="Name"/> (<xsl:value-of select="Category"/>)
+                                    <xsl:if test="string-length(normalize-space(Barsoum_Syriac_Name))">
+                                        — <xsl:value-of select="Barsoum_Syriac_Name"/>
+                                    </xsl:if>
+                                </title>
+                                <title level="m" xml:lang="en">The Syriac Gazetteer</title>
                                 <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
                                 <funder>The National Endowment for the Humanities</funder>
                                 <funder>The International Balzan Prize Foundation</funder>
@@ -92,10 +98,15 @@
                             </editionStmt>
                             <publicationStmt>
                                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                                <idno type="URI">http://syriaca.org/place/<xsl:value-of select="Place_ID"/>/source</idno>
+                                <idno type="URI">http://syriaca.org/place/<xsl:value-of select="Place_ID"/>/tei</idno>
                                 <availability>
                                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                                        Distributed under a Creative Commons Attribution 3.0 Unported License
+                                        Distributed under a Creative Commons Attribution 3.0 Unported License.
+                                        
+                                        <xsl:if test="exists(*[matches(name(),'Barsoum') and string-length(normalize-space(node()))])">
+                                        This entry incorporates copyrighted material from the following work(s):
+                                        I.A. Barsoum, The Scattered Pearls, © 1991 Bar Hebraeus Verlag (used under a Creative Commons Attribution license: http://creativecommons.org/licenses/by/3.0/).
+                                        </xsl:if>
                                     </licence>
                                 </availability>
                                 <date><xsl:value-of select="current-date()"></xsl:value-of></date>
@@ -461,6 +472,11 @@
                                     <xsl:if test="DBpedia_URI != ''">
                                         <idno type="URI"><xsl:value-of select="DBpedia_URI"/></idno>
                                     </xsl:if>
+                                    <xsl:for-each select="tokenize(CBSC_Keyword,'; ')">
+                                        <idno type="URI">
+                                            http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=<xsl:value-of select="substring(.,1,1)"/>&amp;sK=<xsl:value-of select="."/>&amp;sT=keywords
+                                        </idno>
+                                    </xsl:for-each>
                                     
                                     <!-- Insert the <bibl> elements -->
                                     <xsl:if test="exists(index-of($sources,'GEDSH'))">
@@ -503,13 +519,13 @@
                                     <xsl:if test="exists(index-of($sources,'CBSC-Keyword'))">
                                         <bibl>
                                             <xsl:attribute name="xml:id"><xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'CBSC-Keyword')"/></xsl:attribute>
-                                            <title level="a" xml:lang="en">"<xsl:value-of select="replace(CBSC_Keyword,'; ','&quot;, &quot;')"/>"</title>
-                                            <title level="m" xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                                            <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                                             <ptr target="http://syriaca.org/bibl/5"/>
                                             <xsl:for-each select="tokenize(CBSC_Keyword,'; ')">
-                                                <ref>
+                                                <citedRange unit="entry">
                                                     <xsl:attribute name="target">http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=<xsl:value-of select="substring(.,1,1)"/>&amp;sK=<xsl:value-of select="."/>&amp;sT=keywords</xsl:attribute>
-                                                </ref>
+                                                    <xsl:value-of select="."/>
+                                                </citedRange>
                                             </xsl:for-each>
                                         </bibl>
                                     </xsl:if>
