@@ -12,7 +12,8 @@
          <titleStmt>
             <title level="a" xml:lang="en">Tigris (river)
                                     
-                                        — ܕܩܠܬ</title>
+                                        — <foreign xml:lang="syr">ܕܩܠܬ</foreign>
+            </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -46,7 +47,7 @@
                                         I.A. Barsoum, The Scattered Pearls, © 1991 Bar Hebraeus Verlag (used under a Creative Commons Attribution license: http://creativecommons.org/licenses/by/3.0/).
                                         </licence>
             </availability>
-            <date>2013-07-24-04:00</date>
+            <date>2013-07-28-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -78,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-28-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>

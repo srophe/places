@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Mor Behnam Hermitage (monastery) — ܚܒܝ̈ܫܝܬܐ ܕܡܪܝ ܒܗܢܡ (ܘܡܪܝ ܝܘܣܦ)</title>
+            <title level="a" xml:lang="en">Mor Behnam Hermitage (monastery) — <foreign xml:lang="syr">ܚܒܝ̈ܫܝܬܐ ܕܡܪܝ ܒܗܢܡ (ܘܡܪܝ ܝܘܣܦ)</foreign></title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -37,7 +37,7 @@
                                         I.A. Barsoum, The Scattered Pearls, © 1991 Bar Hebraeus Verlag (used under a Creative Commons Attribution license: http://creativecommons.org/licenses/by/3.0/).
                                     </licence>
             </availability>
-            <date>2013-07-24</date>
+            <date>2013-07-28</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -69,6 +69,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-28">ADDED: formattable markup to <gi>title</gi> and <gi>license</gi> </change>
          <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24">ADDED: License for Barsoum data</change>
          <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24">FIXED: document titles and source URI</change>
          <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15">FIXED: <gi>precision</gi> element in <gi>state</gi> of @type="existence" </change>

@@ -51,7 +51,7 @@
                                 <title level="a" xml:lang="en">
                                     <xsl:value-of select="Name"/> (<xsl:value-of select="Category"/>)
                                     <xsl:if test="string-length(normalize-space(Barsoum_Syriac_Name))">
-                                        — <xsl:value-of select="Barsoum_Syriac_Name"/>
+                                        — <foreign xml:lang="syr"><xsl:value-of select="Barsoum_Syriac_Name"/></foreign>
                                     </xsl:if>
                                 </title>
                                 <title level="m" xml:lang="en">The Syriac Gazetteer</title>
