@@ -39,6 +39,32 @@
                     <xsl:text>href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"</xsl:text>
                 </xsl:processing-instruction>
                 <xsl:value-of select="$n"/>
+                
+                <!-- determine which sources will need to be cited; to be used in header formation as well -->
+                <xsl:variable name="bib-prefix">bib<xsl:value-of select="Place_ID"/>-</xsl:variable>
+                <xsl:variable name="sources" as="xs:string*">
+                    <xsl:if test="GEDSH_Name != ''">
+                        <xsl:sequence select="('GEDSH')"/>
+                    </xsl:if>
+                    <xsl:if test="Barsoum_Syriac_Name != ''">
+                        <xsl:sequence select="('Barsoum-Syriac')"/>
+                    </xsl:if>
+                    <xsl:if test="Barsoum_Arabic_Name != ''">
+                        <xsl:sequence select="('Barsoum-Arabic')"/>
+                    </xsl:if>
+                    <xsl:if test="Barsoum_English_Name != ''">
+                        <xsl:sequence select="('Barsoum-English')"/>
+                    </xsl:if>
+                    <xsl:if test="CBSC_Keyword != ''">
+                        <xsl:sequence select="('CBSC-Keyword')"/>
+                    </xsl:if>
+                    <xsl:if test="Wilmshurst_Names != ''">
+                        <xsl:sequence select="('Wilmshurst')"/>
+                    </xsl:if>
+                </xsl:variable>
+                <!-- therefore the xml:id of the <bibl> element representing a source is $bib-prefix followed by the index of the source name in the $sources sequence -->
+                <!-- and the citation format is #<xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'GEDSH')"/> for GEDSH, etc. -->
+                
                 <TEI
                     xml:lang="en"
                     xmlns:xi="http://www.w3.org/2001/XInclude"
@@ -101,11 +127,27 @@
                                 <idno type="URI">http://syriaca.org/place/<xsl:value-of select="Place_ID"/>/tei</idno>
                                 <availability>
                                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                                        Distributed under a Creative Commons Attribution 3.0 Unported License.
-                                        
-                                        <xsl:if test="exists(*[matches(name(),'Barsoum') and string-length(normalize-space(node()))])">
-                                        This entry incorporates copyrighted material from the following work(s):
-                                        I.A. Barsoum, The Scattered Pearls, © 1991 Bar Hebraeus Verlag (used under a Creative Commons Attribution license: http://creativecommons.org/licenses/by/3.0/).
+                                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                                        <xsl:if test="Barsoum_Syriac_Name != '' or Barsoum_Arabic_Name != ''">
+                                            <p>This entry incorporates copyrighted material from the following work(s):
+                                                <listBibl>
+                                                    <xsl:if test="Barsoum_Syriac_Name != ''">
+                                                        <bibl>
+                                                            <ptr>
+                                                                <xsl:attribute name="target">#<xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'Barsoum-Syriac')"/></xsl:attribute>
+                                                            </ptr>
+                                                        </bibl>
+                                                    </xsl:if>
+                                                    <xsl:if test="Barsoum_Arabic_Name != ''">
+                                                        <bibl>
+                                                            <ptr>
+                                                                <xsl:attribute name="target">#<xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'Barsoum-Arabic')"/></xsl:attribute>
+                                                            </ptr>
+                                                        </bibl>
+                                                    </xsl:if>
+                                                </listBibl>
+                                                <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/></note>
+                                            </p>
                                         </xsl:if>
                                     </licence>
                                 </availability>
@@ -150,32 +192,7 @@
                                 <place>
                                     <xsl:attribute name="xml:id">place-<xsl:value-of select="Place_ID"/></xsl:attribute>
                                     <xsl:attribute name="type"><xsl:value-of select="Category"/></xsl:attribute>
-                                    
-                                    <!-- determine which sources will need to be cited -->
-                                    <xsl:variable name="bib-prefix">bib<xsl:value-of select="Place_ID"/>-</xsl:variable>
-                                    <xsl:variable name="sources" as="xs:string*">
-                                        <xsl:if test="GEDSH_Name != ''">
-                                            <xsl:sequence select="('GEDSH')"/>
-                                        </xsl:if>
-                                        <xsl:if test="Barsoum_Syriac_Name != ''">
-                                            <xsl:sequence select="('Barsoum-Syriac')"/>
-                                        </xsl:if>
-                                        <xsl:if test="Barsoum_Arabic_Name != ''">
-                                            <xsl:sequence select="('Barsoum-Arabic')"/>
-                                        </xsl:if>
-                                        <xsl:if test="Barsoum_English_Name != ''">
-                                            <xsl:sequence select="('Barsoum-English')"/>
-                                        </xsl:if>
-                                        <xsl:if test="CBSC_Keyword != ''">
-                                            <xsl:sequence select="('CBSC-Keyword')"/>
-                                        </xsl:if>
-                                        <xsl:if test="Wilmshurst_Names != ''">
-                                            <xsl:sequence select="('Wilmshurst')"/>
-                                        </xsl:if>
-                                    </xsl:variable>
-                                    <!-- therefore the xml:id of the <bibl> element representing a source is $bib-prefix followed by the index of the source name in the $sources sequence -->
-                                    <!-- and the citation format is #<xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'GEDSH')"/> for GEDSH, etc. -->
-                                    
+                                                                        
                                     <!-- DEAL WITH PLACE NAMES -->
                                     <!-- create one <placeName> per name form, with @source citing multiple sources as necessary -->
                                     <!-- to do that, first we need to create a sequence of all name forms, then remove duplicates -->

@@ -35,12 +35,20 @@
             <idno type="URI">http://syriaca.org/place/542/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
-                                        Distributed under a Creative Commons Attribution 3.0 Unported License.
-                                        
-                                        
-                                        This entry incorporates copyrighted material from the following work(s):
-                                        I.A. Barsoum, The Scattered Pearls, © 1991 Bar Hebraeus Verlag (used under a Creative Commons Attribution license: http://creativecommons.org/licenses/by/3.0/).
-                                        </licence>
+                  <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                  <p>This entry incorporates copyrighted material from the following work(s):
+                                                <listBibl>
+                        <bibl>
+                           <ptr target="#bib542-1"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib542-2"/>
+                        </bibl>
+                     </listBibl>
+                     <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
+                     </note>
+                  </p>
+               </licence>
             </availability>
             <date>2013-07-28-04:00</date>
          </publicationStmt>
