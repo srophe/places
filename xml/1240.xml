@@ -10,8 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Goyzhā (settlement)
-                                    </title>
+            <title level="a" xml:lang="en">Goyzhā</title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -78,7 +77,7 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-1240" type="quarter">
+            <place xml:id="place-1240" type="settlement">
                <placeName xml:id="name1240-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"

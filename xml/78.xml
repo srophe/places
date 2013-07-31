@@ -10,7 +10,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Edessa (settlement) — <foreign xml:lang="syr">ܐܘܪܗܝ</foreign></title>
+                <title level="a" xml:lang="en">Edessa — <foreign xml:lang="syr">ܐܘܪܗܝ</foreign></title>
                 <title level="m" xml:lang="en">The Syriac Gazetteer</title>
                 <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -63,7 +63,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2013-07-28</date>
+                <date>2013-07-31</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -95,6 +95,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
+            <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31">REMOVED: place type from <gi>title</gi></change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-28">ADDED: formattable markup to <gi>title</gi> and <gi>licence</gi> </change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24">FIXED: CBSC entry information and added idno CBSC links</change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24">ADDED: License for Barsoum data</change>

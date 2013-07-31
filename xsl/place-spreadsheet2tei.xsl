@@ -75,7 +75,7 @@
                         <fileDesc>
                             <titleStmt>
                                 <title level="a" xml:lang="en">
-                                    <xsl:value-of select="Name"/> (<xsl:value-of select="Category"/>)
+                                    <xsl:value-of select="Name"/>
                                     <xsl:if test="string-length(normalize-space(Barsoum_Syriac_Name))">
                                         — <foreign xml:lang="syr"><xsl:value-of select="Barsoum_Syriac_Name"/></foreign>
                                     </xsl:if>
