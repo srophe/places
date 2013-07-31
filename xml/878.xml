@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Vatican (settlement)
+            <title level="a" xml:lang="en">Vatican (quarter)
                                     </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
@@ -40,7 +40,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-07-28-04:00</date>
+            <date>2013-07-31-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -72,18 +72,18 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-28-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-878" type="settlement">
+            <place xml:id="place-878" type="quarter">
                <placeName xml:id="name878-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib878-1">Vatican</placeName>
-               <desc xml:id="abstract-en-878" xml:lang="en"/>
+               <desc xml:id="abstract-en-878" xml:lang="en">A portion of the city of Rome.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/878</idno>
                <bibl xml:id="bib878-1">

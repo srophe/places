@@ -59,7 +59,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-28-04:00</date>
+            <date>2013-07-31-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -91,7 +91,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-28-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -122,7 +122,10 @@
                <location type="gps" source="#bib68-1">
                   <geo>33.90161 35.58388</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="0775" to="1873">
+                  <precision match="@from" notAfter="0775"/>
+                  <precision match="@to" notBefore="1873"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/68</idno>
                <bibl xml:id="bib68-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

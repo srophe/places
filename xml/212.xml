@@ -63,7 +63,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-28-04:00</date>
+            <date>2013-07-31-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -95,7 +95,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-28-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -122,7 +122,9 @@
                <location type="gps" source="#bib212-1">
                   <geo>34.233333 37.233333</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="1431">
+                  <precision match="@from" notAfter="1431"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/212</idno>
                <idno type="URI">http://pleiades.stoa.org/places/668315</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Al-Qaryatayn</idno>

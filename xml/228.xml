@@ -63,7 +63,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-28-04:00</date>
+            <date>2013-07-31-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -95,7 +95,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-28-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -127,7 +127,10 @@
                <location type="gps" source="#bib228-1">
                   <geo>34.021667 36.842222</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="1459" to="1459">
+                  <precision match="@from" notAfter="1459"/>
+                  <precision match="@to" notBefore="1459"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/228</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Monastery_of_Saint_Moses_the_Abyssinian</idno>
                <idno type="URI">http://dbpedia.org/resource/Monastery_of_Saint_Moses_the_Abyssinian</idno>

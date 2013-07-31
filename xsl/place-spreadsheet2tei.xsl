@@ -412,21 +412,31 @@
                                         <location type="nested">
                                             <xsl:attribute name="source">#<xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'Wilmshurst')"/></xsl:attribute>
                                             <xsl:if test="Containing_Town != ''">
-                                                <settlement>
-                                                    <xsl:attribute name="ref">http://syriaca.org/place/<xsl:value-of select="substring-after(Containing_Town,'-')"/></xsl:attribute>
-                                                    <xsl:value-of select="substring-before(Containing_Town,'-')"/>
-                                                </settlement>
+                                                <xsl:choose>
+                                                    <xsl:when test="contains(Containing_Town,'sub-district-')">  <!-- Trap out Mar Saba sub-district, place/1231 -->
+                                                        <region>
+                                                            <xsl:attribute name="ref">http://syriaca.org/place/<xsl:value-of select="substring-after(Containing_Town,'--')"/></xsl:attribute>
+                                                            <xsl:value-of select="substring-before(Containing_Town,'--')"/>
+                                                        </region>
+                                                    </xsl:when>
+                                                    <xsl:otherwise>
+                                                        <settlement>
+                                                            <xsl:attribute name="ref">http://syriaca.org/place/<xsl:value-of select="substring-after(Containing_Town,'--')"/></xsl:attribute>
+                                                            <xsl:value-of select="substring-before(Containing_Town,'--')"/>
+                                                        </settlement>
+                                                    </xsl:otherwise>
+                                                </xsl:choose>
                                             </xsl:if>
                                             <xsl:if test="Containing_District != ''">
                                                 <region>
-                                                    <xsl:attribute name="ref">http://syriaca.org/place/<xsl:value-of select="substring-after(Containing_District,'-')"/></xsl:attribute>
-                                                    <xsl:value-of select="substring-before(Containing_District,'-')"/>
+                                                    <xsl:attribute name="ref">http://syriaca.org/place/<xsl:value-of select="substring-after(Containing_District,'--')"/></xsl:attribute>
+                                                    <xsl:value-of select="substring-before(Containing_District,'--')"/>
                                                 </region>
                                             </xsl:if>
                                             <xsl:if test="Containing_Region != ''">
                                                 <region>
-                                                    <xsl:attribute name="ref">http://syriaca.org/place/<xsl:value-of select="substring-after(Containing_Region,'-')"/></xsl:attribute>
-                                                    <xsl:value-of select="substring-before(Containing_Region,'-')"/>
+                                                    <xsl:attribute name="ref">http://syriaca.org/place/<xsl:value-of select="substring-after(Containing_Region,'--')"/></xsl:attribute>
+                                                    <xsl:value-of select="substring-before(Containing_Region,'--')"/>
                                                 </region>
                                             </xsl:if>
                                         </location>
