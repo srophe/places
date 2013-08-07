@@ -47,10 +47,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib10-2"/>
+                           <ptr target="#bib10-3"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib10-3"/>
+                           <ptr target="#bib10-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -58,7 +58,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -90,7 +90,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -100,15 +100,17 @@
                <placeName xml:id="name10-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib10-1 #bib10-4 #bib10-5 #bib10-6">Antioch</placeName>
+                          source="#bib10-2 #bib10-5 #bib10-6 #bib10-7">Antioch</placeName>
                <placeName xml:id="name10-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܢܛܝܘܟܝܐ</placeName>
-               <placeName xml:id="name10-3" xml:lang="syr-Syrj" source="#bib10-2">ܐܰܢܛܝܘܟܝܰܐ</placeName>
-               <placeName xml:id="name10-4" xml:lang="ar" source="#bib10-3">انطاكية</placeName>
-               <desc xml:id="abstract-en-10" xml:lang="en"/>
+               <placeName xml:id="name10-3" xml:lang="syr-Syrj" source="#bib10-3">ܐܰܢܛܝܘܟܝܰܐ</placeName>
+               <placeName xml:id="name10-4" xml:lang="ar" source="#bib10-4">انطاكية</placeName>
+               <desc xml:id="abstract-en-10" xml:lang="en">
+                  <quote source="#bib10-1">City in the historical region of Syria (today in Turkey).</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib10-1">36. Antioch</quote>
                </desc>
-               <location type="gps" source="#bib10-1">
+               <location type="gps" source="#bib10-2">
                   <geo>36.2 36.15</geo>
                </location>
                <state type="existence"/>
@@ -120,32 +122,39 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=A&amp;sK=Antioch&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib10-1">
+                  <author>H.Takahashi</author>
+                  <title level="a" xml:lang="en">36. Antioch</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">21-23</citedRange>
+               </bibl>
+               <bibl xml:id="bib10-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map I A2, II A2</citedRange>
                </bibl>
-               <bibl xml:id="bib10-2">
+               <bibl xml:id="bib10-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">535</citedRange>
                </bibl>
-               <bibl xml:id="bib10-3">
+               <bibl xml:id="bib10-4">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">504</citedRange>
                </bibl>
-               <bibl xml:id="bib10-4">
+               <bibl xml:id="bib10-5">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">551</citedRange>
                </bibl>
-               <bibl xml:id="bib10-5">
+               <bibl xml:id="bib10-6">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=A&amp;sK=Antioch&amp;sT=keywords">Antioch</citedRange>
                </bibl>
-               <bibl xml:id="bib10-6">
+               <bibl xml:id="bib10-7">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">65</citedRange>

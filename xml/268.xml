@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -77,7 +77,7 @@
                <placeName xml:id="name268-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib268-1">Dayr Kaftun</placeName>
+                          source="#bib268-2">Dayr Kaftun</placeName>
                <desc xml:id="abstract-en-268" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib268-1">313. Kaftun, Dayr</quote>
@@ -85,6 +85,11 @@
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/268</idno>
                <bibl xml:id="bib268-1">
+                  <title level="a" xml:lang="en">313. Kaftun, Dayr</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib268-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map V</citedRange>

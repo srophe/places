@@ -49,7 +49,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -81,7 +81,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -93,7 +93,7 @@
                <placeName xml:id="name1464-3" xml:lang="syr-Syrj" source="#bib1464-1">ܕܰܝܪܐ ܕܡܳܪܝ ܬܐܘܡܐ</placeName>
                <placeName xml:id="name1464-4" xml:lang="ar" source="#bib1464-2">دير مار توما</placeName>
                <placeName xml:id="name1464-5" xml:lang="en" source="#bib1464-3">Monastery of St. Thomas</placeName>
-               <desc xml:id="abstract-en-1464" xml:lang="en">A monastery in Seleucia</desc>
+               <desc xml:id="abstract-en-1464" xml:lang="en">A monastery in Seleucia.</desc>
                <state type="existence" from="0529">
                   <precision match="@from" notAfter="0529"/>
                </state>

@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -81,13 +81,13 @@
                <placeName xml:id="name206-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib206-1 #bib206-2">Urmia</placeName>
-               <placeName xml:id="name206-2" xml:lang="en" source="#bib206-3">Ūrmī</placeName>
+                          source="#bib206-2 #bib206-3">Urmia</placeName>
+               <placeName xml:id="name206-2" xml:lang="en" source="#bib206-4">Ūrmī</placeName>
                <desc xml:id="abstract-en-206" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib206-1">568. Urmia</quote>
                </desc>
-               <location type="gps" source="#bib206-1">
+               <location type="gps" source="#bib206-2">
                   <geo>37.55 45.1</geo>
                </location>
                <state type="existence"/>
@@ -99,17 +99,22 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=U&amp;sK=Urmia&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib206-1">
+                  <title level="a" xml:lang="en">568. Urmia</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib206-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map II C1, IV</citedRange>
                </bibl>
-               <bibl xml:id="bib206-2">
+               <bibl xml:id="bib206-3">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=U&amp;sK=Urmia&amp;sT=keywords">Urmia</citedRange>
                </bibl>
-               <bibl xml:id="bib206-3">
+               <bibl xml:id="bib206-4">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">3, 32, 36, 105, 281, 296, 298, 301, 304, 306, 314-315, 319, 320, 321, 322, 324, 325, 335, 337-338</citedRange>

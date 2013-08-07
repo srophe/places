@@ -47,10 +47,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib130-2"/>
+                           <ptr target="#bib130-3"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib130-3"/>
+                           <ptr target="#bib130-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -58,7 +58,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -90,7 +90,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -100,17 +100,17 @@
                <placeName xml:id="name130-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib130-1 #bib130-4 #bib130-5">Mardin</placeName>
-               <placeName xml:id="name130-2" xml:lang="en" source="#bib130-1">Marde</placeName>
+                          source="#bib130-2 #bib130-5 #bib130-6">Mardin</placeName>
+               <placeName xml:id="name130-2" xml:lang="en" source="#bib130-2">Marde</placeName>
                <placeName xml:id="name130-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܡܪܕܝܢ</placeName>
-               <placeName xml:id="name130-4" xml:lang="syr-Syrj" source="#bib130-2">ܡܰܪܕܝܢ</placeName>
-               <placeName xml:id="name130-5" xml:lang="ar" source="#bib130-3">ماردين</placeName>
-               <placeName xml:id="name130-6" xml:lang="en" source="#bib130-6">Mardīn</placeName>
+               <placeName xml:id="name130-4" xml:lang="syr-Syrj" source="#bib130-3">ܡܰܪܕܝܢ</placeName>
+               <placeName xml:id="name130-5" xml:lang="ar" source="#bib130-4">ماردين</placeName>
+               <placeName xml:id="name130-6" xml:lang="en" source="#bib130-7">Mardīn</placeName>
                <desc xml:id="abstract-en-130" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib130-1">351. Mardin</quote>
                </desc>
-               <location type="gps" source="#bib130-1">
+               <location type="gps" source="#bib130-2">
                   <geo>37.316667 40.737778</geo>
                </location>
                <state type="existence"/>
@@ -122,32 +122,37 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=M&amp;sK=Mardin&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib130-1">
+                  <title level="a" xml:lang="en">351. Mardin</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib130-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map I B1, II B1, III</citedRange>
                </bibl>
-               <bibl xml:id="bib130-2">
+               <bibl xml:id="bib130-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">537</citedRange>
                </bibl>
-               <bibl xml:id="bib130-3">
+               <bibl xml:id="bib130-4">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">505</citedRange>
                </bibl>
-               <bibl xml:id="bib130-4">
+               <bibl xml:id="bib130-5">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">552</citedRange>
                </bibl>
-               <bibl xml:id="bib130-5">
+               <bibl xml:id="bib130-6">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=M&amp;sK=Mardin&amp;sT=keywords">Mardin</citedRange>
                </bibl>
-               <bibl xml:id="bib130-6">
+               <bibl xml:id="bib130-7">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">5, 11, 13, 23, 26, 27, 28, 31, 38, 39, 42, 48, 49, 52, 56, 57, 64, 72-75, 76-80, 89, 95, 101, 102, 169, 185, 205, 210, 211, 225, 263, 264, 265, 345, 348, 351, 352, 357, 359</citedRange>

@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -81,8 +81,8 @@
                <placeName xml:id="name84-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib84-1">Fars</placeName>
-               <placeName xml:id="name84-2" xml:lang="en" source="#bib84-2">Fārs</placeName>
+                          source="#bib84-2">Fars</placeName>
+               <placeName xml:id="name84-2" xml:lang="en" source="#bib84-3">Fārs</placeName>
                <desc xml:id="abstract-en-84" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib84-1">209. Fars</quote>
@@ -91,11 +91,16 @@
                <idno type="URI">http://syriaca.org/place/84</idno>
                <idno type="URI">http://pleiades.stoa.org/places/922698</idno>
                <bibl xml:id="bib84-1">
+                  <title level="a" xml:lang="en">209. Fars</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib84-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map II D3</citedRange>
                </bibl>
-               <bibl xml:id="bib84-2">
+               <bibl xml:id="bib84-3">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">17, 344</citedRange>

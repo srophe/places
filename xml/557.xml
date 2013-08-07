@@ -49,7 +49,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -81,7 +81,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -93,7 +93,7 @@
                <placeName xml:id="name557-3" xml:lang="syr-Syrj" source="#bib557-1">ܬܰܪܥܐ ܕܥܰܡܘܕܐ</placeName>
                <placeName xml:id="name557-4" xml:lang="ar" source="#bib557-2">باب العمود</placeName>
                <placeName xml:id="name557-5" xml:lang="en" source="#bib557-3">Bab al-ʿĀmūd</placeName>
-               <desc xml:id="abstract-en-557" xml:lang="en"/>
+               <desc xml:id="abstract-en-557" xml:lang="en">A district of Jerusalem.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/557</idno>
                <bibl xml:id="bib557-1">

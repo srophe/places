@@ -49,7 +49,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -81,7 +81,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -95,7 +95,7 @@
                <placeName xml:id="name1456-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܚܘܪܐ</placeName>
                <placeName xml:id="name1456-3" xml:lang="syr-Syrj" source="#bib1456-1">ܚܰܘܪܐ</placeName>
                <placeName xml:id="name1456-4" xml:lang="ar" source="#bib1456-2">حَوْرا</placeName>
-               <desc xml:id="abstract-en-1456" xml:lang="en">A village near Serugh</desc>
+               <desc xml:id="abstract-en-1456" xml:lang="en">A village near Serugh.</desc>
                <state type="existence" from="0471">
                   <precision match="@from" notAfter="0471"/>
                </state>

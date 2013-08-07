@@ -51,10 +51,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib42-2"/>
+                           <ptr target="#bib42-3"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib42-3"/>
+                           <ptr target="#bib42-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -62,7 +62,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -94,7 +94,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -104,25 +104,27 @@
                <placeName xml:id="name42-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib42-1 #bib42-4 #bib42-5 #bib42-6">Balad</placeName>
-               <placeName xml:id="name42-2" xml:lang="en" source="#bib42-1">Aski Mosul</placeName>
+                          source="#bib42-2 #bib42-5 #bib42-6 #bib42-7">Balad</placeName>
+               <placeName xml:id="name42-2" xml:lang="en" source="#bib42-2">Aski Mosul</placeName>
                <placeName xml:id="name42-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܠܕ</placeName>
-               <placeName xml:id="name42-4" xml:lang="syr-Syrj" source="#bib42-2">ܒܳܠܳܕ</placeName>
-               <placeName xml:id="name42-5" xml:lang="ar" source="#bib42-3">بَلد</placeName>
-               <placeName xml:id="name42-6" xml:lang="ar" source="#bib42-3">اسكي موصل</placeName>
-               <placeName xml:id="name42-7" xml:lang="en" source="#bib42-4 #bib42-6">Eski Mosul</placeName>
-               <desc xml:id="abstract-en-42" xml:lang="en">A city northwest of Mosul on the Tigris.</desc>
+               <placeName xml:id="name42-4" xml:lang="syr-Syrj" source="#bib42-3">ܒܳܠܳܕ</placeName>
+               <placeName xml:id="name42-5" xml:lang="ar" source="#bib42-4">بَلد</placeName>
+               <placeName xml:id="name42-6" xml:lang="ar" source="#bib42-4">اسكي موصل</placeName>
+               <placeName xml:id="name42-7" xml:lang="en" source="#bib42-5 #bib42-7">Eski Mosul</placeName>
+               <desc xml:id="abstract-en-42" xml:lang="en">
+                  <quote source="#bib42-1">Balad, Assyrian Balaṭ, Syriac and Arabic Balad or Balaṭ, and modern Aski Mosul (Turkish for ‘Old Mosul’) are names referring to a town located some 40 km. northwest of Mosul, on the west bank of the Tigris.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib42-1">70. Balad</quote>
                </desc>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib42-2">ܡܕܝܢܬܳܐ ܥܰܬܝܩܬܳܐ ܕܥܠ ܕܶܩܠܰܬ ܠܡܰܥܪܒܐ ܠܥܶܠ ܡܶܢ ܡܰܘܨܠ ܕܐܺܝܬ ܒܰܝܢܳܬܗܝܢ ܫܰܒܥܐ ܦܪ̈ܣܚܝܢ ܚܰܪܝ̣ܒܐ.</quote>
+                  <quote source="#bib42-3">ܡܕܝܢܬܳܐ ܥܰܬܝܩܬܳܐ ܕܥܠ ܕܶܩܠܰܬ ܠܡܰܥܪܒܐ ܠܥܶܠ ܡܶܢ ܡܰܘܨܠ ܕܐܺܝܬ ܒܰܝܢܳܬܗܝܢ ܫܰܒܥܐ ܦܪ̈ܣܚܝܢ ܚܰܪܝ̣ܒܐ.</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib42-3">مدينة قديمة على دجلة من غربيها فوق الموصل بينهما سبع فراسخ، خربت في المئة الرابعة عشرة ويقال لاطلالها اسكي موصل</quote>
+                  <quote source="#bib42-4">مدينة قديمة على دجلة من غربيها فوق الموصل بينهما سبع فراسخ، خربت في المئة الرابعة عشرة ويقال لاطلالها اسكي موصل</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib42-4">an ancient town above Mosul on the western bank of the Tigris, ruined in the fourteenth century. It is now called Eski Mosul.</quote>
+                  <quote source="#bib42-5">an ancient town above Mosul on the western bank of the Tigris, ruined in the fourteenth century. It is now called Eski Mosul.</quote>
                </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/42</idno>
@@ -131,32 +133,39 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Balad&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib42-1">
+                  <author>A. Harrak </author>
+                  <title level="a" xml:lang="en">70. Balad</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">52-53</citedRange>
+               </bibl>
+               <bibl xml:id="bib42-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map I C1, II C1, IV</citedRange>
                </bibl>
-               <bibl xml:id="bib42-2">
+               <bibl xml:id="bib42-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">537</citedRange>
                </bibl>
-               <bibl xml:id="bib42-3">
+               <bibl xml:id="bib42-4">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">505</citedRange>
                </bibl>
-               <bibl xml:id="bib42-4">
+               <bibl xml:id="bib42-5">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">552</citedRange>
                </bibl>
-               <bibl xml:id="bib42-5">
+               <bibl xml:id="bib42-6">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Balad&amp;sT=keywords">Balad</citedRange>
                </bibl>
-               <bibl xml:id="bib42-6">
+               <bibl xml:id="bib42-7">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">44, 49</citedRange>

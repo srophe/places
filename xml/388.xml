@@ -51,10 +51,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib388-2"/>
+                           <ptr target="#bib388-3"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib388-3"/>
+                           <ptr target="#bib388-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -62,7 +62,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -94,7 +94,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -102,27 +102,27 @@
          <listPlace>
             <place xml:id="place-388" type="monastery">
                <placeName xml:id="name388-1" xml:lang="en" syriaca-tags="#syriaca-headword">St. Mark</placeName>
-               <placeName xml:id="name388-2" xml:lang="en" source="#bib388-1">Monastery of St. Mark</placeName>
+               <placeName xml:id="name388-2" xml:lang="en" source="#bib388-2">Monastery of St. Mark</placeName>
                <placeName xml:id="name388-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܪܝ ܡܪܩܘܣ ܐܘܢܓܠܝܣܛܐ ܘܕܡܪܬܝ ܡܪܝܡ</placeName>
-               <placeName xml:id="name388-4" xml:lang="syr-Syrj" source="#bib388-2">ܕܰܝܪܐ ܕܡܳܪܝ ܡܰܪܩܘܣ ܐܶܘܰܢܓܠܝܣܛܐ ܘܰܕܡܳܪܬܝ ܡܰܪܝܰܡ</placeName>
-               <placeName xml:id="name388-5" xml:lang="syr-Syrj" source="#bib388-2">ܕܰܝܪܐ ܕܣܘܪ̈ܝܝܐ</placeName>
-               <placeName xml:id="name388-6" xml:lang="ar" source="#bib388-3">دير مار مرقس الانجيلي و السيدة العذرآء</placeName>
-               <placeName xml:id="name388-7" xml:lang="ar" source="#bib388-3">دير السريان</placeName>
-               <placeName xml:id="name388-8" xml:lang="en" source="#bib388-4">Mark the Evangelist Monastery and the Virgin Monastery</placeName>
-               <placeName xml:id="name388-9" xml:lang="en" source="#bib388-4">Monastery of the Syrians</placeName>
-               <placeName xml:id="name388-10" xml:lang="en" source="#bib388-5">monastery of St Mark</placeName>
+               <placeName xml:id="name388-4" xml:lang="syr-Syrj" source="#bib388-3">ܕܰܝܪܐ ܕܡܳܪܝ ܡܰܪܩܘܣ ܐܶܘܰܢܓܠܝܣܛܐ ܘܰܕܡܳܪܬܝ ܡܰܪܝܰܡ</placeName>
+               <placeName xml:id="name388-5" xml:lang="syr-Syrj" source="#bib388-3">ܕܰܝܪܐ ܕܣܘܪ̈ܝܝܐ</placeName>
+               <placeName xml:id="name388-6" xml:lang="ar" source="#bib388-4">دير مار مرقس الانجيلي و السيدة العذرآء</placeName>
+               <placeName xml:id="name388-7" xml:lang="ar" source="#bib388-4">دير السريان</placeName>
+               <placeName xml:id="name388-8" xml:lang="en" source="#bib388-5">Mark the Evangelist Monastery and the Virgin Monastery</placeName>
+               <placeName xml:id="name388-9" xml:lang="en" source="#bib388-5">Monastery of the Syrians</placeName>
+               <placeName xml:id="name388-10" xml:lang="en" source="#bib388-6">monastery of St Mark</placeName>
                <desc xml:id="abstract-en-388" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib388-1">354. Mark, Monastery of St.</quote>
                </desc>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib388-2">ܒܐܘܪܫܠܡ ܘܡܶܬܝܕܥ ܕܰܝܪܐ ܕܣܘܪ̈ܝܝܐ ܕܰܝܪܐ ܥܰܬܝܩܐ. ܣܳܠܶܩ ܒܶܢܝܳܢܗ ܠܕܳܪܐ ܚܡܝܫܳܝܐ ܐܰܘ ܫܬܝܬܳܝܐ ܘܣܳܗܕܐ ܠܗ̇ ܠܗܳܕܐ ܟܬܝܒܬܳܐ ܣܘܪܝܳܝܬܐ ܐܶܣܛܪܰܢܓܶܠܳܝܬܐ ܕܐܶܬܚܰܙܝܰܬ ܒܥܺܕܬܗ ܫܢܰܬ  1940  ܘܗܽܘܝܘ ܝܰܘܡܳܢ ܟܘܪܣܝܳܐ ܕܡܝܛܪܘܦܘܠܝܛܘܬܢ ܘܡܰܥܡܪܐ ܠܕܰܝܪ̈ܳܝܰܝܢ ܡܢ ܫܢܰܬ  1472  ܘܐܝܬ ܒܗ ܒܶܝܬ ܓܙܐ ܕܰܟܬܳܒ̈ܐ ܪ̈ܝܫܳܝܐ ܘܡܰܛܒܥܬܐ ܘܰܗܘܐ ܡܢܗ ܫܰܒܥܐ ܡܝܛܪ̈ܘܦܘܠܝܛܐ</quote>
+                  <quote source="#bib388-3">ܒܐܘܪܫܠܡ ܘܡܶܬܝܕܥ ܕܰܝܪܐ ܕܣܘܪ̈ܝܝܐ ܕܰܝܪܐ ܥܰܬܝܩܐ. ܣܳܠܶܩ ܒܶܢܝܳܢܗ ܠܕܳܪܐ ܚܡܝܫܳܝܐ ܐܰܘ ܫܬܝܬܳܝܐ ܘܣܳܗܕܐ ܠܗ̇ ܠܗܳܕܐ ܟܬܝܒܬܳܐ ܣܘܪܝܳܝܬܐ ܐܶܣܛܪܰܢܓܶܠܳܝܬܐ ܕܐܶܬܚܰܙܝܰܬ ܒܥܺܕܬܗ ܫܢܰܬ  1940  ܘܗܽܘܝܘ ܝܰܘܡܳܢ ܟܘܪܣܝܳܐ ܕܡܝܛܪܘܦܘܠܝܛܘܬܢ ܘܡܰܥܡܪܐ ܠܕܰܝܪ̈ܳܝܰܝܢ ܡܢ ܫܢܰܬ  1472  ܘܐܝܬ ܒܗ ܒܶܝܬ ܓܙܐ ܕܰܟܬܳܒ̈ܐ ܪ̈ܝܫܳܝܐ ܘܡܰܛܒܥܬܐ ܘܰܗܘܐ ܡܢܗ ܫܰܒܥܐ ܡܝܛܪ̈ܘܦܘܠܝܛܐ</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib388-3">باورشليم ويعرف بدير السريان دير قديم ترقى عمارته الى المئة الخامسة او السادسة يشهد بهذا اثر سرياني اسطرنجيلي ظهر في بيعته عام 1940 وهو اليوم كرسي مطرانيتنا ومسكن رهباننا من سنة 1472 وفيه خزانة كتب نفيسة ومطبعة ونشأ منه سبعة مطارنة.</quote>
+                  <quote source="#bib388-4">باورشليم ويعرف بدير السريان دير قديم ترقى عمارته الى المئة الخامسة او السادسة يشهد بهذا اثر سرياني اسطرنجيلي ظهر في بيعته عام 1940 وهو اليوم كرسي مطرانيتنا ومسكن رهباننا من سنة 1472 وفيه خزانة كتب نفيسة ومطبعة ونشأ منه سبعة مطارنة.</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib388-4">both located in Jerusalem. St. Mark is also known as the Monastery of the Syrians. It is an old monastery, built in the fifth or sixth century, according to an Estrangelo Syriac inscription on a stone discovered in 1940. Today it is the see of our metropolitan and it has been the home of our monks since 1472. The monastery has a magnificent library and a press. It has produced seven bishops.</quote>
+                  <quote source="#bib388-5">both located in Jerusalem. St. Mark is also known as the Monastery of the Syrians. It is an old monastery, built in the fifth or sixth century, according to an Estrangelo Syriac inscription on a stone discovered in 1940. Today it is the see of our metropolitan and it has been the home of our monks since 1472. The monastery has a magnificent library and a press. It has produced seven bishops.</quote>
                </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/388</idno>
@@ -130,25 +130,30 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of St Mark&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib388-1">
-                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <title level="a" xml:lang="en">354. Mark, Monastery of St.</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                </bibl>
                <bibl xml:id="bib388-2">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib388-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">552-553</citedRange>
                </bibl>
-               <bibl xml:id="bib388-3">
+               <bibl xml:id="bib388-4">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">514</citedRange>
                </bibl>
-               <bibl xml:id="bib388-4">
+               <bibl xml:id="bib388-5">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">566</citedRange>
                </bibl>
-               <bibl xml:id="bib388-5">
+               <bibl xml:id="bib388-6">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"

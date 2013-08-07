@@ -47,10 +47,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib66-2"/>
+                           <ptr target="#bib66-3"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib66-3"/>
+                           <ptr target="#bib66-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -58,7 +58,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -90,7 +90,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -100,15 +100,15 @@
                <placeName xml:id="name66-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib66-1 #bib66-4 #bib66-5 #bib66-6">Damascus</placeName>
+                          source="#bib66-2 #bib66-5 #bib66-6 #bib66-7">Damascus</placeName>
                <placeName xml:id="name66-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܪܡܣܘܩ</placeName>
-               <placeName xml:id="name66-3" xml:lang="syr-Syrj" source="#bib66-2">ܕܰܪܡܣܘܩ</placeName>
-               <placeName xml:id="name66-4" xml:lang="ar" source="#bib66-3">دمشق</placeName>
+               <placeName xml:id="name66-3" xml:lang="syr-Syrj" source="#bib66-3">ܕܰܪܡܣܘܩ</placeName>
+               <placeName xml:id="name66-4" xml:lang="ar" source="#bib66-4">دمشق</placeName>
                <desc xml:id="abstract-en-66" xml:lang="en">An ancient city and capital of the Umayyad Caliphate.</desc>
                <desc xml:lang="en">
                   <quote source="#bib66-1">148. Damascus</quote>
                </desc>
-               <location type="gps" source="#bib66-1">
+               <location type="gps" source="#bib66-2">
                   <geo>33.513 36.292</geo>
                </location>
                <state type="existence"/>
@@ -120,32 +120,37 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=D&amp;sK=Damascus&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib66-1">
+                  <title level="a" xml:lang="en">148. Damascus</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib66-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map I A2, II A2, V</citedRange>
                </bibl>
-               <bibl xml:id="bib66-2">
+               <bibl xml:id="bib66-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">539</citedRange>
                </bibl>
-               <bibl xml:id="bib66-3">
+               <bibl xml:id="bib66-4">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">506</citedRange>
                </bibl>
-               <bibl xml:id="bib66-4">
+               <bibl xml:id="bib66-5">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">554</citedRange>
                </bibl>
-               <bibl xml:id="bib66-5">
+               <bibl xml:id="bib66-6">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=D&amp;sK=Damascus&amp;sT=keywords">Damascus</citedRange>
                </bibl>
-               <bibl xml:id="bib66-6">
+               <bibl xml:id="bib66-7">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">13, 62-63, 65, 361, 363, 364</citedRange>

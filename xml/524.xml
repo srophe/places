@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Sinjar mountain
+            <title level="a" xml:lang="en">Mount Sinjar
                                         — <foreign xml:lang="syr">ܛܘܪܐ ܕܫܝܓܪ</foreign>
             </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
@@ -49,7 +49,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -81,20 +81,18 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-524" type="mountain">
-               <placeName xml:id="name524-1"
-                          xml:lang="en"
-                          syriaca-tags="#syriaca-headword"
-                          source="#bib524-3">Sinjar mountain</placeName>
+               <placeName xml:id="name524-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mount Sinjar</placeName>
                <placeName xml:id="name524-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܛܘܪܐ ܕܫܝܓܪ</placeName>
                <placeName xml:id="name524-3" xml:lang="syr-Syrj" source="#bib524-1">ܛܘܪܳܐ ܕܫܝܓܳܪ</placeName>
                <placeName xml:id="name524-4" xml:lang="ar" source="#bib524-2">جبل سنجار</placeName>
+               <placeName xml:id="name524-5" xml:lang="en" source="#bib524-3">Sinjar mountain</placeName>
                <desc xml:id="abstract-en-524" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/524</idno>

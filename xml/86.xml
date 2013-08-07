@@ -62,7 +62,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -94,7 +94,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -124,7 +124,10 @@
                <location type="gps" source="#bib86-1">
                   <geo>38.028889 39.032222</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="1109" to="1143">
+                  <precision match="@from" notAfter="1109"/>
+                  <precision match="@to" notBefore="1143"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/86</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874353</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Gerger</idno>

@@ -49,7 +49,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -81,7 +81,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -93,7 +93,7 @@
                <placeName xml:id="name561-3" xml:lang="syr-Syrj" source="#bib561-1">ܡܰܪܝܒܐ</placeName>
                <placeName xml:id="name561-4" xml:lang="ar" source="#bib561-2">مريبا</placeName>
                <placeName xml:id="name561-5" xml:lang="en" source="#bib561-3">Murayba</placeName>
-               <desc xml:id="abstract-en-561" xml:lang="en"/>
+               <desc xml:id="abstract-en-561" xml:lang="en">A village near Ḥarran.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/561</idno>
                <bibl xml:id="bib561-1">

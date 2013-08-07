@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -77,8 +77,10 @@
                <placeName xml:id="name269-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib269-1">Amyūn</placeName>
-               <desc xml:id="abstract-en-269" xml:lang="en"/>
+                          source="#bib269-2">Amyūn</placeName>
+               <desc xml:id="abstract-en-269" xml:lang="en">
+                  <quote source="#bib269-1">The town of Amyūn is situated 20 km. south of Tripoli (Northern Lebanon), on the road between Chekka and Kousba, built on a high, rocky cliff rising above the plains of olives and fruit orchards watered by the Qadisha river.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib269-1">34. Amyūn</quote>
                </desc>
@@ -88,6 +90,13 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Amioun</idno>
                <idno type="URI">http://dbpedia.org/resource/Amioun</idno>
                <bibl xml:id="bib269-1">
+                  <author>E. C. Dodd</author>
+                  <title level="a" xml:lang="en">34. Amyūn</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">20-21</citedRange>
+               </bibl>
+               <bibl xml:id="bib269-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map V</citedRange>

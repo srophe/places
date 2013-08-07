@@ -47,10 +47,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib225-2"/>
+                           <ptr target="#bib225-3"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib225-3"/>
+                           <ptr target="#bib225-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -58,7 +58,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -90,7 +90,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -100,24 +100,26 @@
                <placeName xml:id="name225-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib225-1">Mor Behnam</placeName>
+                          source="#bib225-2">Mor Behnam</placeName>
                <placeName xml:id="name225-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܪܝ ܒܗܢܡ</placeName>
-               <placeName xml:id="name225-3" xml:lang="syr-Syrj" source="#bib225-2">ܕܰܝܪܳܐ ܕܡܳܪܝ ܒܶܗܢܰܡ</placeName>
-               <placeName xml:id="name225-4" xml:lang="ar" source="#bib225-3">دير مار بهنام</placeName>
-               <placeName xml:id="name225-5" xml:lang="en" source="#bib225-4">Bahnam Monastery</placeName>
-               <placeName xml:id="name225-6" xml:lang="en" source="#bib225-5">Monastery of Mar Behnam</placeName>
-               <desc xml:id="abstract-en-225" xml:lang="en"/>
+               <placeName xml:id="name225-3" xml:lang="syr-Syrj" source="#bib225-3">ܕܰܝܪܳܐ ܕܡܳܪܝ ܒܶܗܢܰܡ</placeName>
+               <placeName xml:id="name225-4" xml:lang="ar" source="#bib225-4">دير مار بهنام</placeName>
+               <placeName xml:id="name225-5" xml:lang="en" source="#bib225-5">Bahnam Monastery</placeName>
+               <placeName xml:id="name225-6" xml:lang="en" source="#bib225-6">Monastery of Mar Behnam</placeName>
+               <desc xml:id="abstract-en-225" xml:lang="en">
+                  <quote source="#bib225-1">Situated ca. 36 km. southeast of Mosul, Dayro d-Mor Behnam contains the only full program of medieval church decoration that survives to this day in Iraq.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib225-1">91. Behnam, Dayro d-Mor</quote>
                </desc>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib225-2">ܘܡܶܬܶܐܡܰܪ ܠܗ ܕܰܝܪܐ ܕܓܘܒܳܐ ܒܬܰܝܡܰܢ ܡܰܕܢܰܚ ܡܰܘܨܠ ܡܰܪܕܶܐ ܫܶܬ ܫܳܥܝ̈ܢ. ܐܶܫܬܰܬܐܣ ܒܫܘܪܳܝ ܕܳܪܳܐ ܚܡܝܫܳܝܳܐ. ܘܐܶܬܢܰܦܰܩܘ ܒܗ ܬܪܶܝܢ ܡܰܦܪܝܳܢ̈ܐ ܘܫܰܒܥܳܐ ܐܶܦܝܣܩܘܦ̈ܐ ܘܒܰܫܢܰܬ   1839  ܐܰܚܕܘܗܝ ܐܰܝܠܶܝܢ ܕܰܦܪܰܫܘ ܠܩܰܬܘܠܝܩܘܬܐ ܘܝܰܬܝܪ ܡܶܢ ܫܬܝܢ ܫܢܺܝ̈ܢ ܦܳܫ ܣܦܝܩ. ܘܝܰܘܡܳܢ ܥܰܡܝܪ ܗܘ. </quote>
+                  <quote source="#bib225-3">ܘܡܶܬܶܐܡܰܪ ܠܗ ܕܰܝܪܐ ܕܓܘܒܳܐ ܒܬܰܝܡܰܢ ܡܰܕܢܰܚ ܡܰܘܨܠ ܡܰܪܕܶܐ ܫܶܬ ܫܳܥܝ̈ܢ. ܐܶܫܬܰܬܐܣ ܒܫܘܪܳܝ ܕܳܪܳܐ ܚܡܝܫܳܝܳܐ. ܘܐܶܬܢܰܦܰܩܘ ܒܗ ܬܪܶܝܢ ܡܰܦܪܝܳܢ̈ܐ ܘܫܰܒܥܳܐ ܐܶܦܝܣܩܘܦ̈ܐ ܘܒܰܫܢܰܬ   1839  ܐܰܚܕܘܗܝ ܐܰܝܠܶܝܢ ܕܰܦܪܰܫܘ ܠܩܰܬܘܠܝܩܘܬܐ ܘܝܰܬܝܪ ܡܶܢ ܫܬܝܢ ܫܢܺܝ̈ܢ ܦܳܫ ܣܦܝܩ. ܘܝܰܘܡܳܢ ܥܰܡܝܪ ܗܘ. </quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib225-3"> ويقال له دير الجبّ، جنوبي شرقي الموصل مسير ست ساعات عنها انشىء صدر القرن الخامس وتخرج فيه مفريانان وسبعة اساقفة وسنة 1839 تولته الفرقة المتكثلكة وامسى خاليا نيفاً وستين سنة وهو الآن آهل</quote>
+                  <quote source="#bib225-4"> ويقال له دير الجبّ، جنوبي شرقي الموصل مسير ست ساعات عنها انشىء صدر القرن الخامس وتخرج فيه مفريانان وسبعة اساقفة وسنة 1839 تولته الفرقة المتكثلكة وامسى خاليا نيفاً وستين سنة وهو الآن آهل</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib225-4">also called the Pit Monastery, is situated about six hours’ journey southeast of Mosul. It was built in the beginning of the fifth century. From it graduated one Maphryono and seven bishops. In 1839, it was usurped by a group which seceded and joined the Catholic church. It was deserted for some sixty years, but is now populated.</quote>
+                  <quote source="#bib225-5">also called the Pit Monastery, is situated about six hours’ journey southeast of Mosul. It was built in the beginning of the fifth century. From it graduated one Maphryono and seven bishops. In 1839, it was usurped by a group which seceded and joined the Catholic church. It was deserted for some sixty years, but is now populated.</quote>
                </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/225</idno>
@@ -127,25 +129,32 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=M&amp;sK=Monastery of Mar Behnam&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib225-1">
+                  <author>B. Snelders</author>
+                  <title level="a" xml:lang="en">91. Behnam, Dayro d-Mor</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">66-68</citedRange>
+               </bibl>
+               <bibl xml:id="bib225-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                </bibl>
-               <bibl xml:id="bib225-2">
+               <bibl xml:id="bib225-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">544</citedRange>
                </bibl>
-               <bibl xml:id="bib225-3">
+               <bibl xml:id="bib225-4">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">509</citedRange>
                </bibl>
-               <bibl xml:id="bib225-4">
+               <bibl xml:id="bib225-5">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">561</citedRange>
                </bibl>
-               <bibl xml:id="bib225-5">
+               <bibl xml:id="bib225-6">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"

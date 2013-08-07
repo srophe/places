@@ -58,7 +58,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -90,13 +90,13 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-307" type="settlement">
+            <place xml:id="place-307" type="region">
                <placeName xml:id="name307-1" xml:lang="en" syriaca-tags="#syriaca-headword">Beth Shahaq</placeName>
                <placeName xml:id="name307-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܝܬ ܫܗܐܩ</placeName>
                <placeName xml:id="name307-3" xml:lang="syr-Syrj" source="#bib307-1">ܒܶܝܬ ܫܰܗܐܩ</placeName>

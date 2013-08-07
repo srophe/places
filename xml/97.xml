@@ -62,7 +62,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -94,7 +94,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -123,7 +123,9 @@
                <location type="gps" source="#bib97-1">
                   <geo>37.270778 37.837917</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="1235">
+                  <precision match="@from" notAfter="1235"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/97</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Rumkale</idno>
                <idno type="URI">http://dbpedia.org/resource/Rumkale</idno>

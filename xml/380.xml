@@ -62,7 +62,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -94,7 +94,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -116,7 +116,10 @@
                <desc xml:lang="en">
                   <quote source="#bib380-3">in the province of Marʿash. Between 1100 and 1200 four bishops graduated from it.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="1100" to="1200">
+                  <precision match="@from" notAfter="1100"/>
+                  <precision match="@to" notBefore="1200"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/380</idno>
                <bibl xml:id="bib380-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

@@ -10,8 +10,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">al-Ṣawr (province)
-                                        — <foreign xml:lang="syr">ܐܘܚܕܢܐ ܕܨܘܪܐ</foreign>
+            <title level="a" xml:lang="en">al-Ṣawr
+                                        — <foreign xml:lang="syr">ܨܘܪܐ</foreign>
             </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
@@ -49,7 +49,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -81,7 +81,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -91,14 +91,11 @@
                <placeName xml:id="name513-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib513-3">al-Ṣawr (province)</placeName>
-               <placeName xml:id="name513-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܘܚܕܢܐ ܕܨܘܪܐ</placeName>
-               <placeName xml:id="name513-3" xml:lang="syr-Syrj" source="#bib513-1">ܐܘܚܕܳܢܳܐ ܕܨܰܘܪܳܐ</placeName>
-               <placeName xml:id="name513-4" xml:lang="ar" source="#bib513-2">عمل الصور</placeName>
+                          source="#bib513-3">al-Ṣawr</placeName>
+               <placeName xml:id="name513-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܨܘܪܐ</placeName>
+               <placeName xml:id="name513-3" xml:lang="syr-Syrj" source="#bib513-1">ܨܰܘܪܳܐ</placeName>
+               <placeName xml:id="name513-4" xml:lang="ar" source="#bib513-2">الصور</placeName>
                <desc xml:id="abstract-en-513" xml:lang="en"/>
-               <desc xml:lang="en">
-                  <quote source="#bib513-3">Alternate name in Romanya desc. - TAC</quote>
-               </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/513</idno>
                <bibl xml:id="bib513-1">

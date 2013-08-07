@@ -51,10 +51,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib464-2"/>
+                           <ptr target="#bib464-3"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib464-3"/>
+                           <ptr target="#bib464-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -62,7 +62,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -94,7 +94,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -104,23 +104,23 @@
                <placeName xml:id="name464-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib464-1">Nagran</placeName>
+                          source="#bib464-2">Nagran</placeName>
                <placeName xml:id="name464-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܢܓܪܐܢ</placeName>
-               <placeName xml:id="name464-3" xml:lang="syr-Syrj" source="#bib464-2">ܢܰܓܪܰܐܢ</placeName>
-               <placeName xml:id="name464-4" xml:lang="ar" source="#bib464-3">نجران</placeName>
-               <placeName xml:id="name464-5" xml:lang="en" source="#bib464-4 #bib464-5">Najran</placeName>
+               <placeName xml:id="name464-3" xml:lang="syr-Syrj" source="#bib464-3">ܢܰܓܪܰܐܢ</placeName>
+               <placeName xml:id="name464-4" xml:lang="ar" source="#bib464-4">نجران</placeName>
+               <placeName xml:id="name464-5" xml:lang="en" source="#bib464-5 #bib464-6">Najran</placeName>
                <desc xml:id="abstract-en-464" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib464-1">388. Nagran</quote>
                </desc>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib464-2">ܡܕܺܝܢܬܳܐ ܗܘܳܬ ܥܰܬܝܩܬܳܐ ܒܝܰܡܰܢ ܒܓܰܪܒܰܝ ܡܰܕܢܚܳܐ ܕܝܠܳܗ̇ ܗܘܳܬ ܚܰܪܝܒܳܐ.</quote>
+                  <quote source="#bib464-3">ܡܕܺܝܢܬܳܐ ܗܘܳܬ ܥܰܬܝܩܬܳܐ ܒܝܰܡܰܢ ܒܓܰܪܒܰܝ ܡܰܕܢܚܳܐ ܕܝܠܳܗ̇ ܗܘܳܬ ܚܰܪܝܒܳܐ.</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib464-3">مدينة قديمة كانت باليمن في الشمال الشرقي، خربة.</quote>
+                  <quote source="#bib464-4">مدينة قديمة كانت باليمن في الشمال الشرقي، خربة.</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib464-4">an ancient city in northeastern Yaman.</quote>
+                  <quote source="#bib464-5">an ancient city in northeastern Yaman.</quote>
                </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/464</idno>
@@ -131,25 +131,30 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=N&amp;sK=Najran&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib464-1">
-                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <title level="a" xml:lang="en">388. Nagran</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                </bibl>
                <bibl xml:id="bib464-2">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib464-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">562</citedRange>
                </bibl>
-               <bibl xml:id="bib464-3">
+               <bibl xml:id="bib464-4">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">520</citedRange>
                </bibl>
-               <bibl xml:id="bib464-4">
+               <bibl xml:id="bib464-5">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">556</citedRange>
                </bibl>
-               <bibl xml:id="bib464-5">
+               <bibl xml:id="bib464-6">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"

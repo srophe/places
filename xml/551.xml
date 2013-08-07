@@ -49,7 +49,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -81,7 +81,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -93,7 +93,7 @@
                <placeName xml:id="name551-3" xml:lang="syr-Syrj" source="#bib551-1">ܕܰܝܪܐ ܕܩܰܕܝܫܬܳܐ ܒܰܪܒܰܪܐ</placeName>
                <placeName xml:id="name551-4" xml:lang="ar" source="#bib551-2">دير القديسة بربارة</placeName>
                <placeName xml:id="name551-5" xml:lang="en" source="#bib551-3">Barbara Monastery</placeName>
-               <desc xml:id="abstract-en-551" xml:lang="en"/>
+               <desc xml:id="abstract-en-551" xml:lang="en">A second "St. Barbara" monastery mentioned by Barsoum in his description of St. Barbara.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/551</idno>
                <bibl xml:id="bib551-1">

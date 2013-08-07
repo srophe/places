@@ -58,7 +58,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -90,7 +90,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -113,6 +113,9 @@
                </desc>
                <desc xml:lang="ar">
                   <quote source="#bib286-2">مدينة كانت بالروم على شاطئ الفرات شرقيها بالو وغربيها خربوت في طرف ارمينية</quote>
+               </desc>
+               <desc xml:lang="en">
+                  <quote source="#bib286-3">a city in the Roman territory on the Euphrates.  To its east lies Balū and to its west Kharput, contiguous to Armenia.</quote>
                </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/286</idno>

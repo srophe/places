@@ -55,10 +55,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib188-2"/>
+                           <ptr target="#bib188-3"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib188-3"/>
+                           <ptr target="#bib188-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -66,7 +66,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -98,7 +98,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -108,26 +108,26 @@
                <placeName xml:id="name188-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib188-1">Siirt</placeName>
+                          source="#bib188-2">Siirt</placeName>
                <placeName xml:id="name188-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܣܥܪܬ</placeName>
-               <placeName xml:id="name188-3" xml:lang="syr-Syrj" source="#bib188-2">ܣܥܶܪܬ</placeName>
-               <placeName xml:id="name188-4" xml:lang="ar" source="#bib188-3">سعرت</placeName>
-               <placeName xml:id="name188-5" xml:lang="en" source="#bib188-4">Seʿert</placeName>
-               <placeName xml:id="name188-6" xml:lang="en" source="#bib188-5 #bib188-6">Seert</placeName>
+               <placeName xml:id="name188-3" xml:lang="syr-Syrj" source="#bib188-3">ܣܥܶܪܬ</placeName>
+               <placeName xml:id="name188-4" xml:lang="ar" source="#bib188-4">سعرت</placeName>
+               <placeName xml:id="name188-5" xml:lang="en" source="#bib188-5">Seʿert</placeName>
+               <placeName xml:id="name188-6" xml:lang="en" source="#bib188-6 #bib188-7">Seert</placeName>
                <desc xml:id="abstract-en-188" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib188-1">510. Siirt</quote>
                </desc>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib188-2">ܡܕܝܢܬܳܐ ܗܝ ܕܰܒܬܰܝܡܢܐ ܕܒܶܕܠܝܣ ( ܘܰܒܣܘܪܝܳܝܳܐ ܡܶܬܩܰܪܝܳܐ ܐܰܬܪܐ ܕܰܡܒܰܕܪ̈ܐ)</quote>
+                  <quote source="#bib188-3">ܡܕܝܢܬܳܐ ܗܝ ܕܰܒܬܰܝܡܢܐ ܕܒܶܕܠܝܣ ( ܘܰܒܣܘܪܝܳܝܳܐ ܡܶܬܩܰܪܝܳܐ ܐܰܬܪܐ ܕܰܡܒܰܕܪ̈ܐ)</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib188-3">مدينة جنوبي بدليس.</quote>
+                  <quote source="#bib188-4">مدينة جنوبي بدليس.</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib188-4">a town south of Bedlis. [Modern name, Siirt. (tr.)]</quote>
+                  <quote source="#bib188-5">a town south of Bedlis. [Modern name, Siirt. (tr.)]</quote>
                </desc>
-               <location type="gps" source="#bib188-1">
+               <location type="gps" source="#bib188-2">
                   <geo>37.933333 41.95</geo>
                </location>
                <state type="existence"/>
@@ -138,32 +138,37 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=S&amp;sK=Seert&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib188-1">
+                  <title level="a" xml:lang="en">510. Siirt</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib188-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map II C1, III, IV</citedRange>
                </bibl>
-               <bibl xml:id="bib188-2">
+               <bibl xml:id="bib188-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">556</citedRange>
                </bibl>
-               <bibl xml:id="bib188-3">
+               <bibl xml:id="bib188-4">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">516</citedRange>
                </bibl>
-               <bibl xml:id="bib188-4">
+               <bibl xml:id="bib188-5">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">558</citedRange>
                </bibl>
-               <bibl xml:id="bib188-5">
+               <bibl xml:id="bib188-6">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=S&amp;sK=Seert&amp;sT=keywords">Seert</citedRange>
                </bibl>
-               <bibl xml:id="bib188-6">
+               <bibl xml:id="bib188-7">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">11, 13-14, 23, 27, 39, 55, 56, 64, 70, 73, 74, 81, 82, 83, 84, 87, 89, 90, 91, 92, 93-94, 96, 98, 99, 102, 108, 113, 116, 176, 179, 213, 232, 264, 270, 316, 348, 352, 359</citedRange>

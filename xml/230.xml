@@ -51,10 +51,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib230-2"/>
+                           <ptr target="#bib230-3"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib230-3"/>
+                           <ptr target="#bib230-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -62,7 +62,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -94,7 +94,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -104,24 +104,24 @@
                <placeName xml:id="name230-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib230-1 #bib230-5">Qenneshre</placeName>
+                          source="#bib230-2 #bib230-6">Qenneshre</placeName>
                <placeName xml:id="name230-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܩܢܫܪܝܢ</placeName>
-               <placeName xml:id="name230-3" xml:lang="syr-Syrj" source="#bib230-2">ܕܰܝܪܳܐ ܕܩܶܢܰܫܪܺܝܢ</placeName>
-               <placeName xml:id="name230-4" xml:lang="ar" source="#bib230-3">دير قِنَسرين</placeName>
-               <placeName xml:id="name230-5" xml:lang="en" source="#bib230-4">Qenneshrin Monastery</placeName>
-               <placeName xml:id="name230-6" xml:lang="en" source="#bib230-5">Monastery of Qenneshre</placeName>
+               <placeName xml:id="name230-3" xml:lang="syr-Syrj" source="#bib230-3">ܕܰܝܪܳܐ ܕܩܶܢܰܫܪܺܝܢ</placeName>
+               <placeName xml:id="name230-4" xml:lang="ar" source="#bib230-4">دير قِنَسرين</placeName>
+               <placeName xml:id="name230-5" xml:lang="en" source="#bib230-5">Qenneshrin Monastery</placeName>
+               <placeName xml:id="name230-6" xml:lang="en" source="#bib230-6">Monastery of Qenneshre</placeName>
                <desc xml:id="abstract-en-230" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib230-1">444. Qenneshre, Monastery of</quote>
                </desc>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib230-2">ܒܫܶܡ ܡܳܪܝ ܬܐܘܡܐ ܫܠܝܚܳܐ ܥܠ ܝܰܕ ܦܪܳܬ ܠܩܘܽܒܠܐ ܕܓܰܪܐܒܠܣ. ܐܶܫܬܰܬܐܣ ܚܕܳܪ ܫܢܰܬ  530  ܘܺܝܪܶܒ ܫܡܗ ܘܐܝܺܬ ܗܘܐ ܠܗ ܝܰܘܡ̈ܬܐ ܕܚܶܘܳܪ̈ܝܢ ܘܰܡܗܰܒܒܝܢ ܥܕܰܡܐ ܠܕܳܪܐ ܬܫܺܝܥܳܝܐ ܘܰܥܪܳܐ ܒܰܙܒܢ ܕܥܰܡܝܪ ܗܘܐ ܬܠܳܬܡ̈ܐܐ ܘܫܰܒܥܝܢ ܕܰܝܪ̈ܝܐ ܐܰܘܩܕܽܘܗܝ ܐܢܳܫܝ̈ܢ ܟܘܐܪܓ ܘܫܰܟܠܠܗ ܕܝܺܘܢܢܘܣܝܘܣ ܩܰܕܡܳܝܐ ܘܐܰܗܦܟܗ ܠܐܝܟܰܢܳܝܘܬܗ ܩܰܕܡܳܝܬܐ ܫܢܰܬ  822  ܘܐܶܬܬܰܠܘܰܬ ܠܡܰܪܥܺܝܬܐ ܕܫܰܡܝܫܛ ܚܕܳܪ ܫܢܰܬ  1025  ܘܗܳܝ ܕܓܰܠܝܐ ܩܰܘܝ̣ ܟܰܕ ܥܰܡܝܪ ܥܕܰܡܐ ܠܪܝܫ ܡܰܐܬܐ ܕܰܬܠܳܬܰܥܣܪ̈ܐ ܘܰܠܚܰܪܬܐ ܥܰܠܥܶܠ ܙܰܒܢܐ ܒܐܢܳܫ̈ܘܗܝ ܘܐܶܬܠܰܝܬܝܺܘ ܢܝ̣̈ܫܐ ܕܒܶܢܝܳܢ̈ܘܗܝ</quote>
+                  <quote source="#bib230-3">ܒܫܶܡ ܡܳܪܝ ܬܐܘܡܐ ܫܠܝܚܳܐ ܥܠ ܝܰܕ ܦܪܳܬ ܠܩܘܽܒܠܐ ܕܓܰܪܐܒܠܣ. ܐܶܫܬܰܬܐܣ ܚܕܳܪ ܫܢܰܬ  530  ܘܺܝܪܶܒ ܫܡܗ ܘܐܝܺܬ ܗܘܐ ܠܗ ܝܰܘܡ̈ܬܐ ܕܚܶܘܳܪ̈ܝܢ ܘܰܡܗܰܒܒܝܢ ܥܕܰܡܐ ܠܕܳܪܐ ܬܫܺܝܥܳܝܐ ܘܰܥܪܳܐ ܒܰܙܒܢ ܕܥܰܡܝܪ ܗܘܐ ܬܠܳܬܡ̈ܐܐ ܘܫܰܒܥܝܢ ܕܰܝܪ̈ܝܐ ܐܰܘܩܕܽܘܗܝ ܐܢܳܫܝ̈ܢ ܟܘܐܪܓ ܘܫܰܟܠܠܗ ܕܝܺܘܢܢܘܣܝܘܣ ܩܰܕܡܳܝܐ ܘܐܰܗܦܟܗ ܠܐܝܟܰܢܳܝܘܬܗ ܩܰܕܡܳܝܬܐ ܫܢܰܬ  822  ܘܐܶܬܬܰܠܘܰܬ ܠܡܰܪܥܺܝܬܐ ܕܫܰܡܝܫܛ ܚܕܳܪ ܫܢܰܬ  1025  ܘܗܳܝ ܕܓܰܠܝܐ ܩܰܘܝ̣ ܟܰܕ ܥܰܡܝܪ ܥܕܰܡܐ ܠܪܝܫ ܡܰܐܬܐ ܕܰܬܠܳܬܰܥܣܪ̈ܐ ܘܰܠܚܰܪܬܐ ܥܰܠܥܶܠ ܙܰܒܢܐ ܒܐܢܳܫ̈ܘܗܝ ܘܐܶܬܠܰܝܬܝܺܘ ܢܝ̣̈ܫܐ ܕܒܶܢܝܳܢ̈ܘܗܝ</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib230-3">باسم توما الرسول على شاطئ الفرات مقابل بلدة جرابلس انشئ حول سنة 530 واستفاضت شهرته وكان له ايام غر زهر الى القرن التاسع، وحوى ايام عمارته ثلثمائة وسبعين راهبا، احرقه بعض الخوارج فرمه ديونيسيوس الاول واعاده سيرته الاولى سنة 822 عضد الكنيسة بسبعة بطاركة وخمسة عشر اسقفا حتى سنة 930 والحق بابرشية سميساط حول سنة 1025 والاظهر انه ظل عامرا حتى صدر المئة الثالثة عشرة ثم عصف الدهر باهله وتنكرت معارف اطلاله.</quote>
+                  <quote source="#bib230-4">باسم توما الرسول على شاطئ الفرات مقابل بلدة جرابلس انشئ حول سنة 530 واستفاضت شهرته وكان له ايام غر زهر الى القرن التاسع، وحوى ايام عمارته ثلثمائة وسبعين راهبا، احرقه بعض الخوارج فرمه ديونيسيوس الاول واعاده سيرته الاولى سنة 822 عضد الكنيسة بسبعة بطاركة وخمسة عشر اسقفا حتى سنة 930 والحق بابرشية سميساط حول سنة 1025 والاظهر انه ظل عامرا حتى صدر المئة الثالثة عشرة ثم عصف الدهر باهله وتنكرت معارف اطلاله.</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib230-4">built in the name of the Apostle Thomas on the bank of the Euphrates, opposite Jarabulus, about 530. It was a famous monastery until the ninth century and at its high point housed about 370 monks. It was burned by some dissenters, but was restored by Patriarch Dionysius I in 822. By 930, seven patriarchs and fifteen bishops had graduated from it. About 1025 it was attached to the diocese of Samosata. It is probable that it remained active until the thirteenth century, after which it was abandoned. See our article in the Patriarchal Magazine, 4: 265-278.</quote>
+                  <quote source="#bib230-5">built in the name of the Apostle Thomas on the bank of the Euphrates, opposite Jarabulus, about 530. It was a famous monastery until the ninth century and at its high point housed about 370 monks. It was burned by some dissenters, but was restored by Patriarch Dionysius I in 822. By 930, seven patriarchs and fifteen bishops had graduated from it. About 1025 it was attached to the diocese of Samosata. It is probable that it remained active until the thirteenth century, after which it was abandoned. See our article in the Patriarchal Magazine, 4: 265-278.</quote>
                </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/230</idno>
@@ -133,26 +133,31 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=Q&amp;sK=Qenneshre&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib230-1">
+                  <title level="a" xml:lang="en">444. Qenneshre, Monastery of</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib230-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map II B1</citedRange>
                </bibl>
-               <bibl xml:id="bib230-2">
+               <bibl xml:id="bib230-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">550-551</citedRange>
                </bibl>
-               <bibl xml:id="bib230-3">
+               <bibl xml:id="bib230-4">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">513</citedRange>
                </bibl>
-               <bibl xml:id="bib230-4">
+               <bibl xml:id="bib230-5">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">568</citedRange>
                </bibl>
-               <bibl xml:id="bib230-5">
+               <bibl xml:id="bib230-6">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"

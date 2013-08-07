@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -77,8 +77,8 @@
                <placeName xml:id="name479-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib479-1">Xi'an</placeName>
-               <placeName xml:id="name479-2" xml:lang="en" source="#bib479-2">Sian-fu</placeName>
+                          source="#bib479-2">Xi'an</placeName>
+               <placeName xml:id="name479-2" xml:lang="en" source="#bib479-3">Sian-fu</placeName>
                <desc xml:id="abstract-en-479" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib479-1">576. Xi’an</quote>
@@ -90,10 +90,15 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=S&amp;sK=Sian-fu&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib479-1">
-                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <title level="a" xml:lang="en">576. Xi’an</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                </bibl>
                <bibl xml:id="bib479-2">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib479-3">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"

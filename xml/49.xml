@@ -54,7 +54,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -86,7 +86,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -105,8 +105,8 @@
                <location type="gps" source="#bib49-1">
                   <geo>37.316667 41.616667</geo>
                </location>
-               <state type="existence" from="1464" to="1474">
-                  <precision match="@from" notAfter="1464"/>
+               <state type="existence" from="0998" to="1474">
+                  <precision match="@from" notAfter="0998"/>
                   <precision match="@to" notBefore="1474"/>
                </state>
                <idno type="URI">http://syriaca.org/place/49</idno>

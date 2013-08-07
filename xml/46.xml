@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -81,13 +81,13 @@
                <placeName xml:id="name46-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib46-1 #bib46-2 #bib46-3">Beirut</placeName>
-               <placeName xml:id="name46-2" xml:lang="en" source="#bib46-1">Berytos</placeName>
-               <desc xml:id="abstract-en-46" xml:lang="en">A port city on the coast of Lebanon.</desc>
+                          source="#bib46-2 #bib46-3 #bib46-4">Beirut</placeName>
+               <placeName xml:id="name46-2" xml:lang="en" source="#bib46-2">Berytos</placeName>
+               <desc xml:id="abstract-en-46" xml:lang="en">Beirut, Lebanon is mentioned in many Syr. Orth. texts in connection with the St. Jude monastery and church.</desc>
                <desc xml:lang="en">
                   <quote source="#bib46-1">93. Beirut</quote>
                </desc>
-               <location type="gps" source="#bib46-1">
+               <location type="gps" source="#bib46-2">
                   <geo>33.88694 35.51306</geo>
                </location>
                <state type="existence"/>
@@ -99,17 +99,24 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Beirut&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib46-1">
+                  <author>R. J. Mouawad</author>
+                  <title level="a" xml:lang="en">93. Beirut</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">68-69</citedRange>
+               </bibl>
+               <bibl xml:id="bib46-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map I A2, II A2, V</citedRange>
                </bibl>
-               <bibl xml:id="bib46-2">
+               <bibl xml:id="bib46-3">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Beirut&amp;sT=keywords">Beirut</citedRange>
                </bibl>
-               <bibl xml:id="bib46-3">
+               <bibl xml:id="bib46-4">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">13, 361, 363, 364</citedRange>

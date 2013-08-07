@@ -54,7 +54,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -86,7 +86,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -102,8 +102,9 @@
                <placeName xml:id="name243-4" xml:lang="ar" source="#bib243-3">بانمعم </placeName>
                <placeName xml:id="name243-5" xml:lang="en" source="#bib243-4">Banimʿim</placeName>
                <desc xml:id="abstract-en-243" xml:lang="en"/>
-               <state type="existence" from="1470">
-                  <precision match="@from" notAfter="1470"/>
+               <state type="existence" from="0925" to="1376">
+                  <precision match="@from" notAfter="0925"/>
+                  <precision match="@to" notBefore="1376"/>
                </state>
                <idno type="URI">http://syriaca.org/place/243</idno>
                <bibl xml:id="bib243-1">

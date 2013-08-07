@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -79,7 +79,6 @@
                <desc xml:id="abstract-en-632" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/632</idno>
-               <idno type="URI">http://pleiades.stoa.org/places/952097</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Parthian_Empire</idno>
                <idno type="URI">http://dbpedia.org/resource/Parthian_Empire</idno>
                <idno type="URI">

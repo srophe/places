@@ -43,8 +43,11 @@
                 <!-- determine which sources will need to be cited; to be used in header formation as well -->
                 <xsl:variable name="bib-prefix">bib<xsl:value-of select="Place_ID"/>-</xsl:variable>
                 <xsl:variable name="sources" as="xs:string*">
+                    <xsl:if test="GEDSH_Entry_Heading != ''">
+                        <xsl:sequence select="('GEDSH-Article')"/>
+                    </xsl:if>
                     <xsl:if test="GEDSH_Name != ''">
-                        <xsl:sequence select="('GEDSH')"/>
+                        <xsl:sequence select="('GEDSH-Map')"/>
                     </xsl:if>
                     <xsl:if test="Barsoum_Syriac_Name != ''">
                         <xsl:sequence select="('Barsoum-Syriac')"/>
@@ -63,7 +66,7 @@
                     </xsl:if>
                 </xsl:variable>
                 <!-- therefore the xml:id of the <bibl> element representing a source is $bib-prefix followed by the index of the source name in the $sources sequence -->
-                <!-- and the citation format is #<xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'GEDSH')"/> for GEDSH, etc. -->
+                <!-- and the citation format is #<xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'GEDSH-Map')"/> for GEDSH, etc. -->
                 
                 <TEI
                     xml:lang="en"
@@ -88,7 +91,6 @@
                                 <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
                                 <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
                                 <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-                                <!-- Add Luk van Rompay for GEDSH?  Check with him -->
                                 <xsl:if test="(Barsoum_English_Name != '' or Barsoum_Arabic_Name != '') and Place_ID &lt; 470">
                                     <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
                                     <respStmt>
@@ -249,7 +251,7 @@
                                             <xsl:if test="exists(index-of(tokenize($this_row/GEDSH_Name,'/'),.)) or exists(index-of(tokenize($this_row/Barsoum_Syriac_Name_Vocalized,'\.\s'), .)) or exists(index-of(tokenize($this_row/Barsoum_Arabic_Name,'،\s'), .)) or exists(index-of(tokenize($this_row/Barsoum_English_Name,',\s'), .)) or exists(index-of(tokenize($this_row/CBSC_Keyword,'; '),.)) or exists(index-of(tokenize($this_row/Wilmshurst_Names,'; '), .))">
                                                 <xsl:variable name="this_source_attribute" as="xs:string*">
                                                     <xsl:if test="exists(index-of(tokenize($this_row/GEDSH_Name,'/'),.))">
-                                                        <xsl:sequence select="(concat('#',$bib-prefix,index-of($sources,'GEDSH')))"/>
+                                                        <xsl:sequence select="(concat('#',$bib-prefix,index-of($sources,'GEDSH-Map')))"/>
                                                     </xsl:if>
                                                     <xsl:if test="exists(index-of(tokenize($this_row/Barsoum_Syriac_Name_Vocalized,'\.\s'), .))">
                                                         <xsl:sequence select="(concat('#',$bib-prefix,index-of($sources,'Barsoum-Syriac')))"/>
@@ -269,107 +271,30 @@
                                                 </xsl:variable>
                                                 <xsl:attribute name="source"><xsl:value-of select="$this_source_attribute"/></xsl:attribute>
                                             </xsl:if>
-
-                                            <!-- DEPRECATED: we no longer use @corresp for corresponding place names -->
-                                            <!-- finally, if it is a Barsoum name, it needs a @corresp attribute pointing to the other Barsoum names -->
-                                            <!-- NOTE: this @corresp generator DOES NOT WORK wherever there is more than one Barsoum name -->
-                                            <!-- <xsl:if test="$this_row/Barsoum_Syriac_Name_Vocalized = . or $this_row/Barsoum_Arabic_Name = . or $this_row/Barsoum_English_Name = .">
-                                                <xsl:variable name="this_corresp_attribute" as="xs:string*">
-                                                    <xsl:choose>
-                                                        <xsl:when test="$this_row/Barsoum_Syriac_Name_Vocalized = .">
-                                                            <xsl:sequence select="(concat('#',$name-prefix,index-of($names,$this_row/Barsoum_Arabic_Name)),concat('#',$name-prefix,index-of($names,$this_row/Barsoum_English_Name)))"></xsl:sequence>
-                                                        </xsl:when>
-                                                        <xsl:when test="$this_row/Barsoum_Arabic_Name = .">
-                                                            <xsl:sequence select="(concat('#',$name-prefix,index-of($names,$this_row/Barsoum_Syriac_Name_Vocalized)),concat('#',$name-prefix,index-of($names,$this_row/Barsoum_English_Name)))"></xsl:sequence>
-                                                        </xsl:when>
-                                                        <xsl:when test="$this_row/Barsoum_English_Name = .">
-                                                            <xsl:sequence select="(concat('#',$name-prefix,index-of($names,$this_row/Barsoum_Syriac_Name_Vocalized)),concat('#',$name-prefix,index-of($names,$this_row/Barsoum_Arabic_Name)))"></xsl:sequence>
-                                                        </xsl:when>
-                                                    </xsl:choose>
-                                                </xsl:variable> -->
-                                                <!-- but some Barsoum names might be missing from the record, so figure out which and omit -->
-                                                <!-- a missing Barsoum name will correspond to a $this_corresp_attribute entry ending in '-' -->
-                                                <!-- <xsl:choose>
-                                                    <xsl:when test="ends-with($this_corresp_attribute[1],'-') and ends-with($this_corresp_attribute[2],'-')"> -->
-                                                        <!-- NO @corresp attribute, because no corresponding Barsoum names exist -->
-                                                    <!-- </xsl:when>
-                                                    <xsl:when test="ends-with($this_corresp_attribute[1],'-')">
-                                                        <xsl:attribute name="corresp"><xsl:value-of select="$this_corresp_attribute[2]"/></xsl:attribute>
-                                                    </xsl:when>
-                                                    <xsl:when test="ends-with($this_corresp_attribute[2],'-')">
-                                                        <xsl:attribute name="corresp"><xsl:value-of select="$this_corresp_attribute[1]"/></xsl:attribute>
-                                                    </xsl:when>
-                                                    <xsl:otherwise>
-                                                        <xsl:attribute name="corresp"><xsl:value-of select="$this_corresp_attribute"/></xsl:attribute>
-                                                    </xsl:otherwise>
-                                                </xsl:choose>
-                                            </xsl:if> -->
                                             
                                             <!-- finally output the value of the <placeName> element, the name form itself -->
                                             <xsl:value-of select="."/>
                                         </placeName>
                                     </xsl:for-each>
-                                    
-                                    <!-- old method, just create a separate <placeName> for each source -->
-                                    <!-- <placeName>
-                                        <xsl:attribute name="xml:lang">en</xsl:attribute>
-                                        <xsl:attribute name="resp">http://syriaca.org</xsl:attribute>
-                                        <xsl:value-of select="Name"/>
-                                    </placeName>
-                                    <xsl:if test="GEDSH_Name != ''">
-                                        <placeName>
-                                            <xsl:attribute name="xml:lang">en</xsl:attribute>
-                                            <xsl:attribute name="source">#<xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'GEDSH')"/></xsl:attribute>
-                                            <xsl:value-of select="GEDSH_Name"/>
-                                        </placeName>
-                                    </xsl:if>
-                                    <xsl:if test="Barsoum_Syriac_Name != ''"> 
-                                        <placeName>
-                                            <xsl:attribute name="xml:lang">syr</xsl:attribute>
-                                            <xsl:attribute name="resp">http://syriaca.org</xsl:attribute>
-                                            <xsl:value-of select="Barsoum_Syriac_Name"/>
-                                        </placeName>
-                                    </xsl:if>
-                                    <xsl:if test="Barsoum_Syriac_Name_Vocalized != ''">
-                                        <placeName>
-                                            <xsl:attribute name="xml:lang">syr-Syrj</xsl:attribute>
-                                            <xsl:attribute name="source">#<xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'Barsoum-Syriac')"/></xsl:attribute>
-                                            <xsl:value-of select="Barsoum_Syriac_Name_Vocalized"/>
-                                        </placeName>
-                                    </xsl:if>
-                                    <xsl:if test="Barsoum_Arabic_Name != ''"> <!- FUTURE: split alternate names on او (affects 28 entries) ->
-                                        <placeName>
-                                            <xsl:attribute name="xml:lang">ar</xsl:attribute>
-                                            <xsl:attribute name="source">#<xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'Barsoum-Arabic')"/></xsl:attribute>
-                                            <xsl:value-of select="Barsoum_Arabic_Name"/>
-                                        </placeName>
-                                    </xsl:if>
-                                    <xsl:if test="Barsoum_English_Name != ''">
-                                        <placeName>
-                                            <xsl:attribute name="xml:lang">en</xsl:attribute>
-                                            <xsl:attribute name="source">#<xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'Barsoum-English')"/></xsl:attribute>
-                                            <xsl:value-of select="Barsoum_English_Name"/>
-                                        </placeName>
-                                    </xsl:if>
-                                    <xsl:if test="CBSC_Keyword != ''">
-                                        <placeName>
-                                            <xsl:attribute name="xml:lang">en</xsl:attribute>
-                                            <xsl:attribute name="source">#<xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'CBSC-Keyword')"/></xsl:attribute>
-                                            <xsl:value-of select="CBSC_Keyword"/>
-                                        </placeName>
-                                    </xsl:if>
-                                    -->
-                                    
+                                                                        
                                     <!-- insert the descriptions, starting with the abstract, which should always be present -->
                                     <desc>
                                         <xsl:attribute name="xml:id">abstract-en-<xsl:value-of select="Place_ID"/></xsl:attribute>
                                         <xsl:attribute name="xml:lang">en</xsl:attribute>
-                                        <xsl:value-of select="Abstract"/>
+                                        <xsl:choose>
+                                            <xsl:when test="starts-with(Abstract,'&quot;') and exists(index-of($sources,'GEDSH-Article'))">
+                                                <quote>
+                                                    <xsl:attribute name="source" select="concat('#',$bib-prefix,index-of($sources,'GEDSH-Article'))"/>
+                                                    <xsl:value-of select="substring(Abstract,2,string-length(Abstract)-2)"/><!-- remove surrounding quotation marks -->
+                                                </quote> 
+                                            </xsl:when>
+                                            <xsl:otherwise><xsl:value-of select="Abstract"/></xsl:otherwise>
+                                        </xsl:choose>
                                     </desc>
                                     <xsl:if test="GEDSH_Entry_Heading != ''">
                                         <desc xml:lang="en">
                                             <quote>
-                                                <xsl:attribute name="source">#<xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'GEDSH')"/></xsl:attribute>
+                                                <xsl:attribute name="source">#<xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'GEDSH-Article')"/></xsl:attribute>
                                                 <xsl:value-of select="GEDSH_Entry_Heading"/>
                                             </quote>
                                         </desc>
@@ -402,7 +327,7 @@
                                     <!-- deal with GPS coordinates if we have them -->
                                     <xsl:if test="Latitude != '' and Longitude != ''">
                                         <location type="gps">
-                                            <xsl:attribute name="source">#<xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'GEDSH')"/></xsl:attribute>
+                                            <xsl:attribute name="source">#<xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'GEDSH-Map')"/></xsl:attribute>
                                             <geo><xsl:value-of select="Latitude"/><xsl:value-of select="$s"></xsl:value-of><xsl:value-of select="Longitude"/></geo>
                                         </location>
                                     </xsl:if>
@@ -506,9 +431,23 @@
                                     </xsl:for-each>
                                     
                                     <!-- Insert the <bibl> elements -->
-                                    <xsl:if test="exists(index-of($sources,'GEDSH'))">
+                                    <xsl:if test="exists(index-of($sources,'GEDSH-Article'))">
                                         <bibl>
-                                            <xsl:attribute name="xml:id"><xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'GEDSH')"/></xsl:attribute>
+                                            <xsl:attribute name="xml:id" select="concat($bib-prefix,index-of($sources,'GEDSH-Article'))"/>
+                                            <xsl:if test="GEDSH_Author != ''">
+                                                <author><xsl:value-of select="GEDSH_Author"/></author>
+                                            </xsl:if>
+                                            <title level="a" xml:lang="en"><xsl:value-of select="GEDSH_Entry_Heading"/></title>
+                                            <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                                            <ptr target="http://syriaca.org/bibl/1"/>
+                                            <xsl:if test="GEDSH_Entry_Pages != ''">
+                                                <citedRange unit="pp"><xsl:value-of select="GEDSH_Entry_Pages"/></citedRange>
+                                            </xsl:if>
+                                        </bibl>
+                                    </xsl:if>
+                                    <xsl:if test="exists(index-of($sources,'GEDSH-Map'))">
+                                        <bibl>
+                                            <xsl:attribute name="xml:id"><xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'GEDSH-Map')"/></xsl:attribute>
                                             <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                                             <ptr target="http://syriaca.org/bibl/1"/>
                                             <xsl:if test="GEDSH_Page != ''">

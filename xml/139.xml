@@ -47,10 +47,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib139-2"/>
+                           <ptr target="#bib139-3"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib139-3"/>
+                           <ptr target="#bib139-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -58,7 +58,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -90,7 +90,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -100,17 +100,17 @@
                <placeName xml:id="name139-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib139-1 #bib139-4 #bib139-5 #bib139-6">Mosul</placeName>
+                          source="#bib139-2 #bib139-5 #bib139-6 #bib139-7">Mosul</placeName>
                <placeName xml:id="name139-2"
                           xml:lang="syr"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib139-2">ܡܘܨܠ</placeName>
-               <placeName xml:id="name139-3" xml:lang="ar" source="#bib139-3">الموصل</placeName>
+                          source="#bib139-3">ܡܘܨܠ</placeName>
+               <placeName xml:id="name139-3" xml:lang="ar" source="#bib139-4">الموصل</placeName>
                <desc xml:id="abstract-en-139" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib139-1">380. Mosul</quote>
                </desc>
-               <location type="gps" source="#bib139-1">
+               <location type="gps" source="#bib139-2">
                   <geo>36.366667 43.116667</geo>
                </location>
                <state type="existence"/>
@@ -122,32 +122,37 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=M&amp;sK=Mosul&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib139-1">
+                  <title level="a" xml:lang="en">380. Mosul</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib139-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map II C1, IV</citedRange>
                </bibl>
-               <bibl xml:id="bib139-2">
+               <bibl xml:id="bib139-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">559</citedRange>
                </bibl>
-               <bibl xml:id="bib139-3">
+               <bibl xml:id="bib139-4">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">517</citedRange>
                </bibl>
-               <bibl xml:id="bib139-4">
+               <bibl xml:id="bib139-5">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">551</citedRange>
                </bibl>
-               <bibl xml:id="bib139-5">
+               <bibl xml:id="bib139-6">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=M&amp;sK=Mosul&amp;sT=keywords">Mosul</citedRange>
                </bibl>
-               <bibl xml:id="bib139-6">
+               <bibl xml:id="bib139-7">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">1, 2, 5, 8, 11, 12, 14, 17, 20, 22, 24, 25, 26, 27, 28, 29, 30, 33, 35, 36, 38, 39, 47, 49, 53, 64, 66, 70, 78, 80, 89, 109, 112, 121, 122, 136, 140, 147, 160, 166, 172, 173, 176, 180, 185, 186, 187, 188, 189, 190, 191, 192-199, 200, 201, 204, 205-216 , 217 , 219 , 220, 222, 223 , 224, 231, 231, 232, 234, 236, 241, 242, 254, 257, 259, 263, 264, 265, 267, 269, 271, 283, 288, 289, 313, 316, 318, 320, 321, 345, 348, 349, 350, 352, 355, 357, 358, 359, 363</citedRange>

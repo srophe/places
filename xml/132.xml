@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -79,9 +79,6 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib132-1">Mariamme</placeName>
                <desc xml:id="abstract-en-132" xml:lang="en"/>
-               <location type="gps" source="#bib132-1">
-                  <geo>34.90691 36.49433</geo>
-               </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/132</idno>
                <idno type="URI">http://pleiades.stoa.org/places/668308</idno>

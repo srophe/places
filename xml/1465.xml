@@ -49,7 +49,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -81,7 +81,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -95,7 +95,7 @@
                <placeName xml:id="name1465-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܣܠܘܩܝܐ</placeName>
                <placeName xml:id="name1465-3" xml:lang="syr-Syrj" source="#bib1465-1">ܣܰܠܽܘܩܝܰܐ</placeName>
                <placeName xml:id="name1465-4" xml:lang="ar" source="#bib1465-2">سلوقية</placeName>
-               <desc xml:id="abstract-en-1465" xml:lang="en">The location of Dayro d-Mor Tumo, perhaps identical with another Seleucia</desc>
+               <desc xml:id="abstract-en-1465" xml:lang="en">The location of Dayro d-Mor Tumo, perhaps identical with another Seleucia.</desc>
                <state type="existence" from="0529">
                   <precision match="@from" notAfter="0529"/>
                </state>

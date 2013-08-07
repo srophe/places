@@ -55,10 +55,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib136-2"/>
+                           <ptr target="#bib136-3"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib136-3"/>
+                           <ptr target="#bib136-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -66,7 +66,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -98,7 +98,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -108,27 +108,27 @@
                <placeName xml:id="name136-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib136-1 #bib136-4">Melitene</placeName>
+                          source="#bib136-2 #bib136-5">Melitene</placeName>
                <placeName xml:id="name136-2"
                           xml:lang="syr"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib136-2">ܡܝܠܝܛܝܢܝ</placeName>
-               <placeName xml:id="name136-3" xml:lang="ar" source="#bib136-3">ملطية</placeName>
-               <placeName xml:id="name136-4" xml:lang="en" source="#bib136-4 #bib136-5">Malatya</placeName>
+                          source="#bib136-3">ܡܝܠܝܛܝܢܝ</placeName>
+               <placeName xml:id="name136-3" xml:lang="ar" source="#bib136-4">ملطية</placeName>
+               <placeName xml:id="name136-4" xml:lang="en" source="#bib136-5 #bib136-6">Malatya</placeName>
                <desc xml:id="abstract-en-136" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib136-1">367. Melitene</quote>
                </desc>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib136-2">ܡܕܝܢܬܳܐ ܗܝ ܪܰܒܬܳܐ ܘܰܛܒܝܒܳܐ ܗܘܳܬ ܕܕܘܟܬܳܗ̇ ܩܰܪܝܒܳܐ ܗܝ ܠܢܰܗܪܳܐ ܕܰܦܪܳܬ ܥܰܠ ܣܶܦܬܗ ܕܝܰܡܝܢܳܐ. ܡܶܢ ܐܶܡܗ̈ܬܳܐ ܕܰܡܕܝܢ̈ܬܳܐ ܕܣܘܪ̈ܝܝܶܐ ܐܝܬ ܗܘܳܐ ܠܗܘܢ ܒܳܗ̇ ܫܶܬ ܘܚܰܡܫܝܢ ܥܕ̈ܬܳܐ  1049  ܘܡܳܬܳܐ ܗܝ ܕܰܓܒܰܝ̈ܐ ܕܪ̈ܝܫܳܢܐ ܕܝܰܕܘܥ̈ܬܳܢܰܝܗܘܢ </quote>
+                  <quote source="#bib136-3">ܡܕܝܢܬܳܐ ܗܝ ܪܰܒܬܳܐ ܘܰܛܒܝܒܳܐ ܗܘܳܬ ܕܕܘܟܬܳܗ̇ ܩܰܪܝܒܳܐ ܗܝ ܠܢܰܗܪܳܐ ܕܰܦܪܳܬ ܥܰܠ ܣܶܦܬܗ ܕܝܰܡܝܢܳܐ. ܡܶܢ ܐܶܡܗ̈ܬܳܐ ܕܰܡܕܝܢ̈ܬܳܐ ܕܣܘܪ̈ܝܝܶܐ ܐܝܬ ܗܘܳܐ ܠܗܘܢ ܒܳܗ̇ ܫܶܬ ܘܚܰܡܫܝܢ ܥܕ̈ܬܳܐ  1049  ܘܡܳܬܳܐ ܗܝ ܕܰܓܒܰܝ̈ܐ ܕܪ̈ܝܫܳܢܐ ܕܝܰܕܘܥ̈ܬܳܢܰܝܗܘܢ </quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib136-3">مدينة في ولاية معمورة العزيز كانت مشهورة عظيمة مذكورة واقعة قريبا من نهر الفرات على الضفة اليمنى منه، من امهات مدن السريان كان لهم فيها ست وخمسون بيعة سنة 1049 م. وهي موطن نخبة من اقطاب علمائهم وائمتهم امست اليوم بليدة.</quote>
+                  <quote source="#bib136-4">مدينة في ولاية معمورة العزيز كانت مشهورة عظيمة مذكورة واقعة قريبا من نهر الفرات على الضفة اليمنى منه، من امهات مدن السريان كان لهم فيها ست وخمسون بيعة سنة 1049 م. وهي موطن نخبة من اقطاب علمائهم وائمتهم امست اليوم بليدة.</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib136-4">a city in the province of Maʿmurat al-ʿAzīz, near the Euphrates. In the past it was large and famous. It was one of the largest centers of the Syrians, who in 1049 had fifty-six churches there. It was also the birthplace of a number of Syrian learned men. Today it is a small town. (See the biography of Christodolus by Michael, Coptic bishop of Tinnis [d. 1069], in Assemani’s “Confession of the Fathers,” Bibliotheca Orientalis, 2: 145-152, and in the Coptic Patriarchal Library).</quote>
+                  <quote source="#bib136-5">a city in the province of Maʿmurat al-ʿAzīz, near the Euphrates. In the past it was large and famous. It was one of the largest centers of the Syrians, who in 1049 had fifty-six churches there. It was also the birthplace of a number of Syrian learned men. Today it is a small town. (See the biography of Christodolus by Michael, Coptic bishop of Tinnis [d. 1069], in Assemani’s “Confession of the Fathers,” Bibliotheca Orientalis, 2: 145-152, and in the Coptic Patriarchal Library).</quote>
                </desc>
-               <location type="gps" source="#bib136-1">
+               <location type="gps" source="#bib136-2">
                   <geo>38.34767 38.31463</geo>
                </location>
                <state type="existence"/>
@@ -137,26 +137,31 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Malatya</idno>
                <idno type="URI">http://dbpedia.org/resource/Malatya</idno>
                <bibl xml:id="bib136-1">
+                  <title level="a" xml:lang="en">367. Melitene</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib136-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map I B1, II B1, III</citedRange>
                </bibl>
-               <bibl xml:id="bib136-2">
+               <bibl xml:id="bib136-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">562</citedRange>
                </bibl>
-               <bibl xml:id="bib136-3">
+               <bibl xml:id="bib136-4">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">520</citedRange>
                </bibl>
-               <bibl xml:id="bib136-4">
+               <bibl xml:id="bib136-5">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">556</citedRange>
                </bibl>
-               <bibl xml:id="bib136-5">
+               <bibl xml:id="bib136-6">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">62-63, 65</citedRange>

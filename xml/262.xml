@@ -47,10 +47,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib262-2"/>
+                           <ptr target="#bib262-3"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib262-3"/>
+                           <ptr target="#bib262-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -58,7 +58,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -90,7 +90,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -100,23 +100,23 @@
                <placeName xml:id="name262-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib262-1 #bib262-5">Qaraqosh</placeName>
+                          source="#bib262-2 #bib262-6">Qaraqosh</placeName>
                <placeName xml:id="name262-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܝܬ ܟܘܕܝܕܐ</placeName>
-               <placeName xml:id="name262-3" xml:lang="syr-Syrj" source="#bib262-2">ܒܶܝܬ ܟܘܕܰܝܕܐ</placeName>
-               <placeName xml:id="name262-4" xml:lang="ar" source="#bib262-3">باُخديدة</placeName>
-               <placeName xml:id="name262-5" xml:lang="en" source="#bib262-4">Beth Khudayda</placeName>
+               <placeName xml:id="name262-3" xml:lang="syr-Syrj" source="#bib262-3">ܒܶܝܬ ܟܘܕܰܝܕܐ</placeName>
+               <placeName xml:id="name262-4" xml:lang="ar" source="#bib262-4">باُخديدة</placeName>
+               <placeName xml:id="name262-5" xml:lang="en" source="#bib262-5">Beth Khudayda</placeName>
                <desc xml:id="abstract-en-262" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib262-1">441. Qaraqosh</quote>
                </desc>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib262-2">ܩܪܝܬܐ ܪܰܒܬܳܐ ܕܒܐܘܚܕܳܢܐ ܕܢܝܺܢܘܶܐ ܠܡܰܕܢܚܐ ܕܡܰܘܨܠ ܘܡܶܬܐܡܰܪ ܠܗ̇ ܝܰܘܡܳܢ ܩܰܪܰܩܽܘܫ.</quote>
+                  <quote source="#bib262-3">ܩܪܝܬܐ ܪܰܒܬܳܐ ܕܒܐܘܚܕܳܢܐ ܕܢܝܺܢܘܶܐ ܠܡܰܕܢܚܐ ܕܡܰܘܨܠ ܘܡܶܬܐܡܰܪ ܠܗ̇ ܝܰܘܡܳܢ ܩܰܪܰܩܽܘܫ.</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib262-3">قرية كبيرة من اعمال نينوى شرقي مدينة الموصل يقال لها اليوم قرقوش</quote>
+                  <quote source="#bib262-4">قرية كبيرة من اعمال نينوى شرقي مدينة الموصل يقال لها اليوم قرقوش</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib262-4">a large village in the province of Nineveh, north of Mosul; now called Qaraqosh.</quote>
+                  <quote source="#bib262-5">a large village in the province of Nineveh, north of Mosul; now called Qaraqosh.</quote>
                </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/262</idno>
@@ -126,26 +126,31 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=Q&amp;sK=Qaraqosh&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib262-1">
+                  <title level="a" xml:lang="en">441. Qaraqosh</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib262-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map IV</citedRange>
                </bibl>
-               <bibl xml:id="bib262-2">
+               <bibl xml:id="bib262-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">536</citedRange>
                </bibl>
-               <bibl xml:id="bib262-3">
+               <bibl xml:id="bib262-4">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">504</citedRange>
                </bibl>
-               <bibl xml:id="bib262-4">
+               <bibl xml:id="bib262-5">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">552</citedRange>
                </bibl>
-               <bibl xml:id="bib262-5">
+               <bibl xml:id="bib262-6">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"

@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -77,8 +77,8 @@
                <placeName xml:id="name36-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib36-1">Beth Nuhadra</placeName>
-               <placeName xml:id="name36-2" xml:lang="en" source="#bib36-2">Bet Nuhadre</placeName>
+                          source="#bib36-2">Beth Nuhadra</placeName>
+               <placeName xml:id="name36-2" xml:lang="en" source="#bib36-3">Bet Nuhadre</placeName>
                <desc xml:id="abstract-en-36" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib36-1">101. Beth Nuhadra</quote>
@@ -89,11 +89,16 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Bet Nuhadre&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib36-1">
+                  <title level="a" xml:lang="en">101. Beth Nuhadra</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib36-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map I C1, II C1</citedRange>
                </bibl>
-               <bibl xml:id="bib36-2">
+               <bibl xml:id="bib36-3">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"

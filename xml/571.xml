@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Euphemia
+            <title level="a" xml:lang="en">Mor Bosus
                                         — <foreign xml:lang="syr">ܐܘܦܘܡܝܐ</foreign>
             </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
@@ -49,7 +49,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -81,22 +81,23 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-571" type="settlement">
-               <placeName xml:id="name571-1"
-                          xml:lang="en"
-                          syriaca-tags="#syriaca-headword"
-                          source="#bib571-3">Euphemia</placeName>
+            <place xml:id="place-571" type="monastery">
+               <placeName xml:id="name571-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mor Bosus</placeName>
                <placeName xml:id="name571-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܘܦܘܡܝܐ</placeName>
                <placeName xml:id="name571-3" xml:lang="syr-Syrj" source="#bib571-1">ܐܘܦܘܡܺܝܰܐ</placeName>
                <placeName xml:id="name571-4" xml:lang="ar" source="#bib571-2">اوفيمية</placeName>
-               <desc xml:id="abstract-en-571" xml:lang="en"/>
-               <state type="existence"/>
+               <placeName xml:id="name571-5" xml:lang="en" source="#bib571-3">Euphemia</placeName>
+               <desc xml:id="abstract-en-571" xml:lang="en">A ruined monastery attested near Ḥomṣ</desc>
+               <state type="existence" from="1286" to="1286">
+                  <precision match="@from" notAfter="1286"/>
+                  <precision match="@to" notBefore="1286"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/571</idno>
                <bibl xml:id="bib571-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

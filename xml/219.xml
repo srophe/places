@@ -51,10 +51,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib219-2"/>
+                           <ptr target="#bib219-3"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib219-3"/>
+                           <ptr target="#bib219-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -62,7 +62,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -94,7 +94,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -104,30 +104,30 @@
                <placeName xml:id="name219-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib219-1">Ḥirta</placeName>
-               <placeName xml:id="name219-2" xml:lang="en" source="#bib219-1">al-Ḥira</placeName>
+                          source="#bib219-2">Ḥirta</placeName>
+               <placeName xml:id="name219-2" xml:lang="en" source="#bib219-2">al-Ḥira</placeName>
                <placeName xml:id="name219-3"
                           xml:lang="syr"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib219-2">ܚܐܪܬܐ</placeName>
-               <placeName xml:id="name219-4" xml:lang="ar" source="#bib219-3">الحيرة</placeName>
-               <placeName xml:id="name219-5" xml:lang="en" source="#bib219-4">Ḥīra</placeName>
-               <placeName xml:id="name219-6" xml:lang="en" source="#bib219-5">Hira</placeName>
-               <placeName xml:id="name219-7" xml:lang="en" source="#bib219-6">Ḥirtā</placeName>
+                          source="#bib219-3">ܚܐܪܬܐ</placeName>
+               <placeName xml:id="name219-4" xml:lang="ar" source="#bib219-4">الحيرة</placeName>
+               <placeName xml:id="name219-5" xml:lang="en" source="#bib219-5">Ḥīra</placeName>
+               <placeName xml:id="name219-6" xml:lang="en" source="#bib219-6">Hira</placeName>
+               <placeName xml:id="name219-7" xml:lang="en" source="#bib219-7">Ḥirtā</placeName>
                <desc xml:id="abstract-en-219" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib219-1">262. Ḥirta</quote>
                </desc>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib219-2">ܡܕܺܝܢܬܳܐ ܗܝ ܥܰܬܝܩܬܳܐ ܕܪܰܚܝܼܩܐ ܗܘܳܬ ܡܢ ܟܽܘܦܰܗ ܬܠܳܬܐ ܡܝ̣̈ܠܐ ܠܡܰܕܢܚܳܐ ܕܢܰܓܦ.</quote>
+                  <quote source="#bib219-3">ܡܕܺܝܢܬܳܐ ܗܝ ܥܰܬܝܩܬܳܐ ܕܪܰܚܝܼܩܐ ܗܘܳܬ ܡܢ ܟܽܘܦܰܗ ܬܠܳܬܐ ܡܝ̣̈ܠܐ ܠܡܰܕܢܚܳܐ ܕܢܰܓܦ.</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib219-3">مدينة قديمة دائرة كانت على ثلاثة اميال من الكوفة شرقي النجف</quote>
+                  <quote source="#bib219-4">مدينة قديمة دائرة كانت على ثلاثة اميال من الكوفة شرقي النجف</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib219-4">an ancient city, three miles from Kufa and east of al-Najaf.</quote>
+                  <quote source="#bib219-5">an ancient city, three miles from Kufa and east of al-Najaf.</quote>
                </desc>
-               <location type="gps" source="#bib219-1">
+               <location type="gps" source="#bib219-2">
                   <geo>31.88332 44.44985</geo>
                </location>
                <state type="existence"/>
@@ -139,32 +139,37 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=H&amp;sK=Hira&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib219-1">
+                  <title level="a" xml:lang="en">262. Ḥirta</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib219-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map I C3, II C3</citedRange>
                </bibl>
-               <bibl xml:id="bib219-2">
+               <bibl xml:id="bib219-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">539</citedRange>
                </bibl>
-               <bibl xml:id="bib219-3">
+               <bibl xml:id="bib219-4">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">507</citedRange>
                </bibl>
-               <bibl xml:id="bib219-4">
+               <bibl xml:id="bib219-5">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">554</citedRange>
                </bibl>
-               <bibl xml:id="bib219-5">
+               <bibl xml:id="bib219-6">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=H&amp;sK=Hira&amp;sT=keywords">Hira</citedRange>
                </bibl>
-               <bibl xml:id="bib219-6">
+               <bibl xml:id="bib219-7">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">217</citedRange>

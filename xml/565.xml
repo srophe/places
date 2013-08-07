@@ -49,7 +49,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -81,7 +81,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -94,8 +94,11 @@
                           source="#bib565-3">Qanqart</placeName>
                <placeName xml:id="name565-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܩܢܩܪܬ</placeName>
                <placeName xml:id="name565-3" xml:lang="syr-Syrj" source="#bib565-1">ܩܰܢܩܪܰܬ</placeName>
-               <placeName xml:id="name565-4" xml:lang="ar" source="#bib565-2">قنقرت</placeName>
-               <desc xml:id="abstract-en-565" xml:lang="en"/>
+               <placeName xml:id="name565-4" xml:lang="syr-Syrj" source="#bib565-1">ܩܰܪܰܗ ܟܺܝܠܺܝܣܰܐ</placeName>
+               <placeName xml:id="name565-5" xml:lang="ar" source="#bib565-2">قنقرت</placeName>
+               <placeName xml:id="name565-6" xml:lang="ar" source="#bib565-2">قره كليسا</placeName>
+               <placeName xml:id="name565-7" xml:lang="en" source="#bib565-3">Qara Kelisa</placeName>
+               <desc xml:id="abstract-en-565" xml:lang="en">A village near Amid.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/565</idno>
                <bibl xml:id="bib565-1">

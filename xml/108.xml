@@ -55,10 +55,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib108-2"/>
+                           <ptr target="#bib108-3"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib108-3"/>
+                           <ptr target="#bib108-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -66,7 +66,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -98,7 +98,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -108,31 +108,31 @@
                <placeName xml:id="name108-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib108-1">Karka d-Beth Slokh</placeName>
-               <placeName xml:id="name108-2" xml:lang="en" source="#bib108-1 #bib108-4">Kirkuk</placeName>
+                          source="#bib108-2">Karka d-Beth Slokh</placeName>
+               <placeName xml:id="name108-2" xml:lang="en" source="#bib108-2 #bib108-5">Kirkuk</placeName>
                <placeName xml:id="name108-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܟܪܟܐ ܕܒܝܬ ܣܠܘܟ</placeName>
-               <placeName xml:id="name108-4" xml:lang="syr-Syrj" source="#bib108-2">ܟܪܟ ܣܠܘܟ</placeName>
-               <placeName xml:id="name108-5" xml:lang="syr-Syrj" source="#bib108-2">ܟܰܪܟܘܟ</placeName>
-               <placeName xml:id="name108-6" xml:lang="ar" source="#bib108-3">كرخ سلوخ</placeName>
-               <placeName xml:id="name108-7" xml:lang="ar" source="#bib108-3">كركوك</placeName>
-               <placeName xml:id="name108-8" xml:lang="en" source="#bib108-4">Karkh Slukh</placeName>
-               <placeName xml:id="name108-9" xml:lang="en" source="#bib108-5">Karka de Beth Selok</placeName>
-               <placeName xml:id="name108-10" xml:lang="en" source="#bib108-6">Kirkūk (Karkā d'Beṯ Ṣlōḥ)</placeName>
-               <placeName xml:id="name108-11" xml:lang="en" source="#bib108-6">Slōḥ</placeName>
+               <placeName xml:id="name108-4" xml:lang="syr-Syrj" source="#bib108-3">ܟܪܟ ܣܠܘܟ</placeName>
+               <placeName xml:id="name108-5" xml:lang="syr-Syrj" source="#bib108-3">ܟܰܪܟܘܟ</placeName>
+               <placeName xml:id="name108-6" xml:lang="ar" source="#bib108-4">كرخ سلوخ</placeName>
+               <placeName xml:id="name108-7" xml:lang="ar" source="#bib108-4">كركوك</placeName>
+               <placeName xml:id="name108-8" xml:lang="en" source="#bib108-5">Karkh Slukh</placeName>
+               <placeName xml:id="name108-9" xml:lang="en" source="#bib108-6">Karka de Beth Selok</placeName>
+               <placeName xml:id="name108-10" xml:lang="en" source="#bib108-7">Kirkūk (Karkā d'Beṯ Ṣlōḥ)</placeName>
+               <placeName xml:id="name108-11" xml:lang="en" source="#bib108-7">Slōḥ</placeName>
                <desc xml:id="abstract-en-108" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib108-1">316. Karka d-Beth Slokh</quote>
                </desc>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib108-2">ܡܕܺܝܢܰܬ ܟܰܪܟܘܟ ܗܳܝ ܕܰܒܥܪܰܐܩ.</quote>
+                  <quote source="#bib108-3">ܡܕܺܝܢܰܬ ܟܰܪܟܘܟ ܗܳܝ ܕܰܒܥܪܰܐܩ.</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib108-3">هي مدينة كركوك في العراق.</quote>
+                  <quote source="#bib108-4">هي مدينة كركوك في العراق.</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib108-4">the present city of Kirkuk, in Iraq.</quote>
+                  <quote source="#bib108-5">the present city of Kirkuk, in Iraq.</quote>
                </desc>
-               <location type="gps" source="#bib108-1">
+               <location type="gps" source="#bib108-2">
                   <geo>35.468099 44.3953</geo>
                </location>
                <state type="existence"/>
@@ -144,32 +144,37 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=K&amp;sK=Karka de Beth Selok&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib108-1">
+                  <title level="a" xml:lang="en">316. Karka d-Beth Slokh</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib108-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map I C2, II C2, IV</citedRange>
                </bibl>
-               <bibl xml:id="bib108-2">
+               <bibl xml:id="bib108-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">560</citedRange>
                </bibl>
-               <bibl xml:id="bib108-3">
+               <bibl xml:id="bib108-4">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">518</citedRange>
                </bibl>
-               <bibl xml:id="bib108-4">
+               <bibl xml:id="bib108-5">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">555</citedRange>
                </bibl>
-               <bibl xml:id="bib108-5">
+               <bibl xml:id="bib108-6">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=K&amp;sK=Karka de Beth Selok&amp;sT=keywords">Karka de Beth Selok</citedRange>
                </bibl>
-               <bibl xml:id="bib108-6">
+               <bibl xml:id="bib108-7">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">13, 46, 47, 82, 114, 124, 127, 144, 171, 172, 175-176, 177, 178-182, 182, 186, 210, 223, 268, 269, 353</citedRange>

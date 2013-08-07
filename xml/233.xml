@@ -47,10 +47,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib233-2"/>
+                           <ptr target="#bib233-3"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib233-3"/>
+                           <ptr target="#bib233-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -58,7 +58,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -90,7 +90,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -100,29 +100,29 @@
                <placeName xml:id="name233-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib233-1">Tell ʿAda</placeName>
+                          source="#bib233-2">Tell ʿAda</placeName>
                <placeName xml:id="name233-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܬܠܥܕܐ</placeName>
-               <placeName xml:id="name233-3" xml:lang="syr-Syrj" source="#bib233-2">ܕܰܝܪܐ ܕܬܰܠܥܕܰܐ</placeName>
-               <placeName xml:id="name233-4" xml:lang="syr-Syrj" source="#bib233-2">ܕܰܝܪܳܐ ܪܰܒܳܐ</placeName>
-               <placeName xml:id="name233-5" xml:lang="ar" source="#bib233-3">دير تلعدا</placeName>
-               <placeName xml:id="name233-6" xml:lang="ar" source="#bib233-3">الدير الكبير</placeName>
-               <placeName xml:id="name233-7" xml:lang="en" source="#bib233-4">Talʿada Monastery</placeName>
-               <placeName xml:id="name233-8" xml:lang="en" source="#bib233-4">Great Monastery</placeName>
-               <placeName xml:id="name233-9" xml:lang="en" source="#bib233-5">monastery of Tell Ada</placeName>
+               <placeName xml:id="name233-3" xml:lang="syr-Syrj" source="#bib233-3">ܕܰܝܪܐ ܕܬܰܠܥܕܰܐ</placeName>
+               <placeName xml:id="name233-4" xml:lang="syr-Syrj" source="#bib233-3">ܕܰܝܪܳܐ ܪܰܒܳܐ</placeName>
+               <placeName xml:id="name233-5" xml:lang="ar" source="#bib233-4">دير تلعدا</placeName>
+               <placeName xml:id="name233-6" xml:lang="ar" source="#bib233-4">الدير الكبير</placeName>
+               <placeName xml:id="name233-7" xml:lang="en" source="#bib233-5">Talʿada Monastery</placeName>
+               <placeName xml:id="name233-8" xml:lang="en" source="#bib233-5">Great Monastery</placeName>
+               <placeName xml:id="name233-9" xml:lang="en" source="#bib233-6">monastery of Tell Ada</placeName>
                <desc xml:id="abstract-en-233" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib233-1">537. Tell ʿAda, Monastery of</quote>
                </desc>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib233-2">ܕܺܝܕܝܥ ܕܰܝܪܳܐ ܪܰܒܳܐ ܕܰܒܬܰܝܡܰܢ ܛܘܪܳܐ ܕܣܶܡܥܰܐܢ ܘܰܒܓܰܪܒܰܝ ܬܰܠܥܕܰܐ ܩܪܺܝܬܳܐ ܡܰܪܕܶܐ ܥܶܣܪܝܢ ܩܰܛܝ̈ܢܳܢ ܡܶܢܗ ܒܟܘܪܳܐ ܕܐܰܢܛܝܘܟܺܝܰܐ ܫܰܬܐܣܶܗ ܐܰܡܝܰܐܢܘܣ ܥܶܢܘܳܝܐ ܕܰܕܟܺܝܪ ܠܰܢ ܡܶܢܟܰܕܘ ܩܕܳܡ ܫܢܰܬ  340  ܘܰܥܡܰܪ ܒܗ ܐܘܣܰܐܒܺܝܘܣ ܥܢܘܳܝܐ. ܐܶܬܕܰܟܪܘܗܝ ܬܶܐܘܕܘܪܺܝܛܳܘܣ ܕܩܽܘܪܘܣ ܘܝܘܚܰܢܢ ܕܐܶܦܶܣܘܣ ܘܒܰܫܢܰܬ  942  ܫܰܟܠܶܠ ܒܗ ܝܘܚܰܢܳܢ ܒܘܪܓܳܐ  . ܐܰܦܶܩ ܬܶܫܥܳܐ ܐܶܦܝ̈ܣܩܘܦܐ ܘܫܰܪ̈ܟܳܢܰܘܗܝ ܩܰܝܳܡܝܢ ܥܕܰܡܳܐ ܠܝܰܘܡܳܢ.</quote>
+                  <quote source="#bib233-3">ܕܺܝܕܝܥ ܕܰܝܪܳܐ ܪܰܒܳܐ ܕܰܒܬܰܝܡܰܢ ܛܘܪܳܐ ܕܣܶܡܥܰܐܢ ܘܰܒܓܰܪܒܰܝ ܬܰܠܥܕܰܐ ܩܪܺܝܬܳܐ ܡܰܪܕܶܐ ܥܶܣܪܝܢ ܩܰܛܝ̈ܢܳܢ ܡܶܢܗ ܒܟܘܪܳܐ ܕܐܰܢܛܝܘܟܺܝܰܐ ܫܰܬܐܣܶܗ ܐܰܡܝܰܐܢܘܣ ܥܶܢܘܳܝܐ ܕܰܕܟܺܝܪ ܠܰܢ ܡܶܢܟܰܕܘ ܩܕܳܡ ܫܢܰܬ  340  ܘܰܥܡܰܪ ܒܗ ܐܘܣܰܐܒܺܝܘܣ ܥܢܘܳܝܐ. ܐܶܬܕܰܟܪܘܗܝ ܬܶܐܘܕܘܪܺܝܛܳܘܣ ܕܩܽܘܪܘܣ ܘܝܘܚܰܢܢ ܕܐܶܦܶܣܘܣ ܘܒܰܫܢܰܬ  942  ܫܰܟܠܶܠ ܒܗ ܝܘܚܰܢܳܢ ܒܘܪܓܳܐ  . ܐܰܦܶܩ ܬܶܫܥܳܐ ܐܶܦܝ̈ܣܩܘܦܐ ܘܫܰܪ̈ܟܳܢܰܘܗܝ ܩܰܝܳܡܝܢ ܥܕܰܡܳܐ ܠܝܰܘܡܳܢ.</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib233-3">المعروف بالدير الكبير؛ في جنوبي جبل سمعان وشمالي قرية تلعدا مسير عشرين دقيقة منها في كورة انطاكية شيده اميانس الناسك المذكور آنفاً قبل سنة 340 واقام فيه اوسابيوس الناسك. ذكره ثاودريطس القورشي ويوحنا الا فسسي، وسنة 942 عمر فيه يوحنا السادس برجاً انجب تسعة اساقفة واطلاله اليوم ماثلة</quote>
+                  <quote source="#bib233-4">المعروف بالدير الكبير؛ في جنوبي جبل سمعان وشمالي قرية تلعدا مسير عشرين دقيقة منها في كورة انطاكية شيده اميانس الناسك المذكور آنفاً قبل سنة 340 واقام فيه اوسابيوس الناسك. ذكره ثاودريطس القورشي ويوحنا الا فسسي، وسنة 942 عمر فيه يوحنا السادس برجاً انجب تسعة اساقفة واطلاله اليوم ماثلة</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib233-4">also known as the Great Monastery, is situated south of Siman mountain, a twenty-minute walk north of the village of Talʿada, in the province of Antioch. It was built before 340 by Amian the ascetic and in it resided Eusebius the ascetic (both men are mentioned above). This monastery is mentioned by chroniclers Theodoret of Cyrus and John of Ephesus. In 942, Patriarch John built a tower there. It produced nine bishops. Its remains can still be seen today.</quote>
+                  <quote source="#bib233-5">also known as the Great Monastery, is situated south of Siman mountain, a twenty-minute walk north of the village of Talʿada, in the province of Antioch. It was built before 340 by Amian the ascetic and in it resided Eusebius the ascetic (both men are mentioned above). This monastery is mentioned by chroniclers Theodoret of Cyrus and John of Ephesus. In 942, Patriarch John built a tower there. It produced nine bishops. Its remains can still be seen today.</quote>
                </desc>
-               <location type="gps" source="#bib233-1">
+               <location type="gps" source="#bib233-2">
                   <geo>35.137477 37.103175</geo>
                </location>
                <state type="existence"/>
@@ -131,25 +131,30 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of Tell Ada&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib233-1">
-                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <title level="a" xml:lang="en">537. Tell ʿAda, Monastery of</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                </bibl>
                <bibl xml:id="bib233-2">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib233-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">544</citedRange>
                </bibl>
-               <bibl xml:id="bib233-3">
+               <bibl xml:id="bib233-4">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">510</citedRange>
                </bibl>
-               <bibl xml:id="bib233-4">
+               <bibl xml:id="bib233-5">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">570</citedRange>
                </bibl>
-               <bibl xml:id="bib233-5">
+               <bibl xml:id="bib233-6">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"

@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Pērūz Shāpūr
+            <title level="a" xml:lang="en">Peruz Shapur
                                         — <foreign xml:lang="syr">ܐܢܒܐܪ</foreign>
             </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
@@ -47,10 +47,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib211-2"/>
+                           <ptr target="#bib211-3"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib211-3"/>
+                           <ptr target="#bib211-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -58,7 +58,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -90,7 +90,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -100,18 +100,20 @@
                <placeName xml:id="name211-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib211-1">Pērūz Shāpūr</placeName>
-               <placeName xml:id="name211-2" xml:lang="en" source="#bib211-1">al-Anbār</placeName>
+                          source="#bib211-2">Peruz Shapur</placeName>
+               <placeName xml:id="name211-2" xml:lang="en" source="#bib211-2">al-Anbār</placeName>
                <placeName xml:id="name211-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܢܒܐܪ</placeName>
-               <placeName xml:id="name211-4" xml:lang="syr-Syrj" source="#bib211-2">ܐܰܢܒܰܐܪ</placeName>
-               <placeName xml:id="name211-5" xml:lang="ar" source="#bib211-3">الانبار</placeName>
-               <placeName xml:id="name211-6" xml:lang="en" source="#bib211-4">al-ʾAnbar</placeName>
-               <placeName xml:id="name211-7" xml:lang="en" source="#bib211-5">Anbar</placeName>
-               <desc xml:id="abstract-en-211" xml:lang="en"/>
+               <placeName xml:id="name211-4" xml:lang="syr-Syrj" source="#bib211-3">ܐܰܢܒܰܐܪ</placeName>
+               <placeName xml:id="name211-5" xml:lang="ar" source="#bib211-4">الانبار</placeName>
+               <placeName xml:id="name211-6" xml:lang="en" source="#bib211-5">al-ʾAnbar</placeName>
+               <placeName xml:id="name211-7" xml:lang="en" source="#bib211-6">Anbar</placeName>
+               <desc xml:id="abstract-en-211" xml:lang="en">
+                  <quote source="#bib211-1">Large Sasanian city on the eastern bank of the Euphrates, the ruins are near present-day Falluja, ca. 60 km. west of Baghdad.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib211-1">35. al-Anbār</quote>
                </desc>
-               <location type="gps" source="#bib211-1">
+               <location type="gps" source="#bib211-2">
                   <geo>33.3603 43.7717</geo>
                </location>
                <state type="existence"/>
@@ -120,26 +122,33 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Anbar_(town)</idno>
                <idno type="URI">http://dbpedia.org/resource/Anbar_(town)</idno>
                <bibl xml:id="bib211-1">
+                  <author>A. Juckel</author>
+                  <title level="a" xml:lang="en">35. al-Anbār</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">21</citedRange>
+               </bibl>
+               <bibl xml:id="bib211-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map I C2, II C2</citedRange>
                </bibl>
-               <bibl xml:id="bib211-2">
+               <bibl xml:id="bib211-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">273</citedRange>
                </bibl>
-               <bibl xml:id="bib211-3">
+               <bibl xml:id="bib211-4">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">248</citedRange>
                </bibl>
-               <bibl xml:id="bib211-4">
+               <bibl xml:id="bib211-5">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">287</citedRange>
                </bibl>
-               <bibl xml:id="bib211-5">
+               <bibl xml:id="bib211-6">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">343</citedRange>

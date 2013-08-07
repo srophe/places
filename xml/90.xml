@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -81,8 +81,8 @@
                <placeName xml:id="name90-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib90-1 #bib90-2">Hakkari</placeName>
-               <placeName xml:id="name90-2" xml:lang="en" source="#bib90-3">Hakkārī</placeName>
+                          source="#bib90-2 #bib90-3">Hakkari</placeName>
+               <placeName xml:id="name90-2" xml:lang="en" source="#bib90-4">Hakkārī</placeName>
                <desc xml:id="abstract-en-90" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib90-1">245. Hakkari</quote>
@@ -95,17 +95,22 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=H&amp;sK=Hakkari&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib90-1">
+                  <title level="a" xml:lang="en">245. Hakkari</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib90-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map II C1</citedRange>
                </bibl>
-               <bibl xml:id="bib90-2">
+               <bibl xml:id="bib90-3">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=H&amp;sK=Hakkari&amp;sT=keywords">Hakkari</citedRange>
                </bibl>
-               <bibl xml:id="bib90-3">
+               <bibl xml:id="bib90-4">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">1, 2, 3, 6, 8, 12, 14, 15, 17, 24, 33, 36, 37, 89, 166, 232, 242, 275, 276-311, 322, 324, 346, 352, 353, 354, 365, 366, 367, 369, 370</citedRange>

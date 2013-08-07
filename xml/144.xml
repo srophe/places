@@ -43,10 +43,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib144-2"/>
+                           <ptr target="#bib144-3"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib144-3"/>
+                           <ptr target="#bib144-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -54,7 +54,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -86,7 +86,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -96,15 +96,15 @@
                <placeName xml:id="name144-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib144-1 #bib144-4 #bib144-5">Nineveh</placeName>
+                          source="#bib144-2 #bib144-5 #bib144-6">Nineveh</placeName>
                <placeName xml:id="name144-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܢܝܢܘܐ</placeName>
-               <placeName xml:id="name144-3" xml:lang="syr-Syrj" source="#bib144-2">ܢܺܝܢܘܶܐ</placeName>
-               <placeName xml:id="name144-4" xml:lang="ar" source="#bib144-3">نينوى</placeName>
+               <placeName xml:id="name144-3" xml:lang="syr-Syrj" source="#bib144-3">ܢܺܝܢܘܶܐ</placeName>
+               <placeName xml:id="name144-4" xml:lang="ar" source="#bib144-4">نينوى</placeName>
                <desc xml:id="abstract-en-144" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib144-1">399. Nineveh</quote>
                </desc>
-               <location type="gps" source="#bib144-1">
+               <location type="gps" source="#bib144-2">
                   <geo>36.35944 43.15278</geo>
                </location>
                <state type="existence"/>
@@ -116,26 +116,31 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=N&amp;sK=Nineveh&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib144-1">
+                  <title level="a" xml:lang="en">399. Nineveh</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib144-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map I C1</citedRange>
                </bibl>
-               <bibl xml:id="bib144-2">
+               <bibl xml:id="bib144-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">537</citedRange>
                </bibl>
-               <bibl xml:id="bib144-3">
+               <bibl xml:id="bib144-4">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">505</citedRange>
                </bibl>
-               <bibl xml:id="bib144-4">
+               <bibl xml:id="bib144-5">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">552</citedRange>
                </bibl>
-               <bibl xml:id="bib144-5">
+               <bibl xml:id="bib144-6">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"

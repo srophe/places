@@ -58,7 +58,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -90,7 +90,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -112,7 +112,10 @@
                <desc xml:lang="en">
                   <quote source="#bib346-3">in the Mountain of Edessa. There is another monastery by the same name. This one was established in the beginning of the fifth century, but was not mentioned by historians until 1191. From it graduated Basilius Fāris, metropolitan of Edessa (d. 1204).</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="1149" to="1140">
+                  <precision match="@from" notAfter="1149"/>
+                  <precision match="@to" notBefore="1140"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/346</idno>
                <bibl xml:id="bib346-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

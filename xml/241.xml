@@ -54,7 +54,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -86,7 +86,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -102,7 +102,10 @@
                <placeName xml:id="name241-4" xml:lang="ar" source="#bib241-3">حبسناس</placeName>
                <placeName xml:id="name241-5" xml:lang="en" source="#bib241-4">Habsnas</placeName>
                <desc xml:id="abstract-en-241" xml:lang="en"/>
-               <state type="existence"/>
+               <state type="existence" from="0875" to="0855">
+                  <precision match="@from" notAfter="0875"/>
+                  <precision match="@to" notBefore="0855"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/241</idno>
                <bibl xml:id="bib241-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

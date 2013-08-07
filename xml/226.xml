@@ -51,10 +51,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib226-2"/>
+                           <ptr target="#bib226-3"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib226-3"/>
+                           <ptr target="#bib226-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -62,7 +62,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31-04:00</date>
+            <date>2013-08-07-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -94,7 +94,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -104,31 +104,29 @@
                <placeName xml:id="name226-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib226-1">Mor Gabriel</placeName>
+                          source="#bib226-2">Mor Gabriel</placeName>
                <placeName xml:id="name226-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܩܪܛܡܝܢ</placeName>
-               <placeName xml:id="name226-3" xml:lang="syr-Syrj" source="#bib226-2">ܕܰܝܪܳܐ ܕܩܰܪܛܡܝܢ</placeName>
-               <placeName xml:id="name226-4" xml:lang="ar" source="#bib226-3">دير قرتمين</placeName>
-               <placeName xml:id="name226-5" xml:lang="en" source="#bib226-4">Qarṭmin Monastery</placeName>
-               <placeName xml:id="name226-6" xml:lang="en" source="#bib226-5">monastery of Gabriel of Qartmin</placeName>
+               <placeName xml:id="name226-3" xml:lang="syr-Syrj" source="#bib226-3">ܕܰܝܪܳܐ ܕܩܰܪܛܡܝܢ</placeName>
+               <placeName xml:id="name226-4" xml:lang="ar" source="#bib226-4">دير قرتمين</placeName>
+               <placeName xml:id="name226-5" xml:lang="en" source="#bib226-5">Qarṭmin Monastery</placeName>
+               <placeName xml:id="name226-6" xml:lang="en" source="#bib226-6">monastery of Gabriel of Qartmin</placeName>
                <desc xml:id="abstract-en-226" xml:lang="en"/>
                <desc xml:lang="en">
                   <quote source="#bib226-1">214. Gabriel, Monastery of Mor</quote>
                </desc>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib226-2">ܠܡܰܕܢܚܐ ܕܡܶܕܝܰܕ ܡܰܪܕܶܐ ܐܰܪܒܰܥ ܫܳܥ̈ܝܢ ܗܽܘܝܽܘ ܛܒܺܝܒܶܐ ܕܕܰܝܪ̈ܳܬܳܐ ܕܛܘܪܥܰܒܕܝܢ. ܒܢܰܐܘܽܗܝ ܥܶܢܘܳܝ̈ܐ ܡܳܪܝ ܫܡܘܐܝܠ ܘܡܳܪܝ ܫܶܡܥܘܢ. ܫܢܰܬ  397  ܒܳܬܰܪܟܶܢ ܐܶܫܬܕܰܪ ܥܠܰܘܗܝ ܫܶܡ ܪܝܫܗ ܘܐܶܦܝܣܩܘܦܗ ܡܳܪܝ ܓܰܒܪܐܝܠ  667  ܘܰܗܘܳܐ ܟܘܪܣܝܳܐ ܠܡܶܛܪ̈ܘܦܘܠܝܛܐ ܕܛܘܽܪܥܰܒܕܺܝܢ. ܫܢܰܬ  615  ܥܕܰܡܐ ܠܰܫܢܬ  1049  ܟܶܢ ܐܶܬܒܰܠܚܕ ܒܪܝܺܫܳܢܘܬ ܦܶܠܓܘܬܐ ܪܘܺܝܚܬܐ ܕܛܘܪܳܐ. ܘܰܠܚܰܪܬܐ ܐܶܣܬܰܝܟ ܒܡܰܪܥܝܬܐ ܕܝܠܳܢܳܝܬܐ ܥܕܰܡܐ ܠܰܫܢܰܬ  1915  ܐܶܬܢܰܦܰܩܘ ܒܗ ܐܰܪܒܥܐ ܦܰܛܪ̈ܝܪܟܐ ܘܚܕ ܡܰܦܪܝܢܐ ܘܬܶܫܥܐ ܘܫܰܒܥܝܢ ܐܶܦܝܣܩܘ̈ܦܐ ܘܰܥܕܰܟܝܠ ܥܰܡܝܪ ܘܰܡܝܰܬܰܒ.</quote>
+                  <quote source="#bib226-3">ܠܡܰܕܢܚܐ ܕܡܶܕܝܰܕ ܡܰܪܕܶܐ ܐܰܪܒܰܥ ܫܳܥ̈ܝܢ ܗܽܘܝܽܘ ܛܒܺܝܒܶܐ ܕܕܰܝܪ̈ܳܬܳܐ ܕܛܘܪܥܰܒܕܝܢ. ܒܢܰܐܘܽܗܝ ܥܶܢܘܳܝ̈ܐ ܡܳܪܝ ܫܡܘܐܝܠ ܘܡܳܪܝ ܫܶܡܥܘܢ. ܫܢܰܬ  397  ܒܳܬܰܪܟܶܢ ܐܶܫܬܕܰܪ ܥܠܰܘܗܝ ܫܶܡ ܪܝܫܗ ܘܐܶܦܝܣܩܘܦܗ ܡܳܪܝ ܓܰܒܪܐܝܠ  667  ܘܰܗܘܳܐ ܟܘܪܣܝܳܐ ܠܡܶܛܪ̈ܘܦܘܠܝܛܐ ܕܛܘܽܪܥܰܒܕܺܝܢ. ܫܢܰܬ  615  ܥܕܰܡܐ ܠܰܫܢܬ  1049  ܟܶܢ ܐܶܬܒܰܠܚܕ ܒܪܝܺܫܳܢܘܬ ܦܶܠܓܘܬܐ ܪܘܺܝܚܬܐ ܕܛܘܪܳܐ. ܘܰܠܚܰܪܬܐ ܐܶܣܬܰܝܟ ܒܡܰܪܥܝܬܐ ܕܝܠܳܢܳܝܬܐ ܥܕܰܡܐ ܠܰܫܢܰܬ  1915  ܐܶܬܢܰܦܰܩܘ ܒܗ ܐܰܪܒܥܐ ܦܰܛܪ̈ܝܪܟܐ ܘܚܕ ܡܰܦܪܝܢܐ ܘܬܶܫܥܐ ܘܫܰܒܥܝܢ ܐܶܦܝܣܩܘ̈ܦܐ ܘܰܥܕܰܟܝܠ ܥܰܡܝܪ ܘܰܡܝܰܬܰܒ.</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib226-3">شرقي مذيات مسيرة اربع ساعات عنها اشهر اديار طورعبدين، بناه الناسكان مار صموئيل وما شمعون عام 397 ثم اطلق عليه اسم رئيسه واسقفه مار جبرائيل 667 + صار كرسيا لمطارنة طورعبدين سنة 615 حتى 1049 ثم انفرد مطرانه برئاسة قسم واسع من الجبل ثم انحصر بابرشية خاصة به حتى سنة 1915 تخرج فيه اربعة بطاركة ومفريان وتسعة وسبعون اسقفاً لا يزال عامرا آهلا.</quote>
+                  <quote source="#bib226-4">شرقي مذيات مسيرة اربع ساعات عنها اشهر اديار طورعبدين، بناه الناسكان مار صموئيل وما شمعون عام 397 ثم اطلق عليه اسم رئيسه واسقفه مار جبرائيل 667 + صار كرسيا لمطارنة طورعبدين سنة 615 حتى 1049 ثم انفرد مطرانه برئاسة قسم واسع من الجبل ثم انحصر بابرشية خاصة به حتى سنة 1915 تخرج فيه اربعة بطاركة ومفريان وتسعة وسبعون اسقفاً لا يزال عامرا آهلا.</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib226-4">four hour journey east of Midyat, is the most famous monastery in Tur ʿAbdin. It was built in 397 by the two ascetics, St. Samuel and St. Simon. It is commonly called the Monastery of St. Gabriel, after its abbot and bishop Gabriel (d. 667). This monastery was the metropolitan see of Tur ʿAbdin from 615 to 1049. Afterwards, its metropolitan was the ecclesiastical leader of a large part of Tur ʿAbdin; still later, however, his jurisdiction was restricted to a private diocese until 1915. This monastery claims four Patriarchs, a Maphryono and seventy bishops. It is still inhabited.</quote>
+                  <quote source="#bib226-5">four hour journey east of Midyat, is the most famous monastery in Tur ʿAbdin. It was built in 397 by the two ascetics, St. Samuel and St. Simon. It is commonly called the Monastery of St. Gabriel, after its abbot and bishop Gabriel (d. 667). This monastery was the metropolitan see of Tur ʿAbdin from 615 to 1049. Afterwards, its metropolitan was the ecclesiastical leader of a large part of Tur ʿAbdin; still later, however, his jurisdiction was restricted to a private diocese until 1915. This monastery claims four Patriarchs, a Maphryono and seventy bishops. It is still inhabited.</quote>
                </desc>
-               <location type="gps" source="#bib226-1">
+               <location type="gps" source="#bib226-2">
                   <geo>37.321778 41.5385</geo>
                </location>
-               <state type="existence" from="1450">
-                  <precision match="@from" notAfter="1450"/>
-               </state>
+               <state type="existence" from="0397"/>
                <idno type="URI">http://syriaca.org/place/226</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874583</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Mor_Gabriel_Monastery</idno>
@@ -137,26 +135,31 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of Gabriel of Qartmin&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib226-1">
+                  <title level="a" xml:lang="en">214. Gabriel, Monastery of Mor</title>
+                  <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+               </bibl>
+               <bibl xml:id="bib226-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map II C1, III</citedRange>
                </bibl>
-               <bibl xml:id="bib226-2">
+               <bibl xml:id="bib226-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">549-550</citedRange>
                </bibl>
-               <bibl xml:id="bib226-3">
+               <bibl xml:id="bib226-4">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">512</citedRange>
                </bibl>
-               <bibl xml:id="bib226-4">
+               <bibl xml:id="bib226-5">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">568</citedRange>
                </bibl>
-               <bibl xml:id="bib226-5">
+               <bibl xml:id="bib226-6">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
