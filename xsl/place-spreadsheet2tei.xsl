@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     version="2.0" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns:syriaca="http://syriaca.org">
+    xmlns:syriaca="http://syriaca.org"
+    xmlns="http://www.tei-c.org/ns/1.0">
     
     <xsl:output encoding="UTF-8" indent="yes" method="xml" name="xml" />
     
@@ -418,6 +419,11 @@
                                         </xsl:if>
                                     </state>
                                     
+                                    <!-- Insert notes of type Errata here -->
+                                    <xsl:for-each select="*/errata">
+                                        <note type="errata"><xsl:apply-templates select="child::node()"/></note>
+                                    </xsl:for-each>
+                                    
                                     <!-- Insert the ID numbers for Syriaca.org and, if they exist, for Pleiades, Wikipedia, and DBpedia -->
                                     <idno type="URI">http://syriaca.org/place/<xsl:value-of select="Place_ID"/></idno>
                                     <xsl:if test="Pleiades_URI != ''">
@@ -530,6 +536,18 @@
                 </TEI>
             </xsl:result-document>
         </xsl:for-each>
+    </xsl:template>
+    
+    <xsl:template match="text()">
+        <!-- Deal with text while adding links to place names surrounded by <placeName ref="http://syriaca.org/place/##"/> -->
+        <xsl:choose>
+            <xsl:when test="contains(../@ref,'syriaca.org')">
+                <xsl:element name="{../name()}"><xsl:attribute name="ref"><xsl:value-of select="../@ref"/></xsl:attribute><xsl:value-of select="."/></xsl:element>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:value-of select="."/>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     
 </xsl:stylesheet>

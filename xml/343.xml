@@ -120,6 +120,7 @@
                   <precision match="@from" notAfter="0518" notBefore="0300"/>
                   <precision match="@to" notBefore="0830"/>
                </state>
+               <note type="errata">In Moosa's English translation of Barsoum's description "fifth" should read "following."</note>
                <idno type="URI">http://syriaca.org/place/343</idno>
                <idno type="URI">
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of Mar Bassus&amp;sT=keywords

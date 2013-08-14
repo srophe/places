@@ -78,6 +78,7 @@
                <placeName xml:id="name278-2" xml:lang="en" source="#bib278-1">Dayr ʿAtiya</placeName>
                <desc xml:id="abstract-en-278" xml:lang="en"/>
                <state type="existence"/>
+               <note type="errata">GEDSH Map V omits the dot under the 't'.</note>
                <idno type="URI">http://syriaca.org/place/278</idno>
                <bibl xml:id="bib278-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

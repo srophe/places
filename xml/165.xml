@@ -85,6 +85,7 @@
                   <geo>35.616667 38.75</geo>
                </location>
                <state type="existence"/>
+               <note type="errata">GEDSH Map 2 omits dot under the s in the name "Resafa."</note>
                <idno type="URI">http://syriaca.org/place/165</idno>
                <idno type="URI">http://pleiades.stoa.org/places/668354</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Resafa</idno>

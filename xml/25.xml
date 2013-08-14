@@ -140,6 +140,7 @@
                   <region ref="http://syriaca.org/place/776">Sapsāpā district</region>
                </location>
                <state type="existence"/>
+               <note type="errata">Moosa's English translation of Barsoum's description says "north" when it should be "east."</note>
                <idno type="URI">http://syriaca.org/place/25</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Aqrah</idno>
                <bibl xml:id="bib25-1">

@@ -1076,7 +1076,7 @@
         <Barsoum_English_Name>ʿAqr, ʿAqr al-Ḥumaydiyya</Barsoum_English_Name>
         <Barsoum_English_Page>551</Barsoum_English_Page>
         <Barsoum_English_Description>a citadel two days journey north of Mosul. It is known as ʿAqr al-Ḥumaydiyya.</Barsoum_English_Description>
-        <Barsoum_English_Notes>Errata: Moosa's English translation of Barsoum's description says "north" when it should be "east."</Barsoum_English_Notes>
+        <Barsoum_English_Notes><errata>Moosa's English translation of Barsoum's description says "north" when it should be "east."</errata></Barsoum_English_Notes>
         <Wikipedia_URI>http://en.wikipedia.org/wiki/Aqrah</Wikipedia_URI>
         <DBpedia_URI></DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -3260,7 +3260,7 @@
         <Barsoum_English_Name>Zaʿfaran Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>570</Barsoum_English_Page>
         <Barsoum_English_Description>or St. Ḥananya Monastery, was built by Ḥananya, metropolitan of Mardin, between 793 and 800 on the site of an old monastery north of Mardin. This great and populous monastery in 1293 became the Patriarchal see for some six hundred years. It claims twenty-one Patriarchs, nine Maphryonos and 110 bishops. In 1917 we published its detailed history, entitled Nuzhat al-Adhhān (The Excursion of Minds). In its immediate neighborhood there are three small monasteries close together:</Barsoum_English_Description>
-        <Barsoum_English_Notes>Errata: Matti Moosa's English translation of Barsoum's description is incomplete, and it says "north" when it should be "east."</Barsoum_English_Notes>
+        <Barsoum_English_Notes><errata>Matti Moosa's English translation of Barsoum's description is incomplete, and it says "north" when it should be "east."</errata></Barsoum_English_Notes>
         <Wikipedia_URI>http://en.wikipedia.org/wiki/Mor_Hananyo_Monastery</Wikipedia_URI>
         <DBpedia_URI>http://dbpedia.org/resource/Mor_Hananyo_Monastery</DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -7874,7 +7874,7 @@
         <GEDSH_Category>large city</GEDSH_Category>
         <Latitude>35.616667</Latitude>
         <Longitude>38.75</Longitude>
-        <GEDSH_Notes>GEDSH Map 2 omits dot under the s in the name "Resafa."</GEDSH_Notes>
+        <GEDSH_Notes><errata>GEDSH Map 2 omits dot under the s in the name "Resafa."</errata></GEDSH_Notes>
         <Merge_Notes>Not found - TAC</Merge_Notes>
         <Barsoum_Syriac_Name></Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized></Barsoum_Syriac_Name_Vocalized>
@@ -13126,7 +13126,7 @@
         <GEDSH_Category>city</GEDSH_Category>
         <Latitude></Latitude>
         <Longitude></Longitude>
-        <GEDSH_Notes>GEDSH Map V omits the dot under the 't'.</GEDSH_Notes>
+        <GEDSH_Notes><errata>GEDSH Map V omits the dot under the 't'.</errata></GEDSH_Notes>
         <Merge_Notes>Not found - TAC</Merge_Notes>
         <Barsoum_Syriac_Name></Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized></Barsoum_Syriac_Name_Vocalized>
@@ -13556,7 +13556,7 @@
         <Barsoum_English_Name>Arsamosata, Samosata</Barsoum_English_Name>
         <Barsoum_English_Page>551, 558</Barsoum_English_Page>
         <Barsoum_English_Description>a city in the Roman territory on the Euphrates.  To its east lies Balū and to its west Kharput, contiguous to Armenia.</Barsoum_English_Description>
-        <Barsoum_English_Notes>Errata: Moosa's English translation of Barsoum's description was incorrectly published under the headword "Samosata," while his description under the headword "Arsamosata" in fact describes the village <placeName ref="http://syriaca.org/place/442">Kaʿbiya</placeName>.</Barsoum_English_Notes>
+        <Barsoum_English_Notes><errata>Moosa's English translation of Barsoum's description was incorrectly published under the headword "Samosata," while his description under the headword "Arsamosata" in fact describes the village <placeName ref="http://syriaca.org/place/442">Kaʿbiya</placeName>.</errata></Barsoum_English_Notes>
         <Wikipedia_URI>http://en.wikipedia.org/wiki/Arsamosata</Wikipedia_URI>
         <DBpedia_URI>http://dbpedia.org/page/Arsamosata</DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -13920,7 +13920,7 @@
         <Barsoum_English_Name>Bajabbara</Barsoum_English_Name>
         <Barsoum_English_Page>552</Barsoum_English_Page>
         <Barsoum_English_Description>a village north of Mosul on the Khuser Creek, ruined in the middle of the thirteenth century.</Barsoum_English_Description>
-        <Barsoum_English_Notes>Errata: Moosa's English translation of Barsoum's description says "north" when it should be "east."</Barsoum_English_Notes>
+        <Barsoum_English_Notes><errata>Moosa's English translation of Barsoum's description says "north" when it should be "east."</errata></Barsoum_English_Notes>
         <Wikipedia_URI></Wikipedia_URI>
         <DBpedia_URI></DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -16416,7 +16416,7 @@
         <Barsoum_English_Name>Bāsūs Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>562</Barsoum_English_Page>
         <Barsoum_English_Description>near Ḥārim, between Euphemia and Ḥomṣ, is a famous and great monastery which was built in 480 through the private donation of the eminent Syrian Peter bin Joseph of Ḥomṣ, who bequeathed a great deal of property for the sustenance of its monks. In the third decade of the fifth century, its monks numbered 6,300. It remained populated until 830 and produced three bishops.</Barsoum_English_Description>
-        <Barsoum_English_Notes>Errata: In Moosa's English translation of Barsoum's description "fifth" should read "following."</Barsoum_English_Notes>
+        <Barsoum_English_Notes><errata>In Moosa's English translation of Barsoum's description "fifth" should read "following."</errata></Barsoum_English_Notes>
         <Wikipedia_URI></Wikipedia_URI>
         <DBpedia_URI></DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -17196,7 +17196,7 @@
         <Barsoum_English_Name>Zuqnīn Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>570</Barsoum_English_Page>
         <Barsoum_English_Description>outside Diyarbakir, is a famous, great monastery. Patriarch John I (d. 775) and fourteen bishops graduated from it.</Barsoum_English_Description>
-        <Barsoum_English_Notes>Errata: In Moosa's English translation of Barsoum's description, "775" should be "755."</Barsoum_English_Notes>
+        <Barsoum_English_Notes><errata>In Moosa's English translation of Barsoum's description, "775" should be "755."</errata></Barsoum_English_Notes>
         <Wikipedia_URI>http://en.wikipedia.org/wiki/Zuqnin_Monastery</Wikipedia_URI>
         <DBpedia_URI></DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -18756,7 +18756,7 @@
         <Barsoum_English_Name>Mark the Evangelist Monastery and the Virgin Monastery, Monastery of the Syrians</Barsoum_English_Name>
         <Barsoum_English_Page>566</Barsoum_English_Page>
         <Barsoum_English_Description>both located in Jerusalem. St. Mark is also known as the Monastery of the Syrians. It is an old monastery, built in the fifth or sixth century, according to an Estrangelo Syriac inscription on a stone discovered in 1940. Today it is the see of our metropolitan and it has been the home of our monks since 1472. The monastery has a magnificent library and a press. It has produced seven bishops.</Barsoum_English_Description>
-        <Barsoum_English_Notes>Errata: Moosa's English translation of Barsoum's description erroneously implies "Mark the Evangelist Monastery" and "Monastery of the Virgin" are two separate monasteries, when they are two names for the same monastery.</Barsoum_English_Notes>
+        <Barsoum_English_Notes><errata>Moosa's English translation of Barsoum's description erroneously implies "Mark the Evangelist Monastery" and "Monastery of the Virgin" are two separate monasteries, when they are two names for the same monastery.</errata></Barsoum_English_Notes>
         <Wikipedia_URI></Wikipedia_URI>
         <DBpedia_URI></DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -20784,7 +20784,7 @@
         <Barsoum_English_Name>Qalʿat al-Imra'a</Barsoum_English_Name>
         <Barsoum_English_Page>556</Barsoum_English_Page>
         <Barsoum_English_Description>a village north of Mardin, on the way to the Zaʿfaran Monastery.</Barsoum_English_Description>
-        <Barsoum_English_Notes>Errata: Moosa's English translation of Barsoum's description says "north" when it should be "east."</Barsoum_English_Notes>
+        <Barsoum_English_Notes><errata>Moosa's English translation of Barsoum's description says "north" when it should be "east."</errata></Barsoum_English_Notes>
         <Wikipedia_URI></Wikipedia_URI>
         <DBpedia_URI></DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -21252,7 +21252,7 @@
         <Barsoum_English_Name>Fayrūza</Barsoum_English_Name>
         <Barsoum_English_Page>553</Barsoum_English_Page>
         <Barsoum_English_Description>a village north of Ḥomṣ, heavily populated by Syrians.</Barsoum_English_Description>
-        <Barsoum_English_Notes>Errata: Moosa's English translation of Barsoum's description says "north" when it should be "east."</Barsoum_English_Notes>
+        <Barsoum_English_Notes><errata>Moosa's English translation of Barsoum's description says "north" when it should be "east."</errata></Barsoum_English_Notes>
         <Wikipedia_URI>http://en.wikipedia.org/wiki/Fairouzeh</Wikipedia_URI>
         <DBpedia_URI>http://dbpedia.org/resource/Fairouzeh</DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -21564,7 +21564,7 @@
         <Barsoum_English_Name></Barsoum_English_Name>
         <Barsoum_English_Page>551</Barsoum_English_Page>
         <Barsoum_English_Description>a village in the vicinity of Diyarbakir which was populated by Syrians. It was destroyed in World War I.</Barsoum_English_Description>
-        <Barsoum_English_Notes>Errata: Moosa's English translation of Barsoum's description was incorrectly published under the headword "Arsamosata."</Barsoum_English_Notes>
+        <Barsoum_English_Notes><errata>Moosa's English translation of Barsoum's description was incorrectly published under the headword "Arsamosata."</errata></Barsoum_English_Notes>
         <Wikipedia_URI></Wikipedia_URI>
         <DBpedia_URI></DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>

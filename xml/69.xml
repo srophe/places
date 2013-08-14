@@ -125,6 +125,7 @@
                <state type="existence" from="0800">
                   <precision match="@from" notAfter="0800" notBefore="0793"/>
                </state>
+               <note type="errata">Matti Moosa's English translation of Barsoum's description is incomplete, and it says "north" when it should be "east."</note>
                <idno type="URI">http://syriaca.org/place/69</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Mor_Hananyo_Monastery</idno>
                <idno type="URI">http://dbpedia.org/resource/Mor_Hananyo_Monastery</idno>
