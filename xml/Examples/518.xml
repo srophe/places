@@ -41,12 +41,15 @@
                         <bibl>
                            <ptr target="#bib518-2"/>
                         </bibl>
+                        <bibl>
+                           <ptr target="#bib518-3"/>
+                        </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/></note>
                   </p>
                </licence>
             </availability>
-            <date>2013-07-31</date>
+            <date>2013-08-14</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -78,6 +81,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14">ADDED: Barsoum Syriac to <gi>licence</gi></change>
          <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31">REMOVED: place type from <gi>title</gi></change>
          <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-28">ADDED: formattable markup to <gi>licence</gi> </change>
          <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24">ADDED: License for Barsoum data</change>

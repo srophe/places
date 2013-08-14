@@ -56,13 +56,16 @@
                         <bibl>
                            <ptr target="#bib92-3"/>
                         </bibl>
+                        <bibl>
+                           <ptr target="#bib92-4"/>
+                        </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
                      </note>
                   </p>
                </licence>
             </availability>
-            <date>2013-08-07-04:00</date>
+            <date>2013-08-14-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -94,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-07-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>

@@ -147,6 +147,13 @@
                                                             </ptr>
                                                         </bibl>
                                                     </xsl:if>
+                                                    <xsl:if test="Barsoum_English_Name != '' or Barsoum_English_Description != ''">
+                                                        <bibl>
+                                                            <ptr>
+                                                                <xsl:attribute name="target">#<xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'Barsoum-English')"/></xsl:attribute>
+                                                            </ptr>
+                                                        </bibl>
+                                                    </xsl:if>
                                                 </listBibl>
                                                 <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/></note>
                                             </p>
