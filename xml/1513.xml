@@ -96,7 +96,7 @@
                <placeName xml:id="name1513-3" xml:lang="syr-Syrj" source="#bib1513-1">ܕܰܝܪܐ ܕܐܰܬܐܪܒ</placeName>
                <placeName xml:id="name1513-4" xml:lang="ar" source="#bib1513-2">دير الاثارب</placeName>
                <placeName xml:id="name1513-5" xml:lang="en" source="#bib1513-3">Monastery of Atharb</placeName>
-               <desc xml:id="abstract-en-1513" xml:lang="en">A monastery near Aleppo.</desc>
+               <desc xml:id="abstract-en-1513" xml:lang="en">A monastery near <placeName ref="http://syriaca.org/place/18">Aleppo</placeName>.</desc>
                <state type="existence" from="0727" to="0638">
                   <precision match="@from" notAfter="0727"/>
                   <precision match="@to" notBefore="0638"/>

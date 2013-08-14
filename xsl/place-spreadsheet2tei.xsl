@@ -296,7 +296,7 @@
                                                     <xsl:value-of select="substring(Abstract,2,string-length(Abstract)-2)"/><!-- remove surrounding quotation marks -->
                                                 </quote> 
                                             </xsl:when>
-                                            <xsl:otherwise><xsl:value-of select="Abstract"/></xsl:otherwise>
+                                            <xsl:otherwise><xsl:apply-templates select="Abstract/child::node()"/></xsl:otherwise>
                                         </xsl:choose>
                                     </desc>
                                     <xsl:if test="GEDSH_Entry_Heading != ''">

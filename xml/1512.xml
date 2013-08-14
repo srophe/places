@@ -94,7 +94,7 @@
                <placeName xml:id="name1512-2" xml:lang="syr-Syrj" source="#bib1512-">ܒܶܝܬ ܢܢܙ</placeName>
                <placeName xml:id="name1512-3" xml:lang="ar" source="#bib1512-1">بيت نعر</placeName>
                <placeName xml:id="name1512-4" xml:lang="en" source="#bib1512-2">Beth Naar</placeName>
-               <desc xml:id="abstract-en-1512" xml:lang="en">A village near Edessa.</desc>
+               <desc xml:id="abstract-en-1512" xml:lang="en">A village near <placeName ref="http://syriaca.org/place/78">Edessa</placeName>.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib1512-">Deprecation: The Syriac name misrepresents the Arabic.</quote>
                </desc>

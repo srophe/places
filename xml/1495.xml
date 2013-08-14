@@ -92,7 +92,7 @@
                           source="#bib1495-2">Bezona</placeName>
                <placeName xml:id="name1495-2" xml:lang="syr-Syrj" source="#bib1495-">ܕܰܝܪܐ ܒܰܚܙܘܢܐ</placeName>
                <placeName xml:id="name1495-3" xml:lang="ar" source="#bib1495-1">دير بيزونا</placeName>
-               <desc xml:id="abstract-en-1495" xml:lang="en">An unlocated monastery, perhaps near Maypherqaṭ.</desc>
+               <desc xml:id="abstract-en-1495" xml:lang="en">An unlocated monastery, perhaps near <placeName ref="http://syriaca.org/place/134">Maypherqaṭ</placeName>.</desc>
                <state type="existence" from="0945" to="0935">
                   <precision match="@from" notAfter="0945"/>
                   <precision match="@to" notBefore="0935"/>

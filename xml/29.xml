@@ -104,7 +104,7 @@
                <placeName xml:id="name29-3" xml:lang="syr-Syrj" source="#bib29-2">ܥܰܝܢܘܪܕ</placeName>
                <placeName xml:id="name29-4" xml:lang="ar" source="#bib29-3">عينورد</placeName>
                <placeName xml:id="name29-5" xml:lang="en" source="#bib29-4">ʿAynward</placeName>
-               <desc xml:id="abstract-en-29" xml:lang="en">A village in Ṭur ʿAbdin.</desc>
+               <desc xml:id="abstract-en-29" xml:lang="en">A village in <placeName ref="http://syriaca.org/place/221">Ṭur ʿAbdin</placeName>.</desc>
                <location type="gps" source="#bib29-1">
                   <geo>37.408611 41.485556</geo>
                </location>

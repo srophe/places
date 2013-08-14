@@ -96,7 +96,7 @@
                <placeName xml:id="name1524-3" xml:lang="syr-Syrj" source="#bib1524-1">ܕܰܝܪܐ ܕܐܰܪܥܐ ܪܰܒܬܐ</placeName>
                <placeName xml:id="name1524-4" xml:lang="ar" source="#bib1524-2">دير ارعا ربتا</placeName>
                <placeName xml:id="name1524-5" xml:lang="en" source="#bib1524-3">Monastery of Arʿa Rabtha</placeName>
-               <desc xml:id="abstract-en-1524" xml:lang="en">A monastery at Agel.</desc>
+               <desc xml:id="abstract-en-1524" xml:lang="en">A monastery at <placeName ref="http://syriaca.org/place/291">Agel</placeName>.</desc>
                <state type="existence" from="0516" to="0494">
                   <precision match="@from" notAfter="0516"/>
                   <precision match="@to" notBefore="0494"/>

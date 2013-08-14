@@ -90,7 +90,7 @@
                <placeName xml:id="name1515-2" xml:lang="syr-Syrj" source="#bib1515-">ܒܐܢܒ</placeName>
                <placeName xml:id="name1515-3" xml:lang="ar" source="#bib1515-1">بانب</placeName>
                <placeName xml:id="name1515-4" xml:lang="en" source="#bib1515-2">Baneb</placeName>
-               <desc xml:id="abstract-en-1515" xml:lang="en">A village perhaps north of Aleppo.</desc>
+               <desc xml:id="abstract-en-1515" xml:lang="en">A village perhaps north of <placeName ref="http://syriaca.org/place/18">Aleppo</placeName>.</desc>
                <state type="existence" from="0725" to="0710">
                   <precision match="@from" notAfter="0725"/>
                   <precision match="@to" notBefore="0710"/>

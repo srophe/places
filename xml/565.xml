@@ -101,7 +101,7 @@
                <placeName xml:id="name565-5" xml:lang="ar" source="#bib565-2">قنقرت</placeName>
                <placeName xml:id="name565-6" xml:lang="ar" source="#bib565-2">قره كليسا</placeName>
                <placeName xml:id="name565-7" xml:lang="en" source="#bib565-3">Qara Kelisa</placeName>
-               <desc xml:id="abstract-en-565" xml:lang="en">A village near Amid.</desc>
+               <desc xml:id="abstract-en-565" xml:lang="en">A village near <placeName ref="http://syriaca.org/place/8">Amid</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/565</idno>
                <bibl xml:id="bib565-1">

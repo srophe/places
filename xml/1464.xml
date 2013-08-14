@@ -96,7 +96,7 @@
                <placeName xml:id="name1464-3" xml:lang="syr-Syrj" source="#bib1464-1">ܕܰܝܪܐ ܕܡܳܪܝ ܬܐܘܡܐ</placeName>
                <placeName xml:id="name1464-4" xml:lang="ar" source="#bib1464-2">دير مار توما</placeName>
                <placeName xml:id="name1464-5" xml:lang="en" source="#bib1464-3">Monastery of St. Thomas</placeName>
-               <desc xml:id="abstract-en-1464" xml:lang="en">A monastery in Seleucia.</desc>
+               <desc xml:id="abstract-en-1464" xml:lang="en">A monastery in <placeName ref="http://syriaca.org/place/1465">Seleucia</placeName>.</desc>
                <state type="existence" from="0529">
                   <precision match="@from" notAfter="0529"/>
                </state>

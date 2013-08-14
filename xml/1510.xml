@@ -98,7 +98,7 @@
                <placeName xml:id="name1510-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܐܕܝܐ</placeName>
                <placeName xml:id="name1510-3" xml:lang="syr-Syrj" source="#bib1510-1">ܒܰܐܕܝܐ</placeName>
                <placeName xml:id="name1510-4" xml:lang="ar" source="#bib1510-2">بادية</placeName>
-               <desc xml:id="abstract-en-1510" xml:lang="en">A village perhaps near Tagrit.</desc>
+               <desc xml:id="abstract-en-1510" xml:lang="en">A village perhaps near <placeName ref="http://syriaca.org/place/193">Tagrit</placeName>.</desc>
                <state type="existence" from="0806" to="0715">
                   <precision match="@from" notAfter="0806"/>
                   <precision match="@to" notBefore="0715"/>

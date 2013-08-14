@@ -102,7 +102,7 @@
                <placeName xml:id="name1509-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܬܪܡܢܙ</placeName>
                <placeName xml:id="name1509-3" xml:lang="syr-Syrj" source="#bib1509-1">ܬܰܪܡܢܐ</placeName>
                <placeName xml:id="name1509-4" xml:lang="ar" source="#bib1509-2">ترمناز</placeName>
-               <desc xml:id="abstract-en-1509" xml:lang="en">A place near Cyrrhus.</desc>
+               <desc xml:id="abstract-en-1509" xml:lang="en">A place near <placeName ref="http://syriaca.org/place/65">Cyrrhus</placeName>.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib1509-1">Deprecation: Dolabani's printer misread his Syriac letter zayin for olaf.</quote>
                </desc>

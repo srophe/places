@@ -98,7 +98,7 @@
                <placeName xml:id="name623-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܦܣܘܣ</placeName>
                <placeName xml:id="name623-3" xml:lang="syr-Syrj" source="#bib623-1">ܐܶܦܶܣܘܣ</placeName>
                <placeName xml:id="name623-4" xml:lang="ar" source="#bib623-2">افسس</placeName>
-               <desc xml:id="abstract-en-623" xml:lang="en">A city in western Asia Minor.</desc>
+               <desc xml:id="abstract-en-623" xml:lang="en">A city in western <placeName ref="http://syriaca.org/place/504">Asia Minor</placeName>.</desc>
                <state type="existence" from="-0500" to="1400">
                   <precision match="@from" notAfter="-0500"/>
                   <precision match="@to" notAfter="1500" notBefore="1400"/>

@@ -98,7 +98,7 @@
                <placeName xml:id="name1533-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܠܘܩܝܐ</placeName>
                <placeName xml:id="name1533-3" xml:lang="syr-Syrj" source="#bib1533-1">ܠܽܘܩܺܝܰܐ</placeName>
                <placeName xml:id="name1533-4" xml:lang="ar" source="#bib1533-2">لوقيا</placeName>
-               <desc xml:id="abstract-en-1533" xml:lang="en">A region of Asia Minor.</desc>
+               <desc xml:id="abstract-en-1533" xml:lang="en">A region of <placeName ref="http://syriaca.org/place/504">Asia Minor</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/1533</idno>
                <idno type="URI">http://pleiades.stoa.org/places/638965</idno>

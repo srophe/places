@@ -98,7 +98,7 @@
                <placeName xml:id="name1491-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܝܬ ܥܪܝܦ</placeName>
                <placeName xml:id="name1491-3" xml:lang="syr-Syrj" source="#bib1491-1">ܒܶܝܬ ܥܰܪܺܝܦ</placeName>
                <placeName xml:id="name1491-4" xml:lang="ar" source="#bib1491-2">بيت عريف</placeName>
-               <desc xml:id="abstract-en-1491" xml:lang="en">A village near Jerusalem.</desc>
+               <desc xml:id="abstract-en-1491" xml:lang="en">A village near <placeName ref="http://syriaca.org/place/104">Jerusalem</placeName>.</desc>
                <state type="existence" from="1138" to="1099">
                   <precision match="@from" notAfter="1138"/>
                   <precision match="@to" notBefore="1099"/>

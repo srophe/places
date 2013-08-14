@@ -98,7 +98,7 @@
                <placeName xml:id="name1534-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܪܘܕܘܣ</placeName>
                <placeName xml:id="name1534-3" xml:lang="syr-Syrj" source="#bib1534-1">ܪܽܘܕܳܘܣ</placeName>
                <placeName xml:id="name1534-4" xml:lang="ar" source="#bib1534-2">رودس</placeName>
-               <desc xml:id="abstract-en-1534" xml:lang="en">An island off the south-western coast of Asia Minor.</desc>
+               <desc xml:id="abstract-en-1534" xml:lang="en">An island off the south-western coast of <placeName ref="http://syriaca.org/place/504">Asia Minor</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/1534</idno>
                <idno type="URI">http://pleiades.stoa.org/places/590031</idno>

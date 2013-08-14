@@ -96,7 +96,7 @@
                <placeName xml:id="name570-3" xml:lang="syr-Syrj" source="#bib570-1">ܬܪܰܥ ܐܝܺܠ</placeName>
                <placeName xml:id="name570-4" xml:lang="ar" source="#bib570-2">باب الله</placeName>
                <placeName xml:id="name570-5" xml:lang="en" source="#bib570-3">Bab Allah</placeName>
-               <desc xml:id="abstract-en-570" xml:lang="en">A gate of Aleppo.</desc>
+               <desc xml:id="abstract-en-570" xml:lang="en">A gate of <placeName ref="http://syriaca.org/place/18">Aleppo</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/570</idno>
                <bibl xml:id="bib570-1">

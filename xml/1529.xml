@@ -98,7 +98,7 @@
                <placeName xml:id="name1529-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܟܝܘ</placeName>
                <placeName xml:id="name1529-3" xml:lang="syr-Syrj" source="#bib1529-1">ܟܺܝܳܘ</placeName>
                <placeName xml:id="name1529-4" xml:lang="ar" source="#bib1529-2">خيو</placeName>
-               <desc xml:id="abstract-en-1529" xml:lang="en">An island off the western coast of Asia Minor.</desc>
+               <desc xml:id="abstract-en-1529" xml:lang="en">An island off the western coast of <placeName ref="http://syriaca.org/place/504">Asia Minor</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/1529</idno>
                <idno type="URI">http://pleiades.stoa.org/places/550497</idno>

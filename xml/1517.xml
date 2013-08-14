@@ -82,7 +82,7 @@
                <placeName xml:id="name1517-2" xml:lang="en" source="#bib1517-1">Tel Isqōf</placeName>
                <placeName xml:id="name1517-3" xml:lang="en" source="#bib1517-1">Tel Zqīpā</placeName>
                <placeName xml:id="name1517-4" xml:lang="en" source="#bib1517-1">Tesqōpā</placeName>
-               <desc xml:id="abstract-en-1517" xml:lang="en">A large village in the plain of Mosul.</desc>
+               <desc xml:id="abstract-en-1517" xml:lang="en">A large village in the plain of <placeName ref="http://syriaca.org/place/139">Mosul</placeName>.</desc>
                <location type="nested" source="#bib1517-1">
                   <region ref="http://syriaca.org/place/722">Mosul region</region>
                </location>

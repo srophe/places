@@ -96,7 +96,7 @@
                <placeName xml:id="name1482-3" xml:lang="syr-Syrj" source="#bib1482-1">ܕܰܝܪܐ ܕܰܨܠܝܒܐ</placeName>
                <placeName xml:id="name1482-4" xml:lang="ar" source="#bib1482-2">دير الصليب</placeName>
                <placeName xml:id="name1482-5" xml:lang="en" source="#bib1482-3">Monastery of the Cross</placeName>
-               <desc xml:id="abstract-en-1482" xml:lang="en">A monastery in Bethel, perhaps identical with another Dayr al-Ṣalīb.</desc>
+               <desc xml:id="abstract-en-1482" xml:lang="en">A monastery in <placeName ref="http://syriaca.org/place/1483">Bethel</placeName>, perhaps identical with another Dayr al-Ṣalīb.</desc>
                <state type="existence" from="1453" to="1453">
                   <precision match="@from" notAfter="1453"/>
                   <precision match="@to" notBefore="1453"/>

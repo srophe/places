@@ -105,7 +105,7 @@
                <placeName xml:id="name307-3" xml:lang="syr-Syrj" source="#bib307-1">ܒܶܝܬ ܫܰܗܐܩ</placeName>
                <placeName xml:id="name307-4" xml:lang="ar" source="#bib307-2">بيث شاهاق</placeName>
                <placeName xml:id="name307-5" xml:lang="en" source="#bib307-3">Beth Shāhāq</placeName>
-               <desc xml:id="abstract-en-307" xml:lang="en">A village near Nineveh.</desc>
+               <desc xml:id="abstract-en-307" xml:lang="en">A village near <placeName ref="http://syriaca.org/place/144">Nineveh</placeName>.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib307-1">ܦܢܺܝܬܐ ܥܰܬܺܝܩܬܐ ܕܒܐܘܚܕܳܢܐ ܕܡܘܨܠ. ܚܰܪܝܒܐ.</quote>
                </desc>
