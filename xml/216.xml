@@ -128,7 +128,10 @@
                <location type="gps" source="#bib216-2">
                   <geo>36.8775 39.033889</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="0545" to="2013">
+                  <precision match="@from" notAfter="0545"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/216</idno>
                <idno type="URI">http://pleiades.stoa.org/places/658427</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Harran</idno>

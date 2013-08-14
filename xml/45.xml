@@ -109,7 +109,7 @@
                <placeName xml:id="name45-4" xml:lang="ar" source="#bib45-3">بَطنان</placeName>
                <placeName xml:id="name45-5" xml:lang="en" source="#bib45-4">Baṭnān</placeName>
                <placeName xml:id="name45-6" xml:lang="en" source="#bib45-5">Batnan</placeName>
-               <desc xml:id="abstract-en-45" xml:lang="en"/>
+               <desc xml:id="abstract-en-45" xml:lang="en">A town of Serugh.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib45-2">ܡܕܺܝܢܬܐ ܥܰܬܝܩܬܳܐ ܕܰܒܩܘܪܒܳܐ ܕܰܣܪܘܓ ܗܘܬ.</quote>
                </desc>
@@ -119,7 +119,10 @@
                <desc xml:lang="en">
                   <quote source="#bib45-4">an ancient town, formerly located near Sarug.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0582" to="0482">
+                  <precision match="@from" notAfter="0582"/>
+                  <precision match="@to" notBefore="0482"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/45</idno>
                <idno type="URI">http://pleiades.stoa.org/places/658405</idno>
                <idno type="URI">

@@ -79,9 +79,6 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib30-1">Bashkale</placeName>
                <desc xml:id="abstract-en-30" xml:lang="en">A mountainous region southeast of Lake Van.</desc>
-               <location type="gps" source="#bib30-1">
-                  <geo>38 44</geo>
-               </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/30</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Başkale</idno>

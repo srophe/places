@@ -125,10 +125,10 @@
                <desc xml:lang="en">
                   <quote source="#bib233-5">also known as the Great Monastery, is situated south of Siman mountain, a twenty-minute walk north of the village of Talʿada, in the province of Antioch. It was built before 340 by Amian the ascetic and in it resided Eusebius the ascetic (both men are mentioned above). This monastery is mentioned by chroniclers Theodoret of Cyrus and John of Ephesus. In 942, Patriarch John built a tower there. It produced nine bishops. Its remains can still be seen today.</quote>
                </desc>
-               <location type="gps" source="#bib233-2">
-                  <geo>35.137477 37.103175</geo>
-               </location>
-               <state type="existence"/>
+               <state type="existence" from="0400" to="0942">
+                  <precision match="@from" notAfter="0400" notBefore="0300"/>
+                  <precision match="@to" notBefore="0942"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/233</idno>
                <idno type="URI">
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of Tell Ada&amp;sT=keywords

@@ -117,7 +117,9 @@
                <desc xml:lang="en">
                   <quote source="#bib316-3">an ancient city southwest of Port Saʿīd, ruined in 1227.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0833" to="1227">
+                  <precision match="@from" notAfter="0833"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/316</idno>
                <idno type="URI">http://pleiades.stoa.org/places/727247</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Tennis,_Egypt</idno>

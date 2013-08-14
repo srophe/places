@@ -115,7 +115,10 @@
                <desc xml:lang="en">
                   <quote source="#bib320-3">a town north of Aleppo, near the Euphrates, from which salt was brought to the province of Aleppo.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0595" to="0531">
+                  <precision match="@from" notAfter="0595"/>
+                  <precision match="@to" notBefore="0531"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/320</idno>
                <idno type="URI">http://ar.wikipedia.org/wiki/الجبول</idno>
                <bibl xml:id="bib320-1">

@@ -119,7 +119,10 @@
                <desc xml:lang="en">
                   <quote source="#bib406-3">a village near Antioch.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0723" to="1200">
+                  <precision match="@from" notAfter="0723"/>
+                  <precision match="@to" notBefore="1200"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/406</idno>
                <bibl xml:id="bib406-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

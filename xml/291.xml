@@ -117,7 +117,10 @@
                <desc xml:lang="en">
                   <quote source="#bib291-3">a small town north of Diyarbakir.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0514" to="2013">
+                  <precision match="@from" notAfter="0514"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/291</idno>
                <bibl xml:id="bib291-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

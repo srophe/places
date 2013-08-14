@@ -116,7 +116,10 @@
                <desc xml:lang="en">
                   <quote source="#bib314-3">a small town between Ḥiṣn Maslama Ibn ʿAbd al-Malik and al-Raqqa, now called Tell al-Manakhir. </quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0802" to="0745">
+                  <precision match="@from" notAfter="0802"/>
+                  <precision match="@to" notBefore="0745"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/314</idno>
                <bibl xml:id="bib314-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

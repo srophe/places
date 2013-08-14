@@ -90,7 +90,9 @@
                <location type="gps" source="#bib46-2">
                   <geo>33.88694 35.51306</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" to="2013">
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/46</idno>
                <idno type="URI">http://pleiades.stoa.org/places/678060</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Beirut</idno>

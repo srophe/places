@@ -10,7 +10,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Isauria</title>
+            <title level="a" xml:lang="en">Isauria
+                                        — <foreign xml:lang="syr">ܐܝܣܘܪܝܐ</foreign>
+            </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -19,6 +21,11 @@
             <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
+            <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
+            <respStmt>
+               <resp>Initial Barsoum entry creation by</resp>
+               <name ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</name>
+            </respStmt>
             <respStmt>
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
@@ -33,6 +40,21 @@
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                  <p>This entry incorporates copyrighted material from the following work(s):
+                                                <listBibl>
+                        <bibl>
+                           <ptr target="#bib99-2"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib99-3"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib99-4"/>
+                        </bibl>
+                     </listBibl>
+                     <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
+                     </note>
+                  </p>
                </licence>
             </availability>
             <date>2013-08-14-04:00</date>
@@ -77,7 +99,10 @@
                <placeName xml:id="name99-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib99-1">Isauria</placeName>
+                          source="#bib99-1 #bib99-4">Isauria</placeName>
+               <placeName xml:id="name99-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܝܣܘܪܝܐ</placeName>
+               <placeName xml:id="name99-3" xml:lang="syr-Syrj" source="#bib99-2">ܐܺܝܣܘܪܺܝܐ</placeName>
+               <placeName xml:id="name99-4" xml:lang="ar" source="#bib99-3">ايسورية</placeName>
                <desc xml:id="abstract-en-99" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/99</idno>
@@ -87,6 +112,21 @@
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map I A1</citedRange>
+               </bibl>
+               <bibl xml:id="bib99-2">
+                  <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
+                  <ptr target="http://syriaca.org/bibl/3"/>
+                  <citedRange unit="pp">287</citedRange>
+               </bibl>
+               <bibl xml:id="bib99-3">
+                  <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
+                  <ptr target="http://syriaca.org/bibl/2"/>
+                  <citedRange unit="pp">261</citedRange>
+               </bibl>
+               <bibl xml:id="bib99-4">
+                  <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
+                  <ptr target="http://syriaca.org/bibl/4"/>
+                  <citedRange unit="pp">300</citedRange>
                </bibl>
             </place>
          </listPlace>

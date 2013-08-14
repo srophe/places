@@ -130,9 +130,6 @@
                <desc xml:lang="en">
                   <quote source="#bib134-4">once the most famous city in the northeastern part of the province of Diyarbakir, now a small town.</quote>
                </desc>
-               <location type="gps" source="#bib134-1">
-                  <geo>38.15 41.15</geo>
-               </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/134</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874573</idno>

@@ -129,10 +129,10 @@
                <desc xml:lang="en">
                   <quote source="#bib184-4">a town situated at the foot of the Sinjar mountain, three days’ journey from Mosul.</quote>
                </desc>
-               <location type="gps" source="#bib184-1">
-                  <geo>36.483449 42.57354</geo>
-               </location>
-               <state type="existence"/>
+               <state type="existence" from="0758" to="2013">
+                  <precision match="@from" notAfter="0758"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/184</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874699</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Sinjar</idno>

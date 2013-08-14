@@ -10,9 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Sebaste
-                                        — <foreign xml:lang="syr">ܣܝܘܐܣ</foreign>
-            </title>
+            <title level="a" xml:lang="en">Sebaste</title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -21,11 +19,6 @@
             <editor role="general" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
             <editor role="general" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="creator" ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</editor>
-            <editor role="creator" ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</editor>
-            <respStmt>
-               <resp>Initial Barsoum entry creation by</resp>
-               <name ref="http://syriaca.org/editors.xml#dmichelson">David A. Michelson</name>
-            </respStmt>
             <respStmt>
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
@@ -40,21 +33,6 @@
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
-                  <p>This entry incorporates copyrighted material from the following work(s):
-                                                <listBibl>
-                        <bibl>
-                           <ptr target="#bib181-2"/>
-                        </bibl>
-                        <bibl>
-                           <ptr target="#bib181-3"/>
-                        </bibl>
-                        <bibl>
-                           <ptr target="#bib181-4"/>
-                        </bibl>
-                     </listBibl>
-                     <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
-                     </note>
-                  </p>
                </licence>
             </availability>
             <date>2013-08-14-04:00</date>
@@ -100,38 +78,19 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib181-1">Sebaste</placeName>
-               <placeName xml:id="name181-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܣܝܘܐܣ</placeName>
-               <placeName xml:id="name181-3" xml:lang="syr-Syrj" source="#bib181-2">ܣܺܝܘܐܰܣ</placeName>
-               <placeName xml:id="name181-4" xml:lang="ar" source="#bib181-3">سيواس</placeName>
-               <placeName xml:id="name181-5" xml:lang="en" source="#bib181-4">Sivas</placeName>
-               <desc xml:id="abstract-en-181" xml:lang="en"/>
+               <desc xml:id="abstract-en-181" xml:lang="en">A Roman city on the Cilician coast.</desc>
                <location type="gps" source="#bib181-1">
                   <geo>36.48362 34.17373</geo>
                </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/181</idno>
                <idno type="URI">http://pleiades.stoa.org/places/648628</idno>
-               <idno type="URI">http://en.wikipedia.org/wiki/Sivas</idno>
-               <idno type="URI">http://dbpedia.org/resource/Sivas</idno>
+               <idno type="URI">http://en.wikipedia.org/wiki/Elaiussa_Sebaste</idno>
+               <idno type="URI">http://dbpedia.org/page/Elaiussa_Sebaste</idno>
                <bibl xml:id="bib181-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map I A1</citedRange>
-               </bibl>
-               <bibl xml:id="bib181-2">
-                  <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
-                  <ptr target="http://syriaca.org/bibl/3"/>
-                  <citedRange unit="pp">561</citedRange>
-               </bibl>
-               <bibl xml:id="bib181-3">
-                  <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
-                  <ptr target="http://syriaca.org/bibl/2"/>
-                  <citedRange unit="pp">519</citedRange>
-               </bibl>
-               <bibl xml:id="bib181-4">
-                  <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
-                  <ptr target="http://syriaca.org/bibl/4"/>
-                  <citedRange unit="pp">556</citedRange>
                </bibl>
             </place>
          </listPlace>

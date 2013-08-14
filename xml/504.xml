@@ -97,8 +97,10 @@
                           source="#bib504-3">Anatolia</placeName>
                <placeName xml:id="name504-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܢܐܛܘܠ</placeName>
                <placeName xml:id="name504-3" xml:lang="syr-Syrj" source="#bib504-1">ܐܰܢܰܐܛܳܘܠ</placeName>
-               <placeName xml:id="name504-4" xml:lang="ar" source="#bib504-2">الاناضول</placeName>
-               <placeName xml:id="name504-5" xml:lang="en" source="#bib504-4">Asia Minor</placeName>
+               <placeName xml:id="name504-4" xml:lang="syr-Syrj" source="#bib504-1">ܐܣܝܰܐ ܙܥܘܪܬܳܐ</placeName>
+               <placeName xml:id="name504-5" xml:lang="ar" source="#bib504-2">الاناضول</placeName>
+               <placeName xml:id="name504-6" xml:lang="ar" source="#bib504-2">آسيا الصغرى</placeName>
+               <placeName xml:id="name504-7" xml:lang="en" source="#bib504-3 #bib504-4">Asia Minor</placeName>
                <desc xml:id="abstract-en-504" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/504</idno>
@@ -110,17 +112,17 @@
                <bibl xml:id="bib504-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
-                  <citedRange unit="pp">560</citedRange>
+                  <citedRange unit="pp">557, 560</citedRange>
                </bibl>
                <bibl xml:id="bib504-2">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
-                  <citedRange unit="pp">518</citedRange>
+                  <citedRange unit="pp">516, 518</citedRange>
                </bibl>
                <bibl xml:id="bib504-3">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
-                  <citedRange unit="pp">555</citedRange>
+                  <citedRange unit="pp">555, 558</citedRange>
                </bibl>
                <bibl xml:id="bib504-4">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>

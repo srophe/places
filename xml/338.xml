@@ -116,7 +116,10 @@
                <desc xml:lang="en">
                   <quote source="#bib338-3">also called Fghimta: near Rish ʿAyna in the Jazira. It was built in the fifth century, but was reduced to ruins shortly before 1203. It produced two Patriarchs and eleven bishops.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0500" to="1150">
+                  <precision match="@from" notAfter="0500"/>
+                  <precision match="@to" notAfter="1203" notBefore="1150"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/338</idno>
                <bibl xml:id="bib338-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

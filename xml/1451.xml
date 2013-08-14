@@ -97,7 +97,9 @@
                <placeName xml:id="name1451-4" xml:lang="ar" source="#bib1451-2">هنزيط</placeName>
                <placeName xml:id="name1451-5" xml:lang="en" source="#bib1451-3">Anazete</placeName>
                <desc xml:id="abstract-en-1451" xml:lang="en"/>
-               <state type="existence"/>
+               <state type="existence" from="0373">
+                  <precision match="@from" notAfter="0373"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/1451</idno>
                <bibl xml:id="bib1451-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

@@ -125,7 +125,10 @@
                <desc xml:lang="en">
                   <quote source="#bib229-5">between Rish ʿAyna and Majdal in upper Jazira, was built by St. Simon and became famous at the beginning of the eighth century. By the middle of the tenth century, six bishops had graduated from it. It fell to ruin a long time ago.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0724" to="0975">
+                  <precision match="@from" notAfter="0724" notBefore="0300"/>
+                  <precision match="@to" notAfter="1943" notBefore="0975"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/229</idno>
                <bibl xml:id="bib229-1">
                   <title level="a" xml:lang="en">442. Qarqaphto, Monastery of</title>

@@ -126,7 +126,10 @@
                <location type="gps" source="#bib122-1">
                   <geo>36.53333 37.95</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="0499" to="2013">
+                  <precision match="@from" notAfter="0499"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/122</idno>
                <idno type="URI">http://pleiades.stoa.org/places/658480</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Manbij</idno>

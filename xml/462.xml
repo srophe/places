@@ -123,7 +123,9 @@
                <desc xml:lang="en">
                   <quote source="#bib462-3">now called Malazgirt, a town north of Lake Van.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0726">
+                  <precision match="@from" notAfter="0726"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/462</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Malazgirt</idno>
                <idno type="URI">http://dbpedia.org/resource/Malazgirt</idno>

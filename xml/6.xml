@@ -80,7 +80,10 @@
                           source="#bib6-1">Ḥadyab</placeName>
                <placeName xml:id="name6-2" xml:lang="en" source="#bib6-1">Adiabene</placeName>
                <desc xml:id="abstract-en-6" xml:lang="en"/>
-               <state type="existence"/>
+               <state type="existence" from="0410" to="1444">
+                  <precision match="@from" notAfter="0410"/>
+                  <precision match="@to" notBefore="1444"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/6</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Adiabene_(East_Syrian_Ecclesiastical_Province)</idno>
                <idno type="URI">http://dbpedia.org/resource/Adiabene_(East_Syrian_Ecclesiastical_Province)</idno>

@@ -109,7 +109,8 @@
                <placeName xml:id="name373-3" xml:lang="syr-Syrj" source="#bib373-1">ܕܰܝܪܐ ܕܰܦܣܝܠܬܐ</placeName>
                <placeName xml:id="name373-4" xml:lang="ar" source="#bib373-2">دير فسيلتا</placeName>
                <placeName xml:id="name373-5" xml:lang="en" source="#bib373-3">Fsīltā Monastery</placeName>
-               <desc xml:id="abstract-en-373" xml:lang="en"/>
+               <placeName xml:id="name373-6" xml:lang="en" source="#bib373-3">Quarry Monastery</placeName>
+               <desc xml:id="abstract-en-373" xml:lang="en">A monastery near Tella.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib373-1">ܐܰܘܟܝܬ ܓܠܺܝܦܐ ܠܒܰܪ ܡܶܢ ܬܶܠ ܡܰܘܙܠܰܬ ܡܕܝܢܬܐ. ܐܶܫܬܰܬܐܣ ܒܡܰܐܬܳܐ ܚܡܝܫܳܝܬܳܐ ܘܐܰܦܩ ܚܰܡܫܐ ܐܶܦܝܣܩܘܦ̈ܐ ܘܰܫܠܺܝܘ ܛܶܒܰܘ̈ܗܝ ܫܢܰܬ 880 .</quote>
                </desc>
@@ -117,9 +118,12 @@
                   <quote source="#bib373-2">اي المنحوت؛ بظاهر مدينة تل موزل وطدت دعائمه في المئة الخامسة وانجب خمسة مطارنة ووقفت اخباره سنة 880.</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib373-3">or the Quarry Monastery, outside Tell Mawzalt, was built in the fifth century and it produced five metropolitans. Nothing is known about it after 880.</quote>
+                  <quote source="#bib373-3">outside Tell Mawzalt, was built in the fifth century and it produced five metropolitans. Nothing is known about it after 880.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0500" to="0880">
+                  <precision match="@from" notAfter="0500"/>
+                  <precision match="@to" notBefore="0880"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/373</idno>
                <bibl xml:id="bib373-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

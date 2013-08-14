@@ -115,7 +115,10 @@
                <desc xml:lang="en">
                   <quote source="#bib358-3">outside Diyarbakir, is a famous, great monastery. Patriarch John I (d. 775) and fourteen bishops graduated from it.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0568" to="0775">
+                  <precision match="@from" notAfter="0568"/>
+                  <precision match="@to" notBefore="0775"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/358</idno>
                <idno type="URI">http://pleiades.stoa.org/places/876742</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Zuqnin_Monastery</idno>

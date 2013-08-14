@@ -79,7 +79,10 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib621-1">Nicaea</placeName>
                <desc xml:id="abstract-en-621" xml:lang="en"/>
-               <state type="existence"/>
+               <state type="existence" from="0325" to="2013">
+                  <precision match="@from" notAfter="0325"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/621</idno>
                <idno type="URI">http://pleiades.stoa.org/places/511268</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Nicaea</idno>

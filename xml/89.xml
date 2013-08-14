@@ -129,7 +129,10 @@
                <location type="gps" source="#bib89-1">
                   <geo>37.583333 36.933333</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="0710" to="2013">
+                  <precision match="@from" notAfter="0710"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/89</idno>
                <idno type="URI">http://pleiades.stoa.org/places/658474</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Kahramanmaraş</idno>

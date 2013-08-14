@@ -132,7 +132,10 @@
                <location type="gps" source="#bib9-1">
                   <geo>37.263889 35.905556</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="0525" to="1375">
+                  <precision match="@from" notAfter="0525"/>
+                  <precision match="@to" notAfter="2013" notBefore="1375"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/9</idno>
                <idno type="URI">http://pleiades.stoa.org/places/658378</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Anazarbus</idno>

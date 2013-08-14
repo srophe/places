@@ -116,7 +116,10 @@
                <location type="gps" source="#bib10-2">
                   <geo>36.2 36.15</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="-0300" to="2013">
+                  <precision match="@from" notAfter="-0300"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/10</idno>
                <idno type="URI">http://pleiades.stoa.org/places/658381</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Antioch</idno>

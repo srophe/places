@@ -105,8 +105,8 @@
                <placeName xml:id="name241-4" xml:lang="ar" source="#bib241-3">حبسناس</placeName>
                <placeName xml:id="name241-5" xml:lang="en" source="#bib241-4">Habsnas</placeName>
                <desc xml:id="abstract-en-241" xml:lang="en"/>
-               <state type="existence" from="0875" to="0855">
-                  <precision match="@from" notAfter="0875"/>
+               <state type="existence" from="0657" to="0855">
+                  <precision match="@from" notAfter="0657"/>
                   <precision match="@to" notBefore="0855"/>
                </state>
                <idno type="URI">http://syriaca.org/place/241</idno>

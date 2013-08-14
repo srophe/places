@@ -127,7 +127,10 @@
                <location type="gps" source="#bib48-1">
                   <geo>36.97608 38.42424</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="0518" to="2013">
+                  <precision match="@from" notAfter="0518"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/48</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Suruç</idno>
                <idno type="URI">http://dbpedia.org/resource/Suruç</idno>

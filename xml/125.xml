@@ -111,7 +111,10 @@
                <location type="gps" source="#bib125-1">
                   <geo>35.65633 40.7443</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="0725" to="0625">
+                  <precision match="@from" notAfter="0725"/>
+                  <precision match="@to" notBefore="0625"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/125</idno>
                <idno type="URI">http://pleiades.stoa.org/places/893991</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Dūr-Katlimmu</idno>

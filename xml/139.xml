@@ -116,7 +116,10 @@
                <location type="gps" source="#bib139-2">
                   <geo>36.366667 43.116667</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="0817" to="2013">
+                  <precision match="@from" notAfter="0817"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/139</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874609</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Mosul</idno>

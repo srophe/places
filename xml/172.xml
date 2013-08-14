@@ -129,7 +129,10 @@
                <location type="gps" source="#bib172-2">
                   <geo>36.82584 40.04962</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="0688" to="2013">
+                  <precision match="@from" notAfter="0688"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/172</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874662</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Ras_al-Ayn,_Syria</idno>

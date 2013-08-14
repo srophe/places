@@ -58,7 +58,7 @@
                     <xsl:if test="Barsoum_English_Name != ''">
                         <xsl:sequence select="('Barsoum-English')"/>
                     </xsl:if>
-                    <xsl:if test="CBSC_Keyword != ''">
+                    <xsl:if test="CBSC_Keyword != '' or CBSC_Notes != ''">
                         <xsl:sequence select="('CBSC-Keyword')"/>
                     </xsl:if>
                     <xsl:if test="Wilmshurst_Names != ''">
@@ -436,6 +436,12 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=<xsl:value-of select="substring(.,1,1)"/>&amp;sK=<xsl:value-of select="."/>&amp;sT=keywords
                                         </idno>
                                     </xsl:for-each>
+                                    <!-- if there are additional relevant CBSC entries which do not provide CBSC names, they are in CBSC_Notes -->
+                                    <xsl:for-each select="tokenize(CBSC_Notes,'; ')">
+                                        <idno type="URI">
+                                            http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=<xsl:value-of select="substring(.,1,1)"/>&amp;sK=<xsl:value-of select="."/>&amp;sT=keywords
+                                        </idno>
+                                    </xsl:for-each>
                                     
                                     <!-- Insert the <bibl> elements -->
                                     <xsl:if test="exists(index-of($sources,'GEDSH-Article'))">
@@ -489,12 +495,18 @@
                                             <citedRange unit="pp"><xsl:value-of select="Barsoum_English_Page"/></citedRange>
                                         </bibl>
                                     </xsl:if>
-                                    <xsl:if test="exists(index-of($sources,'CBSC-Keyword'))">
+                                    <xsl:if test="exists(index-of($sources,'CBSC-Keyword'))"> 
                                         <bibl>
                                             <xsl:attribute name="xml:id"><xsl:value-of select="$bib-prefix"/><xsl:value-of select="index-of($sources,'CBSC-Keyword')"/></xsl:attribute>
                                             <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                                             <ptr target="http://syriaca.org/bibl/5"/>
                                             <xsl:for-each select="tokenize(CBSC_Keyword,'; ')">
+                                                <citedRange unit="entry">
+                                                    <xsl:attribute name="target">http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=<xsl:value-of select="substring(.,1,1)"/>&amp;sK=<xsl:value-of select="."/>&amp;sT=keywords</xsl:attribute>
+                                                    <xsl:value-of select="."/>
+                                                </citedRange>
+                                            </xsl:for-each>
+                                            <xsl:for-each select="tokenize(CBSC_Notes,'; ')"> <!-- additional relevant CBSC entries not providing CBSC names are in CBSC_Notes -->
                                                 <citedRange unit="entry">
                                                     <xsl:attribute name="target">http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=<xsl:value-of select="substring(.,1,1)"/>&amp;sK=<xsl:value-of select="."/>&amp;sT=keywords</xsl:attribute>
                                                     <xsl:value-of select="."/>

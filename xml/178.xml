@@ -124,7 +124,10 @@
                <location type="gps" source="#bib178-1">
                   <geo>37.56452 38.47134</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="0750" to="2013">
+                  <precision match="@from" notAfter="0750"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/178</idno>
                <idno type="URI">http://pleiades.stoa.org/places/658587</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Samosata</idno>

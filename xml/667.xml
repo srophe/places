@@ -78,7 +78,7 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib667-1">Monastery of the Antonines</placeName>
-               <desc xml:id="abstract-en-667" xml:lang="en"/>
+               <desc xml:id="abstract-en-667" xml:lang="en">A monastery in the Enaton.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/667</idno>
                <bibl xml:id="bib667-1">

@@ -88,6 +88,8 @@
                </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/107</idno>
+               <idno type="URI">http://en.wikipedia.org/wiki/Hakkâri</idno>
+               <idno type="URI">http://dbpedia.org/resource/Hakkâri</idno>
                <bibl xml:id="bib107-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>

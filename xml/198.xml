@@ -106,9 +106,6 @@
                <placeName xml:id="name198-5" xml:lang="en" source="#bib198-4">Talʿada</placeName>
                <placeName xml:id="name198-6" xml:lang="en" source="#bib198-5">Tell Ada</placeName>
                <desc xml:id="abstract-en-198" xml:lang="en"/>
-               <location type="gps" source="#bib198-1">
-                  <geo>35.13748 37.10318</geo>
-               </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/198</idno>
                <idno type="URI">

@@ -122,11 +122,8 @@
                <desc xml:lang="en">
                   <quote source="#bib69-5">or St. Ḥananya Monastery, was built by Ḥananya, metropolitan of Mardin, between 793 and 800 on the site of an old monastery north of Mardin. This great and populous monastery in 1293 became the Patriarchal see for some six hundred years. It claims twenty-one Patriarchs, nine Maphryonos and 110 bishops. In 1917 we published its detailed history, entitled Nuzhat al-Adhhān (The Excursion of Minds). In its immediate neighborhood there are three small monasteries close together:</quote>
                </desc>
-               <location type="gps" source="#bib69-2">
-                  <geo>37.966111 44.792778</geo>
-               </location>
-               <state type="existence" from="1153">
-                  <precision match="@from" notAfter="1153" notBefore="0300"/>
+               <state type="existence" from="0800">
+                  <precision match="@from" notAfter="0800" notBefore="0793"/>
                </state>
                <idno type="URI">http://syriaca.org/place/69</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Mor_Hananyo_Monastery</idno>

@@ -10,7 +10,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Mount Qāsiyūn</title>
+            <title level="a" xml:lang="en">Mount Qāsiyūn
+                                        — <foreign xml:lang="syr">ܛܘܪܐ ܕܩܐܣܝܘܢ</foreign>
+            </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -34,9 +36,9 @@
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                   <p>This entry incorporates copyrighted material from the following work(s):
-                     <listBibl>
+                                                <listBibl>
                         <bibl>
-                           <ptr target="#bib518-1"/>      
+                           <ptr target="#bib518-1"/>
                         </bibl>
                         <bibl>
                            <ptr target="#bib518-2"/>
@@ -45,11 +47,12 @@
                            <ptr target="#bib518-3"/>
                         </bibl>
                      </listBibl>
-                     <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/></note>
+                     <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
+                     </note>
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14</date>
+            <date>2013-08-14-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -81,14 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14">ADDED: Barsoum Syriac to <gi>licence</gi></change>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31">REMOVED: place type from <gi>title</gi></change>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-28">ADDED: formattable markup to <gi>licence</gi> </change>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24">ADDED: License for Barsoum data</change>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24">FIXED: document titles and source URI</change>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15">ADDED: <gi>state</gi> of @type="existence"</change>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">ADDED: deprecation of erroneous Syriac name</change>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-10-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -96,15 +92,12 @@
          <listPlace>
             <place xml:id="place-518" type="mountain">
                <placeName xml:id="name518-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mount Qāsiyūn</placeName>
-               <placeName xml:id="name518-2" xml:lang="syr">ܛܘܪܐ ܕܩܐܣܝܘܢ</placeName>
+               <placeName xml:id="name518-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܛܘܪܐ ܕܩܐܣܝܘܢ</placeName>
                <placeName xml:id="name518-3" xml:lang="syr-Syrj" source="#bib518-1">ܛܘܪܳܐ ܕܩܰܐܣܒܘܢ</placeName>
                <placeName xml:id="name518-4" xml:lang="ar" source="#bib518-2">جبل قاسيون</placeName>
                <placeName xml:id="name518-5" xml:lang="en" source="#bib518-3">Qasyun Mountain</placeName>
-               <desc xml:id="abstract-en-518">A mountain north of Damascus.</desc>
+               <desc xml:id="abstract-en-518" xml:lang="en">A mountain north of Damascus.</desc>
                <state type="existence"/>
-               <note xml:id="name518-2-deprecation" type="deprecation">Mistranscribed from Arabic based on reading a letter ba (with one dot) instead of the letter ya (with two dots).</note>
-               <link target="name518-2 name518-2-deprecation"/>
-               <link target="name518-3 name518-2-deprecation"/>
                <idno type="URI">http://syriaca.org/place/518</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Mount_Qasioun</idno>
                <idno type="URI">http://dbpedia.org/resource/Mount_Qasioun</idno>

@@ -79,7 +79,10 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib680-1">Mor Awgen</placeName>
                <desc xml:id="abstract-en-680" xml:lang="en"/>
-               <state type="existence"/>
+               <state type="existence" from="0300" to="2013">
+                  <precision match="@from" notBefore="0300"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/680</idno>
                <bibl xml:id="bib680-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

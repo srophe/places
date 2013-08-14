@@ -136,7 +136,10 @@
                <location type="gps" source="#bib8-2">
                   <geo>37.981944 40.210556</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="0324" to="2013">
+                  <precision match="@from" notAfter="0324"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/8</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874298</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Amida_(Mesopotamia)</idno>

@@ -108,7 +108,10 @@
                <location type="gps" source="#bib87-1">
                   <geo>31.51667 34.45</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="-1200" to="2013">
+                  <precision match="@from" notAfter="-1200"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/87</idno>
                <idno type="URI">http://pleiades.stoa.org/places/687902</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Gaza</idno>

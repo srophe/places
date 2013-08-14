@@ -124,7 +124,9 @@
                <desc xml:lang="en">
                   <quote source="#bib411-3">a town southeast of Ḥama, toward the desert.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0790">
+                  <precision match="@from" notAfter="0790"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/411</idno>
                <idno type="URI">http://pleiades.stoa.org/places/668362</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Al-Salamiyah</idno>

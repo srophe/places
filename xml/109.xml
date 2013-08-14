@@ -129,7 +129,10 @@
                <location type="gps" source="#bib109-1">
                   <geo>35.95 39.016667</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="0581" to="2013">
+                  <precision match="@from" notAfter="0581"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/109</idno>
                <idno type="URI">http://pleiades.stoa.org/places/668318</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Al-Raqqah</idno>

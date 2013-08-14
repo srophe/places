@@ -112,7 +112,10 @@
                <location type="gps" source="#bib162-1">
                   <geo>35.99861 36.99806</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="0638" to="0638">
+                  <precision match="@from" notAfter="0638"/>
+                  <precision match="@to" notBefore="0638"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/162</idno>
                <idno type="URI">http://pleiades.stoa.org/places/668226</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Qinnasrin</idno>

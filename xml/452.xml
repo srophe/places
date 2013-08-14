@@ -124,7 +124,10 @@
                <desc xml:lang="en">
                   <quote source="#bib452-3">in southern Iraq; no longer in existence.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0686" to="0725">
+                  <precision match="@from" notAfter="0686"/>
+                  <precision match="@to" notAfter="1943" notBefore="0725"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/452</idno>
                <idno type="URI">http://pleiades.stoa.org/places/912808</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Kufa</idno>

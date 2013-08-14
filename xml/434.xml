@@ -114,7 +114,10 @@
                <desc xml:lang="en">
                   <quote source="#bib434-3">a town in the district of Antioch whose location is unknown; birthplace of the learned Jacob of Edessa.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0672" to="0608">
+                  <precision match="@from" notAfter="0672"/>
+                  <precision match="@to" notBefore="0608"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/434</idno>
                <bibl xml:id="bib434-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

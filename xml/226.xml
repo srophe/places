@@ -129,7 +129,9 @@
                <location type="gps" source="#bib226-2">
                   <geo>37.321778 41.5385</geo>
                </location>
-               <state type="existence" from="0397"/>
+               <state type="existence" from="0397" to="2013">
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/226</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874583</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Mor_Gabriel_Monastery</idno>

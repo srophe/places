@@ -99,13 +99,13 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-307" type="region">
+            <place xml:id="place-307" type="settlement">
                <placeName xml:id="name307-1" xml:lang="en" syriaca-tags="#syriaca-headword">Beth Shahaq</placeName>
                <placeName xml:id="name307-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܝܬ ܫܗܐܩ</placeName>
                <placeName xml:id="name307-3" xml:lang="syr-Syrj" source="#bib307-1">ܒܶܝܬ ܫܰܗܐܩ</placeName>
                <placeName xml:id="name307-4" xml:lang="ar" source="#bib307-2">بيث شاهاق</placeName>
                <placeName xml:id="name307-5" xml:lang="en" source="#bib307-3">Beth Shāhāq</placeName>
-               <desc xml:id="abstract-en-307" xml:lang="en"/>
+               <desc xml:id="abstract-en-307" xml:lang="en">A village near Nineveh.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib307-1">ܦܢܺܝܬܐ ܥܰܬܺܝܩܬܐ ܕܒܐܘܚܕܳܢܐ ܕܡܘܨܠ. ܚܰܪܝܒܐ.</quote>
                </desc>
@@ -115,7 +115,10 @@
                <desc xml:lang="en">
                   <quote source="#bib307-3">an ancient town in the province of Mosul.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0630" to="0720">
+                  <precision match="@from" notAfter="0630"/>
+                  <precision match="@to" notBefore="0720"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/307</idno>
                <bibl xml:id="bib307-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

@@ -113,7 +113,10 @@
                <location type="gps" source="#bib215-2">
                   <geo>34.730833 36.709444</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="0400" to="2013">
+                  <precision match="@from" notAfter="0400"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/215</idno>
                <idno type="URI">http://pleiades.stoa.org/places/668261</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Homs</idno>

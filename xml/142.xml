@@ -136,7 +136,10 @@
                <location type="gps" source="#bib142-2">
                   <geo>37.06667 41.21667</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="0306" to="2013">
+                  <precision match="@from" notAfter="0306"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/142</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874623</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Nusaybin</idno>

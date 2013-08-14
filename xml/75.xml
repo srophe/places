@@ -118,9 +118,6 @@
                <desc xml:lang="en">
                   <quote source="#bib75-4">a small town in the province of Aleppo, twelve miles from Samosata.</quote>
                </desc>
-               <location type="gps" source="#bib75-1">
-                  <geo>37.06667 37.38333</geo>
-               </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/75</idno>
                <idno type="URI">http://pleiades.stoa.org/places/658455</idno>

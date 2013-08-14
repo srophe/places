@@ -125,7 +125,10 @@
                <location type="gps" source="#bib4-1">
                   <geo>37.538333 40.888056</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="1493" to="2013">
+                  <precision match="@from" notAfter="1493"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/4</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874686</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Savur</idno>

@@ -126,8 +126,9 @@
                <desc xml:lang="en">
                   <quote source="#bib227-5">a large monastery, built at the end of the fourth century, it became a metropolitan see and still holds that honor today. At the beginning it housed a great number of monks. It suffered many changes and calamities until it was renovated in 1845. It produced two Patriarchs, six Maphryonos and thirty bishops.</quote>
                </desc>
-               <state type="existence" from="1232">
-                  <precision match="@from" notAfter="1232"/>
+               <state type="existence" from="0628" to="2013">
+                  <precision match="@from" notAfter="0628" notBefore="0300"/>
+                  <precision match="@to" notBefore="2013"/>
                </state>
                <idno type="URI">http://syriaca.org/place/227</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874581</idno>

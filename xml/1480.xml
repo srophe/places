@@ -99,9 +99,9 @@
                <placeName xml:id="name1480-3" xml:lang="ar" source="#bib1480-2">الصالحية</placeName>
                <placeName xml:id="name1480-4" xml:lang="en" source="#bib1480-3">Ṣalaḥiyya</placeName>
                <desc xml:id="abstract-en-1480" xml:lang="en">A city of Jazīra near modern Abu Kamāl.</desc>
-               <state type="existence" from="0542" to="1943">
+               <state type="existence" from="0542" to="0442">
                   <precision match="@from" notAfter="0542"/>
-                  <precision match="@to" notAfter="1943"/>
+                  <precision match="@to" notAfter="1943" notBefore="0442"/>
                </state>
                <idno type="URI">http://syriaca.org/place/1480</idno>
                <bibl xml:id="bib1480-1">

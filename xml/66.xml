@@ -114,7 +114,10 @@
                <location type="gps" source="#bib66-2">
                   <geo>33.513 36.292</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="-0700" to="2013">
+                  <precision match="@from" notAfter="-0700"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/66</idno>
                <idno type="URI">http://pleiades.stoa.org/places/678106</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Damascus</idno>

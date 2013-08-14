@@ -111,7 +111,10 @@
                <location type="gps" source="#bib15-1">
                   <geo>37 35.32133</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="-1335" to="2013">
+                  <precision match="@from" notAfter="-1335"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/15</idno>
                <idno type="URI">http://pleiades.stoa.org/places/648548</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Adana</idno>

@@ -99,7 +99,7 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-323" type="unknown">
+            <place xml:id="place-323" type="village">
                <placeName xml:id="name323-1" xml:lang="en" syriaca-tags="#syriaca-headword">Jūsiyya</placeName>
                <placeName xml:id="name323-2"
                           xml:lang="syr"
@@ -107,7 +107,7 @@
                           source="#bib323-1">ܓܘܣܝܗ</placeName>
                <placeName xml:id="name323-3" xml:lang="ar" source="#bib323-2">جوسية</placeName>
                <placeName xml:id="name323-4" xml:lang="en" source="#bib323-3">Josya</placeName>
-               <desc xml:id="abstract-en-323" xml:lang="en"/>
+               <desc xml:id="abstract-en-323" xml:lang="en">A village near Emesa.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib323-1">ܟܘܪܳܐ ܗܘܳܬ ܡܶܢ ܟܘܪ̈ܐ ܕܰܚܡܶܨ. ܕܪܰܚܝܩܐ ܡܶܢܗ̇ ܫܬܳܐ ܦܰܪ̈ܣܚܐ ܠܓܰܒܐ ܕܕܰܪܡܣܘܩ. ܒܶܝܬ ܛܘܪ̈ܝ ܠܶܒܢܳܢ ܘܰܣܢܝܪ ܘܝܰܘܡܳܢ ܩܪܺܝܬܐ ܐܝܺܬܝܗ̇ ܐܶܬܚܰܕܬܰܬ ܒܓܶܒ ܓܘܣܝܗ ܥܰܬܝܩܬܐ.</quote>
                </desc>
@@ -117,7 +117,10 @@
                <desc xml:lang="en">
                   <quote source="#bib323-3">a district about six leagues from Ḥomṣ, towards Damascus,situated between the mountains of Lebanon and Sinnir. Today it is a small village, recently built near the ruins of ancient Josya.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0600" to="0500">
+                  <precision match="@from" notAfter="0600"/>
+                  <precision match="@to" notBefore="0500"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/323</idno>
                <idno type="URI">http://ar.wikipedia.org/wiki/جوسية</idno>
                <bibl xml:id="bib323-1">

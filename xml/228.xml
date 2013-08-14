@@ -129,9 +129,8 @@
                <location type="gps" source="#bib228-2">
                   <geo>34.021667 36.842222</geo>
                </location>
-               <state type="existence" from="1459" to="1459">
-                  <precision match="@from" notAfter="1459"/>
-                  <precision match="@to" notBefore="1459"/>
+               <state type="existence" from="0600">
+                  <precision match="@from" notAfter="0600" notBefore="0300"/>
                </state>
                <idno type="URI">http://syriaca.org/place/228</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Monastery_of_Saint_Moses_the_Abyssinian</idno>

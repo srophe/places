@@ -116,9 +116,6 @@
                <desc xml:lang="en">
                   <quote source="#bib211-1">35. al-Anbār</quote>
                </desc>
-               <location type="gps" source="#bib211-2">
-                  <geo>33.3603 43.7717</geo>
-               </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/211</idno>
                <idno type="URI">http://pleiades.stoa.org/places/894043</idno>

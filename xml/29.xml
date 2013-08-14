@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Aynwardo
+            <title level="a" xml:lang="en">ʿAynwardo
                                         — <foreign xml:lang="syr">ܥܝܢܘܪܕܐ</foreign>
             </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
@@ -99,7 +99,7 @@
                <placeName xml:id="name29-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib29-1">Aynwardo</placeName>
+                          source="#bib29-1">ʿAynwardo</placeName>
                <placeName xml:id="name29-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܥܝܢܘܪܕܐ</placeName>
                <placeName xml:id="name29-3" xml:lang="syr-Syrj" source="#bib29-2">ܥܰܝܢܘܪܕ</placeName>
                <placeName xml:id="name29-4" xml:lang="ar" source="#bib29-3">عينورد</placeName>

@@ -115,7 +115,10 @@
                <desc xml:lang="en">
                   <quote source="#bib352-3">in the mountain of Sinjar, is first mentioned in history in the sixth century. From it graduated Maphryono Paul in 722 and the monk David Bar Paul in the beginning of the ninth century.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0600" to="0800">
+                  <precision match="@from" notAfter="0600"/>
+                  <precision match="@to" notBefore="0800"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/352</idno>
                <bibl xml:id="bib352-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

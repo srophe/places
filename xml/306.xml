@@ -115,9 +115,9 @@
                <desc xml:lang="en">
                   <quote source="#bib306-3">an extinct town outside Ḥarran.</quote>
                </desc>
-               <state type="existence" from="0850" to="0750">
-                  <precision match="@from" notAfter="0850"/>
-                  <precision match="@to" notBefore="0750"/>
+               <state type="existence" from="0794" to="0794">
+                  <precision match="@from" notAfter="0794"/>
+                  <precision match="@to" notAfter="1943" notBefore="0794"/>
                </state>
                <idno type="URI">http://syriaca.org/place/306</idno>
                <bibl xml:id="bib306-1">
