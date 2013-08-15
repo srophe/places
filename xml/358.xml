@@ -119,6 +119,8 @@
                   <precision match="@from" notAfter="0568"/>
                   <precision match="@to" notBefore="0775"/>
                </state>
+               <note type="errata">In Dolabani's translation of Barsoum's description ܘܐܰܪܒܰܥܣܰܪ should read ܘܰܐܪܒܰܥܣܰܪ.</note>
+               <note type="errata">In Barsoum's description اياونيس should read ايوانيس.</note>
                <note type="errata">In Moosa's English translation of Barsoum's description, "775" should be "755."</note>
                <idno type="URI">http://syriaca.org/place/358</idno>
                <idno type="URI">http://pleiades.stoa.org/places/876742</idno>

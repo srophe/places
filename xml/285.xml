@@ -106,7 +106,10 @@
                           source="#bib285-3">Arzun</placeName>
                <placeName xml:id="name285-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܪܙܘܢ</placeName>
                <placeName xml:id="name285-3" xml:lang="syr-Syrj" source="#bib285-1">ܐܰܪܙܘܢ</placeName>
-               <placeName xml:id="name285-4" xml:lang="ar" source="#bib285-2">ارزون</placeName>
+               <placeName xml:id="name285-4" xml:lang="syr-Syrj" source="#bib285-1">ܓܘܽܪܙܰܐܢ</placeName>
+               <placeName xml:id="name285-5" xml:lang="ar" source="#bib285-2">ارزون</placeName>
+               <placeName xml:id="name285-6" xml:lang="ar" source="#bib285-2">غورزان</placeName>
+               <placeName xml:id="name285-7" xml:lang="en" source="#bib285-3">Ghurzān</placeName>
                <desc xml:id="abstract-en-285" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib285-1">ܡܕܝܺܢܬܐ ܪܒܬܐ ܕܢܳܦܠܐ ܠܓܰܪܒܰܝ ܡܰܥܪܰܒ ܣܥܶܪܬ ܚܰܪ̈ܒܳܬܗ̇ ܩܝ̈ܡܳܢ</quote>
@@ -118,22 +121,26 @@
                   <quote source="#bib285-3">a large city, formerly northwest of Seʿert. Its ruins can still be seen.</quote>
                </desc>
                <state type="existence"/>
+               <note type="deprecation" xml:id="name285-4-deprecation">Barsoum also refers to this place in his description for Philoxenus of Mabbug as "Ghurzān" erroneously.</note>
+               <link target="#name285-4 #name285-4-deprecation"/>
+               <link target="#name285-6 #name285-4-deprecation"/>
+               <link target="#name285-7 #name285-4-deprecation"/>
                <idno type="URI">http://syriaca.org/place/285</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Nisibis_(East_Syrian_Ecclesiastical_Province)#The_diocese_of_Arzun</idno>
                <bibl xml:id="bib285-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
-                  <citedRange unit="pp">536</citedRange>
+                  <citedRange unit="pp">257, 536</citedRange>
                </bibl>
                <bibl xml:id="bib285-2">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
-                  <citedRange unit="pp">504</citedRange>
+                  <citedRange unit="pp">231, 504</citedRange>
                </bibl>
                <bibl xml:id="bib285-3">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
-                  <citedRange unit="pp">551</citedRange>
+                  <citedRange unit="pp">268, 551</citedRange>
                </bibl>
             </place>
          </listPlace>

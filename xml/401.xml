@@ -126,6 +126,7 @@
                   <quote source="#bib401-3">situated south of Mardin, Dunaysar was a large town in the thirteenth century. Today it is a small village, called Koç Hisar, near Tell al-Arman.</quote>
                </desc>
                <state type="existence"/>
+               <note type="errata">Dolabani's description asserts an erroneous relation to <placeName ref="http://syriaca.org/place/490">Kızıltepe</placeName>.</note>
                <idno type="URI">http://syriaca.org/place/401</idno>
                <bibl xml:id="bib401-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

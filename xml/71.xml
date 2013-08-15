@@ -121,6 +121,7 @@
                <state type="existence" from="0763">
                   <precision match="@from" notBefore="0763"/>
                </state>
+               <note type="errata">In Dolabani's translation of Barsoum's description ܡܕܝܢܳܬܐ should read ܡܕܝܢܬܳܐ.</note>
                <idno type="URI">http://syriaca.org/place/71</idno>
                <bibl xml:id="bib71-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

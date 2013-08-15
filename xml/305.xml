@@ -118,6 +118,8 @@
                   <quote source="#bib305-3">an extinct town south of Baghdad, near Ctesiphon. Its exact location is unknown.</quote>
                </desc>
                <state type="existence"/>
+               <note type="deprecation" xml:id="name305-3-deprecation">Dolabani's printer misread his shin as a qoph.</note>
+               <link target="#name305-3 #name305-3-deprecation"/>
                <idno type="URI">http://syriaca.org/place/305</idno>
                <bibl xml:id="bib305-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

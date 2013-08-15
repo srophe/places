@@ -25,10 +25,6 @@
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
             </respStmt>
-            <respStmt>
-               <resp>Syriac description entry by</resp>
-               <name ref="http://syriaca.org/editors.xml#raydin">Robert Aydin</name>
-            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -103,13 +99,12 @@
                <placeName xml:id="name1509-3" xml:lang="syr-Syrj" source="#bib1509-1">ܬܰܪܡܢܐ</placeName>
                <placeName xml:id="name1509-4" xml:lang="ar" source="#bib1509-2">ترمناز</placeName>
                <desc xml:id="abstract-en-1509" xml:lang="en">A place near <placeName ref="http://syriaca.org/place/65">Cyrrhus</placeName>.</desc>
-               <desc xml:lang="syr-Syrj">
-                  <quote source="#bib1509-1">Deprecation: Dolabani's printer misread his Syriac letter zayin for olaf.</quote>
-               </desc>
                <state type="existence" from="0817" to="0793">
                   <precision match="@from" notAfter="0817"/>
                   <precision match="@to" notBefore="0793"/>
                </state>
+               <note type="deprecation" xml:id="name1509-3-deprecation">Dolabani's printer misread his Syriac letter zayin as an olaf.</note>
+               <link target="#name1509-3 #name1509-3-deprecation"/>
                <idno type="URI">http://syriaca.org/place/1509</idno>
                <bibl xml:id="bib1509-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

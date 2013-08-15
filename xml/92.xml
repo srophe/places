@@ -11,7 +11,7 @@
       <fileDesc>
          <titleStmt>
             <title level="a" xml:lang="en">Hasankeyf
-                                        — <foreign xml:lang="syr">ܚܣܢ ܟܐܦܐ</foreign>
+                                        — <foreign xml:lang="syr">ܚܣܢܐ ܕܟܐܦܐ</foreign>
             </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
@@ -108,7 +108,7 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib92-1">Hasankeyf</placeName>
-               <placeName xml:id="name92-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܚܣܢ ܟܐܦܐ</placeName>
+               <placeName xml:id="name92-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܚܣܢܐ ܕܟܐܦܐ</placeName>
                <placeName xml:id="name92-3" xml:lang="syr-Syrj" source="#bib92-2">ܚܰܣܢ ܟܺܐܦܐ</placeName>
                <placeName xml:id="name92-4" xml:lang="ar" source="#bib92-3">حصن كيفا</placeName>
                <placeName xml:id="name92-5" xml:lang="en" source="#bib92-4">Ḥiṣn Kifa</placeName>
@@ -128,6 +128,7 @@
                   <geo>37.714167 41.413056</geo>
                </location>
                <state type="existence"/>
+               <note type="errata">In Dolabani's translation of Barsoum's description ܠܓܙܺܝܪܳܬܐ should read ܠܓܳܙܰܪܬܳܐ.</note>
                <idno type="URI">http://syriaca.org/place/92</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874664</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Hasankeyf</idno>

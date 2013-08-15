@@ -10,7 +10,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Shalabdīn</title>
+            <title level="a" xml:lang="en">Shalabdīn
+                                        — <foreign xml:lang="syr">ܫܠܒܕܝܢ</foreign>
+            </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -40,6 +42,9 @@
                         </bibl>
                         <bibl>
                            <ptr target="#bib1488-2"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib1488-3"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -87,21 +92,29 @@
          <listPlace>
             <place xml:id="place-1488" type="unknown">
                <placeName xml:id="name1488-1" xml:lang="en" syriaca-tags="#syriaca-headword">Shalabdīn</placeName>
-               <placeName xml:id="name1488-2" xml:lang="syr-Syrj" source="#bib1488-">ܝܠܒܕܺܝܢ</placeName>
-               <placeName xml:id="name1488-3" xml:lang="ar" source="#bib1488-1">شلبدين</placeName>
-               <placeName xml:id="name1488-4" xml:lang="en" source="#bib1488-2">Shalabdin</placeName>
+               <placeName xml:id="name1488-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܫܠܒܕܝܢ</placeName>
+               <placeName xml:id="name1488-3" xml:lang="syr-Syrj" source="#bib1488-1">ܝܠܒܕܺܝܢ</placeName>
+               <placeName xml:id="name1488-4" xml:lang="ar" source="#bib1488-2">شلبدين</placeName>
+               <placeName xml:id="name1488-5" xml:lang="en" source="#bib1488-3">Shalabdin</placeName>
                <desc xml:id="abstract-en-1488" xml:lang="en">Seat of a bishop about 1174.</desc>
                <state type="existence" from="1179" to="1169">
                   <precision match="@from" notAfter="1179"/>
                   <precision match="@to" notBefore="1169"/>
                </state>
+               <note type="deprecation" xml:id="name1488-3-deprecation">Dolabani's printer misread his shin as a yod.</note>
+               <link target="#name1488-3 #name1488-3-deprecation"/>
                <idno type="URI">http://syriaca.org/place/1488</idno>
                <bibl xml:id="bib1488-1">
+                  <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
+                  <ptr target="http://syriaca.org/bibl/3"/>
+                  <citedRange unit="pp">428</citedRange>
+               </bibl>
+               <bibl xml:id="bib1488-2">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">398</citedRange>
                </bibl>
-               <bibl xml:id="bib1488-2">
+               <bibl xml:id="bib1488-3">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">448</citedRange>

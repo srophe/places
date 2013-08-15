@@ -424,6 +424,26 @@
                                         <note type="errata"><xsl:apply-templates select="child::node()"/></note>
                                     </xsl:for-each>
                                     
+                                    <!-- Insert deprecation notes here -->
+                                    <xsl:for-each select="*[ends-with(name(),'Notes') and count(child::node()) &lt; 2 and starts-with(node(),'Deprecation: ')]"> <!-- need to make sure the element contains only a string before testing starts-with(), or it barfs -->
+                                        <xsl:variable name="deprecation-reason" select="substring-before(substring-after(.,'Deprecation: '),'|')"/>
+                                        <xsl:variable name="deprecated-names" select="tokenize(substring-after(.,'|'),'\|')"/>
+                                        <xsl:variable name="deprecated-name-ids" as="xs:string*">
+                                            <xsl:for-each select="$deprecated-names">
+                                                <xsl:sequence select="concat($name-prefix,index-of($names,.))"/>
+                                            </xsl:for-each>
+                                        </xsl:variable>
+                                        <note type="deprecation">
+                                            <xsl:attribute name="xml:id" select="concat($deprecated-name-ids[1],'-deprecation')"/>
+                                            <xsl:value-of select="$deprecation-reason"/>
+                                        </note>
+                                        <xsl:for-each select="$deprecated-name-ids">
+                                            <link>
+                                                <xsl:attribute name="target" select="concat('#',.,' ',concat('#',$deprecated-name-ids[1],'-deprecation'))"/>
+                                            </link>
+                                        </xsl:for-each>
+                                    </xsl:for-each>
+                                    
                                     <!-- Insert the ID numbers for Syriaca.org and, if they exist, for Pleiades, Wikipedia, and DBpedia -->
                                     <idno type="URI">http://syriaca.org/place/<xsl:value-of select="Place_ID"/></idno>
                                     <xsl:if test="Pleiades_URI != ''">

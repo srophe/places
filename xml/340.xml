@@ -118,6 +118,8 @@
                   <quote source="#bib340-3">in Kafr al-Bīra, in the province of Apamea. It was built in the fifth century, but received no mention by historians before 535.</quote>
                </desc>
                <state type="existence"/>
+               <note type="errata">In Dolabani's translation of Barsoum's description ܘܐܶܬܥܗܕ should read ܘܶܐܬܥܗܕ.</note>
+               <note type="errata">In Barsoum's description انشىء should read انشئ.</note>
                <idno type="URI">http://syriaca.org/place/340</idno>
                <bibl xml:id="bib340-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

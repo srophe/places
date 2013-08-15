@@ -129,6 +129,7 @@
                   <precision match="@from" notAfter="0724" notBefore="0300"/>
                   <precision match="@to" notAfter="1943" notBefore="0975"/>
                </state>
+               <note type="errata">In Dolabani's translation of Barsoum's description ܒܰܓܙܝܺܪܬܐ should read ܒܓܳܙܰܪܬܐ.</note>
                <idno type="URI">http://syriaca.org/place/229</idno>
                <bibl xml:id="bib229-1">
                   <title level="a" xml:lang="en">442. Qarqaphto, Monastery of</title>

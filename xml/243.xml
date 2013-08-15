@@ -102,13 +102,16 @@
                           source="#bib243-1">Beth Manʿem</placeName>
                <placeName xml:id="name243-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܝܬ ܡܢܥܡ</placeName>
                <placeName xml:id="name243-3" xml:lang="syr-Syrj" source="#bib243-2">ܒܶܝܬ ܡܰܢܥܡ</placeName>
-               <placeName xml:id="name243-4" xml:lang="ar" source="#bib243-3">بانمعم </placeName>
+               <placeName xml:id="name243-4" xml:lang="ar" source="#bib243-3">بانمعم</placeName>
                <placeName xml:id="name243-5" xml:lang="en" source="#bib243-4">Banimʿim</placeName>
                <desc xml:id="abstract-en-243" xml:lang="en"/>
                <state type="existence" from="0925" to="1376">
                   <precision match="@from" notAfter="0925"/>
                   <precision match="@to" notBefore="1376"/>
                </state>
+               <note type="deprecation" xml:id="name243-4-deprecation">Barsoum's Arabic name form swapped the order of the letters, and this was followed by Moosa's translation.</note>
+               <link target="#name243-4 #name243-4-deprecation"/>
+               <link target="#name243-5 #name243-4-deprecation"/>
                <idno type="URI">http://syriaca.org/place/243</idno>
                <bibl xml:id="bib243-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

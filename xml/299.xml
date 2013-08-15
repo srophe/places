@@ -124,6 +124,8 @@
                   <quote source="#bib299-3">a town in Syria between Aleppo and al-Raqqa, known in antiquity as Perpalisos, it is now called Maskana.</quote>
                </desc>
                <state type="existence"/>
+               <note type="deprecation" xml:id="name299-12-deprecation">Moosa's transcription "Perpalisos" should be "Barbalissus".</note>
+               <link target="#name299-12 #name299-12-deprecation"/>
                <idno type="URI">http://syriaca.org/place/299</idno>
                <idno type="URI">http://pleiades.stoa.org/places/668208</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Maskanah</idno>

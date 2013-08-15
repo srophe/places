@@ -11,7 +11,7 @@
       <fileDesc>
          <titleStmt>
             <title level="a" xml:lang="en">Arbo
-                                        — <foreign xml:lang="syr">ܐܪܒܐ</foreign>
+                                        — <foreign xml:lang="syr">ܐܪܒܘ</foreign>
             </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
@@ -95,11 +95,13 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib540-3">Arbo</placeName>
-               <placeName xml:id="name540-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܪܒܐ</placeName>
+               <placeName xml:id="name540-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܪܒܘ</placeName>
                <placeName xml:id="name540-3" xml:lang="syr-Syrj" source="#bib540-1">ܐܰܪܒܳܐ</placeName>
                <placeName xml:id="name540-4" xml:lang="ar" source="#bib540-2">اربو</placeName>
                <desc xml:id="abstract-en-540" xml:lang="en"/>
                <state type="existence"/>
+               <note type="deprecation" xml:id="name540-3-deprecation">Dolabani mis-transcribed Barsoum's Arabic.</note>
+               <link target="#name540-3 #name540-3-deprecation"/>
                <idno type="URI">http://syriaca.org/place/540</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Taşköy,_Nusaybin</idno>
                <idno type="URI">http://dbpedia.org/resource/Taşköy,_Nusaybin</idno>

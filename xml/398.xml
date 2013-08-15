@@ -126,6 +126,7 @@
                   <precision match="@from" notAfter="0500"/>
                   <precision match="@to" notAfter="1943" notBefore="1223"/>
                </state>
+               <note type="errata">In Dolabani's translation of Barsoum's description ܒܡܰܐܬܰܐ should read ܒܡܰܐܬܳܐ.</note>
                <idno type="URI">http://syriaca.org/place/398</idno>
                <idno type="URI">http://pleiades.stoa.org/places/658527</idno>
                <bibl xml:id="bib398-1">

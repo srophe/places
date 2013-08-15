@@ -340,7 +340,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܥܰܝܢܕܰܐܒܐ. ܙܢܐܙܪܒܐ. ܐܰܢܐܙܘܪܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>559</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܡܕܝܢܬܳܐ ܕܰܒܩܝܠܺܝܩܝܰܐ ܣܺܝܡܳܐ ܗܘܳܬ ܥܰܠ ܢܗܰܪ ܓܺܝ̣ܚܘܢ ܘܝܰܘܡܳܢ ܗܘܳܬ ܩܪܺܝܬܳܐ ܕܡܶܬܶܐܡܰܪ ܠܳܗ̇ ܐܰܢܐܙܘܪܐ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܙܢܐܙܪܒܐ for ܐܢܐܙܪܒܐ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes>Deprecation: Dolabani's printer misread the initial olaph of this name as a zayn.|ܙܢܐܙܪܒܐ</Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>عين زربة، انازربة، انازروه</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>517</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>مدينة في قيليقية كانت واقعة على نهر جيحان وامست الان قرية يقال لها انازروه.</Barsoum_Arabic_Description>
@@ -444,7 +444,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܐܘܦܰܡܝܰܐ. ܩܰܠܥܗ̈ ܐܠܡܨ̇ܝܩ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>536</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܡܕܝܢܬܳܐ ܗܘܳܬ ܪܰܒܬܐ ܕܰܠܓܰܪܒܰܝ ܡܰܕܢܰܚ ܚܡܳܬ ܘܚܰܪܝܒܳܐ ܗܳܫܐ ܘܡܶܬܐܶܡܰܪ ܠܗ̇ ܩܰܠܥܗ̈ ܐܠܡܨ̇ܝܩ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Is the Syriac form ܐܘܦܰܡܝܰܐ correct? - TAC; alternate forms in desc. of Mor Ousib monastery &amp; desc. of Mor Bosus monastery - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>آفامية، فامية، قلعة المضيق</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>504</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>مدينة كانت كبيرة في الشمال الشرقي من حماة وهي الآن خربة يقال لها قلعة المضيق</Barsoum_Arabic_Description>
@@ -1050,7 +1050,7 @@
         <Existence_BeginsBefore></Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>
         <Existence_EndsBefore></Existence_EndsBefore>
-        <Post-processing_Notes>Moosa's English translation of Barsoum's description says "north" when it should be "east."</Post-processing_Notes>
+        <Post-processing_Notes></Post-processing_Notes>
         <Pleiades_URI></Pleiades_URI>
         <Pleiades_Notes></Pleiades_Notes>
         <GEDSH_Name>Aqra</GEDSH_Name>
@@ -1934,7 +1934,7 @@
         <Existence_BeginsBefore></Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>
         <Existence_EndsBefore></Existence_EndsBefore>
-        <Post-processing_Notes>Amir Harrak in GEDSH article "Edessa" identifies with Daysan.</Post-processing_Notes>
+        <Post-processing_Notes></Post-processing_Notes>
         <Pleiades_URI></Pleiades_URI>
         <Pleiades_Notes></Pleiades_Notes>
         <GEDSH_Name>Balikh</GEDSH_Name>
@@ -1946,7 +1946,7 @@
         <GEDSH_Category>river</GEDSH_Category>
         <Latitude></Latitude>
         <Longitude></Longitude>
-        <GEDSH_Notes></GEDSH_Notes>
+        <GEDSH_Notes><errata>Amir Harrak in GEDSH article "Edessa" identifies with <placeName ref="http://syriaca.org/place/191">Daysan</placeName>, but the identification is contested.</errata></GEDSH_Notes>
         <Merge_Notes>In ܕܰܝܪܳܐ ܕܡܳܪܝ ܙܰܟܰܝ desc. - TAC</Merge_Notes>
         <Barsoum_Syriac_Name>ܢܗܪ ܒܐܠܚ</Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized>ܢܗܰܪ ܒܰܐܠܚ</Barsoum_Syriac_Name_Vocalized>
@@ -2212,7 +2212,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܒܰܓܕܰܐܫܝܗ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>537</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܩܪܝܺܬܐ ܕܰܒܓܶܒ ܟܰܦܰܪܬܘܽܬ ܕܒܐܽܘܚܕܳܢܐ ܕܡܶܪܕܝܢ. </Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܕܡܶܪܕܝܢ should be ܕܡܰܪܕܝܢ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܕܡܶܪܕܝܢ should read ܕܡܰܪܕܝܢ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>بكدشيّة</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>505</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>قرية بجانب كفرتوث من عمل ماردين</Barsoum_Arabic_Description>
@@ -2316,7 +2316,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܒܺܝܪܰܗܓܺܝܟ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>559</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Not standard Syriac spelling - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>بيره جك</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>517</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -2684,7 +2684,7 @@
         <Barsoum_Arabic_Name>قسطفون</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>516</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>مدينتان متصلتان سميتا بالمدائن عاصمة الفرس الساسانيين، جنوبي بغداد مسيرة ست ساعات، خربتا في صدر الفتح العربي وبجانبهما اليوم قرية سلمان باك.</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic قسطفون for قطسفون - TAC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Notes></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Ctesiphon</Barsoum_English_Name>
         <Barsoum_English_Page>558</Barsoum_English_Page>
         <Barsoum_English_Description>two connected cities. They were the capital of the Sassanids, situated about six hours journey south of Baghdad. Both these cities were destroyed at the beginning of the Arab conquest. Near their site is the present village of Salman Pak.</Barsoum_English_Description>
@@ -2870,7 +2870,7 @@
         <Existence_BeginsBefore></Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>
         <Existence_EndsBefore></Existence_EndsBefore>
-        <Post-processing_Notes>Deprecate names Qarqisun, Qarqisyya - TAC</Post-processing_Notes>
+        <Post-processing_Notes></Post-processing_Notes>
         <Pleiades_URI>http://pleiades.stoa.org/places/893974</Pleiades_URI>
         <Pleiades_Notes></Pleiades_Notes>
         <GEDSH_Name>Circesium</GEDSH_Name>
@@ -2896,7 +2896,7 @@
         <Barsoum_English_Name>Qarqisun, Qarqisyya, Abu Saray, Busayra</Barsoum_English_Name>
         <Barsoum_English_Page>557</Barsoum_English_Page>
         <Barsoum_English_Description>a town near the place where the Khabur joins the Euphrates; it no longer exists. On its site lies the village of Abu Saray (Busayra).</Barsoum_English_Description>
-        <Barsoum_English_Notes></Barsoum_English_Notes>
+        <Barsoum_English_Notes>Deprecate:Moosa's transcription of these names is non-standard.|Qarqisun|Qarqisyya</Barsoum_English_Notes>
         <Wikipedia_URI>http://en.wikipedia.org/wiki/Circesium | http://en.wikipedia.org/wiki/Al-Busayrah</Wikipedia_URI>
         <DBpedia_URI></DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -2941,10 +2941,10 @@
         <Barsoum_Syriac_Page>559-560</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܚܶܣܢܳܐ ܕܩܰܪܝܒ ܗܘܐ ܠܡܺܝܠܝܛܝܢܝ ܐܶܣܬܚܦ ܘܰܗܦܰܟ ܒܢܳܝܗܝ ܚܰܣܢ ܒܰܪ ܩܚܛܒܗ ܫܢܰܬ 141 ܗܳܓܳܪܳܝܬܐ. ܘܫܰܚܠܦܗ ܠܰܐܬܪܐ ܒܰܫܡܗ. ܘܰܚܪܒ ܒܳܬܰܪ ܕܳܪܐ ܬܠܳܬܰܥܣܝܪܳܝܐ. </Barsoum_Syriac_Description>
         <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
-        <Barsoum_Arabic_Name>قلووذية</Barsoum_Arabic_Name>
+        <Barsoum_Arabic_Name>قلوذية</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>518</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>حصن كان بقرب ملطية هدم فاعاد بناءه الحسن بن قحطبة سنة 141 هـ وحوله بلدة باسمه خربت بعد القرن الثالث عشر.</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic - TAC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Notes></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Claudia</Barsoum_English_Name>
         <Barsoum_English_Page>552</Barsoum_English_Page>
         <Barsoum_English_Description>a citadel near Melitene, destroyed and rebuilt by al-Ḥasan Ibn Quḥṭuba in 141 A.H. Around the citadel was built a town bearing the same name, but it was laid to ruin after the thirteenth century.</Barsoum_English_Description>
@@ -3200,7 +3200,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܐ ܕܰܨܠܝܒܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>547-548</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܶܝܬ ܙܰܐܙ ܠܚܰܣܢ ܟܺܐܦܐ ܒܛܘܪܥܰܒܕܝܢ. ܕܟܺܝܪ ܒܡܰܟܬܰܒܙܒ̈ܢܐ ܫܢܰܬ  775  ܗܘܳܐ ܟܘܽܪܣܝܳܐ ܠܐܶܦܺܝܣܩܘܦ̈ܐ ܕܚܰܐܚ  1089  -  1873  ܘܩܳܡ ܡܶܢܗ ܦܰܛܪܝܰܪܟܐ ܠܛܘܪܐ ܘܚܰܕ ܡܰܦܪܝܳܢܐ ܘܶܫܬܐ ܐܶܦܝܣܩܘ̈ܦܐ. ܘܰܒܡܶܨܥܳܝ̈ܬܳܐ ܕܕܳܪܐ ܕܰܥܒܰܪ ܗܘܳܐ ܩܪܝܬܳܐ ܙܥܘܪܬܐ. ܘܰܥܕܡܳܐ ܠܝܰܘܡܳܢ ܥܕܺܬܗ ܩܰܝܳܡܐ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܥܕܺܬܗ for ܥܺܕܬܗ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܥܕܺܬܗ should read ܥܺܕܬܗ</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير الصليب</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>511</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بين زاز وحصن كيفا في طور عبدين ذكر في التاريخ سنة 775 وصار كرسيا لأساقفة حاح (1089-1873) ونشأ منه بطرك للطور ومفريان وستة اساقفة، وفي اواسط القرن الماضي امسى قرية صغيرة ولا تزال بيعته عامرة</Barsoum_Arabic_Description>
@@ -3251,8 +3251,8 @@
         <Barsoum_Syriac_Name>ܕܝܪܐ ܕܙܥܦܪܐܢ</Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܳܐ ܕܙܰܥܦܰܪܐܢ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>545-546</Barsoum_Syriac_Page>
-        <Barsoum_Syriac_Description>ܐܰܘ ܕܰܝܪܳܐ ܕܡܳܪܝ ܚܰܢܰܢܝܳܐ ܐܶܫܬܰܬܰܐܣ ܒܚܰܪܬܗ ܕܕܳܪܳܐ ܪܒܺܝܥܳܝܳܐ )  ܘܫܰܟܠܠܶܗ ܡܳܪܝ ܚܰܢܰܢܝܳܐ ܡܝܛܪܘܦܘܠܝܛܳܐ ܕܡܰܪܕܝܢ ܒܶܝܬ  793  -  800  ܒܡܰܕܢܰܚ ܡܶܪܕܳܐ ܫܳܥܬܐ ܡܶܢܳܗ̇. ܕܰܝܪܰܐ ܗܘ ܪܰܒܐ ܕܥܰܡܝܪ ܘܰܡܝܰܬܰܒ ܗܘܳܐ ܒܶܝܬ ܟܘܪܣܝܳܐ ܠܦܰܛܪܝܰܪܟܘܬܐ ܡܶܢ ܫܢܰܬ  1293  -  1933  ܝܰܬܝܪ ܡܶܢ ܫܶܬܡܳܐܐ ܫܢ̈ܝܺܢ. ܘܐܰܦܶܩ ܚܰܕ ܘܥܶܣܪܝܢ ܦܰܛܪܝܰܪ̈ܟܐ ܘܬܶܫܥܳܐ ܡܰܦܪ̈ܝܳܢܐ ܘܡܳܐܐ ܘܥܶܣܪܳܐ ܐܶܦܝܣܩܘ̈ܦܐ. ܘܒܰܫܢܰܬ  1917  ܦܪܰܣܢܰܢ ܡܟܰܬܒܰܙܰܒܢܗ ܕܰܡܫܰܡܠܰܝ ܘܰܪܫܝܺܡ ( ܢܰܙܗܗ̈ ܐܠܐܕܗܰܐܢ )  ܘܚܳܝܪܝܺܢ ܥܠܰܘܗܝ ܠܓܰܪܒܝܳܐ ܬܠܳܬܐ ܕܰܝܪ̈ܐ ܙܥܘܪ̈ܐ ܕܰܝܪܐ ܕܢܶܦܛܳܐ ܘܕܰܝܪܐ ܕܡܳܪܝ ܥܙܳܙܳܐܝܠ ܘܰܡܝܰܬܒ ܗܘܐ ܒܟܶܢܫܳܐ ܕܕܰܝܪ̈ܳܝܶܐ ܒܶܝܬ ܫܢܰܬ  1500  -  1600  ܘܕܰܝܪܳܐ ܕܡܳܪܝ ܝܰܥܩܘܒ ܡܰܠܦܳܢܐ ܕܰܕܟܺܝܪ ܠܰܙܒܰܢܬܐ ܩܰܕܡܳܝܬܐ ܫܢܰܬ  1165  ܘܰܥܕܰܡܳܐ ܠܗܳܫܳܐ ܥܰܡܝܪ ܘܰܚܒܝ̈ܫܳܝܳܬܐܕܡܳܪܝ ܒܶܗܢܰܡ ( ܘܡܳܪܝ ܝܰܘܣܦ )  ܕܰܥܡܰܪܘ ܒܗܶܝܢ ܐܢܳܫ̈ܝܢ ܥܢܘ̈ܝܐ ܥܕܰܡܳܐ ܠܡܶܨܥܳܝ̈ܬܗ ܕܕܳܪܐ ܕܰܫܒܰܥܣܪ ܘܐܶܬܢܰܦܰܩܘ ܒܗܶܝܢ ܐܶܦܝܣܩܘ̈ܦܐ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܘܐܰܦܩ. ܡܟܰܬܒܰܙܰܒܢܗ. They should be ܘܰܐܦܩ. ܡܰܟܬܰܒܙܰܒܢܗ -RA; Sic ܘܰܚܒܝ̈ܫܳܝܳܬܐܕܡܳܪܝ for ܘܰܚܒܝ̈ܫܳܝܳܬܐ ܕܡܳܪܝ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Description>ܐܰܘ ܕܰܝܪܳܐ ܕܡܳܪܝ ܚܰܢܰܢܝܳܐ ܐܶܫܬܰܬܰܐܣ ܒܚܰܪܬܗ ܕܕܳܪܳܐ ܪܒܺܝܥܳܝܳܐ )  ܘܫܰܟܠܠܶܗ ܡܳܪܝ ܚܰܢܰܢܝܳܐ ܡܝܛܪܘܦܘܠܝܛܳܐ ܕܡܰܪܕܝܢ ܒܶܝܬ  793  -  800  ܒܡܰܕܢܰܚ ܡܶܪܕܳܐ ܫܳܥܬܐ ܡܶܢܳܗ̇. ܕܰܝܪܰܐ ܗܘ ܪܰܒܐ ܕܥܰܡܝܪ ܘܰܡܝܰܬܰܒ ܗܘܳܐ ܒܶܝܬ ܟܘܪܣܝܳܐ ܠܦܰܛܪܝܰܪܟܘܬܐ ܡܶܢ ܫܢܰܬ  1293  -  1933  ܝܰܬܝܪ ܡܶܢ ܫܶܬܡܳܐܐ ܫܢ̈ܝܺܢ. ܘܐܰܦܶܩ ܚܰܕ ܘܥܶܣܪܝܢ ܦܰܛܪܝܰܪ̈ܟܐ ܘܬܶܫܥܳܐ ܡܰܦܪ̈ܝܳܢܐ ܘܡܳܐܐ ܘܥܶܣܪܳܐ ܐܶܦܝܣܩܘ̈ܦܐ. ܘܒܰܫܢܰܬ  1917  ܦܪܰܣܢܰܢ ܡܟܰܬܒܰܙܰܒܢܗ ܕܰܡܫܰܡܠܰܝ ܘܰܪܫܝܺܡ ( ܢܰܙܗܗ̈ ܐܠܐܕܗܰܐܢ )  ܘܚܳܝܪܝܺܢ ܥܠܰܘܗܝ ܠܓܰܪܒܝܳܐ ܬܠܳܬܐ ܕܰܝܪ̈ܐ ܙܥܘܪ̈ܐ ܕܰܝܪܐ ܕܢܶܦܛܳܐ ܘܕܰܝܪܐ ܕܡܳܪܝ ܥܙܳܙܳܐܝܠ ܘܰܡܝܰܬܒ ܗܘܐ ܒܟܶܢܫܳܐ ܕܕܰܝܪ̈ܳܝܶܐ ܒܶܝܬ ܫܢܰܬ  1500  -  1600  ܘܕܰܝܪܳܐ ܕܡܳܪܝ ܝܰܥܩܘܒ ܡܰܠܦܳܢܐ ܕܰܕܟܺܝܪ ܠܰܙܒܰܢܬܐ ܩܰܕܡܳܝܬܐ ܫܢܰܬ  1165  ܘܰܥܕܰܡܳܐ ܠܗܳܫܳܐ ܥܰܡܝܪ ܘܰܚܒܝ̈ܫܳܝܳܬܐ ܕܡܳܪܝ ܒܶܗܢܰܡ ( ܘܡܳܪܝ ܝܰܘܣܦ )  ܕܰܥܡܰܪܘ ܒܗܶܝܢ ܐܢܳܫ̈ܝܢ ܥܢܘ̈ܝܐ ܥܕܰܡܳܐ ܠܡܶܨܥܳܝ̈ܬܗ ܕܕܳܪܐ ܕܰܫܒܰܥܣܪ ܘܐܶܬܢܰܦܰܩܘ ܒܗܶܝܢ ܐܶܦܝܣܩܘ̈ܦܐ.</Barsoum_Syriac_Description>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܘܐܰܦܩ and ܡܟܰܬܒܰܙܰܒܢܗ should read ܘܰܐܦܩ and ܡܰܟܬܰܒܙܰܒܢܗ respectively.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير الزعفران</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>510</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>او دير مار حنانيا وهو مطران ماردين الذي وطّد اركانه سنة 793-800 على انقاض قلعة ودير قديم شرقي ماردين مسير ساعة عنها. وهو دير كبير عامر آهل، صار كرسياً للبطاركة من سنة 1293 نيفاً وستمائة سنة، انجب واحداً وعشرين بطريركاً وتسعة مفارنة ومئة وعشرة اساقفة. وسنة 1917 عملنا ونشرنا تاريخه الضافي الموسوم "بنزهة الاذهان" ويطل عليه شمالاً ثلاثة اديار صغيرة متجاورة وهي دير مار عززائيل وكان آهلاً برهط من الرهبان بين سنة 1500-1600 ودير مار يعقوب الملفان وذكر لأول مرة سنة 1165 ولا يزال عامراً، وصومعة مار بهنام وقطنها نفر من النساك حتى اواسط القرن السابع عشر وتخرج في كل منها نفر من الاساقفة</Barsoum_Arabic_Description>
@@ -3304,11 +3304,11 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܐ ܕܡܳܪܝ ܐܰܒܝ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>541</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܣܳܗܕܐ ܦܳܪܣܳܝܐ ܠܓܰܪܒܰܝ ܩܶܠܬ ܩܪܝܬܳܐ ܡܰܪܕܶܐ ܩܰܛܝ̈ܢܢ. ܕܰܝܪܰܐ ܗܘ ܪܰܒܐ ܐܶܬܒܢܝ ܒܕܳܪܳܐ ܫܬܝܬܳܝܐ ܘܒܰܫܢܰܬ  1250  ܐܝܬ ܗܘܐ ܒܗ ܫܬܝܺܢ ܕܰܝܪ̈ܳܝܐ. ܟܶܢ ܗܘܐ ܒܶܝܬ ܟܘܪܣܝܳܐ ܕܐܶܦܣܩܘܦܳܐ. ܘܰܢܦܰܩ ܡܶܢܗ ܚܰܕ ܦܰܛܪܝܰܪܟܳܐ ܘܰܚܕܰܥܣܪ ܐܶܦܝ̈ܣܩܘܦܶܐ. ܘܰܚܕܳܪ̈ܰܝ ܫܢܰܬ  1700  ܥܰܠܥܶܠܘ ܙܰܒ̈ܢܐ ܒܐܢܳܫܰܘ̈ܗܝ ܘܚܰܪ̈ܒܳܬܗ ܩܰܝ̈ܡܳܢ </Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܕܐܶܦܣܩܘܦܳܐ it should be ܕܶܐܦܝܣܩܘܦܳܐ -RA</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܕܐܶܦܣܩܘܦܳܐ should read ܕܶܐܦܝܣܩܘܦܳܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير مار آباي</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>507</Barsoum_Arabic_Page>
-        <Barsoum_Arabic_Description>الشهيد الفارسي شمالي قرية قلث مسيرة عشرين دقيقة؛ دير عظيم انشيء في القرن السادس وعام 1250 حوى ستين راهباً ثم صار كرسياً اسقفيا ونشأ منه بطريرك واحد عشر اسقفاً، عصف الدهر بأهله حوالي سنة 1700 واطلاله ماثلة</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic انشيء should be انشئ - TAC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Description>الشهيد الفارسي شمالي قرية قلث مسيرة عشرين دقيقة؛ دير عظيم انشىء في القرن السادس وعام 1250 حوى ستين راهباً ثم صار كرسياً اسقفيا ونشأ منه بطريرك واحد عشر اسقفاً، عصف الدهر بأهله حوالي سنة 1700 واطلاله ماثلة</Barsoum_Arabic_Description>
+        <Barsoum_Arabic_Notes><errata>In Barsoum's description انشىء should read انشئ.</errata></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Abai Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>560</Barsoum_English_Page>
         <Barsoum_English_Description>the Persian martyr, is north of Qellith. It was a large monastery, established in the sixth century. In 1250 it had about sixty monks. Later, it became an episcopal see and from it came one Patriarch and eleven bishops. It was abandoned in 1700 and its ruins can still be seen.</Barsoum_English_Description>
@@ -3356,7 +3356,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܐ ܕܡܳܪܝ ܐܰܒܪܗܡ ܐܰܘ ܡܳܪܝ ܗܳܒܝܠ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>541</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܩܘܪܒܳܐ ܕܡܶܕܝܰܕ ܡܕܝܢܳܬܐ. ܕܰܝܪܳܐ ܥܰܬܝܩܬܳܐ ܘܥܰܡܝܪܐ ܐܶܬܒܢܝ ܗܰܝܟܠܗ ܚܕܳܪ ܫܢܰܬ  763  ܘܩܳܡܘ ܡܢܗ ܬܠܬܐ ܐܶܦܝܣܩܘܦ̈ܐ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܡܕܝܢܳܬܐ it should be ܡܕܝܢܬܳܐ -RA</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܡܕܝܢܳܬܐ should read ܡܕܝܢܬܳܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير مار ابرهيم وهابيل</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>508</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بقرب بلدة مذيات دير قديم عامر بني هيكله حول سنة 763 ونشأ منه ثلاثة اساقفة</Barsoum_Arabic_Description>
@@ -3616,7 +3616,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܒܶܝܬ ܢܘܗܰܕܪܐ. ܕܰܗܽܘܟ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>537</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܡܕܝܢܬܐ ܕܰܠܓܰܪܒܰܝ ܡܰܘܨܠ ܘܡܰܬܶܐܡܰܪ ܠܗ̇ ܕܰܗܽܘܟ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܘܡܰܬܶܐܡܰܪ should be ܘܡܶܬܶܐܡܰܪ   - RA</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܘܡܰܬܶܐܡܰܪ should read ܘܡܶܬܶܐܡܰܪ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>بانوهدرا، دهوك</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>505</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بلدة في شمالي الموصل يقال لها دهوك</Barsoum_Arabic_Description>
@@ -3714,7 +3714,7 @@
         <GEDSH_Category>large city</GEDSH_Category>
         <Latitude>37.15</Latitude>
         <Longitude>38.8</Longitude>
-        <GEDSH_Notes></GEDSH_Notes>
+        <GEDSH_Notes><errata>Amir Harrak' GEDSH article identifies its river as the <placeName ref="http://syriaca.org/place/43">Balikh</placeName>, but the identification is contested.</errata></GEDSH_Notes>
         <Merge_Notes></Merge_Notes>
         <Barsoum_Syriac_Name>ܐܘܪܗܝ</Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized>ܐܘܪܗܳܝ. ܐܘܪܦܰܗ̈</Barsoum_Syriac_Name_Vocalized>
@@ -4083,8 +4083,8 @@
         <Barsoum_Syriac_Name>ܓܪܓܪ</Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized>ܓܰܪܓܰܪ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>560</Barsoum_Syriac_Page>
-        <Barsoum_Syriac_Description>ܚܶܣܢܰܐܗܘ ܘܰܡܕܝܢܬܐ ܒܩܘܪܒܳܐ ܕܡܝܺܠܝܺܛܝܢܝ ܒܶܝܬ ܫܰܡܝܫܰܛ ܠܚܰܣܢ ܙܝܰܐܕ ܠܡܰܥܪܒܳܐ ܕܰܦܪܳܬ. ܚܶܪܒܰܬ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܚܶܣܢܰܐܗܘ for ܚܶܣܢܰܐ ܗܘ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Description>ܚܶܣܢܰܐ ܗܘ ܘܰܡܕܝܢܬܐ ܒܩܘܪܒܳܐ ܕܡܝܺܠܝܺܛܝܢܝ ܒܶܝܬ ܫܰܡܝܫܰܛ ܠܚܰܣܢ ܙܝܰܐܕ ܠܡܰܥܪܒܳܐ ܕܰܦܪܳܬ. ܚܶܪܒܰܬ.</Barsoum_Syriac_Description>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>كركر، جرجر</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>518</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>حصن وبلدة قرب ملطية بين سميساط وحصن زياد غربي الفرات تولاها الخراب.</Barsoum_Arabic_Description>
@@ -4188,7 +4188,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܓܳܙܰܪܬܐ ܕܒܰܪ ܥܘܡܪ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>538</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܡܕܺܝܢܬܘܢܝܬܳܐ ܗܝ ܕܥܰܠ ܕܶܩܠܰܬ ܒܶܝܬ ܐܳܡܝܕ ܠܡܰܘܨܠ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Variant spelling in Hasan Kefo entry on p.539 - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>جزيرة ابن عمر</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>506</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بلدة بين الموصل وديار بكر راكبة على دجلة</Barsoum_Arabic_Description>
@@ -4348,7 +4348,7 @@
         <Barsoum_Arabic_Name>حماه</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>516</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic. Correct to حماة - TAC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Notes>Deprecation: Barsoum's name omits the two dots from the tāʼ marbūṭa.|حماه</Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Ḥama</Barsoum_English_Name>
         <Barsoum_English_Page>558</Barsoum_English_Page>
         <Barsoum_English_Description></Barsoum_English_Description>
@@ -4392,11 +4392,11 @@
         <Longitude>41.413056</Longitude>
         <GEDSH_Notes></GEDSH_Notes>
         <Merge_Notes></Merge_Notes>
-        <Barsoum_Syriac_Name>ܚܣܢ ܟܐܦܐ</Barsoum_Syriac_Name>
+        <Barsoum_Syriac_Name>ܚܣܢܐ ܕܟܐܦܐ</Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized>ܚܰܣܢ ܟܺܐܦܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>539</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܡܕܝܢܬܐ ܘܩܶܠܥܳܐ ܪܰܒܬܳܐ ܕܚܳܝܪܐ ܠܕܶܩܠܰܬ ܒܶܝܬ ܐܳܡܝܺܕ ܠܰܓܙܺܝܪܳܬܐ ܕܒܰܪ ܥܽܘܡܰܪ. ܗܘܳܬ ܒܰܙܒܰܢ ܐܶܡܳܐ ܕܰܡܕܝܢ̈ܬܳܐ ܠܚܰܕ ܦܶܪܥܐ ܕܡܰܠܟܘܬܳܐ ܐܰܝܘܒܳܝܬܐ ܥܕܰܡܳܐ ܠܪܺܝܫ ܡܰܐܬܳܐ ܥܣܝܪܳܝܬܳܐ. ܘܝܰܘܡܳܢ ܐܝܬܶܝܗ̇ ܩܪܺܝܬܳܐ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܠܓܙܺܝܪܳܬܐ it should be ܠܓܳܙܰܪܬܳܐ -TAC; Typical Syriac form ܚܣܢܐ ܕܟܐܦܐ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܠܓܙܺܝܪܳܬܐ should read ܠܓܳܙܰܪܬܳܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>حصن كيفا</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>507</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بلدة وقلعة عظيمة مشرفة على دجلة بين آمد وجزيرة ابن عمر كانت عاصمة فرع من الدولة الايوبية حتى صدر المئة السادسة عشرة وهي اليوم قرية</Barsoum_Arabic_Description>
@@ -4500,7 +4500,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܚܰܣܰܢ ܡܰܢܨܘܪ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>539</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܡܕܝܰܢܬܐ ܗܝ ܕܰܒܓܰܪܒܰܝ ܫܰܡܝܫܰܛ ܠܡܰܥܪܒܳܐ ܕܰܦܪܳܬ ܕܡܶܬܶܐܡܰܪ ܠܗ̇ ܬܘܒ ܐܰܕܺܝܰܐܡܰܐܢ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܡܕܝܰܢܬܐ it should be ܡܕܺܝܢܬܐ</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܡܕܝܰܢܬܐ should read ܡܕܺܝܢܬܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>حصن منصور</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>507</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بلدة شمالي سميساط في غربي الفرات يقال لها ايضاً اديمان</Barsoum_Arabic_Description>
@@ -4604,11 +4604,11 @@
         <Barsoum_Syriac_Name_Vocalized>ܩܶܠܥܳܐ ܪܘܡܳܝܬܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>558-559</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܩܶܠܥܳܐ ܚܰܣܝܢܬܳܐ ܘܰܐܬܪܐ ܕܰܠܡܰܥܪܰܒ ܦܪܳܬ ܠܘܩܒܰܠ ܒܝܪܬܐ ܠܩܘܪܒܳܐ ܕܰܩܪܝܬܐ ܟ̣ܠܦܬܝ. ܘܡܶܫܬܰܡܗܐ ܗܘܳܬ ܩܶܠܥܳܐ ܕܙܘܓܡܐ. ܘܚܰܪܝܒܐ</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Erroneous alternate name in desc. - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>قلعة الروم</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>518</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>قلعة حصينة وبلد غربي الفرات مقابل البيرة بالقرب من قرية خلفتي وكان اسم القلعة زوغما، خربة.</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes></Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Notes><errata>Barsoum's description erroneously identifies this place with <placeName ref="http://syriaca.org/place/209">Zeugma</placeName>.</errata></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Qalʿat al-Rum</Barsoum_English_Name>
         <Barsoum_English_Page>557</Barsoum_English_Page>
         <Barsoum_English_Description>an ancient fortified citadel and town west of the Euphrates, opposite al-Bīra. The name of the citadel was Zughma.</Barsoum_English_Description>
@@ -5124,7 +5124,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܟܪܟ ܣܠܘܟ. ܟܰܪܟܘܟ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>560</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܡܕܺܝܢܰܬ ܟܰܪܟܘܟ ܗܳܝ ܕܰܒܥܪܰܐܩ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic name ܟܪܟ ܣܠܘܟ for ܟܪܟܐ ܕܒܝܬ ܣܠܘܟ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>كرخ سلوخ، كركوك</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>518</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>هي مدينة كركوك في العراق.</Barsoum_Arabic_Description>
@@ -5176,7 +5176,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܩܰܐܠܘܢܝܩܝ. ܪܰܩܰܗ̈</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>556</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܡܕܝܢܬܳܐ ܗܘܳܬ ܪܰܒܬܳܐ ܒܩܘܪܒܳܐ ܕܰܦܪܳܬ ܘܡܶܬܰܐܡܪ ܠܗ̇ ܪܰܩܰܗ̈ ܘܝܰܘܡܳܢܐ ܗܘܳܬ ܡܕܝܢܬܳܘܢܺܝܬܳܐ ܕܕܳܡܝܳܐ ܠܰܩܪܺܝܬܳܐ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܘܡܶܬܰܐܡܪ for ܘܡܶܬܶܐܡܪ - TAC; Variant spelling in Hasan Batriq entry on p. 539 - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܘܡܶܬܰܐܡܪ should read ܘܡܶܬܶܐܡܪ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>الرقة، قالونيقس</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>516</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>وهي قالونيقس القديمة مدينة عظيمة واقعة بقرب الفرات واليوم امست بليدة اشبه بالقرية.</Barsoum_Arabic_Description>
@@ -5956,7 +5956,7 @@
         <Barsoum_Syriac_Name_Vocalized></Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page></Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Name missing - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>مجدل</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>519</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>اسم بلدة مندرسة بالخابور الى جانبه كانت تحت رأس عين بمرحلة وذكر ياقوت شاعرا منها معاصرا له.</Barsoum_Arabic_Description>
@@ -6736,7 +6736,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܢܨܝܒܝܢ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>562</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܡܕܝܢܬܳܐ ܕܥܰܡܝܪܳܐ ܡܶܢ ܐܰܬܪ̈ܘܳܬܳܐ ܕܰܓܙܝܳܪܐ. ܐܝܬ ܒܶܝܬ ܠܳܗ̇ ܠܡܰܘܨܠ ܚܰܡܫܳܐ ܝܰܘܡ̈ܝܢ. ܘܝܰܘܡܳܢܳܐ ܐܺܝܬܶܝܗ̇ ܡܕܝܢܳܬܘܢܝܬܳܐ ܘܐܝܬ ܬܽܘܒ ܢܨܝܒܝܢ ܩܪܝܬܳܐ ܕܥܰܠ ܣܶܦܰܬ ܦܪܳܬ ܠܡܰܥܪܒܳܐ ܕܒܺܝܪܰܗܓܺܝܟ ܘܡܶܬܝܰܕܥܳܐ ܢܨܺܝܒܝܢ ܕܪ̈ܘܡܳܝܐ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܕܰܓܙܝܳܪܐ for ܕܓܳܙܰܪܬܐ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܕܰܓܙܝܳܪܐ should read ܕܓܳܙܰܪܬܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>نصيبين</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>520</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>مدينة عامرة من بلاد الجزيرة بينها وبين الموصل خمسة ايام وهي اليوم بليدة: ونصيبين ايضا قرية على شاطئ الفرات غربي بيرهجك كانت تعرف بنصيبين الروم.</Barsoum_Arabic_Description>
@@ -9070,7 +9070,7 @@
         <GEDSH_Category>river</GEDSH_Category>
         <Latitude></Latitude>
         <Longitude></Longitude>
-        <GEDSH_Notes></GEDSH_Notes>
+        <GEDSH_Notes><errata>Amir Harrak in GEDSH article "Edessa" identifies with <placeName ref="http://syriaca.org/place/43">Balikh</placeName>, but the identification is contested.</errata></GEDSH_Notes>
         <Merge_Notes>Not found - TAC</Merge_Notes>
         <Barsoum_Syriac_Name></Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized></Barsoum_Syriac_Name_Vocalized>
@@ -9422,7 +9422,7 @@
         <Existence_BeginsBefore>484</Existence_BeginsBefore>
         <Existence_EndsAfter>2013</Existence_EndsAfter>
         <Existence_EndsBefore></Existence_EndsBefore>
-        <Post-processing_Notes>Moosa's name "Wayran Shahr" should be "Viranşehir" - TAC</Post-processing_Notes>
+        <Post-processing_Notes></Post-processing_Notes>
         <Pleiades_URI>http://pleiades.stoa.org/places/874324</Pleiades_URI>
         <Pleiades_Notes></Pleiades_Notes>
         <GEDSH_Name>Tella/Constantina</GEDSH_Name>
@@ -9448,7 +9448,7 @@
         <Barsoum_English_Name>Tella, Tell Mawzalt, Mawzan, Wayran Shahr</Barsoum_English_Name>
         <Barsoum_English_Page>559</Barsoum_English_Page>
         <Barsoum_English_Description>once a flourishing town between Mardin and Edessa, about two leagues from Mardin. Today it is a small village called Wayran Shahr.</Barsoum_English_Description>
-        <Barsoum_English_Notes></Barsoum_English_Notes>
+        <Barsoum_English_Notes>Deprecation: Moosa's transcription "Wayran Shahr" should be "Viranşehir".|Wayran Shahr</Barsoum_English_Notes>
         <Wikipedia_URI>http://en.wikipedia.org/wiki/Viranşehir</Wikipedia_URI>
         <DBpedia_URI>http://dbpedia.org/resource/Viranşehir</DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -9596,7 +9596,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܛܪܺܝܦܳܘܽܠܝܺܣ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>539</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic!  Correct to ܛܪܺܝܦܘܽܠܝܺܣ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes>Deprecation: Dolabani or his printer added an erroneous extra vowel.|ܛܪܺܝܦܳܘܽܠܝܺܣ</Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>طرابلس</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>506</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -10273,10 +10273,10 @@
         <Barsoum_Syriac_Page>558</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
         <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
-        <Barsoum_Arabic_Name>حاج</Barsoum_Arabic_Name>
+        <Barsoum_Arabic_Name>حاح</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>517</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic. Correct to حاح - TAC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Notes></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Ḥaḥ</Barsoum_English_Name>
         <Barsoum_English_Page>559</Barsoum_English_Page>
         <Barsoum_English_Description></Barsoum_English_Description>
@@ -10587,8 +10587,8 @@
         <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير مار برصوم</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>509</Barsoum_Arabic_Page>
-        <Barsoum_Arabic_Description>على رأس جبل يشبه القلعة ولذلك سماه بعضهم دير الكهف بقرب ملطية ذكر في التاريخ الكنسي سنة 790 وصار كرسيا بطريركياً  فى القرن الحادي عشر حتى اواخر الثالث عشر، وكان ديرا عظيماً دعم اللكنيسة  بخمسة بطاركة واربعة وثلاثين مطراناً، وظلّ عامراً آهلاً حتى اواسط القرن السابع عشر ثم عصف الدهر باهله</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic فى for في - TAC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Description>على رأس جبل يشبه القلعة ولذلك سماه بعضهم دير الكهف بقرب ملطية ذكر في التاريخ الكنسي سنة 790 وصار كرسيا بطريركياً  في القرن الحادي عشر حتى اواخر الثالث عشر، وكان ديرا عظيماً دعم اللكنيسة  بخمسة بطاركة واربعة وثلاثين مطراناً، وظلّ عامراً آهلاً حتى اواسط القرن السابع عشر ثم عصف الدهر باهله</Barsoum_Arabic_Description>
+        <Barsoum_Arabic_Notes></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Barṣoum Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>562</Barsoum_English_Page>
         <Barsoum_English_Description>built on top of a mountain near Melitene, it looks like a citadel, a fact which has led some writers to call it the Monastery of the Cave. It was first mentioned in church history in 790. It was the Patriarchal see from the eleventh century until the thirteenth century. A great monastery, it produced five patriarchs and forty-three metropolitans. It remained populated until the middle of the seventeenth century, when it was abandoned.</Barsoum_English_Description>
@@ -10636,11 +10636,11 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܳܐ ܕܡܳܪܝ ܒܶܗܢܰܡ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>544</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܘܡܶܬܶܐܡܰܪ ܠܗ ܕܰܝܪܐ ܕܓܘܒܳܐ ܒܬܰܝܡܰܢ ܡܰܕܢܰܚ ܡܰܘܨܠ ܡܰܪܕܶܐ ܫܶܬ ܫܳܥܝ̈ܢ. ܐܶܫܬܰܬܐܣ ܒܫܘܪܳܝ ܕܳܪܳܐ ܚܡܝܫܳܝܳܐ. ܘܐܶܬܢܰܦܰܩܘ ܒܗ ܬܪܶܝܢ ܡܰܦܪܝܳܢ̈ܐ ܘܫܰܒܥܳܐ ܐܶܦܝܣܩܘܦ̈ܐ ܘܒܰܫܢܰܬ   1839  ܐܰܚܕܘܗܝ ܐܰܝܠܶܝܢ ܕܰܦܪܰܫܘ ܠܩܰܬܘܠܝܩܘܬܐ ܘܝܰܬܝܪ ܡܶܢ ܫܬܝܢ ܫܢܺܝ̈ܢ ܦܳܫ ܣܦܝܩ. ܘܝܰܘܡܳܢ ܥܰܡܝܪ ܗܘ. </Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܘܐܶܬܢܰܦܰܩܘ it should be ܘܶܐܬܢܰܦܰܩܘ - RA</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܘܐܶܬܢܰܦܰܩܘ should read ܘܶܐܬܢܰܦܰܩܘ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير مار بهنام</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>509</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description> ويقال له دير الجبّ، جنوبي شرقي الموصل مسير ست ساعات عنها انشىء صدر القرن الخامس وتخرج فيه مفريانان وسبعة اساقفة وسنة 1839 تولته الفرقة المتكثلكة وامسى خاليا نيفاً وستين سنة وهو الآن آهل</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic انشىء for انشئ - TAC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Notes><errata>In Barsoum's description انشىء should read انشئ.</errata></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Bahnam Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>561</Barsoum_English_Page>
         <Barsoum_English_Description>also called the Pit Monastery, is situated about six hours’ journey southeast of Mosul. It was built in the beginning of the fifth century. From it graduated one Maphryono and seven bishops. In 1839, it was usurped by a group which seceded and joined the Catholic church. It was deserted for some sixty years, but is now populated.</Barsoum_English_Description>
@@ -10688,11 +10688,11 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܳܐ ܕܩܰܪܛܡܝܢ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>549-550</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܠܡܰܕܢܚܐ ܕܡܶܕܝܰܕ ܡܰܪܕܶܐ ܐܰܪܒܰܥ ܫܳܥ̈ܝܢ ܗܽܘܝܽܘ ܛܒܺܝܒܶܐ ܕܕܰܝܪ̈ܳܬܳܐ ܕܛܘܪܥܰܒܕܝܢ. ܒܢܰܐܘܽܗܝ ܥܶܢܘܳܝ̈ܐ ܡܳܪܝ ܫܡܘܐܝܠ ܘܡܳܪܝ ܫܶܡܥܘܢ. ܫܢܰܬ  397  ܒܳܬܰܪܟܶܢ ܐܶܫܬܕܰܪ ܥܠܰܘܗܝ ܫܶܡ ܪܝܫܗ ܘܐܶܦܝܣܩܘܦܗ ܡܳܪܝ ܓܰܒܪܐܝܠ  667  ܘܰܗܘܳܐ ܟܘܪܣܝܳܐ ܠܡܶܛܪ̈ܘܦܘܠܝܛܐ ܕܛܘܽܪܥܰܒܕܺܝܢ. ܫܢܰܬ  615  ܥܕܰܡܐ ܠܰܫܢܬ  1049  ܟܶܢ ܐܶܬܒܰܠܚܕ ܒܪܝܺܫܳܢܘܬ ܦܶܠܓܘܬܐ ܪܘܺܝܚܬܐ ܕܛܘܪܳܐ. ܘܰܠܚܰܪܬܐ ܐܶܣܬܰܝܟ ܒܡܰܪܥܝܬܐ ܕܝܠܳܢܳܝܬܐ ܥܕܰܡܐ ܠܰܫܢܰܬ  1915  ܐܶܬܢܰܦܰܩܘ ܒܗ ܐܰܪܒܥܐ ܦܰܛܪ̈ܝܪܟܐ ܘܚܕ ܡܰܦܪܝܢܐ ܘܬܶܫܥܐ ܘܫܰܒܥܝܢ ܐܶܦܝܣܩܘ̈ܦܐ ܘܰܥܕܰܟܝܠ ܥܰܡܝܪ ܘܰܡܝܰܬܰܒ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܛܒܺܝܒܶܐ for ܛܒܺܝܒܳܐ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܛܒܺܝܒܶܐ should read ܛܒܺܝܒܳܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير قرتمين</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>512</Barsoum_Arabic_Page>
-        <Barsoum_Arabic_Description>شرقي مذيات مسيرة اربع ساعات عنها اشهر اديار طورعبدين، بناه الناسكان مار صموئيل وما شمعون عام 397 ثم اطلق عليه اسم رئيسه واسقفه مار جبرائيل 667 + صار كرسيا لمطارنة طورعبدين سنة 615 حتى 1049 ثم انفرد مطرانه برئاسة قسم واسع من الجبل ثم انحصر بابرشية خاصة به حتى سنة 1915 تخرج فيه اربعة بطاركة ومفريان وتسعة وسبعون اسقفاً لا يزال عامرا آهلا.</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic ما for مار - RA</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Description>شرقي مذيات مسيرة اربع ساعات عنها اشهر اديار طورعبدين، بناه الناسكان مار صموئيل ومار شمعون عام 397 ثم اطلق عليه اسم رئيسه واسقفه مار جبرائيل 667 + صار كرسيا لمطارنة طورعبدين سنة 615 حتى 1049 ثم انفرد مطرانه برئاسة قسم واسع من الجبل ثم انحصر بابرشية خاصة به حتى سنة 1915 تخرج فيه اربعة بطاركة ومفريان وتسعة وسبعون اسقفاً لا يزال عامرا آهلا.</Barsoum_Arabic_Description>
+        <Barsoum_Arabic_Notes></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Qarṭmin Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>568</Barsoum_English_Page>
         <Barsoum_English_Description>four hour journey east of Midyat, is the most famous monastery in Tur ʿAbdin. It was built in 397 by the two ascetics, St. Samuel and St. Simon. It is commonly called the Monastery of St. Gabriel, after its abbot and bishop Gabriel (d. 667). This monastery was the metropolitan see of Tur ʿAbdin from 615 to 1049. Afterwards, its metropolitan was the ecclesiastical leader of a large part of Tur ʿAbdin; still later, however, his jurisdiction was restricted to a private diocese until 1915. This monastery claims four Patriarchs, a Maphryono and seventy bishops. It is still inhabited.</Barsoum_English_Description>
@@ -10796,7 +10796,7 @@
         <Barsoum_Arabic_Name>دير مار موسى الحبشي</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>515</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>في الجبل المدخن مسيرة ساعة ونصف عن بلدة النبك، رفع بناؤه اوائل القرن السادس وجدد عام 1556 وصار كرسيا اسقفيا اواخر القرن الرابع عشر وتخرج فيها بطريركان وعشرون اسقفا ولم يزل آهلا حتى سنة 1832 ثم اغتصب منا بنفوذ سياسي وامسى خاليا.</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic فيها for فيه - RA </Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Notes><errata>In Barsoum's description فيها should read فيه.</errata></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Moses the Abyssinian Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>567</Barsoum_English_Page>
         <Barsoum_English_Description>in the Smoke Mountain, an hour and a half from the town of al-Nabak in Syria. This monastery was built in the sixth century and renovated in 1556. It became a metropolitan see at the end of the fourteenth century. It was inhabited until 1832, when it was usurped from us (by the seceding faction which joined the Church of Rome) through political influence and later was deserted. Two Patriarchs and twenty bishops graduated from it.</Barsoum_English_Description>
@@ -10844,7 +10844,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܐ ܕܩܰܪܩܰܦܬܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>550</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܶܝܬ ܪܝܫ ܥܰܝܢܐ ܠܡܰܓܕܰܠ ܒܰܓܙܝܺܪܬܐ ܥܶܠܳܝܬܐ ܒܢܳܝܗܝ ܡܳܪܝ ܫܶܡܥܘܢ ܘܐܶܬܛܒܰܒ ܫܰܪܒܗ ܒܫܘܼܪܳܝ ܕܳܪܐ ܬܡܺܝܢܳܝܐ. ܘܣܰܝܰܥ ܠܥܺܕܬܐ ܒܶܫܬܐ ܐܶܦܝܣܩܘ̈ܦܐ ܥܕܰܡܐ ܠܦܶܠܓܗ ܕܕܳܪܐ ܥܣܝܪܝܐ. ܘܡܶܢ ܙܰܒܢܐ ܣܰܓܝܐܐ ܚܪܶܒ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܒܰܓܙܝܺܪܬܐ for ܒܓܳܙܰܪܬܐ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܒܰܓܙܝܺܪܬܐ should read ܒܓܳܙܰܪܬܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير قرقفتا</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>513</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بين رأس عين والمجدل في الجزيرة العليا، بناه مار شمعون واشتهر امره في غرة القرن الثامن ودعم الكنيسة بستة اساقفة حتى منتصف القرن العاشر وقد دثرت معالمه منذ عهد عهيد.</Barsoum_Arabic_Description>
@@ -11000,7 +11000,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܐ ܕܬܰܠܥܕܰܐ. ܕܰܝܪܳܐ ܪܰܒܳܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>544</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܕܺܝܕܝܥ ܕܰܝܪܳܐ ܪܰܒܳܐ ܕܰܒܬܰܝܡܰܢ ܛܘܪܳܐ ܕܣܶܡܥܰܐܢ ܘܰܒܓܰܪܒܰܝ ܬܰܠܥܕܰܐ ܩܪܺܝܬܳܐ ܡܰܪܕܶܐ ܥܶܣܪܝܢ ܩܰܛܝ̈ܢܳܢ ܡܶܢܗ ܒܟܘܪܳܐ ܕܐܰܢܛܝܘܟܺܝܰܐ ܫܰܬܐܣܶܗ ܐܰܡܝܰܐܢܘܣ ܥܶܢܘܳܝܐ ܕܰܕܟܺܝܪ ܠܰܢ ܡܶܢܟܰܕܘ ܩܕܳܡ ܫܢܰܬ  340  ܘܰܥܡܰܪ ܒܗ ܐܘܣܰܐܒܺܝܘܣ ܥܢܘܳܝܐ. ܐܶܬܕܰܟܪܘܗܝ ܬܶܐܘܕܘܪܺܝܛܳܘܣ ܕܩܽܘܪܘܣ ܘܝܘܚܰܢܢ ܕܐܶܦܶܣܘܣ ܘܒܰܫܢܰܬ  942  ܫܰܟܠܶܠ ܒܗ ܝܘܚܰܢܳܢ ܒܘܪܓܳܐ  . ܐܰܦܶܩ ܬܶܫܥܳܐ ܐܶܦܝ̈ܣܩܘܦܐ ܘܫܰܪ̈ܟܳܢܰܘܗܝ ܩܰܝܳܡܝܢ ܥܕܰܡܳܐ ܠܝܰܘܡܳܢ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܕܐܶܦܶܣܘܣ it should be ܕܶܐܦܶܣܘܣ -RA</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܕܐܶܦܶܣܘܣ should read ܕܶܐܦܶܣܘܣ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير تلعدا، الدير الكبير</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>510</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>المعروف بالدير الكبير؛ في جنوبي جبل سمعان وشمالي قرية تلعدا مسير عشرين دقيقة منها في كورة انطاكية شيده اميانس الناسك المذكور آنفاً قبل سنة 340 واقام فيه اوسابيوس الناسك. ذكره ثاودريطس القورشي ويوحنا الا فسسي، وسنة 942 عمر فيه يوحنا السادس برجاً انجب تسعة اساقفة واطلاله اليوم ماثلة</Barsoum_Arabic_Description>
@@ -11346,7 +11346,7 @@
         <Existence_BeginsBefore>925</Existence_BeginsBefore>
         <Existence_EndsAfter>1376</Existence_EndsAfter>
         <Existence_EndsBefore></Existence_EndsBefore>
-        <Post-processing_Notes>Deprecate the Arabic and Moosa's English names - TAC</Post-processing_Notes>
+        <Post-processing_Notes></Post-processing_Notes>
         <Pleiades_URI></Pleiades_URI>
         <Pleiades_Notes></Pleiades_Notes>
         <GEDSH_Name>Beth Manʿem</GEDSH_Name>
@@ -11365,10 +11365,10 @@
         <Barsoum_Syriac_Page>558</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
         <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
-        <Barsoum_Arabic_Name>بانمعم </Barsoum_Arabic_Name>
+        <Barsoum_Arabic_Name>بانمعم</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>517</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes></Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Notes>Deprecation: Barsoum's Arabic name form swapped the order of the letters, and this was followed by Moosa's translation.|بانمعم|Banimʿim</Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Banimʿim</Barsoum_English_Name>
         <Barsoum_English_Page>559</Barsoum_English_Page>
         <Barsoum_English_Description></Barsoum_English_Description>
@@ -13028,7 +13028,7 @@
         <Barsoum_Syriac_Name_Vocalized></Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page></Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Name missing - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>صدد</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>517</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بليدة قديمة جنوبي شرقي حمص على طريق دمشق مرحلة يوم عنها آهلة بنحو من اربعة آلاف نفس من السريان.</Barsoum_Arabic_Description>
@@ -13478,7 +13478,7 @@
         <Existence_BeginsBefore></Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>
         <Existence_EndsBefore></Existence_EndsBefore>
-        <Post-processing_Notes>Errata name Ghurzān on p. 268; Errata name غورزان on p.231; Errata name ܓܘܽܪܙܰܐܢ on p. 257  - TAC</Post-processing_Notes>
+        <Post-processing_Notes></Post-processing_Notes>
         <Pleiades_URI></Pleiades_URI>
         <Pleiades_Notes></Pleiades_Notes>
         <GEDSH_Name></GEDSH_Name>
@@ -13493,16 +13493,16 @@
         <GEDSH_Notes></GEDSH_Notes>
         <Merge_Notes></Merge_Notes>
         <Barsoum_Syriac_Name>ܐܪܙܘܢ</Barsoum_Syriac_Name>
-        <Barsoum_Syriac_Name_Vocalized>ܐܰܪܙܘܢ</Barsoum_Syriac_Name_Vocalized>
-        <Barsoum_Syriac_Page>536</Barsoum_Syriac_Page>
+        <Barsoum_Syriac_Name_Vocalized>ܐܰܪܙܘܢ. ܓܘܽܪܙܰܐܢ</Barsoum_Syriac_Name_Vocalized>
+        <Barsoum_Syriac_Page>257, 536</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܡܕܝܺܢܬܐ ܪܒܬܐ ܕܢܳܦܠܐ ܠܓܰܪܒܰܝ ܡܰܥܪܰܒ ܣܥܶܪܬ ܚܰܪ̈ܒܳܬܗ̇ ܩܝ̈ܡܳܢ</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
-        <Barsoum_Arabic_Name>ارزون</Barsoum_Arabic_Name>
-        <Barsoum_Arabic_Page>504</Barsoum_Arabic_Page>
+        <Barsoum_Syriac_Notes>Deprecation: Barsoum also refers to this place in his description for Philoxenus of Mabbug as "Ghurzān" erroneously.|ܓܘܽܪܙܰܐܢ|غورزان|Ghurzān</Barsoum_Syriac_Notes>
+        <Barsoum_Arabic_Name>ارزون، غورزان</Barsoum_Arabic_Name>
+        <Barsoum_Arabic_Page>231, 504</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>مدينة كبيرة كانت شمالي غربي سعرت اطلالها ماثلة</Barsoum_Arabic_Description>
         <Barsoum_Arabic_Notes></Barsoum_Arabic_Notes>
-        <Barsoum_English_Name>Arzun</Barsoum_English_Name>
-        <Barsoum_English_Page>551</Barsoum_English_Page>
+        <Barsoum_English_Name>Arzun, Ghurzān</Barsoum_English_Name>
+        <Barsoum_English_Page>268, 551</Barsoum_English_Page>
         <Barsoum_English_Description>a large city, formerly northwest of Seʿert. Its ruins can still be seen.</Barsoum_English_Description>
         <Barsoum_English_Notes></Barsoum_English_Notes>
         <Wikipedia_URI>http://en.wikipedia.org/wiki/Nisibis_(East_Syrian_Ecclesiastical_Province)#The_diocese_of_Arzun</Wikipedia_URI>
@@ -13600,7 +13600,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܐܰܙܰܟ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>536</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܩܰܣܛܪܰܐ ܪܰܒܬܳܐ ܡܶܢ ܟܘܪܐ ܕܒܶܝܬ ܙܰܒܕܰܝ ܕܪܰܚܺܝܩܐ ܫܒܰܥ ܫܳܥ̈ܝܢ ܡܢ ܓܳܙܰܪܬܐ ܕܥܳܡܘܪ̈ܝܗ̇ ܣܘܪ̈ܝܳܝܢ (ܘܗܺܝ ܛܳܥܢܐ ܫܶܡ ܒܶܝܬ ܙܰܒܕܰܝ</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic no closing parenthesis - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description there is no closing parenthesis.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>آزخ</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>504</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>قرية كبيرة قديمة من كورة بازبدي مسافة سبع ساعات عن جزيرة ابن عمر آهلة بالسريان</Barsoum_Arabic_Description>
@@ -13860,7 +13860,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܐܰܡܰܐܣܝܰܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>536</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܡܕܝܢܬܐ ܕܥܠ ܣܦܬ ܢܰܗܪܐ ܕܝܶܫܺܝܠ ܐܺܝܪܡܰܐܩ ܘܰܒܬܰܝܡܢܗ̇ ܕܨܰܐܡܨܘܽܢ ܡܪܰܕܶܐ  50  ܡܝ̈ܠܐ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܡܪܰܕܶܐ should be ܡܰܪܕܶܐ -RA</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܡܪܰܕܶܐ should read ܡܰܪܕܶܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>اماسية</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>504</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>مدينة على ضفة نهر يشيل ايرماق على مسافة 50 ميلاً من جنوبي سمسون</Barsoum_Arabic_Description>
@@ -14016,7 +14016,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܒܐܪܘܡܐܢܗ. ܪܘܡܐܢܗ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>536</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܡܕܝܢܬܳܘܢܝܬܐ ܕܒܐܽܘܚܕܳܢܐ ܕܓܰܪܓܰܪ ܚܪܝܒܐ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܡܕܝܢܬܳܘܢܝܬܐ should be ܡܕܝܢܬܽܘܢܝܬܐ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܡܕܝܢܬܳܘܢܝܬܐ should read ܡܕܝܢܬܽܘܢܝܬܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>بارومانة، رومانة</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>504</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>او رومانة بلدة من عمل كركر مندرسة</Barsoum_Arabic_Description>
@@ -14154,7 +14154,7 @@
         <Existence_BeginsBefore></Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>
         <Existence_EndsBefore></Existence_EndsBefore>
-        <Post-processing_Notes>"Perpalisos" should be "Barbalissus" - TAC</Post-processing_Notes>
+        <Post-processing_Notes></Post-processing_Notes>
         <Pleiades_URI>http://pleiades.stoa.org/places/668208</Pleiades_URI>
         <Pleiades_Notes></Pleiades_Notes>
         <GEDSH_Name></GEDSH_Name>
@@ -14180,7 +14180,7 @@
         <Barsoum_English_Name>Bāls, Bālsh, Perpalisos, Maskana</Barsoum_English_Name>
         <Barsoum_English_Page>552</Barsoum_English_Page>
         <Barsoum_English_Description>a town in Syria between Aleppo and al-Raqqa, known in antiquity as Perpalisos, it is now called Maskana.</Barsoum_English_Description>
-        <Barsoum_English_Notes></Barsoum_English_Notes>
+        <Barsoum_English_Notes>Deprecation: Moosa's transcription "Perpalisos" should be "Barbalissus".|Perpalisos</Barsoum_English_Notes>
         <Wikipedia_URI>http://en.wikipedia.org/wiki/Maskanah</Wikipedia_URI>
         <DBpedia_URI>http://dbpedia.org/resource/Maskanah</DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -14432,7 +14432,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܒܶܝܬ ܐܰܪܩܡ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>537</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܐܰܬܪܐ ܕܩܰܪܝܒ ܠܰܡܕܝܢ̈ܬܐ (ܣܠܝܩ ܘܩܰܛܝܣܦܘܢ) ܠܬܰܝܡܢܗ̇ ܕܒܓܕܕ ܘܠܐ ܝܺܕܝܺܥܐ ܕܘܟܬܗ̇.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic name ܒܶܝܬ ܐܰܪܩܡ for ܒܶܝܬ ܐܰܪܫܡ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes>Deprecation: Dolabani's printer misread his shin as a qoph.|ܒܶܝܬ ܐܰܪܩܡ</Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>بيث ارشم</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>505</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بلد داثر كان بقرب المدائن جنوبي بغداد مجهول موقعه</Barsoum_Arabic_Description>
@@ -14744,7 +14744,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܬܶܠ ܐܰܪܣܰܐܢܝܘܣ. ܬܶܠ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>538</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܥܰܠ ܣܦܬ ܦܪܳܬ ܕܩܰܪܝܒܐ ܠܟܰܪܟܘܽܬ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܠܟܰܪܟܘܽܬ should be ܠܟܰܪܒܘܽܬ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܠܟܰܪܟܘܽܬ should read ܠܟܰܪܒܘܽܬ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>تلّ ارسانيوس، تيل</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>505</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>على ضفة الفرات بالقرب من خربوت</Barsoum_Arabic_Description>
@@ -15160,7 +15160,7 @@
         <Barsoum_Syriac_Name_Vocalized></Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page></Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Name missing - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>الجبل المقدس</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>506</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>شرقي الرها اشتهر بكثرة ادياره</Barsoum_Arabic_Description>
@@ -15212,7 +15212,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܓܰܒܘܠܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>538</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܩܪܺܝܬܳܐ  ܕܰܒܡܰܕܢܚܳܗ̇ ܕܚܳܠܒ ܕܪܰܚܝܩܳܐ ܡܶܢܗ̇ ܐܟ ܡܰܫܩܠܐ ܪܰܒܐ ܘܩܰܪܝܒܳܐ ܠܰܦܪܳܬ ܘܡܶܢܳܗ̇ ܡܶܬܬܰܘܒܠ ܡܶܠܚܳܐ ܠܟܠ ܦܢܺܝܬܳܗ̇ ܕܚܳܠܳܒ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܐܟ for ܐܝܟ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܐܟ should read ܐܝܟ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>الجبّول</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>506</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>قرية شرقي حلب على نحو مرحلة كبيرة منها بالقرب من الفرات ومنها ينقل الملح الى سائر اعمال حلب</Barsoum_Arabic_Description>
@@ -15264,7 +15264,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܓܳܙܰܪܬܐ ܥܶܠܳܝܬܳܐ. ܐܰܬܪ̈ܘܬܳܐ ܕܪܒܝܥܗ̇</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>538</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܝܬ ܇ ܒܘܪܐ ܘܕܶܩܠܰܬ ܐܝܬܰܝܗܘܢ ܡܰܥܡܪ̈ܶܐ ܕܬܰܓܠܒܳܝ̈ܐ ܛܘܗܡܳܐ ܪܰܒܐ ܕܰܐܪ̈ܰܐܒܳܝܐ ܘܐܺܝܬܰܝܗܘܽܢ ܗܘܰܘ ܡܫܝܚ̈ܝܶܐ ܣܘܪ̈ܝܳܝܐ ܐܰܪ̈ܬܘܕܘܟܣܽܘ ܘܩܰܘܺܝܘ ܡܫܝܚܝ̈ܐ ܥܕܰܡܳܐ ܠܡܰܐܬܐ ܥܣܝܪܳܝܬܳܐ ܘܡܶܢ ܛܒ̈ܝܒܶܐ ܕܓܰܒܪ̈ܶܝܗ̇ ܓܰܝܐܬ ܒܪ ܓܘܬ ܕܺܝܕܺܝܥ ܐܰܟܛܠ ܦܘܺܐܝܛܳܐ ܕܢܰܦܝܩ ܫܡܗ ܚܕܳܪ̈ܰܝ ܫܢܰܬ  710  ܐܬܓܰܙܝܰܬ ܡܢ ܐܢܳܫ̈ܝܗ̇ ܒܕܳܪܳܐ ܕܐܰܪܒܰܥܣܪ ܐܶܬܝܰܬܒܬ ܚܕܳܪ̈ܰܝ ܫܢܰܬ  1921  ܘܐܶܬܚ̈ܕܰܬܝ ܒܗ̇ ܡܕܝܢ̈ܬܳܐ ܕܚܰܣܝܟܐ ܘܒܶܝܬܙ̈ܠܐ ܘܪܝܫ ܥܰܝܢܳܐ ܘܫܰܪܝ ܪܳܕܐ ܒܳܗ̇ ܫܘܽܟܠܠܐ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܘܐܶܬܚ̈ܕܰܬܝ it should be ܘܶܐܬܚ̈ܕܰܬܝ - RA; Sic ܇ ܒܘܪܐ should be ܚܒܘܪܐ - TAC; Variant spelling in Khaburo entry on p.539 - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܘܐܶܬܚ̈ܕܰܬܝ should read ܘܶܐܬܚ̈ܕܰܬܝ and ܇ ܒܘܪܐ should read ܚܒܘܪܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>الجزيرة العليا، ديار ربيعة</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>506</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بين الخابور ودجلة كانت منازل التغالبة او بني تغلب احدى قبائل العرب الكبرى، وكانت مسيحية سريانية ارثوذكسية ظلت على نصرانيتها حتى المئة العاشرة. ومن اشهر رجالها غياث بن غوث المعروف بالاخطل الشاعر الذائع الصيت حوالي سنة 710 - اقفرت من اهلها في القرن الرابع عشر. ثم مُصّرت حوالي سنة 1921 فاستحدثت فيها بلدة الحسكة  ومدينة القامشلي وغيرهما وانتشر فيها العمران</Barsoum_Arabic_Description>
@@ -15316,7 +15316,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܓܘܒܐܣ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>538</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܡܕܺܝܢܬܘܢܳܝܬܐ ܕܩܰܪܝܒܐ ܗܘܳܬ ܡܶܢ ܡܺܝܺܠܝܛܝܢܝ ܘܚܰܪܝ̣ܒܐ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܡܺܝܺܠܝܛܝܢܝ for ܡܺܝܠܺܝܛܝܢܝ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܡܺܝܺܠܝܛܝܢܝ should read ܡܺܝܠܺܝܛܝܢܝ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>جوباس</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>506</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بلدة كانت قريبة من ملطية خربة</Barsoum_Arabic_Description>
@@ -15472,7 +15472,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܚܪܕܝܢ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>539</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܩܪܝܬܳܐ ܗܝ ܕܒܰܦܢܝܬ ܒܰܛܪܘܢ ܒܠܶܒܢܳܢ ܕܪܰܚܝܩܳܐ ܡܶܢ ܛܪܺܝܦܳܘܽܠܝܺܣ ܫܶܬ ܫܳܥ̈ܝܢ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܛܪܺܝܦܳܘܽܠܝܺܣ for ܛܪܺܝܦܘܽܠܝܺܣ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܛܪܺܝܦܳܘܽܠܝܺܣ should read ܛܪܺܝܦܘܽܠܝܺܣ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>حردين</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>506</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>قرية في منطقة البترون بلبنان مسيرة ستّ ساعات عن طرابلس</Barsoum_Arabic_Description>
@@ -15576,7 +15576,7 @@
         <Barsoum_Syriac_Name_Vocalized></Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page></Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Name missing - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>حرّين</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>506</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>من قرى ماردين جنوباً</Barsoum_Arabic_Description>
@@ -15679,8 +15679,8 @@
         <Barsoum_Syriac_Name>ܚܣܢ ܒܛܪܝܩ</Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized>ܚܣܢ ܒܰܛܪܝܩ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>539</Barsoum_Syriac_Page>
-        <Barsoum_Syriac_Description>ܡܕܺܝܢܬܐܗܝ ܕܘܟܬܳܐ ܕܒܶܝܬ ܚܳܠܒ ܠܩܰܠܘܽܢܺܝܩܝ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܡܕܺܝܢܬܐܗܝ for ܡܕܺܝܢܬܐ ܗܝ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Description>ܡܕܺܝܢܬܐ ܗܝ ܕܘܟܬܳܐ ܕܒܶܝܬ ܚܳܠܒ ܠܩܰܠܘܽܢܺܝܩܝ.</Barsoum_Syriac_Description>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>حصن بطريق</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>506</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>موضع وبلد كان بين حلب والرقة</Barsoum_Arabic_Description>
@@ -15836,7 +15836,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܚܒܘܪܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>539-540</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܗܝܺܓܡܘܽܢܺܘܬܐ ܪܘܝܺܚܬܳܐ ܘܐܰܬܪ̈ܘܳܬܐ ܣܰܓܝ̈ܐܐ ܕܥܰܠ ܢܗܰܪ ܚܰܒܘܪ ܒܶܝܬ ܪܝܫ ܥܰܝܢܳܐ ܘܰܦܪܳܬ ܕܒܰܐܪܥܳܐ ܕܰܓܙܝܺܪܬܐ ܙܟܳܐ ܥܠܶܝܗ̇ ܫܡܐ ܕܢܰܗܪܳܗ̇ ܘܐܶܬܒܰܝܬܝܰܬ ܠܗ. ܘܡܶܢ ܐܰܬܪ̈ܘܳܬܳܗ ܥܰܬܝܩ̈ܐ ܩܰܪܩܰܝܣܝܰܐ ܘܡܰܐܟܣܝܢ ܘܡܰܓܕܰܠ ܘܥܰܪܒܰܐܢ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܗܝܺܓܡܘܽܢܺܘܬܐ it should be ܗܺܝܓܡܽܘܢܽܘܬܐ  also Sic  ܐܰܬܪ̈ܘܳܬܳܗ it should be ܐܰܬܪ̈ܘܳܬܳܗ̇ -RA; Sic ܕܰܓܙܝܺܪܬܐ for ܕܓܳܙܰܪܬܐ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܗܝܺܓܡܘܽܢܺܘܬܐ should read ܗܺܝܓܡܽܘܢܽܘܬܐ  and ܐܰܬܪ̈ܘܳܬܳܗ should read ܐܰܬܪ̈ܘܳܬܳܗ̇.  Also ܕܰܓܙܝܺܪܬܐ should read ܕܓܳܙܰܪܬܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>خابورآء</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>507</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>ولاية واسعة وبلدان جمّة على نهر الخابور بين رأس عين والفرات من ارض الجزيرة غلب عليها اسم نهرها فنسبت اليه ومن بلادها القديمة قرقيسياء وماكسين والمجدل وعَربَان</Barsoum_Arabic_Description>
@@ -15888,7 +15888,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܒܪܫܢܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>540</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܡܕܺܝܢܬܘܽܢܳܝܬܐ ܒܩܘܽܪܒܐ ܕܡܺܝܠܝܛܝܢܝ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic name ܒܪܫܢܐ for ܟܪܫܢܐ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes>Deprecation: Dolabani's printer misread his kaph as a beth.|ܒܪܫܢܐ</Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>خرشنة</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>507</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بلدة قرب ملطية</Barsoum_Arabic_Description>
@@ -15939,8 +15939,8 @@
         <Barsoum_Syriac_Name>ܕܐܘܠܘ</Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized>ܕܐܘܠܘ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>540</Barsoum_Syriac_Page>
-        <Barsoum_Syriac_Description>ܡܕܝܢܬܘܢܝܬܐܗܝ ܕܰܠܓܰܪܒܰܝ ܡܰܥܪܰܒ ܡܰܪܣܺܝܢ. </Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܡܕܝܢܬܘܢܝܬܐܗܝ for ܡܕܝܢܬܘܢܝܬܐ ܗܝ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Description>ܡܕܝܢܬܘܢܝܬܐ ܗܝ ܕܰܠܓܰܪܒܰܝ ܡܰܥܪܰܒ ܡܰܪܣܺܝܢ. </Barsoum_Syriac_Description>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>داولو</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>507</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بليدة شمالي غربي مرسين</Barsoum_Arabic_Description>
@@ -15992,11 +15992,11 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܐ ܕܡܳܪܝ ܐܰܒܚܝ. ܕܰܝܪܳܐ ܕܣܶܒܠܬܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>541</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܥܰܠ ܣܶܦܬܳܐ ܕܰܦܪܳܬ ܕܝܰܡܝܢܐ ܡܰܪܕܶܐ ܦܶܠܓܘܬ ܫܳܥܐ ܡܶܢ ܥܘܪܒܝܫ ܩܪܺܝܬܐ ܕܰܒܩܰܪܝܒܘܬ ܓܰܪܓܰܪ ܐܶܬܒܢܝ ܒܳܬܰܪ ܡܰܐܬܐ ܚܡܝܺܫܳܝܬܐ. ܘܐܶܬܕܰܟܪܗ ܡܰܟܬܰܒܙܰܒ̈ܢܐ ܒܪܝܫܐ ܕܡܰܐܬܐ ܬܫܝܥܳܝܬܳܐ ܘܐܰܘܠܶܕ ܠܥܺܕܬܳܐ ܚܰܕ ܦܰܛܪܝܰܪܟܐ ܘܐܰܪܒܥܣܪ ܐܶܦܝܣܩ̈ܘܦܐ ܘܥܰܡܝܪ ܗܘܐ ܥܕܡܐ ܠܪܝܫ ܡܰܐܬܐ ܘܰܬܡܳܢܥܶܣܪ̈ܐ ܘܚܰܪ̈ܒܬܗ ܩܰܝ̈ܡܳܢ ܥܕܰܡܐ ܠܝܰܘܡܳܢ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܘܐܶܬܕܟܪܗ . ܘܐܰܘܠܕ. ܘܐܰܪܒܥܣܪ They should be ܘܶܐܬܕܟܪܗ . ܘܰܐܘܠܕ. ܘܰܐܪܒܥܣܪ. -RA; Sic ܘܰܬܡܳܢܥܶܣܪ̈ܐ for ܬܡܳܢܥܶܣܪ̈ܐ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܘܐܶܬܕܟܪܗ should read ܘܶܐܬܕܟܪܗ and ܘܐܰܘܠܕ should read ܘܰܐܘܠܕ.  Also, ܘܐܰܪܒܥܣܪ should read ܘܰܐܪܒܥܣܪ and ܘܰܬܡܳܢܥܶܣܪ̈ܐ should read ܬܡܳܢܥܶܣܪ̈ܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير مار ابحاي، دير السلالم</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>507</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>علي ضفة الفرات اليمنى مسيرة نصف ساعة من قرية عوربيش بقرب كركرانشيء بعد المئة الخامسة؟ و ذكره التاريخ صدر المئة التاسعة. وانجب بطريركاً واربعة عشر اسقفاً وظلّ عامرا آهلاً حتى صدر المئة الثامنة عشر وبقي منه اطلال</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic انشيء should be انشئ - TAC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Notes><errata>In Barsoum's description انشىء should read انشئ.</errata></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Abḥai Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>560</Barsoum_English_Page>
         <Barsoum_English_Description>or the Monastery of the Ladders, is on the right bank of the Euphrates, a half-hour journey from the village of ʿUrbīsh, near Karkar. It was established sometime after the fifth century and was first mentioned by historians in the beginning of the ninth century. It produced one Patriarch and fourteen bishops. It was inhabited until the beginning of the eighteenth century. Some of its ruins are still standing.</Barsoum_English_Description>
@@ -16044,7 +16044,7 @@
         <Barsoum_Syriac_Name_Vocalized></Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page></Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Name missing - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير ابن جاجي</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>508</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>على النهر اليابس من اعمال ملطية انشأه باسم الشهداء الاربعين الراهب ايليا ابن جاجي التكريتي عام 960 وعلّم فيه الراهب يوحنا تلميذ مارون العلوم اللغوية والحكمية في حدود سنة 980-999 وتخرج فيه ستة عشر حبرا حتى سنة 1105 وفي سنة 1058 تضعضع بغارة شنها ثلاثة آلاف تركي على ملطية فتولاه الخراب</Barsoum_Arabic_Description>
@@ -16148,11 +16148,11 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܐ ܕܶܐܣܦܘܠܘܣ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>542</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܘܡܶܬܶܐܡܪ ܠܗ ܦܓܝܺܡܬܐ ܠܘܳܬ ܡܕܝܢܰܬ ܪܝܫ ܥܰܝܢܳܐ ܒܰܓܙܝܪܬܳܐ. ܐܶܫܬܬܰܐܣ ܒܡܰܐܬܐ ܚܡܝܫܳܝܬܐ ܘܐܰܦܶܩ ܬܪܶܝܢ ܦܰܛܪܝܰܪ̈ܟܐ. 11 ܐܶܦܝܣܩܘܦ̈ܐ ܘܰܚܪܰܒ ܩܕܳܡ ܫܢܰܬ  1203 ܒܩܰܠܝܠ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܘܐܰܦܶܩ it should be ܘܰܐܦܶܩ -RA; Sic ܒܰܓܙܝܪܬܳܐ for ܒܓܳܙܪܬܳܐ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܘܐܰܦܶܩ should read ܘܰܐܦܶܩ and ܒܰܓܙܝܪܬܳܐ should read ܒܓܳܙܪܬܳܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير اسفولس</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>508</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>ويقال له فغيمتا عند مدينة رأس عين في الجزيرة انشى في المئة الخامسة وانجب بطريركين واحد عشر اسقفاً، وخرب قبيل سنة 1203</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic انشى should be انشئ -ΤΑC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Notes><errata>In Barsoum's description انشىء should read انشئ.</errata></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Ousopholis Monastery, Fghimta Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>567</Barsoum_English_Page>
         <Barsoum_English_Description>also called Fghimta: near Rish ʿAyna in the Jazira. It was built in the fifth century, but was reduced to ruins shortly before 1203. It produced two Patriarchs and eleven bishops.</Barsoum_English_Description>
@@ -16200,7 +16200,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܐ ܕܡܳܪܝ ܐܰܘܓܝܢ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>542</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܰܫܦܘܠܳܐ ܕܛܘܪܳܐ ܕܐܝܺܙܠܐ ܗ̇ܘ ܕܚܳܐܰܪ ܠܰܢܨܝܒܝܢ ܐܶܫܬܰܬܐܣ ܒܡܰܐܬܐ ܪܒܝܥܳܝܬܐ ܐܰܘ ܒܪܺܝܫܐ ܕܰܚܡܝܫܳܝܬܐ ܘܐܶܫܬܰܚܠܦܘ ܙܰܒ̈ܢܐ ܥܠܰܘܗܝ ܘܐܶܫܬܰܠܛܘ ܥܠܰܘܗܝ ܢܰܣܛܘܪ̈ܝܰܢܘ ܙܰܒܢܳܐ ܢܰܓܝܪܐ ܘܰܗܦܟ ܠܘܳܬܢ ܒܰܐܚܪ̈ܝܬܗ̇ ܕܡܰܐܬܐ ܕܰܬܡܳܢܰܥܶܣܪ̈ܐ ܢܦܰܩܘ ܡܶܢܗ ܬܪܶܝܢ ܐܶܦܝܣܩܘܦ̈ܐ ܘܰܥܕܰܡܐ ܠܗܳܫܐ ܥܰܡܝܪ ܘܰܫܟܝܺܚ ܒܗ ܕܰܝܪܳܝܐ ܚܰܕ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܘܐܶܫܬܰܚܠܦܘ. ܘܐܶܫܬܰܠܛܘ They should be ܘܶܐܫܬܰܚܠܦܘ. ܘܶܐܫܬܰܠܛܘ - RA</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܘܐܶܫܬܰܚܠܦܘ and ܘܐܶܫܬܰܠܛܘ should read ܘܶܐܫܬܰܚܠܦܘ and ܘܶܐܫܬܰܠܛܘ respectively.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير مار اوجين</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>508</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>في سفح جبل الإزل المطلّ على نصيبين شيد بناؤه اواخر المئة الرابعة او صدر الخامسة، وتقلبت به الاحوال فاستولى عليه النساطرة دهراً مديداً ثم عاد الينا اواخر المئة الثامنة عشرة. نشأ منه اسقفان ولم يزل عامراً يقطنه راهب واحد</Barsoum_Arabic_Description>
@@ -16252,11 +16252,11 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܐ ܕܡܳܪܝ ܐܘܣܝܒ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>542</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܟܰܦܪܐ ܕܒܝܺܪܬܳܐ ܒܟܘܪܳܐ ܕܐܘܦܰܐܡܝܐ ܐܶܬܒܢܝ ܒܡܰܐܬܳܐ ܚܡܝܫܳܝܬܐ ܘܐܶܬܥܗܕ ܫܢܰܬ  535  </Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܘܐܶܬܥܗܕ it should be ܘܶܐܬܥܗܕ -RA</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܘܐܶܬܥܗܕ should read ܘܶܐܬܥܗܕ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير مار اوسيب</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>508</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>فى كفر البيرة في كورة افامية انشىء في المئة الخامسة وورد ذكره عام 535</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic انشىء should be انشئ -ΤΑC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Notes><errata>In Barsoum's description انشىء should read انشئ.</errata></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Ousib Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>567</Barsoum_English_Page>
         <Barsoum_English_Description>in Kafr al-Bīra, in the province of Apamea. It was built in the fifth century, but received no mention by historians before 535.</Barsoum_English_Description>
@@ -16304,7 +16304,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܐ ܕܡܳܪܝ ܐܘܣܝܒܝܢܶܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>542</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܩܘܪܒܳܐ ܕܬܰܠܥܕܰܐ ܩܪܺܝܬܳܐ ܒܟܘܪܳܐ ܕܐܰܢܛܝܘܟܺܝܰܐ ܒܢܰܐܘܗܝ ܬܪܝܢ ܥܢܘ̈ܝܶܐ ܡܝܰܬܪ̈ܐ ܡܳܪܝ ܐܘܣܝܒܘܢܶܐ ܘܗܽܘܝܘ ܐܘܣܰܐܒܝܺܘܣ ܪܰܒܳܐ. ܘܐܰܡܝܐܢ ܗܰܘ ܕܫܰܬܶܐܣ ܡܰܕܪܰܫܬܳܐ ܠܡܰܠܦܘܬ ܦܺܝܠܳܣܘܦܘܬܐ ܗܳܝ ܡܶܢ ܚܕܳܪ̈ܰܝ  340  ܘܒܶܗ ܐܶܣܬܰܦܪ ܡܳܪܝ ܫܶܡܥܘܢ ܕܐܶܣܛܘܢܗ ܒܫܘܪܳܝܳܐ ܘܡܰܛܝ ܡܶܢܝܳܢ ܕܰܝܪ̈ܳܝܘܗܝ  ܫܢܰܬ  409  ܡܐܐ ܘܥܶܣܪܝܢ ܐܰܦܶܩ ܝܘܚܰܢܢ ܬܠܝܬܳܝܐ ܘܰܬܪܶܝܢ ܐܶܦܝܣܩܘܦ̈ܐ ܒܡܰܐܬܳܐ ܕܰܬܫܥ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܕܐܰܢܛܝܘܟܺܝܰܐ. ܘܐܰܡܝܐܢ. ܕܐܶܣܛܘܢܗ. They should be ܕܰܐܢܛܝܘܟܺܝܰܐ. ܘܰܐܡܝܐܢ. ܕܶܐܣܛܘܢܗ. -RA</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܕܐܰܢܛܝܘܟܺܝܰܐ, ܘܐܰܡܝܐܢ, and ܕܐܶܣܛܘܢܗ should read ܕܰܐܢܛܝܘܟܺܝܰܐ, ܘܰܐܡܝܐܢ, and ܕܶܐܣܛܘܢܗ respectively.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير مار اوسيبونا</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>508</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بقرب قرية تلعدا في كورة انطاكية. بناه الناسكان الفاضلان مار اوسيبونا وهو اسابيوس الكبير، واميان الذي انشأ مدرسة لتعليم الفلسفة وذلك حوالي سنة 340 وفيه ترهب مار سمعان العمودي في اول امره وبلغ عدد رهبانه في عام 409 مئة وعشرين، انجب يوحنا الثالث واسقفين في المئة التاسعة</Barsoum_Arabic_Description>
@@ -16408,11 +16408,11 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܐ ܕܡܳܪܝ ܒܳܣܘܣ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>543</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܩܘܪܒܳܐ ܕܚܰܐܪܡ ܒܶܝܬ ܐܘܦܘܡܺܝܰܐ ܠܰܚܡܶܨ ܕܰܝܪܐ ܫܒܝܚܳܐ. ܝܺܨܶܦ ܕܒܶܢܝܳܢܗ ܡܶܛܠ ܐܰܠܳܗܐ ܪܝܫܳܢܐ ܦܶܛܪܘܣ ܒܰܪ ܝܰܘܣܦ ܚܶܡܨܳܝܐ ܣܘܪܝܳܝܳܐ ܐܰܝܟ ܫܢܰܬ  480  ܘܫܰܟܶܢ ܠܗ ܫܘ̈ܟܢܐ ܕܡܰܪܕܶܝܢ ܥܰܠ ܐܢܳܫ̈ܘܗܝ ܙܝܳܢܬܗܘܢ. ܘܡܰܛܝ ܡܶܢܝܳܢ ܕܰܝܪ̈ܳܝܰܘܗܝ ܒܕܳܪܳܐ ܕܒܳܬܪ ܫܬܳܐ ܐܰܠܦܝ̈ܢ ܘܰܬܠܳܬܡܐܐ ܘܥܰܡܝܪ ܗܘܳܐ ܥܕܰܡܐ ܠܰܫܢܰܬ  830  ܘܐܶܬܢܰܦܰܩܘ ܒܗ  3  ܐܶܦܝܣܩܘܦ̈ܐ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܘܐܶܬܢܰܦܰܩܘ it should be ܘܶܐܬܢܰܦܰܩܘ - RA</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܘܐܶܬܢܰܦܰܩܘ should read ܘܶܐܬܢܰܦܰܩܘ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير مار باسوس</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>509</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بقرب حارم بين اوفيمية وحمص. دير مشهور جليل تطوّع ببنائه لوجه الله الكريم، الوجيه بطرس بن يوسف الحمصي السرياني نحو سنة 480 وحبس عليه اوقافاً جليلة تدرّ على اهله ارزاقهم، فبلغ رهبانه في العقد الثالث من القرن التالي ستة آلاف و ثلثمائة، وكان عامرا حتى سنة 830 و تخرج فيه ثلاثة اساقفة</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Barsoum's description erroneously merges the location information with <placeName ref="http://syriaca.org/place/571">Mor Bosus</placeName>, which is located between Apamea and Ḥomṣ.</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Notes><errata>Barsoum's description erroneously merges the location information with <placeName ref="http://syriaca.org/place/571">Mor Bosus</placeName>, which is located between Apamea and Ḥomṣ.</errata></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Bāsūs Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>562</Barsoum_English_Page>
         <Barsoum_English_Description>near Ḥārim, between Euphemia and Ḥomṣ, is a famous and great monastery which was built in 480 through the private donation of the eminent Syrian Peter bin Joseph of Ḥomṣ, who bequeathed a great deal of property for the sustenance of its monks. In the third decade of the fifth century, its monks numbered 6,300. It remained populated until 830 and produced three bishops.</Barsoum_English_Description>
@@ -16460,7 +16460,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܐ ܕܒܳܥܘܬ. ܕܰܝܪܐ ܕܒܢ̈ܝ ܒܳܥܘܬ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>543</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܰܫܒܳܒܘܬܗ̇ ܕܟܰܪܒܘܬ. ܐܶܬܥܗܰܕ ܫܢܰܬ  1057  ܘܒܗ ܐܶܬܢܰܦܩܘ ܐܰܪܒܥܳܐ ܐܶܦܝܣܩܘܦ̈ܐ. ܒܰܙܘܗܝ ܟܶܢܫܳܐ ܕܡܰܫܠܡ̈ܳܢܐ ܫܢܰܬ  1290  ܘܐܰܚܕܘܗܝ ܒܰܩܛܝܪܳܐ ܚܕܳܪ̈ܰܝ  1131</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܘܐܰܚܕܘܗܝ it should be ܘܰܐܚܕܘܗܝ -RA</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܘܐܰܚܕܘܗܝ should read ܘܰܐܚܕܘܗܝ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير باعوث، دير بني باعوث</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>509</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بجوار خربوت ذكر سنة 1057 وفيه تخرج اربعة اساقفة نهبته طائفة من المسلمين عام 1290 ثم اغتصبوه حوالي 1311</Barsoum_Arabic_Description>
@@ -16512,11 +16512,11 @@
         <Barsoum_Syriac_Name_Vocalized>ܦܰܩܝܣܡܰܐܛ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>543</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܳܣܝܣ ܕܰܒܩܝܠܝܺܩܝܐ. ܥܡܰܪ ܒܗ ܝܘܚܰܢܢ ܕܝ̄ܒ ܫܢܰܬ  1108  ܘܐܰܘܩܕܽܘܗܝ ܦܳܠܚ̈ܐ ܡܶܨܪ̈ܝܐ ܬܠܳܬ ܙܰܒܢ̈ܝܢ ܒܶܝܬ ܫܢܰܬ  1226  -   1279  ܘܩܰܛܠܗ ܒܗ 25  ܕܰܝܪ̈ܝܐ ܘܠܗ ܡܶܬܒܰܝܬܶܐ ܓܪܝܺܓܘܪܺܝܘܣ ܡܶܛܪܘܦܘܠܝܛܐ ܕܣܝܺܣ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Print erroneously gives ܒܳܣܝܣ as part of name, but Arabic means "in Sis" - TAC; Sic ܘܐܰܘܩܕܽܘܗܝ it should be ܘܰܐܘܩܕܽܘܗܝ -RA</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>Dolabani's printer erroneously included ܒܳܣܝܣ from the description as part of name.  Also in Dolabani's translation of Barsoum's description ܘܐܰܘܩܕܽܘܗܝ should read ܘܰܐܘܩܕܽܘܗܝ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>باقسماط، فقسماط</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>509</Barsoum_Arabic_Page>
-        <Barsoum_Arabic_Description>في سيس بقيليقية، نزل به يوحنا الثاني عشر عام 1208 واحرقه الجنود المصريون ثلاثاً بين سنة 1266-1279 وقتلوا فيه خمسة وعشرين راهباً (التاريخ المدني لابن العبري ص 523 و 531 و 542 ؟ واليه ينسب غريغوريوس مطران سيس حول 1290</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic ؟ for ( - TAC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Description>في سيس بقيليقية، نزل به يوحنا الثاني عشر عام 1208 واحرقه الجنود المصريون ثلاثاً بين سنة 1266-1279 وقتلوا فيه خمسة وعشرين راهباً (التاريخ المدني لابن العبري ص 523 و 531 و 542) واليه ينسب غريغوريوس مطران سيس حول 1290</Barsoum_Arabic_Description>
+        <Barsoum_Arabic_Notes></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Baqismāt Monastery, Phaqismāt Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>561</Barsoum_English_Page>
         <Barsoum_English_Description>is situated in Sīs, Cilicia. Patriarch John XII resided there in 1108. Between 1266 and 1279, it was burned three times by Egyptian troops, who also killed twenty-five monks. (See Bar Hebraeus, Chronography, pp. 523, 531, 542). Gregorius, metropolitan of Sīs, may have belonged to this monastery around 1290.</Barsoum_English_Description>
@@ -16564,7 +16564,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܐ ܕܩܰܕܝܫܬܳܐ ܒܰܪܒܰܪܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>543</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܛܘܪܳܐ ܕܐܘܪܗܳܝ ܐܶܫܬܰܬܰܐܣ ܗܰܘ ܕܰܝܪܳܐ ܐܚܪܺܢܳܐ ܒܗ ܒܰܫܡܳܐ ܒܫܘܪܳܝ ܕܳܪܳܐ ܚܡܝܫܳܝܳܐ. ܘܐܶܬܕܰܟܪܳܗ̇ ܡܰܟܬܰܒܙܰܒܢ̈ܐ ܥܕܰܡܐ ܠܰܫܢܰܬ  1191  ܘܒܗ ܐܶܬܢܰܦܩ ܒܰܣܝܺܠܝܘܣ ܦܐܪܣ ܡܝܺܛܪܘܦܘܠܝܛܳܐ ܕܐܘܪܗܳܝ  1204.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܘܐܶܬܕܰܟܪܳܗ̇ it should be ܘܶܐܬܕܰܟܪܳܗ̇ -RA</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܘܐܶܬܕܰܟܪܳܗ̇ should read ܘܶܐܬܕܰܟܪܳܗ̇.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير القديسة بربارة</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>509</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>في جبل الرها وطدت اركانه وديراً آخر بالاسم عينه صدر القرن الخامس ونوّه به التاريخ حتى سنة 1191 وفيه تخرج باسيليوس فارس مطران الرها +1204</Barsoum_Arabic_Description>
@@ -16616,7 +16616,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܐ ܕܒܶܝܬ ܒܳܬܝ̈ܢ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>544</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܚܳܪܢ. ܐܶܬܟܰܢܫܰܬ ܒܗ ܣܘܢܰܗܕܘܣ ܫܢܰܬ  793   ܐܰܦܶܩ ܚܰܕ ܦܰܛܪܝܰܪܟܳܐ ܘܰܬܠܳܬܐ ܐܶܦܝܣܩܘܦ̈ܐ. ܥܕܰܡܳܐ ܠܰܫܢܰܬ  975. </Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܣܘܢܰܗܕܘܣ for ܣܘܢܗܳܕܘܣ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܣܘܢܰܗܕܘܣ should read ܣܘܢܗܳܕܘܣ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير بيث باتين</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>509</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>في حران عقد فيه مجمع عام 793 وخرّج بطريركاً وثلاثة اساقفة حتى سنة 975</Barsoum_Arabic_Description>
@@ -16772,11 +16772,11 @@
         <Barsoum_Syriac_Name_Vocalized></Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page></Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Name missing - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير حِرباز</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>510</Barsoum_Arabic_Page>
-        <Barsoum_Arabic_Description>باسم مار كوركيس (جرجس) في ولاية سميساط ورد ذكره اول مرة فى اواخر القرن السابع، وآخر عهدنا به اواسط العاشر تخرج فيه بطريرك وخمسة اساقفة</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic فى for في - TAC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Description>باسم مار كوركيس (جرجس) في ولاية سميساط ورد ذكره اول مرة في اواخر القرن السابع، وآخر عهدنا به اواسط العاشر تخرج فيه بطريرك وخمسة اساقفة</Barsoum_Arabic_Description>
+        <Barsoum_Arabic_Notes></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Harbaz Monastery, George Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>564</Barsoum_English_Page>
         <Barsoum_English_Description>also called George Monastery: in the province of Samosata. Its name first appears in history at the end of the seventh century, but nothing is known about it after the ninth century. From it graduated one Patriarch and five bishops.</Barsoum_English_Description>
@@ -16876,7 +16876,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܳܐ ܕܰܟܢܘܫܝܳܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>545</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܛܘܪܳܐ ܕܫܺܝܓܘܪ ܕܟܺܝܪ ܒܡܶܨܥܳܝ̈ܬܗ̇ ܕܡܰܐܬܳܐ ܫܬܝܺܬܝܳܬܐ ܘܒܶܗ ܐܶܬܢܰܦܩ ܡܰܦܪܝܳܢܐ ܦܰܘܠܘܣ ܫܢܰܬ 722  ܘܕܰܝܪܳܝܐ ܕܰܘܝܕ ܒܰܪ ܦܰܘܠܳܘܣ ܒܪܺܝܫ ܕܳܪܳܐ ܬܫܝܥܳܝܐ.   </Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܫܬܝܺܬܝܳܬܐ it should be ܫܬܝܺܬܳܝܬܐ -RA</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܫܬܝܺܬܝܳܬܐ should read ܫܬܝܺܬܳܝܬܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير خنوشيا</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>510</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>في جبل سنجار؛ ذكر في اواسط المئة السادسة وفيه تخرج المفريان بولس 722 والراهب داود بن بولس (صدر القرن التاسع)</Barsoum_Arabic_Description>
@@ -16931,8 +16931,8 @@
         <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير مار دانيال الجلشي الناسك</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>510</Barsoum_Arabic_Page>
-        <Barsoum_Arabic_Description>439+ فى جبل المتّينية والشمال الغربي من قرية ديركه شمالي ماردين مرحلة يوم عنها، رمّه يوحنا مطران ماردين وكان عامراً آهلاً عام 1230 ولاتزال رسومه العظيمة ماثلة</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic فى for في - TAC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Description>439+ في جبل المتّينية والشمال الغربي من قرية ديركه شمالي ماردين مرحلة يوم عنها، رمّه يوحنا مطران ماردين وكان عامراً آهلاً عام 1230 ولاتزال رسومه العظيمة ماثلة</Barsoum_Arabic_Description>
+        <Barsoum_Arabic_Notes></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Monastery of Daniel the Jalshian ascetic</Barsoum_English_Name>
         <Barsoum_English_Page>562</Barsoum_English_Page>
         <Barsoum_English_Description>(d. 439) in the mountain of Matīniyya, northwest of the village of Dairkah, a day’s journey north of Mardin. It was rebuilt by John, metropolitan of Mardin, and was inhabited until 1230. Its magnificent remains can be seen to this day.</Barsoum_English_Description>
@@ -17035,8 +17035,8 @@
         <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير مار ديميط</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>510</Barsoum_Arabic_Page>
-        <Barsoum_Arabic_Description>فى قلوديا ورد ذكره سنة 1000 وفيه رسم ديونيسيوس الخامس 1034</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic فى for في - TAC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Description>في قلوديا ورد ذكره سنة 1000 وفيه رسم ديونيسيوس الخامس 1034</Barsoum_Arabic_Description>
+        <Barsoum_Arabic_Notes></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Dimet Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>563</Barsoum_English_Page>
         <Barsoum_English_Description>in Claudia, first mentioned in history in 1000. Dionysius V was consecrated there in 1034.</Barsoum_English_Description>
@@ -17083,8 +17083,8 @@
         <Barsoum_Syriac_Name>ܕܝܪܐ ܕܡܪܝ ܙܟܝ</Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܳܐ ܕܡܳܪܝ ܙܰܟܰܝ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>546</Barsoum_Syriac_Page>
-        <Barsoum_Syriac_Description>ܒܩܰܠܘܢܝܩܝ ܒܓܶܒ ܢܗܰܪ ܒܰܐܠܚ. ܕܰܝܪܐ ܕܢܰܦܝ̣ܩ ܫܡܗ ܘܒܶܗ ܐܶܬܥܰܢܘܝ̣ ܝܘܚܰܢܢ ܕܬܶܠܐ ܫܢܰܬ  508  ܘܐܶܬܢܰܦܩ ܝܘܚܰܢܢ ܪܒܝܥܳܝܳܐ ܘܐܰܪܒܥܳܐ ܘܥܶܣܪܝܢ ܐܶܦܝܣܩܘܦ̈ܐ ܥܕܰܡܐ ܠܰܫܢܰܬ  954  ܫܪܳܐ ܒܗ ܒܚܰܕ ܝܽܘܡ ܗܰܐܪܘܢ ܪܰܫܝܕ ܘܰܒܣܶܡ ܠܗ ܘܰܥܒܰܕ ܛܳܒ̈ܬܐܠܐܢܳܫ̈ܰܘܗܝ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes> sic ܘܐܶܬܢܰܦܩ. ܘܐܰܪܒܥܳܐ They should be ܘܶܐܬܢܰܦܩ. ܘܰܐܪܒܥܳܐ -RA; Sic ܛܳܒ̈ܬܐܠܐܢܳܫ̈ܰܘܗܝ for ܛܳܒ̈ܬܐ ܠܐܢܳܫ̈ܰܘܗܝ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Description>ܒܩܰܠܘܢܝܩܝ ܒܓܶܒ ܢܗܰܪ ܒܰܐܠܚ. ܕܰܝܪܐ ܕܢܰܦܝ̣ܩ ܫܡܗ ܘܒܶܗ ܐܶܬܥܰܢܘܝ̣ ܝܘܚܰܢܢ ܕܬܶܠܐ ܫܢܰܬ  508  ܘܐܶܬܢܰܦܩ ܝܘܚܰܢܢ ܪܒܝܥܳܝܳܐ ܘܐܰܪܒܥܳܐ ܘܥܶܣܪܝܢ ܐܶܦܝܣܩܘܦ̈ܐ ܥܕܰܡܐ ܠܰܫܢܰܬ  954  ܫܪܳܐ ܒܗ ܒܚܰܕ ܝܽܘܡ ܗܰܐܪܘܢ ܪܰܫܝܕ ܘܰܒܣܶܡ ܠܗ ܘܰܥܒܰܕ ܛܳܒ̈ܬܐ ܠܐܢܳܫ̈ܰܘܗܝ.</Barsoum_Syriac_Description>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܘܐܶܬܢܰܦܩ and ܘܐܰܪܒܥܳܐ should read ܘܶܐܬܢܰܦܩ and ܘܰܐܪܒܥܳܐ respectively.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير مار زكّى</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>510</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بالرقة وعلى جانبيه نهرالبليخ كان ديراً عظيماً ذائعاً صيته فيه ترهب يوحنا التلي سنة 508 وتخرد يوحنا الرابع وعشرون اسقفاً حتى سنة 954 نزل به يوماً هارون الرشيد فاستطابه وبرّ اهله.</Barsoum_Arabic_Description>
@@ -17188,11 +17188,11 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܳܐ  ܕܙܘܩܢ̈ܝܢ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>546</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܠܒܰܪ ܡܶܢ ܐܳܡܝܕ ܕܰܝܪܳܐ ܪܰܒܐ ܘܰܛܒܝܒܳܐ. ܢܦܰܩ ܡܶܢܗ ܐܝܘܰܐܢܝܣ ܩܰܕܡܳܝܐ  755  ܘܐܰܪܒܰܥܣܰܪ ܐܶܦܝܣܩܘ̈ܦܶܐ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>sic ܘܐܰܪܒܰܥܣܰܪ it should be ܘܰܐܪܒܰܥܣܰܪ -RA</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܘܐܰܪܒܰܥܣܰܪ should read ܘܰܐܪܒܰܥܣܰܪ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير زوقنين</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>511</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بظاهر ديار بكر دير عظيم مشهور نشأ منه اياونيس الاول 755+ واربعة عشر اسقفاً</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic. اياونيس - TAC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Notes><errata>In Barsoum's description اياونيس should read ايوانيس.</errata></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Zuqnīn Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>570</Barsoum_English_Page>
         <Barsoum_English_Description>outside Diyarbakir, is a famous, great monastery. Patriarch John I (d. 775) and fourteen bishops graduated from it.</Barsoum_English_Description>
@@ -17240,7 +17240,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܳܐ ܕܣܰܪܓܝܣܝܗ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>546</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܫܶܡ ܣܗܳܕ̈ܐ ܣܰܪܓܝܣ ܘܒܳܟܘܣ. ܒܢܳܝܗܝ ܕܰܝܪܳܝܐ ܟܝܣܳܐ ܐܫܢܘܝܐ ܐܰܕܘܪܒܰܝܓܳܢܳܝܐ ܒܰܚܕܳܐ ܡܶܢ ܦܶܢܝ̈ܬܳܐ ܕܓܘܒܰܐܣ ܐܰܬܪܳܐ ܫܢܰܬ  958  ܟܶܢ ܫܰܟܠܠܘܗ̇ ܫܢܰܬ  1001  ܘܒܶܗ ܐܰܠܦ ܪܰܒܰܢ ܡܰܪܘܢ ܘܒܶܗ ܐܶܬܢܰܦܰܩܘ ܚܰܕ ܡܰܦܪܝܳܢܐ ܘܥܶܣܪܐ ܐܶܦܝܣܩܘܦ̈ܐ ܥܕܰܡܐ ܠܰܫܢܰܬ  1170</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܣܗܳܕ̈ܐ for ܣܳܗܕ̈ܐ! - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܣܗܳܕ̈ܐ should read ܣܳܗܕ̈ܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير سرجيسية</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>511</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>باسم الشهيدين سرجيس وباخوس بناء الراهب كيسو الاشنوي الاذربيجاني في بعض انحآء بلد جوباس عام 958 وتمّ بنآؤه سنة 1001 وفيه علَّم الربان يوحنا تلميذ مارون، وتخرّج مفريان وعشرة اساقفة حتى سنة 1170</Barsoum_Arabic_Description>
@@ -17292,11 +17292,11 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܳܐ ܕܣܘܪ̈ܝܝܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>546-547</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܕܰܒܫܶܡ ܡܳܪܬܰܢ ܒܬܘܠܬܐ ܒܡܰܕܒܪܳܐ ܕܐܶܣܩܺܝܛܝ  ܒܡܶܨܪܝܢ. ܡܶܣܬܒܰܪ ܒܶܢܝܳܢܗ ܒܕܳܪܳܐ ܚܡܝܫܳܝܳܐ ܙܰܒܢܗ ܡܰܪܘܬܶܐ ܬܰܓܪܝܬܳܝܐ ܬܰܓܳܪܐ ܣܘܪܝܳܝܳܐ ܒܡܶܨܥܳܝ̈ܬܳܗ̇ ܕܡܰܐܬܳܐ ܫܬܝܬܳܝܬܳܐ ܘܫܰܟܢܗ ܠܕܰܝܪ̈ܝܐ ܣܘܪ̈ܝܳܝܐ. ܥܳܡܪܺܝܢ ܗܘܘ ܒܗ ܫܢܰܬ  1084  ܫܰܒܥܺܝܢ ܕܰܝܪ̈ܝܐ. ܘܩܰܘܝ ܡܝܰܬܰܒ ܒܗܽܘܢ ܥܕܰܡܳܐ ܠܦܶܠܓܳܗ̇ ܕܡܰܐܬܳܐ ܕܰܫܒܰܥܣܶܪ̈ܐ ܘܗܳܫܐ ܥܳܡܪܝܢ ܒܗ ܕܰܝܪ̈ܝܐ ܐܝܺܓܘܦܛܳܝ̈ܐ. </Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܕܐܶܣܩܺܝܛܝ. ܕܰܫܒܰܥܣܶܪ̈ܐ they should be ܕܶܐܣܩܺܝܛܝ. ܕܰܫܒܰܥܶܣܪ̈ܐ -RA</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܕܐܶܣܩܺܝܛܝ and ܕܰܫܒܰܥܣܶܪ̈ܐ should read ܕܶܐܣܩܺܝܛܝ and ܕܰܫܒܰܥܶܣܪ̈ܐ respectively.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير السريان</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>511</Barsoum_Arabic_Page>
-        <Barsoum_Arabic_Description>باسم السيدة العذرآء في برية الاسقيط بمصر، يظن بنآؤه في القرن الخامس ابتاعه ماروثا التكريتي التاجر السرياني في اواسط المئة السادسة واوقفه على رهبان السريان وكان يحوي منهم سبعين راهباً عام 1804 وظلّ آهلا بهم الى منتصف المئة السابعة عشرة ويسكنه في هذا الوقت رهبان اقباط </Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic 1804 should be 1084 - TAC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Description>باسم السيدة العذرآء في برية الاسقيط بمصر، يظن بنآؤه في القرن الخامس ابتاعه ماروثا التكريتي التاجر السرياني في اواسط المئة السادسة واوقفه على رهبان السريان وكان يحوي منهم سبعين راهباً عام 1084 وظلّ آهلا بهم الى منتصف المئة السابعة عشرة ويسكنه في هذا الوقت رهبان اقباط </Barsoum_Arabic_Description>
+        <Barsoum_Arabic_Notes></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Monastery of the Syrians</Barsoum_English_Name>
         <Barsoum_English_Page>569</Barsoum_English_Page>
         <Barsoum_English_Description>this monastery was built in the name of the Virgin in the Scete desert in Egypt, perhaps in the fifth century. In the middle of the sixth century the Syrian merchant Marutha of Takrit bought it and dedicated it to the Syrian monks, whose number reached seventy in 1084. Inhabited by Syrian monks until the seventeenth century, it is presently inhabited by Coptic monks.</Barsoum_English_Description>
@@ -17451,8 +17451,8 @@
         <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير مار شربيل</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>511</Barsoum_Arabic_Page>
-        <Barsoum_Arabic_Description>فى كفر شامع ذكره التاريخ عام 1210 حتى اواخر القرن السادس عشر ومنه نشأ مفريان بطور عبدين</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic فى for في - TAC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Description>في كفر شامع ذكره التاريخ عام 1210 حتى اواخر القرن السادس عشر ومنه نشأ مفريان بطور عبدين</Barsoum_Arabic_Description>
+        <Barsoum_Arabic_Notes></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Sharbil Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>569</Barsoum_English_Page>
         <Barsoum_English_Description>in Kafr Shami in Tur ʿAbdin, was first mentioned in history in 1210 and must have remained in existence until the end of the sixteenth century. It produced one Maphryono.</Barsoum_English_Description>
@@ -17500,7 +17500,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܳܐ ܕܫܝܪܳܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>547</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܰܫܡܳܐ ܕܡܳܪܝ ܫܰܒܛܝ ܚܰܕ ܡܢ ܟܦܰܪ ܫܳܡܰܥ. ܥܰܗܕܗ ܥܢܘܳܝ̈ܐ ܕܕܳܪܳܐ ܚܡܝܫܳܝܐ ܠܘܩܒܰܠ ܕܰܝܪܳܐ ܕܡܳܪܝ ܐܰܒܚܝ ܘܰܒܩܘܪܒܳܐ ܕܕܰܝܪܐ ܕܦܳܣܩܝܢ ܕܰܒܓܰܪܓܰܪ. ܚܰܕܶܬ ܠܒܶܢܝܳܢܗ ܐܰܬܰܢܐܣܝܘܣ ܕܰܢܚܳܐ ܡܝܛܪܘܦܘܠܝܛܳܐ ܕܐܘܪܗܳܝ  1171  .  1191.  ܘܒܗ ܥܡܰܪ ܝܘܚܰܢܢ ܕܰܬܪܶܥܣܰܪ ܒܕܰܝܪܳܝܘܬܗ ܘܒܗ ܐܶܬܬܣܪܰܚ ܦܰܛܪܝܰܪܟܐ ܘܩܰܘܝ̣ ܥܰܡܝ̣ܪ ܥܕܰܡܐ ܠܫܘܪܳܝܳܐ ܕܡܰܐܬܐ ܫܒܰܥܣܝܪܳܝܬܐ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܕܰܢܚܳܐ for ܕܶܢܚܳܐ ; sic "1171 . 1191" for "1171 - 1191" - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܕܰܢܚܳܐ should read ܕܶܢܚܳܐ and "1171 . 1191" should read "1171 - 1191".</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير شيرو</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>511</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>باسم مار شبطاي من نساك القرن الخامس، ازآء دير مار ابحاي وبقرب دير فسقين في كركر جدد عمارته اثناسيوس دنحا مطران الرها 1171-1191 وفيه اقام يوحنا الثاني عشر في رهبنته وفيه رسم بطريركاً، وظل عامراً حتى اوائل المئة السابعة عشرة</Barsoum_Arabic_Description>
@@ -17659,8 +17659,8 @@
         <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير الصليب، دير مَخَر</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>511</Barsoum_Arabic_Page>
-        <Barsoum_Arabic_Description>المعروف اليوم بدير مَخَر اي الوادي بالكردية، دير صغير بجانب قرية دفنة في طريق حصن كيفا بنى هيكله فى حدود سنة 770 اندثر في الحرب الماضية بقتل آخر رهبانه، نشأ منه ثلاثة اساقفة.</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic فى for في - TAC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Description>المعروف اليوم بدير مَخَر اي الوادي بالكردية، دير صغير بجانب قرية دفنة في طريق حصن كيفا بنى هيكله في حدود سنة 770 اندثر في الحرب الماضية بقتل آخر رهبانه، نشأ منه ثلاثة اساقفة.</Barsoum_Arabic_Description>
+        <Barsoum_Arabic_Notes></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Monastery of the Cross, Makhr Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>562</Barsoum_English_Page>
         <Barsoum_English_Description>a small monastery near the village of Dafna on the way to Ḥiṣn Kifa, now called Makhr or Wadi in Kurdish. Its church, built in 770, was destroyed in World War I and the last of its monks was killed. Three bishops graduated from it.</Barsoum_English_Description>
@@ -17812,7 +17812,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܳܐ ܕܠܘܪܕܢܣ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>548</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܕܒܰܦܢܝܬ ܟܺܝܫܘܡ ܘܪܰܥܒܰܐܢ ܐܰܚܕܗ ܟܘܪܢܝܓ ܐܰܪܡܢܳܝܐ ܒܝܫ ܬܰܪܥܝܬܐ ܘܫܰܢܶܩ ܠܕܰܝܪ̈ܳܝܰܘܗܝ ܘܰܛܪܰܕ ܐܶܢܘܽܢ. ܘܥܰܒܕܗ ܩܶܠܥܐ ܫܢܰܬ  1114  ܟܢ ܐܰܗܦܟܘܽܗܝ ܕܰܝܪ̈ܝܐ ܘܢܰܦܩ ܫܬܳܐ ܐܶܦܝܣܩܘ̈ܦܐ ܥܕܰܡܐ ܠܰܫܢܬ  965</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic name ܕܠܘܪܕܢܣ for ܕܥܘܪܢܝܣ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes>Deprecation: Dolabani's printer read his ʿe as a lomadh, and replaced his nun with a dolath.|ܕܰܝܪܳܐ ܕܠܘܪܕܢܣ</Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير عرنيش</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>512</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>في ناحية كيسوم ورعبان، اغتصبه كورتيج الارمني الخبيث الطوية ونكل برهبانه وطردهم وجعله قلعة عام 1114 ثم استعاده الرهبان وخرج ستة اساقفة من سنة 1095 الى 1132.</Barsoum_Arabic_Description>
@@ -17916,7 +17916,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܳܐ ܕܦܳܣܩܝܢ. ܕܰܝܪܳܐ ܕܰܫܡܝ̈ܛܳܝܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>549</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܥܠ ܣܶܦܰܬ ܦܪܳܬ ܢܰܗܪܐ ܒܩܘܽܪܒܐ ܕܕܰܝܪܐ ܕܡܳܪܝ ܐܰܒܚܰܝ ܒܓܰܪܓܪܰ. ܚܰܕܶܬ ܠܒܶܢܝܳܢܗ ܕܰܝܪܳܝܐ ܕܰܘܝܕ ܘܟܶܢܫܐ ܕܥܶܢܘ̈ܝܐ ܒܪܺܝܫܐ ܕܡܰܐܬܐ ܕܰܚܕܰܥܣܪ̈ܐ ܘܠܗ ܡܬܒܰܝܬܝܢ ܚܰܡܫܐ ܐܶܦܝܣܩܘ̈ܦܐ ܒܕܳܪܗ ܩܰܕܡܳܝܐ ܒܡܰܐܬܐ ܕܰܥܣܪ ܘܰܒܢܳܐ ܗܰܝܟܠܗ ܪܰܒܰܢ ܚܰܒܩܘܩ ܗܘ ܕܰܫܟܝܚ ܗܘܐ ܒܰܫܢܰܬ  1160  ܘܥܰܡܝܪ ܗܘܐ ܫܢܰܬ  1565  ܐܠܐ ܒܳܬܰܪ ܩܰܠܝܠ ܫܢ̈ܝܐ ܠܰܝܬ ܗܘܐ ܒܗ̇ ܥܳܡܘܪ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܒܓܰܪܓܪܰ for ܒܓܰܪܓܰܪ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܒܓܰܪܓܪܰ should read ܒܓܰܪܓܰܪ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير فُسقين، دير الحفاة</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>512</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>على ضفة نهر الفرات بقرب دير مار ابحاي في كركر؛ جدد بناءه الربان داود ورهط من النساك صدر المئة الحادية عشرة، واليه ينسب خمسة اساقفة في حقبته الاولى في المئة العاشرة، وبنى هيكله الربان حبقوق الذي كان موجودا حول سنة 1160 كان عامرا عام 1565 لكنه امسى خاليا بعد سنوات قليلة.</Barsoum_Arabic_Description>
@@ -18228,7 +18228,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܐ ܕܩܰܢܩܪܬ. ܩܰܪܰܗ ܟܺܝܠܺܝܣܰܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>551</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܫܶܡ ܐܠܝܐ ܢܺܒܝܐ. ܠܒܰܪ ܡܶܢ ܐܳܡܝ̣ܕ ܗܘ ܡܰܪܕܶܐ ܫܳܥܐ ܘܦܶܠܓܳܐ ܠܘܳܬ ܩܰܢܩܪܰܬ ܩܪܝܬܳܐ ܕܟܺܝܪ ܫܢܰܬ  1050  ܘܚܰܕܶܬܘ ܒܶܢܝܳܢܰܘ̈ܗܝ ܡܝܟܳܐܝܠ ܪܰܒܐ ܫܢܬ  1173  ܘܐܝܓܢܰܐܛܝܘܣ ܫܟܪܐܠܠܗ ܫܢܰܬ 1730  ܘܐܶܬܓܰܙܝ ܡܶܢ ܐܢ̈ܫܰܘܗܝ ܒܫܘܪܳܝܐ ܕܡܰܐܬܐ ܬܫܰܥܣܝܪܳܝܬܐ. ܘܩܳܡܰܬ ܒܕܘܟܬܗ ܩܪܝܬܐ ܕܡܶܬܐܡܰܪ ܠܗ ܬܘܪܟܳܐܝܬ ܩܰܪܰܗ ܟܺܝܠܺܝܣܰܐ ܗܳܢܰܘ ܥܕܬܐ ܐܘܟܳܡܬܐ. ܡܶܛܠ ܐܘܟܳܡܘܬܐ ܕܐܰܬܪ̈ܘܳܬܐ ܗܳܢܘܢ ܘܰܥܕܰܡܐ ܠܝܰܘܡܳܢ ܩܳܝ̈ܡܝܢ ܚܰܪ̈ܒܬܳܗ̇</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܐܠܝܐ ܢܺܒܝܐ for ܐܠܝܐ ܢܒܺܝܐ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܐܠܝܐ ܢܺܒܝܐ should read ܐܠܝܐ ܢܒܺܝܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير قَنْقرت، قره كليسا</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>513</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>باسم ايليا النبي بظاهر مدينة ديار بكر مسيرة ساعة ونصف عنها عند قرية قنقرت ذكر سنة 1050 وجدد ميخائيل الكبير عمارته عام 1173 ثم اغناطيوس شكرالله سنة 1730 وخلا من اهله في اوائل المئة التاسعة عشرة وقامت مكانه قرية يقال لها قره كليسا (الكنيسة السوداء لسواد حجارة تلك الديار) ولا تزال اطلاله ماثلة.</Barsoum_Arabic_Description>
@@ -18436,7 +18436,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܳܐ ܕܡܳܪܝ ܓܶܘܪܓܝܣ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>551</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܠܡܰܥܪܒܐ ܕܡܶܪܕܐ ܫܰܟܠܠܗ ܡܫܰܡܫܳܢܐ ܐܰܒܽܘ ܥܰܠܝ ܪܝܫ ܐܳܣܰܘ̈ܬܐ ܒܕܳܪܐ ܕܰܬܪܶܥܣܪ. ܚܪܶܒ</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܕܡܶܪܕܐ for ܕܡܰܪܕܝܢ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܕܡܶܪܕܐ should read ܕܡܰܪܕܝܢ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير مار كوركيس، دير مار جرجيس</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>513</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>غربي ماردين رمه الشماس ابو علي رئيس الاطباء في القرن الثاني عشر عفا اثره.</Barsoum_Arabic_Description>
@@ -18488,7 +18488,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܳܐ ܕܡܳܪܝ ܓܶܘܪܓܝܣ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>551</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܢܰܚܠܐ ܕܫܥܒ ܩܪܺܝܬܐ ܠܬܰܝܡܢܳܗ̇ ܕܡܶܪܕܝܢ ܫܰܟܠܠܗ ܝܘܚܰܢܢ ܡܝܛܪܘܦܘܠܝܛܐ ܕܡܪܕܝܢ ܒܡܶܨܥܳܝ̈ܬܗ̇ ܕܡܰܐܬܐ ܕܝ̄ܒ ܆ ܘܐܶܬܢܰܦܰܩ ܒܗ ܚܰܕ ܐܶܦܝܣܩܘܦܐ ܘܥܰܡܝܪ ܗܘܐ ܫܢܰܬ  1332</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܕܡܶܪܕܝܢ should be ܕܡܰܪܕܝܢ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܕܡܶܪܕܝܢ should read ܕܡܰܪܕܝܢ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير مار كوركيس</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>514</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>في وادي قرية شعب جنوبي ماردين، رمه يوحنا مطران ماردين اواسط المئة الثانية عشرة وتخرج فيه اسقف وكان عامرا سنة 1332.</Barsoum_Arabic_Description>
@@ -18574,7 +18574,7 @@
         <Existence_BeginsBefore></Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>
         <Existence_EndsBefore></Existence_EndsBefore>
-        <Post-processing_Notes>Sic name "Kuwaykhat" for "Gawikat" - TAC</Post-processing_Notes>
+        <Post-processing_Notes></Post-processing_Notes>
         <Pleiades_URI></Pleiades_URI>
         <Pleiades_Notes></Pleiades_Notes>
         <GEDSH_Name></GEDSH_Name>
@@ -18592,15 +18592,15 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܳܐ ܕܟܘܝ̣ܒܰܐܬ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>552</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܓܶܢܒ ܡܣܝܣܛܐ ܒܩܝܺܠܝܩܝܰܐ  ܕܟܺܝܪ ܫܢܬ  1208  ܘܡܶܢܗ ܗܘܰܘ ܬܪܶܝܢ ܦܰܛܪܝܰܪ̈ܟܐ ܐܺܝܓܢܰܐܛܝܘܣ ܪܒܺܝܥܳܝܐ  1282  ܘܡܝܟܳܐܝܠ ܬܪܰܝܳܢܐ  1312 .  ܘܒܗ ܐܶܬܬܰܫܠܡ ܦܝܠܠܘܟܣܝܢ ܬܪܰܝܳܢܐ ܙܡܳܡܐ ܕܦܰܛܪܝܰܪܟܘܬܐ ܫܢܰܬ  1389</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic name ܟܘܝܼܒܰܐܬ for ܓܘܝܟܐܬ attested BH Eccl Cont II:783 - TAC</Barsoum_Syriac_Notes>
-        <Barsoum_Arabic_Name>دير كريخات</Barsoum_Arabic_Name>
+        <Barsoum_Syriac_Notes>Deprecation: Dolabani's printer misread his kaph as a beth, and Dolabani transcribed Barsoum's Arabic kaph as a Syriac kaph rather than as a gomal.|ܕܰܝܪܳܐ ܕܟܘܝ̣ܒܰܐܬ</Barsoum_Syriac_Notes>
+        <Barsoum_Arabic_Name>دير كريخات، دير كويخات</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>514</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بجانب المصيصة في قيليقية ذكر سنة 1208 ومنه نشأ البطريركان اغناطيوس الرابع 1282+ وميخائيل الثاني 1312+ وفيه تقلد فيلكسين الثاني زمام البطريركية عام 1389.</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic name كريخات for كويخات - TAC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Notes>Deprecation: Earlier editions of Barsoum's Arabic erroneously printed the waw as a raʾ.|دير كريخات</Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Kuwaykhat Monastery</Barsoum_English_Name>
         <Barsoum_English_Page>565</Barsoum_English_Page>
         <Barsoum_English_Description>near al-Maṣṣīṣa in Cilicia, was first mentioned in history in 1208. Two Patriarchs, Ignatius IV (d. 1282) and Michael II (d. 1312), came from it. It was in this monastery also that Phelixene II was consecrated as Patriarch in 1389.</Barsoum_English_Description>
-        <Barsoum_English_Notes></Barsoum_English_Notes>
+        <Barsoum_English_Notes>Deprecation: Moosa's transcription "Kuwaykhat" should read "Gawikat".|Kuwaykhat Monastery</Barsoum_English_Notes>
         <Wikipedia_URI></Wikipedia_URI>
         <DBpedia_URI></DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -19268,7 +19268,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܳܐ ܕܡܳܪܝ ܝܰܥܩܘܒ ܡܰܠܦܢܐ. ܕܰܝܪܐ ܕܢܰܦܫ̈ܬܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>555</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܒܛܘܪܐ ܕܐܘܪܗܳܝ ܒܬܰܝܡܢܳܗ̇ ܕܰܡܕܝܢܬܐ ܡܰܪܕܶܐ ܫܳܥܳܐ ܘܦܶܠܓܳܐ. ܐܶܬܒܢܝ ܒܡܰܐܬܰܐ ܚܡܝܫܳܝܬܐ ܘܰܕܟܝܪ ܠܗ ܠܝܘܚܰܢܢ ܕܐܶܦܣܘܣ ܫܢܰܬ  519  ܚܰܕܬܗ ܪܝܫܳܢܗ ܕܰܝܪܳܝܐ ܝܘܚܰܢܢ ܣܪܘܓܳܝܳܐ ܗܰܘ ܕܐܶܬܥܰܠܝ ܠܡܰܦܪܝܳܢܘܬܐ ܕܡܰܕܢܚܐ ܫܢܰܬ  1164  ܘܥܰܡܝܪ ܗܘܐ ܫܢܰܬ  1223  ܘܫܶܬܶܐܣܰܘ̈ܗܝ ܩܰܝܳܡ̈ܢ. </Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܒܡܰܐܬܰܐ for ܒܡܰܐܬܳܐ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܒܡܰܐܬܰܐ should read ܒܡܰܐܬܳܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير مار يعقوب الملفان، دير النواويس</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>515</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>في جبل الرها مسيرة ساعة ونصف جنوبي المدينة، شيد بناؤه في المئة الخامسة وذكره يوحنا الافسسي عام 519 جدده رئيسه الراهب يوحنا السروجي الذي رقي الى مفريانية المشرق عام 1164 كان عامرا سنة 1223 ورسومه ماثلة.</Barsoum_Arabic_Description>
@@ -19302,7 +19302,7 @@
         <Existence_BeginsBefore>389</Existence_BeginsBefore>
         <Existence_EndsAfter>600</Existence_EndsAfter>
         <Existence_EndsBefore>1943</Existence_EndsBefore>
-        <Post-processing_Notes>Moosa erroneously calls it "Monastery of John the Iberian" on p.304.</Post-processing_Notes>
+        <Post-processing_Notes></Post-processing_Notes>
         <Pleiades_URI>http://pleiades.stoa.org/places/874524</Pleiades_URI>
         <Pleiades_Notes></Pleiades_Notes>
         <GEDSH_Name></GEDSH_Name>
@@ -19325,10 +19325,10 @@
         <Barsoum_Arabic_Page>515</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بناه هذا الناسك في جوار ديار بكر سنة 390 انجب ثلاثة أساقفة أشهرهم يوحنا الافسسي المؤرخ 587 + ولم نقف له على خبر بعد سنة 600.</Barsoum_Arabic_Description>
         <Barsoum_Arabic_Notes></Barsoum_Arabic_Notes>
-        <Barsoum_English_Name>John Orti Monastery</Barsoum_English_Name>
-        <Barsoum_English_Page>567</Barsoum_English_Page>
+        <Barsoum_English_Name>John Orti Monastery, Monastery of John the Iberian</Barsoum_English_Name>
+        <Barsoum_English_Page>304, 567</Barsoum_English_Page>
         <Barsoum_English_Description>John the ascetic built this monastery in 390 near Diyarbakir. It produced three bishops, the most famous of whom is John of Ephesus, the historian (d. 587). We know nothing about it after 600.</Barsoum_English_Description>
-        <Barsoum_English_Notes></Barsoum_English_Notes>
+        <Barsoum_English_Notes>Deprecation: Moosa erroneously calls it "Monastery of John the Iberian" on p.304.|Monastery of John the Iberian</Barsoum_English_Notes>
         <Wikipedia_URI></Wikipedia_URI>
         <DBpedia_URI></DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -19424,7 +19424,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܢܝܣܪ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>555</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܠܬܰܝܡܢܗ ܡܰܥܪܒܳܝܐ ܕܡܰܪܕܝܢ ܒܰܝܢܳܬܗܝܢ ܬܪܶܝܢ ܦܰܪ̈ܣܚܐ ܒܕܳܪܐ ܕܰܬܠܳܬܰܥܣܪ ܡܕܝܢܬܳܐ ܗܘܳܬ ܪܒܬܐ. ܝܰܘܡܳܢܐ ܒܪܰܡ ܩܰܝܳܡܐ ܒܕܘܟܬܗ̇ ܩܰܣܛܪܐ ܕܡܶܬܶܐܡܰܪ ܠܗ ܩܶܙܶܠܬܰܦܰܗ ܗ̄ ܬܶܠܳܐ ܣܘܡܳܩܐ. </Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Name attached to prev entry name; desc. gives erroneous relation to Kiziltepe - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>Dolabani's description asserts an erroneous relation to <placeName ref="http://syriaca.org/place/490">Kızıltepe</placeName>.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دُنَيسر، قوج حصار</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>516</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>جنوبي ماردين بينهما فرسخان كانت في القرن الثالث عشر بلدة عظيمة اما اليوم فهي قرية تسمى قوج حصار يجاورها قرية تل ارمن.</Barsoum_Arabic_Description>
@@ -19528,7 +19528,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܕܶܝܪܰܗ ܐܠܝܐ. ܓܶܦܬܠܶܟ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>555</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܡܰܙܪܰܥܬܐ ܗܝ ܕܒܰܫܦܘܠܐ ܕܛܘܪܐ ܕܡܰܪܕܝܢ ܘܰܒܬܰܝܡܢܳܗ̇ ܐܶܬܩܰܪܝܰܬ ܒܫܶܡ ܡܳܪܝ ܐܠܝܐ. ܡܛܠ ܕܥܺܕܬܳܗ̇ ܒܓܰܘܗ̇ ܣܺܝܡܳܐ ܘܡܶܬܐܡܪ ܠܗ̇ ܬܘܪܟܳܐܝܬ ܓܶܦܬܠܶܟ</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic name - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير اِليا، جفتلك</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>516</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>مزرعة بلحف جبل ماردين جنوبيها سميت باسم ايليا النبي لوجود بيعته فيها، ويقال لها ايضا جفتلك بالتركية.</Barsoum_Arabic_Description>
@@ -19579,8 +19579,8 @@
         <Barsoum_Syriac_Name>ܪܨܘܐܢ</Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized>ܪܨܘܐܢ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>556</Barsoum_Syriac_Page>
-        <Barsoum_Syriac_Description>ܩܪܝܬܐܗܝ ܕܰܒܓܰܪܒܝ ܡܰܕܢܰܚ ܚܰܣܢ ܟܺܐܦܐ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܩܪܝܬܐܗܝ for ܩܪܝܬܐ ܗܝ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Description>ܩܪܝܬܐ ܗܝ ܕܰܒܓܰܪܒܝ ܡܰܕܢܰܚ ܚܰܣܢ ܟܺܐܦܐ.</Barsoum_Syriac_Description>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>رضوان</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>516</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>قرية في شمالي شرقي حصن كيفا.</Barsoum_Arabic_Description>
@@ -19684,7 +19684,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܪܘܝܚܢ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>556</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܡܶܢ ܩܘܪ̈ܝܳܐ  ܕܐܰܢܛܝܘܟܝ ܕܰܚܪ̈ܶܒܝ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic name ܪܘܝܚܢ for ܪܘܚܝܢ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes>Deprecation: Dolabani or his printer interchanged the letters ḥeth and yod.|ܪܘܝܚܢ</Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>روحين</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>516</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>من قرى انطاكية الداثرة.</Barsoum_Arabic_Description>
@@ -19840,7 +19840,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܣܰܓܣܬܰܐܢ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>556</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܦܢܝܬܳܐ ܗܝ ܪܰܒܬܳܐ ܘܰܩܠܝܡܳܐ ܗܘ ܦܰܬܝܳܐ ܒܩܘܪܳܒܐ ܕܗܰܪܐܬ ܪܰܚܝܩܳܐ  10  ܝܰܘܡ̈ܝܢ </Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܒܩܘܪܳܒܐ for ܒܩܘܪܒܳܐ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܒܩܘܪܳܒܐ should read ܒܩܘܪܒܳܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>سجستان</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>516</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>ناحية كبيرة وولاية واسعة جنوب هرات وبينهما عشرة ايام.</Barsoum_Arabic_Description>
@@ -19996,7 +19996,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܣܡܩ̈ܐ. ܣܡܩ̈ܝ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>556-557</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܡܶܢ ܩܘܪ̈ܝܘܐ ܕܐܳܡܝܕ ܠܡܰܕܢܰܚ ܓܰܪܒܰܝ ܕܝܠܳܗ̇ܳ ܡܰܪܕܶܐ ܬܰܪܬܝܢ ܫܳܥܝ̈ܢ ܘܰܟܒܰܪ ܗܝ ܡܬܶܩܰܪܝܳܐ ܝܰܘܡܢ ܣܘܡܰܐܩܠܝ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܕܝܠܳܗ̇ܳ. ܡܬܶܩܰܪܝܳܐ they should be ܕܝܠܳܗ̇. ܡܶܬܩܰܪܝܳܐ -RA</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܕܝܠܳܗ̇ܳ and ܡܬܶܩܰܪܝܳܐ should read ܕܝܠܳܗ̇ and ܡܶܬܩܰܪܝܳܐ respectively.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>سمقا، سمقي</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>516</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>من قرى ديار بكر ولعلها المسماة سوماقلي في شرقها الشمالي مسافة ساعتين عنها.</Barsoum_Arabic_Description>
@@ -20308,7 +20308,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܨܰܐܠܚܝܗ̇</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>557</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܩܪܝܬܳܐ ܗܝ ܕܒܩܘܪܒܳܐ ܕܐܘܪܗܳܝ ܘܩܰܕܡܳܝܐ ܕܬܰܚܡܗ̇ ܥܰܒܕ ܐܠܡܰܠܟ ܒܰܪ ܨܰܐܠܚ ܐܰܠܗܰܐܫܡܝ. ܟ݂ܰܐܠܕܝ ܕܶܝܢ ܐܶܡܪ ܒܩܘܪܒܐ ܕܪܰܩܗ̇ ܐܝܬ ܠܘܳܬܗ̇ ܒܰܛܝܐܣ ܘܕܰܝܪܳܐ ܕܡܳܪܝ ܙܰܟܰܝ ܩܰܕܡܳܝܐ ܕܫܰܟܠܠ ܩܨܪ̈ܝܗ̇ ܡܗܕܝ</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܕܪܰܩܗ̇ for ܕܪܰܩܗ̈ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܕܪܰܩܗ̇ should read ܕܪܰܩܗ̈.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>الصالحية</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>517</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>قرية قرب الرها اختطها عبد الملك بن صالح الهاشمي، وقال الخالدي قرب الرقة عندها بطياس ودير مار زكى؛ اول من احدث قصورها المهدي.</Barsoum_Arabic_Description>
@@ -20412,7 +20412,7 @@
         <Barsoum_Syriac_Name_Vocalized></Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page></Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Name missing - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>صلاحية</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>517</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>بلدة شرقي يربوز في ولاية ادنة.</Barsoum_Arabic_Description>
@@ -20515,8 +20515,8 @@
         <Barsoum_Syriac_Name>ܩܐܠܘܩ</Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized>ܩܰܐܠܘܩ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>558</Barsoum_Syriac_Page>
-        <Barsoum_Syriac_Description>܆ـ ܩܪܝܬܳܐ ܗܝ ܕܒܐܘܚܕܳܢܳܐ ܕܨܰܘܪܳܐ ܘܰܡܝܰܬܒܳܐ ܗܘܳܬ ܒܣܘܪ̈ܝܳܝܶܐ ܒܡܶܨܥܝ̈ܬܗ ܕܕܳܪܐ ܕܝ̄ܙ</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Delete ܆ـ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Description>ܩܪܝܬܳܐ ܗܝ ܕܒܐܘܚܕܳܢܳܐ ܕܨܰܘܪܳܐ ܘܰܡܝܰܬܒܳܐ ܗܘܳܬ ܒܣܘܪ̈ܝܳܝܶܐ ܒܡܶܨܥܝ̈ܬܗ ܕܕܳܪܐ ܕܝ̄ܙ</Barsoum_Syriac_Description>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>قالوق</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>518</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>قرية من عمل الصور كانت آهلة بالسريان حتى اواسط القرن السابع عشر.</Barsoum_Arabic_Description>
@@ -20810,7 +20810,7 @@
         <Existence_BeginsBefore></Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>
         <Existence_EndsBefore></Existence_EndsBefore>
-        <Post-processing_Notes>Deprecate Barsoum ET name - TAC</Post-processing_Notes>
+        <Post-processing_Notes></Post-processing_Notes>
         <Pleiades_URI></Pleiades_URI>
         <Pleiades_Notes></Pleiades_Notes>
         <GEDSH_Name></GEDSH_Name>
@@ -20836,7 +20836,7 @@
         <Barsoum_English_Name>Sari Awastir</Barsoum_English_Name>
         <Barsoum_English_Page>559</Barsoum_English_Page>
         <Barsoum_English_Description></Barsoum_English_Description>
-        <Barsoum_English_Notes></Barsoum_English_Notes>
+        <Barsoum_English_Notes>Deprecation: Moosa erroneously transcribed the Arabic "aw" (meaning "or") as part of the name.|Sari Awastir</Barsoum_English_Notes>
         <Wikipedia_URI></Wikipedia_URI>
         <DBpedia_URI></DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -21140,7 +21140,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܥܰܝܢܕܰܐܒܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>559</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Syriac identifies with ܥܰܝܢܕܰܐܒܰܐ ܐܰܘܰ ܙܢܐܙܪܒܐ, today called ܐܰܢܐܙܘܪܐ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>Dolabani's Syriac translation erroneously identifies this place with <placeName ref="http://syriaca.org/place/9">Anazarba</placeName>.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>عين دابا</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>517</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>في كورة انطاكية مجهولة الموقع، موطن العلامة يعقوب الرهاوي.</Barsoum_Arabic_Description>
@@ -21452,7 +21452,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܐܝܺܩܘܢܝܘܢ. ܩܳܘܢܝܰܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>560</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܩܳܘܢܝܰܐ ܡܕܝܢܬܳܐ ܗܝ ܕܰܒܡܶܨܥܰܬ ܐܰܢܰܐܛܳܘܠ ܘܰܠܬܰܝܡܢܗ̇ ܕܰܐܢܩܰܘܪܐ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܕܐܰܢܩܰܘܪܐ it should be ܕܰܐܢܩܽܘܪܐ -RA</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܕܐܰܢܩܰܘܪܐ should read ܕܰܐܢܩܽܘܪܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>قونية</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>518</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>مدينة في وسط الاناضول جنوبي انقرة.</Barsoum_Arabic_Description>
@@ -21503,8 +21503,8 @@
         <Barsoum_Syriac_Name>ܩܘܝܡ</Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized>ܩܘܝܡ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>560</Barsoum_Syriac_Page>
-        <Barsoum_Syriac_Description>ــ  ܡܶܢ ܩܘܪ̈ܝܳܐ ܕܡܰܪܕܝܢ ܕܰܚܪ̈ܶܒܝ ܘܥܰܡܝܪܐ ܗܘܳܬ ܫܢܰܬ  1635 . </Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Delete ــ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Description>ܡܶܢ ܩܘܪ̈ܝܳܐ ܕܡܰܪܕܝܢ ܕܰܚܪ̈ܶܒܝ ܘܥܰܡܝܪܐ ܗܘܳܬ ܫܢܰܬ  1635 . </Barsoum_Syriac_Description>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>قويم</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>518</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>من قرى ماردين الداثرة كانت عامرة عام 1635.</Barsoum_Arabic_Description>
@@ -21902,7 +21902,7 @@
         <Existence_BeginsBefore></Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>
         <Existence_EndsBefore></Existence_EndsBefore>
-        <Post-processing_Notes>Deprecate Moosa's name Kaniq - TAC</Post-processing_Notes>
+        <Post-processing_Notes></Post-processing_Notes>
         <Pleiades_URI></Pleiades_URI>
         <Pleiades_Notes></Pleiades_Notes>
         <GEDSH_Name></GEDSH_Name>
@@ -21928,7 +21928,7 @@
         <Barsoum_English_Name>Kaniq, Qaniq</Barsoum_English_Name>
         <Barsoum_English_Page>555</Barsoum_English_Page>
         <Barsoum_English_Description>A village in the province of Nisibin; it is called Qaniq in Syriac.</Barsoum_English_Description>
-        <Barsoum_English_Notes></Barsoum_English_Notes>
+        <Barsoum_English_Notes>Deprecation: Moosa's transcription "Kaniq" does not correspond to anything in Barsoum's Arabic.|Kaniq</Barsoum_English_Notes>
         <Wikipedia_URI></Wikipedia_URI>
         <DBpedia_URI></DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -22076,7 +22076,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܟܘܦܗ. ܥܰܐܩܘܠܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>561</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܘܡܶܬܶܐܡܰܪ ܠܳܗ̇ ܥܰܐܩܘܠܐ ܘܺܗܝ ܗܺܝ ܐܰܬܪܐ ܕܝܺܕܝܥ ܒܰܙܒܰܢ ܐܰܪܥܳܐ ܕܒܳܒܝܠ ܒܡܰܕܒܪܳܐ ܕܥܪܰܐܩ ܚܰܪܝܒܳܐ. </Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܘܺܗܝ for ܘܗܺܝ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܘܺܗܝ should read ܘܗܺܝ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>الكوفة، عاقولا</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>519</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>ويقال لها عاقولا وهي المصر المشهور يوما بارض بابل من سواد العراق، مندرسة.</Barsoum_Arabic_Description>
@@ -22128,7 +22128,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܟܘܢܕܰܐܪ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>561</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܟܒܰܪ ܟܰܐܢܕܝܪܝ ܐܰܬܪܳܐ ܕܰܠܓܰܪܒܰܝ ܐܰܙܡܝܪ ܒܩܘܪܒܳܐ ܕܝܰܡܳܐ ܐܘܟܳܡܐ.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܐܰܙܡܝܪ for ܐܰܙܡܝܕ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܐܰܙܡܝܪ should read ܐܰܙܡܝܕ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>كوندار</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>519</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>لعلها كانديري بلدة شمالي أزميد بقرب البحر الاسود.</Barsoum_Arabic_Description>
@@ -22648,7 +22648,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܡܰܢܨܘܪܝܗ̇</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>562</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description>ܩܪܺܝܳܬܐ ܕܰܒܓܶܢܒ ܡܰܪܕܝܢ ܠܓܰܪܒܰܝ ܡܰܥܪܒܳܗ̇.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܩܪܺܝܳܬܐ for ܩܪܺܝܬܳܐ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes><errata>In Dolabani's translation of Barsoum's description ܩܪܺܝܳܬܐ should read ܩܪܺܝܬܳܐ.</errata></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>المنصورية</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>520</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description>قرية مجاورة لماردين في شماليها الغربي.</Barsoum_Arabic_Description>
@@ -22859,8 +22859,8 @@
         <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>الهتاخ، انطاخ</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>520</Barsoum_Arabic_Page>
-        <Barsoum_Arabic_Description>قلعة وبليدة شمالي ميافرفين في قطر الصوفنيين تسميها العامة انطاخ.</Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Sic ميافرفين for ميافرقين - RA</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Description>قلعة وبليدة شمالي ميافرقين في قطر الصوفنيين تسميها العامة انطاخ.</Barsoum_Arabic_Description>
+        <Barsoum_Arabic_Notes></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Hattākh, Antakh</Barsoum_English_Name>
         <Barsoum_English_Page>553</Barsoum_English_Page>
         <Barsoum_English_Description>a citadel and a small town north of Miyapharqin, in the Sufniyyin province; popularly called Antakh.</Barsoum_English_Description>
@@ -24294,7 +24294,7 @@
         <Existence_BeginsBefore></Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>
         <Existence_EndsBefore></Existence_EndsBefore>
-        <Post-processing_Notes>Deprecate Moosa's name - TAC</Post-processing_Notes>
+        <Post-processing_Notes></Post-processing_Notes>
         <Pleiades_URI>http://pleiades.stoa.org/places/668350</Pleiades_URI>
         <Pleiades_Notes></Pleiades_Notes>
         <GEDSH_Name></GEDSH_Name>
@@ -24312,7 +24312,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܦܰܢܺܝܗ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>559</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic name ܦܰܢܺܝܗ for ܪܦܰܢܺܝܗ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes>Deprecation: Dolabani or his printer dropped off the first consonant of the name.|ܦܰܢܺܝܗ</Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>رفنية</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>517</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -24320,7 +24320,7 @@
         <Barsoum_English_Name>Raphina</Barsoum_English_Name>
         <Barsoum_English_Page>554</Barsoum_English_Page>
         <Barsoum_English_Description></Barsoum_English_Description>
-        <Barsoum_English_Notes></Barsoum_English_Notes>
+        <Barsoum_English_Notes>Deprecation: Moosa's transcription "Raphina" is non-standard.|Raphina</Barsoum_English_Notes>
         <Wikipedia_URI></Wikipedia_URI>
         <DBpedia_URI></DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -24346,7 +24346,7 @@
         <Existence_BeginsBefore></Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>
         <Existence_EndsBefore></Existence_EndsBefore>
-        <Post-processing_Notes>Deprecate Moosa's name - TAC</Post-processing_Notes>
+        <Post-processing_Notes></Post-processing_Notes>
         <Pleiades_URI></Pleiades_URI>
         <Pleiades_Notes></Pleiades_Notes>
         <GEDSH_Name></GEDSH_Name>
@@ -24372,7 +24372,7 @@
         <Barsoum_English_Name>Sinnir</Barsoum_English_Name>
         <Barsoum_English_Page>554</Barsoum_English_Page>
         <Barsoum_English_Description></Barsoum_English_Description>
-        <Barsoum_English_Notes></Barsoum_English_Notes>
+        <Barsoum_English_Notes>Deprecation: Moosa's transcription "Sinnir" is non-standard.|Sinnir</Barsoum_English_Notes>
         <Wikipedia_URI></Wikipedia_URI>
         <DBpedia_URI></DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -24624,7 +24624,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܐܰܙܡܝܪ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>561</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic; correct to ܐܰܙܡܝܕ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes>Deprecation: Dolabani or his printer mistook the Arabic or Syriac 'd' for an 'r'.|ܐܰܙܡܝܪ</Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>ازميد</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>519</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -25352,7 +25352,7 @@
         <Barsoum_Syriac_Name_Vocalized></Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page></Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Name missing - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>يربوز</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>517</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -25456,7 +25456,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܛܘܪܳܐ ܕܩܰܐܣܒܘܢ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>557</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܛܘܪܳܐ ܕܩܰܐܣܒܘܢ for ܛܘܪܳܐ ܕܩܰܐܣܝܘܢ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes>Deprecation: Dolabani's Syriac form was derived from Barsoum's Arabic, but reading a letter baʾ (with one dot) instead of the letter yaʾ (with two dots).|ܛܘܪܳܐ ܕܩܰܐܣܒܘܢ</Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>جبل قاسيون</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>517</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -25716,7 +25716,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܗܰܪܐܬ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>556</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Not typical Syriac form - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>هرات</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>516</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -26392,7 +26392,7 @@
         <Barsoum_Syriac_Name_Vocalized></Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page></Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Name missing - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>آلين</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>517</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -26596,11 +26596,11 @@
         <Longitude></Longitude>
         <GEDSH_Notes></GEDSH_Notes>
         <Merge_Notes>In Tur Abdin desc. - TAC</Merge_Notes>
-        <Barsoum_Syriac_Name>ܐܪܒܐ</Barsoum_Syriac_Name>
+        <Barsoum_Syriac_Name>ܐܪܒܘ</Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized>ܐܰܪܒܳܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>558</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>I think ܐܪܒܘ is more common - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes>Deprecation: Dolabani mis-transcribed Barsoum's Arabic.|ܐܰܪܒܳܐ</Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>اربو</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>517</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -27068,7 +27068,7 @@
         <Barsoum_Syriac_Name_Vocalized>ܒܠܫܬ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>559</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic ܒܠܫܬ for ܟܠܫܬ - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes>Deprecation: Dolabani's printer misread his kaph as a beth.|ܒܠܫܬ</Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>كلشت</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>517</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -27380,7 +27380,7 @@
         <Barsoum_Syriac_Name_Vocalized></Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page></Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Name missing - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>ديركه</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>510</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -27592,7 +27592,7 @@
         <Barsoum_Arabic_Name></Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page></Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
-        <Barsoum_Arabic_Notes>Name replaced by Anḥil - TAC</Barsoum_Arabic_Notes>
+        <Barsoum_Arabic_Notes></Barsoum_Arabic_Notes>
         <Barsoum_English_Name>Arkaḥ</Barsoum_English_Name>
         <Barsoum_English_Page>566</Barsoum_English_Page>
         <Barsoum_English_Description></Barsoum_English_Description>
@@ -27952,7 +27952,7 @@
         <Barsoum_Syriac_Name_Vocalized></Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page></Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Name missing - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>الثغر</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>511</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -34608,7 +34608,7 @@
         <Barsoum_Syriac_Name_Vocalized></Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page></Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Name omitted - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>معمورة العزيز</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>520</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -73897,7 +73897,7 @@
         <Name>Seleucia</Name>
         <Place_ID>1465</Place_ID>
         <Category>settlement</Category>
-        <Abstract>The location of Dayro d-Mor Tumo, perhaps identical with another Seleucia.</Abstract>
+        <Abstract>The location of <placeName ref="http://syriaca.org/place/1464">Dayro d-Mor Tumo</placeName>, perhaps identical with another Seleucia.</Abstract>
         <Existence_BeginsAfter></Existence_BeginsAfter>
         <Existence_BeginsBefore>529</Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>
@@ -74214,7 +74214,7 @@
         <Existence_BeginsBefore>538</Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>
         <Existence_EndsBefore></Existence_EndsBefore>
-        <Post-processing_Notes>Deprecate Moosa's name - TAC</Post-processing_Notes>
+        <Post-processing_Notes></Post-processing_Notes>
         <Pleiades_URI>http://pleiades.stoa.org/places/668190</Pleiades_URI>
         <Pleiades_Notes></Pleiades_Notes>
         <GEDSH_Name></GEDSH_Name>
@@ -74240,7 +74240,7 @@
         <Barsoum_English_Name>Antaracus</Barsoum_English_Name>
         <Barsoum_English_Page>285</Barsoum_English_Page>
         <Barsoum_English_Description></Barsoum_English_Description>
-        <Barsoum_English_Notes></Barsoum_English_Notes>
+        <Barsoum_English_Notes>Deprecation: Moosa's name "Antaracus" is a typo.|Antaracus</Barsoum_English_Notes>
         <Wikipedia_URI>http://en.wikipedia.org/wiki/Tartus</Wikipedia_URI>
         <DBpedia_URI>http://dbpedia.org/resource/Tartus</DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -74336,7 +74336,7 @@
         <Barsoum_Syriac_Name_Vocalized></Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page></Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Name not included - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name></Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page></Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -74592,11 +74592,11 @@
         <Longitude></Longitude>
         <GEDSH_Notes></GEDSH_Notes>
         <Merge_Notes></Merge_Notes>
-        <Barsoum_Syriac_Name></Barsoum_Syriac_Name>
+        <Barsoum_Syriac_Name>ܡܝܕܠܝܢ</Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized>ܡܝܺܕܝܺܠܠܝ. ܠܣܒܘܣ. ܡܝܕܠܝܢ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>280</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Sic name - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>مدللي، لسبوس، ميدلين</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>254</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -74630,7 +74630,7 @@
         <Existence_BeginsBefore></Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>
         <Existence_EndsBefore></Existence_EndsBefore>
-        <Post-processing_Notes>Deprecate Moosa's name - TAC</Post-processing_Notes>
+        <Post-processing_Notes></Post-processing_Notes>
         <Pleiades_URI></Pleiades_URI>
         <Pleiades_Notes></Pleiades_Notes>
         <GEDSH_Name></GEDSH_Name>
@@ -74656,7 +74656,7 @@
         <Barsoum_English_Name>Ausana</Barsoum_English_Name>
         <Barsoum_English_Page>294</Barsoum_English_Page>
         <Barsoum_English_Description></Barsoum_English_Description>
-        <Barsoum_English_Notes></Barsoum_English_Notes>
+        <Barsoum_English_Notes>Deprecation: Moosa's transcription "Ausana" is a typo for "Ansana".|Ausana</Barsoum_English_Notes>
         <Wikipedia_URI></Wikipedia_URI>
         <DBpedia_URI></DBpedia_URI>
         <Wikipedia_Notes>Not found - TAC</Wikipedia_Notes>
@@ -75112,11 +75112,11 @@
         <Longitude></Longitude>
         <GEDSH_Notes></GEDSH_Notes>
         <Merge_Notes></Merge_Notes>
-        <Barsoum_Syriac_Name></Barsoum_Syriac_Name>
+        <Barsoum_Syriac_Name>ܫܠܒܕܝܢ</Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized>ܝܠܒܕܺܝܢ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>428</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Misread 'yod' for 'shin' - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes>Deprecation: Dolabani's printer misread his shin as a yod.|ܝܠܒܕܺܝܢ</Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>شلبدين</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>398</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -75410,7 +75410,7 @@
         <Existence_BeginsBefore></Existence_BeginsBefore>
         <Existence_EndsAfter></Existence_EndsAfter>
         <Existence_EndsBefore></Existence_EndsBefore>
-        <Post-processing_Notes>Deprecate Moosa's name - TAC</Post-processing_Notes>
+        <Post-processing_Notes></Post-processing_Notes>
         <Pleiades_URI></Pleiades_URI>
         <Pleiades_Notes></Pleiades_Notes>
         <GEDSH_Name></GEDSH_Name>
@@ -75436,7 +75436,7 @@
         <Barsoum_English_Name>Gauis</Barsoum_English_Name>
         <Barsoum_English_Page>419</Barsoum_English_Page>
         <Barsoum_English_Description></Barsoum_English_Description>
-        <Barsoum_English_Notes></Barsoum_English_Notes>
+        <Barsoum_English_Notes>Deprecation: Moosa's transcription "Gauis" is a typo for "Gaius".|Gauis</Barsoum_English_Notes>
         <Wikipedia_URI></Wikipedia_URI>
         <DBpedia_URI></DBpedia_URI>
         <Wikipedia_Notes></Wikipedia_Notes>
@@ -75476,11 +75476,11 @@
         <Longitude></Longitude>
         <GEDSH_Notes></GEDSH_Notes>
         <Merge_Notes></Merge_Notes>
-        <Barsoum_Syriac_Name></Barsoum_Syriac_Name>
+        <Barsoum_Syriac_Name>ܕܝܪܐ ܒܝܙܘܢܐ</Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized>ܕܰܝܪܐ ܒܰܚܙܘܢܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>385</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes>Misread 'heth' for 'yod' - TAC</Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes>Deprecation: Dolabani's printer misread his letter yod as a ḥeth.|ܕܰܝܪܐ ܒܰܚܙܘܢܐ</Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>دير بيزونا</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>357</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -76207,8 +76207,8 @@
         <Barsoum_Syriac_Name>ܬܪܡܢܙ</Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized>ܬܰܪܡܢܐ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>359</Barsoum_Syriac_Page>
-        <Barsoum_Syriac_Description>Deprecation: Dolabani's printer misread his Syriac letter zayin for olaf.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
+        <Barsoum_Syriac_Notes>Deprecation: Dolabani's printer misread his Syriac letter zayin as an olaf.|ܬܰܪܡܢܐ</Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>ترمناز</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>330</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -76360,11 +76360,11 @@
         <Longitude></Longitude>
         <GEDSH_Notes></GEDSH_Notes>
         <Merge_Notes></Merge_Notes>
-        <Barsoum_Syriac_Name></Barsoum_Syriac_Name>
+        <Barsoum_Syriac_Name>ܒܝܬ ܢܥܪ</Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized>ܒܶܝܬ ܢܢܙ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>352</Barsoum_Syriac_Page>
-        <Barsoum_Syriac_Description>Deprecation: The Syriac name misrepresents the Arabic.</Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
+        <Barsoum_Syriac_Notes>Deprecation: Dolabani or his printer confused the Arabic raʾ with zay and the Syriac nun with ʿe.|ܒܶܝܬ ܢܢܙ</Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>بيت نعر</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>323</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>
@@ -76516,11 +76516,11 @@
         <Longitude></Longitude>
         <GEDSH_Notes></GEDSH_Notes>
         <Merge_Notes></Merge_Notes>
-        <Barsoum_Syriac_Name></Barsoum_Syriac_Name>
+        <Barsoum_Syriac_Name>ܐܢܒ</Barsoum_Syriac_Name>
         <Barsoum_Syriac_Name_Vocalized>ܒܐܢܒ</Barsoum_Syriac_Name_Vocalized>
         <Barsoum_Syriac_Page>339</Barsoum_Syriac_Page>
         <Barsoum_Syriac_Description></Barsoum_Syriac_Description>
-        <Barsoum_Syriac_Notes></Barsoum_Syriac_Notes>
+        <Barsoum_Syriac_Notes>Deprecation: Name form begins with erroneous beth/baʾ.|ܒܐܢܒ|بانب</Barsoum_Syriac_Notes>
         <Barsoum_Arabic_Name>بانب</Barsoum_Arabic_Name>
         <Barsoum_Arabic_Page>311</Barsoum_Arabic_Page>
         <Barsoum_Arabic_Description></Barsoum_Arabic_Description>

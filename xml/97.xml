@@ -129,6 +129,7 @@
                <state type="existence" from="1235">
                   <precision match="@from" notAfter="1235"/>
                </state>
+               <note type="errata">Barsoum's description erroneously identifies this place with <placeName ref="http://syriaca.org/place/209">Zeugma</placeName>.</note>
                <idno type="URI">http://syriaca.org/place/97</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Rumkale</idno>
                <idno type="URI">http://dbpedia.org/resource/Rumkale</idno>

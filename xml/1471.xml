@@ -100,6 +100,8 @@
                <state type="existence" from="0538">
                   <precision match="@from" notAfter="0538"/>
                </state>
+               <note type="deprecation" xml:id="name1471-5-deprecation">Moosa's name "Antaracus" is a typo.</note>
+               <link target="#name1471-5 #name1471-5-deprecation"/>
                <idno type="URI">http://syriaca.org/place/1471</idno>
                <idno type="URI">http://pleiades.stoa.org/places/668190</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Tartus</idno>

@@ -99,6 +99,8 @@
                <placeName xml:id="name502-6" xml:lang="en" source="#bib502-4">Nicomedia</placeName>
                <desc xml:id="abstract-en-502" xml:lang="en"/>
                <state type="existence"/>
+               <note type="deprecation" xml:id="name502-3-deprecation">Dolabani or his printer mistook the Arabic or Syriac 'd' for an 'r'.</note>
+               <link target="#name502-3 #name502-3-deprecation"/>
                <idno type="URI">http://syriaca.org/place/502</idno>
                <idno type="URI">http://pleiades.stoa.org/places/511337</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/İzmit</idno>

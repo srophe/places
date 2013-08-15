@@ -10,9 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Mor Behnam Hermitage
-                                        — <foreign xml:lang="syr">ܚܒܝ̈ܫܝܬܐ ܕܡܪܝ ܒܗܢܡ (ܘܡܪܝ ܝܘܣܦ)</foreign>
-            </title>
+            <title level="a" xml:lang="en">Mor Behnam Hermitage — <foreign xml:lang="syr">ܚܒܝ̈ܫܝܬܐ ܕܡܪܝ ܒܗܢܡ (ܘܡܪܝ ܝܘܣܦ)</foreign></title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -36,7 +34,7 @@
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                   <p>This entry incorporates copyrighted material from the following work(s):
-                                                <listBibl>
+                     <listBibl>
                         <bibl>
                            <ptr target="#bib658-1"/>
                         </bibl>
@@ -44,12 +42,11 @@
                            <ptr target="#bib658-2"/>
                         </bibl>
                      </listBibl>
-                     <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
-                     </note>
+                     <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/></note>
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-07-31</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -81,7 +78,13 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-31">REMOVED: place type from <gi>title</gi></change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-28">ADDED: formattable markup to <gi>title</gi> and <gi>licence</gi> </change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24">ADDED: License for Barsoum data</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-24">FIXED: document titles and source URI</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-15">FIXED: <gi>precision</gi> element in <gi>state</gi> of @type="existence" </change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11">ADDED: relative location and cross-reference in abstract</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-07-11-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -92,7 +95,11 @@
                <placeName xml:id="name658-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܚܒܝ̈ܫܝܬܐ ܕܡܪܝ ܒܗܢܡ (ܘܡܪܝ ܝܘܣܦ)</placeName>
                <placeName xml:id="name658-3" xml:lang="syr-Syrj" source="#bib658-1">ܚܒܝ̈ܫܳܝܳܬܐ ܕܡܳܪܝ ܒܶܗܢܰܡ (ܘܡܳܪܝ ܝܰܘܣܦ)</placeName>
                <placeName xml:id="name658-4" xml:lang="ar" source="#bib658-2">صومعة مار بهنام</placeName>
-               <desc xml:id="abstract-en-658" xml:lang="en">A hermitage in the hills above Dayr al-Zaʿfarān.</desc>
+               <location type="relative" source="#bib658-2">
+                  <offset>north of</offset>
+                  <placeName ref="http://syriaca.org/place/69">Dayr al-Zaʿfarān</placeName>
+               </location>
+               <desc xml:id="abstract-en-658" xml:lang="en">A hermitage in the hills above <placeName ref="http://syriaca.org/place/69">Dayr al-Zaʿfarān</placeName>.</desc>
                <state type="existence" to="1625">
                   <precision match="@to" notAfter="1625"/>
                </state>

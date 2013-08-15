@@ -115,7 +115,7 @@
                   <quote source="#bib345-2">ܒܳܣܝܣ ܕܰܒܩܝܠܝܺܩܝܐ. ܥܡܰܪ ܒܗ ܝܘܚܰܢܢ ܕܝ̄ܒ ܫܢܰܬ  1108  ܘܐܰܘܩܕܽܘܗܝ ܦܳܠܚ̈ܐ ܡܶܨܪ̈ܝܐ ܬܠܳܬ ܙܰܒܢ̈ܝܢ ܒܶܝܬ ܫܢܰܬ  1226  -   1279  ܘܩܰܛܠܗ ܒܗ 25  ܕܰܝܪ̈ܝܐ ܘܠܗ ܡܶܬܒܰܝܬܶܐ ܓܪܝܺܓܘܪܺܝܘܣ ܡܶܛܪܘܦܘܠܝܛܐ ܕܣܝܺܣ.</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib345-3">في سيس بقيليقية، نزل به يوحنا الثاني عشر عام 1208 واحرقه الجنود المصريون ثلاثاً بين سنة 1266-1279 وقتلوا فيه خمسة وعشرين راهباً (التاريخ المدني لابن العبري ص 523 و 531 و 542 ؟ واليه ينسب غريغوريوس مطران سيس حول 1290</quote>
+                  <quote source="#bib345-3">في سيس بقيليقية، نزل به يوحنا الثاني عشر عام 1208 واحرقه الجنود المصريون ثلاثاً بين سنة 1266-1279 وقتلوا فيه خمسة وعشرين راهباً (التاريخ المدني لابن العبري ص 523 و 531 و 542) واليه ينسب غريغوريوس مطران سيس حول 1290</quote>
                </desc>
                <desc xml:lang="en">
                   <quote source="#bib345-4">is situated in Sīs, Cilicia. Patriarch John XII resided there in 1108. Between 1266 and 1279, it was burned three times by Egyptian troops, who also killed twenty-five monks. (See Bar Hebraeus, Chronography, pp. 523, 531, 542). Gregorius, metropolitan of Sīs, may have belonged to this monastery around 1290.</quote>
@@ -124,6 +124,7 @@
                   <precision match="@from" notAfter="1263"/>
                   <precision match="@to" notBefore="1263"/>
                </state>
+               <note type="errata">Dolabani's printer erroneously included ܒܳܣܝܣ from the description as part of name.  Also in Dolabani's translation of Barsoum's description ܘܐܰܘܩܕܽܘܗܝ should read ܘܰܐܘܩܕܽܘܗܝ.</note>
                <idno type="URI">http://syriaca.org/place/345</idno>
                <bibl xml:id="bib345-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

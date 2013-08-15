@@ -108,7 +108,8 @@
                <placeName xml:id="name385-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܓܘܝܟܐܬ</placeName>
                <placeName xml:id="name385-3" xml:lang="syr-Syrj" source="#bib385-1">ܕܰܝܪܳܐ ܕܟܘܝ̣ܒܰܐܬ</placeName>
                <placeName xml:id="name385-4" xml:lang="ar" source="#bib385-2">دير كريخات</placeName>
-               <placeName xml:id="name385-5" xml:lang="en" source="#bib385-3">Kuwaykhat Monastery</placeName>
+               <placeName xml:id="name385-5" xml:lang="ar" source="#bib385-2">دير كويخات</placeName>
+               <placeName xml:id="name385-6" xml:lang="en" source="#bib385-3">Kuwaykhat Monastery</placeName>
                <desc xml:id="abstract-en-385" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib385-1">ܒܓܶܢܒ ܡܣܝܣܛܐ ܒܩܝܺܠܝܩܝܰܐ  ܕܟܺܝܪ ܫܢܬ  1208  ܘܡܶܢܗ ܗܘܰܘ ܬܪܶܝܢ ܦܰܛܪܝܰܪ̈ܟܐ ܐܺܝܓܢܰܐܛܝܘܣ ܪܒܺܝܥܳܝܐ  1282  ܘܡܝܟܳܐܝܠ ܬܪܰܝܳܢܐ  1312 .  ܘܒܗ ܐܶܬܬܰܫܠܡ ܦܝܠܠܘܟܣܝܢ ܬܪܰܝܳܢܐ ܙܡܳܡܐ ܕܦܰܛܪܝܰܪܟܘܬܐ ܫܢܰܬ  1389</quote>
@@ -120,6 +121,12 @@
                   <quote source="#bib385-3">near al-Maṣṣīṣa in Cilicia, was first mentioned in history in 1208. Two Patriarchs, Ignatius IV (d. 1282) and Michael II (d. 1312), came from it. It was in this monastery also that Phelixene II was consecrated as Patriarch in 1389.</quote>
                </desc>
                <state type="existence"/>
+               <note type="deprecation" xml:id="name385-3-deprecation">Dolabani's printer misread his kaph as a beth, and Dolabani transcribed Barsoum's Arabic kaph as a Syriac kaph rather than as a gomal.</note>
+               <link target="#name385-3 #name385-3-deprecation"/>
+               <note type="deprecation" xml:id="name385-4-deprecation">Earlier editions of Barsoum's Arabic erroneously printed the waw as a raʾ.</note>
+               <link target="#name385-4 #name385-4-deprecation"/>
+               <note type="deprecation" xml:id="name385-6-deprecation">Moosa's transcription "Kuwaykhat" should read "Gawikat".</note>
+               <link target="#name385-6 #name385-6-deprecation"/>
                <idno type="URI">http://syriaca.org/place/385</idno>
                <bibl xml:id="bib385-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

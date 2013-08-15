@@ -123,6 +123,8 @@
                   <precision match="@from" notAfter="1095"/>
                   <precision match="@to" notBefore="1132"/>
                </state>
+               <note type="deprecation" xml:id="name370-3-deprecation">Dolabani's printer read his ʿe as a lomadh, and replaced his nun with a dolath.</note>
+               <link target="#name370-3 #name370-3-deprecation"/>
                <idno type="URI">http://syriaca.org/place/370</idno>
                <bibl xml:id="bib370-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

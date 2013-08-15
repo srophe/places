@@ -123,6 +123,8 @@
                   <precision match="@from" notAfter="0723"/>
                   <precision match="@to" notBefore="1200"/>
                </state>
+               <note type="deprecation" xml:id="name406-3-deprecation">Dolabani or his printer interchanged the letters ḥeth and yod.</note>
+               <link target="#name406-3 #name406-3-deprecation"/>
                <idno type="URI">http://syriaca.org/place/406</idno>
                <bibl xml:id="bib406-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

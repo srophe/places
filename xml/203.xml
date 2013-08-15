@@ -115,6 +115,8 @@
                   <geo>34.43333 35.85</geo>
                </location>
                <state type="existence"/>
+               <note type="deprecation" xml:id="name203-4-deprecation">Dolabani or his printer added an erroneous extra vowel.</note>
+               <link target="#name203-4 #name203-4-deprecation"/>
                <idno type="URI">http://syriaca.org/place/203</idno>
                <idno type="URI">http://pleiades.stoa.org/places/668394</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Tripoli,_Lebanon</idno>

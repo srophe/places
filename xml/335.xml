@@ -124,6 +124,8 @@
                   <precision match="@from" notAfter="1480"/>
                   <precision match="@to" notBefore="1537"/>
                </state>
+               <note type="errata">In Dolabani's translation of Barsoum's description ܘܐܶܬܕܟܪܗ should read ܘܶܐܬܕܟܪܗ and ܘܐܰܘܠܕ should read ܘܰܐܘܠܕ.  Also, ܘܐܰܪܒܥܣܪ should read ܘܰܐܪܒܥܣܪ and ܘܰܬܡܳܢܥܶܣܪ̈ܐ should read ܬܡܳܢܥܶܣܪ̈ܐ.</note>
+               <note type="errata">In Barsoum's description انشىء should read انشئ.</note>
                <idno type="URI">http://syriaca.org/place/335</idno>
                <bibl xml:id="bib335-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

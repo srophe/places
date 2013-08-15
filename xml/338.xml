@@ -120,6 +120,8 @@
                   <precision match="@from" notAfter="0500"/>
                   <precision match="@to" notAfter="1203" notBefore="1150"/>
                </state>
+               <note type="errata">In Dolabani's translation of Barsoum's description ܘܐܰܦܶܩ should read ܘܰܐܦܶܩ and ܒܰܓܙܝܪܬܳܐ should read ܒܓܳܙܪܬܳܐ.</note>
+               <note type="errata">In Barsoum's description انشىء should read انشئ.</note>
                <idno type="URI">http://syriaca.org/place/338</idno>
                <bibl xml:id="bib338-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

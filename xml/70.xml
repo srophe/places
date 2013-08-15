@@ -114,7 +114,7 @@
                   <quote source="#bib70-2">ܣܳܗܕܐ ܦܳܪܣܳܝܐ ܠܓܰܪܒܰܝ ܩܶܠܬ ܩܪܝܬܳܐ ܡܰܪܕܶܐ ܩܰܛܝ̈ܢܢ. ܕܰܝܪܰܐ ܗܘ ܪܰܒܐ ܐܶܬܒܢܝ ܒܕܳܪܳܐ ܫܬܝܬܳܝܐ ܘܒܰܫܢܰܬ  1250  ܐܝܬ ܗܘܐ ܒܗ ܫܬܝܺܢ ܕܰܝܪ̈ܳܝܐ. ܟܶܢ ܗܘܐ ܒܶܝܬ ܟܘܪܣܝܳܐ ܕܐܶܦܣܩܘܦܳܐ. ܘܰܢܦܰܩ ܡܶܢܗ ܚܰܕ ܦܰܛܪܝܰܪܟܳܐ ܘܰܚܕܰܥܣܪ ܐܶܦܝ̈ܣܩܘܦܶܐ. ܘܰܚܕܳܪ̈ܰܝ ܫܢܰܬ  1700  ܥܰܠܥܶܠܘ ܙܰܒ̈ܢܐ ܒܐܢܳܫܰܘ̈ܗܝ ܘܚܰܪ̈ܒܳܬܗ ܩܰܝ̈ܡܳܢ </quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib70-3">الشهيد الفارسي شمالي قرية قلث مسيرة عشرين دقيقة؛ دير عظيم انشيء في القرن السادس وعام 1250 حوى ستين راهباً ثم صار كرسياً اسقفيا ونشأ منه بطريرك واحد عشر اسقفاً، عصف الدهر بأهله حوالي سنة 1700 واطلاله ماثلة</quote>
+                  <quote source="#bib70-3">الشهيد الفارسي شمالي قرية قلث مسيرة عشرين دقيقة؛ دير عظيم انشىء في القرن السادس وعام 1250 حوى ستين راهباً ثم صار كرسياً اسقفيا ونشأ منه بطريرك واحد عشر اسقفاً، عصف الدهر بأهله حوالي سنة 1700 واطلاله ماثلة</quote>
                </desc>
                <desc xml:lang="en">
                   <quote source="#bib70-4">the Persian martyr, is north of Qellith. It was a large monastery, established in the sixth century. In 1250 it had about sixty monks. Later, it became an episcopal see and from it came one Patriarch and eleven bishops. It was abandoned in 1700 and its ruins can still be seen.</quote>
@@ -123,6 +123,8 @@
                   <precision match="@from" notBefore="0300"/>
                   <precision match="@to" notAfter="1700"/>
                </state>
+               <note type="errata">In Dolabani's translation of Barsoum's description ܕܐܶܦܣܩܘܦܳܐ should read ܕܶܐܦܝܣܩܘܦܳܐ.</note>
+               <note type="errata">In Barsoum's description انشىء should read انشئ.</note>
                <idno type="URI">http://syriaca.org/place/70</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874577</idno>
                <idno type="URI">

@@ -122,6 +122,7 @@
                   <geo>37.12 40.47</geo>
                </location>
                <state type="existence"/>
+               <note type="errata">In Dolabani's translation of Barsoum's description ܕܡܶܪܕܝܢ should read ܕܡܰܪܕܝܢ.</note>
                <idno type="URI">http://syriaca.org/place/47</idno>
                <bibl xml:id="bib47-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

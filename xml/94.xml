@@ -124,6 +124,7 @@
                   <geo>37.75972 38.27875</geo>
                </location>
                <state type="existence"/>
+               <note type="errata">In Dolabani's translation of Barsoum's description ܡܕܝܰܢܬܐ should read ܡܕܺܝܢܬܐ.</note>
                <idno type="URI">http://syriaca.org/place/94</idno>
                <idno type="URI">http://pleiades.stoa.org/places/658568</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Adıyaman</idno>

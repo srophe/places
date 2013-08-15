@@ -128,6 +128,7 @@
                   <precision match="@from" notAfter="0686"/>
                   <precision match="@to" notAfter="1943" notBefore="0725"/>
                </state>
+               <note type="errata">In Dolabani's translation of Barsoum's description ܘܺܗܝ should read ܘܗܺܝ.</note>
                <idno type="URI">http://syriaca.org/place/452</idno>
                <idno type="URI">http://pleiades.stoa.org/places/912808</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Kufa</idno>

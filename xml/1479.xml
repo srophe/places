@@ -98,6 +98,8 @@
                <placeName xml:id="name1479-5" xml:lang="en" source="#bib1479-3">Ausana</placeName>
                <desc xml:id="abstract-en-1479" xml:lang="en"/>
                <state type="existence"/>
+               <note type="deprecation" xml:id="name1479-5-deprecation">Moosa's transcription "Ausana" is a typo for "Ansana".</note>
+               <link target="#name1479-5 #name1479-5-deprecation"/>
                <idno type="URI">http://syriaca.org/place/1479</idno>
                <bibl xml:id="bib1479-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

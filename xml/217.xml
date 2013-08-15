@@ -106,7 +106,7 @@
                           source="#bib217-1 #bib217-4">Ḥaḥ</placeName>
                <placeName xml:id="name217-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܚܐܚ</placeName>
                <placeName xml:id="name217-3" xml:lang="syr-Syrj" source="#bib217-2">ܚܰܐܚ</placeName>
-               <placeName xml:id="name217-4" xml:lang="ar" source="#bib217-3">حاج</placeName>
+               <placeName xml:id="name217-4" xml:lang="ar" source="#bib217-3">حاح</placeName>
                <placeName xml:id="name217-5" xml:lang="en" source="#bib217-5">Hāḥ</placeName>
                <desc xml:id="abstract-en-217" xml:lang="en"/>
                <location type="nested" source="#bib217-5">

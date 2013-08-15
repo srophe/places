@@ -132,6 +132,7 @@
                <state type="existence" from="0600">
                   <precision match="@from" notAfter="0600" notBefore="0300"/>
                </state>
+               <note type="errata">In Barsoum's description فيها should read فيه.</note>
                <idno type="URI">http://syriaca.org/place/228</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Monastery_of_Saint_Moses_the_Abyssinian</idno>
                <idno type="URI">http://dbpedia.org/resource/Monastery_of_Saint_Moses_the_Abyssinian</idno>

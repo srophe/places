@@ -125,6 +125,7 @@
                   <precision match="@from" notAfter="0775"/>
                   <precision match="@to" notBefore="1873"/>
                </state>
+               <note type="errata">In Dolabani's translation of Barsoum's description ܥܕܺܬܗ should read ܥܺܕܬܗ</note>
                <idno type="URI">http://syriaca.org/place/68</idno>
                <bibl xml:id="bib68-1">
                   <title level="a" xml:lang="en">466. al-Ṣalīb, Dayr</title>

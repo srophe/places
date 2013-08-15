@@ -118,6 +118,7 @@
                   <precision match="@from" notAfter="0672"/>
                   <precision match="@to" notBefore="0608"/>
                </state>
+               <note type="errata">Dolabani's Syriac translation erroneously identifies this place with <placeName ref="http://syriaca.org/place/9">Anazarba</placeName>.</note>
                <idno type="URI">http://syriaca.org/place/434</idno>
                <bibl xml:id="bib434-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

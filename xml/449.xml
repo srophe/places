@@ -123,6 +123,8 @@
                   <quote source="#bib449-3">A village in the province of Nisibin; it is called Qaniq in Syriac.</quote>
                </desc>
                <state type="existence"/>
+               <note type="deprecation" xml:id="name449-7-deprecation">Moosa's transcription "Kaniq" does not correspond to anything in Barsoum's Arabic.</note>
+               <link target="#name449-7 #name449-7-deprecation"/>
                <idno type="URI">http://syriaca.org/place/449</idno>
                <bibl xml:id="bib449-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

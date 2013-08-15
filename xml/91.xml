@@ -112,6 +112,8 @@
                   <geo>35.13333 36.75</geo>
                </location>
                <state type="existence"/>
+               <note type="deprecation" xml:id="name91-4-deprecation">Barsoum's name omits the two dots from the tāʼ marbūṭa.</note>
+               <link target="#name91-4 #name91-4-deprecation"/>
                <idno type="URI">http://syriaca.org/place/91</idno>
                <idno type="URI">http://pleiades.stoa.org/places/668182</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Hama</idno>
