@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -79,7 +79,9 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib168-2">Rabban Hormizd</placeName>
                <placeName xml:id="name168-2" xml:lang="en" source="#bib168-3">monastery of Rabban Hormizd</placeName>
-               <desc xml:id="abstract-en-168" xml:lang="en"/>
+               <desc xml:id="abstract-en-168" xml:lang="en">
+                  <quote source="#bib168-1">The Chaldean monastery of Rabban Hormizd, built upon a mountain ridge northeast of Alqosh in northern Iraq, is famous not only for its magnificent location and impressive buildings, but also for its central role in the history of the transmission of E.-Syr. literature and its importance in the struggles between the Chald. Church and the Ch. of E., to which the monastery originally belonged.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib168-1">264. Hormizd, Monastery of Rabban</quote>
                </desc>
@@ -94,9 +96,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of Rabban Hormizd&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib168-1">
+                  <author>H. L. Murre-van den Berg</author>
                   <title level="a" xml:lang="en">264. Hormizd, Monastery of Rabban</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">203-205</citedRange>
                </bibl>
                <bibl xml:id="bib168-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

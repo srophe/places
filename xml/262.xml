@@ -34,6 +34,10 @@
                <resp>Syriac description entry by</resp>
                <name ref="http://syriaca.org/editors.xml#raydin">Robert Aydin</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -61,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -108,7 +112,11 @@
                <placeName xml:id="name262-3" xml:lang="syr-Syrj" source="#bib262-3">ܒܶܝܬ ܟܘܕܰܝܕܐ</placeName>
                <placeName xml:id="name262-4" xml:lang="ar" source="#bib262-4">باُخديدة</placeName>
                <placeName xml:id="name262-5" xml:lang="en" source="#bib262-5">Beth Khudayda</placeName>
-               <desc xml:id="abstract-en-262" xml:lang="en"/>
+               <placeName xml:id="name262-6" xml:lang="en" source="#bib262-7">Qaraqōsh</placeName>
+               <placeName xml:id="name262-7" xml:lang="en" source="#bib262-7">Beṯ Khūdaidā</placeName>
+               <desc xml:id="abstract-en-262" xml:lang="en">
+                  <quote source="#bib262-1">A sizable town located to the east of Mosul, on the same road along which Barṭelle and Karamlish are located.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib262-1">441. Qaraqosh</quote>
                </desc>
@@ -121,6 +129,9 @@
                <desc xml:lang="en">
                   <quote source="#bib262-5">a large village in the province of Nineveh, north of Mosul; now called Qaraqosh.</quote>
                </desc>
+               <location type="nested" source="#bib262-7">
+                  <region ref="http://syriaca.org/place/722">Mosul region</region>
+               </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/262</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Bakhdida</idno>
@@ -129,9 +140,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=Q&amp;sK=Qaraqosh&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib262-1">
+                  <author>A. Harrak </author>
                   <title level="a" xml:lang="en">441. Qaraqosh</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">343-344</citedRange>
                </bibl>
                <bibl xml:id="bib262-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
@@ -158,6 +171,12 @@
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=Q&amp;sK=Qaraqosh&amp;sT=keywords">Qaraqosh</citedRange>
+               </bibl>
+               <bibl xml:id="bib262-7">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">189, 200, 201, 205, 301</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Mor Yuḥanon Naḥloyo</title>
+            <title level="a" xml:lang="en">Mar Yoḥannan Naḥlaya</title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,14 +67,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-627" type="monastery">
-               <placeName xml:id="name627-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mor Yuḥanon Naḥloyo</placeName>
+               <placeName xml:id="name627-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mar Yoḥannan Naḥlaya</placeName>
                <placeName xml:id="name627-2" xml:lang="en" source="#bib627-1">monastery of John Nahlaya</placeName>
                <desc xml:id="abstract-en-627" xml:lang="en"/>
                <state type="existence"/>

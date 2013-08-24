@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -104,12 +104,14 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib360-2">Dayr al-Suryān</placeName>
-               <placeName xml:id="name360-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܣܘܪ̈ܝܝܐ</placeName>
-               <placeName xml:id="name360-3" xml:lang="syr-Syrj" source="#bib360-3">ܕܰܝܪܳܐ ܕܣܘܪ̈ܝܝܐ</placeName>
-               <placeName xml:id="name360-4" xml:lang="ar" source="#bib360-4">دير السريان</placeName>
-               <placeName xml:id="name360-5" xml:lang="en" source="#bib360-5">Monastery of the Syrians</placeName>
+               <placeName xml:id="name360-2" xml:lang="en" source="#bib360-2 #bib360-5">Monastery of the Syrians</placeName>
+               <placeName xml:id="name360-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܣܘܪ̈ܝܝܐ</placeName>
+               <placeName xml:id="name360-4" xml:lang="syr-Syrj" source="#bib360-3">ܕܰܝܪܳܐ ܕܣܘܪ̈ܝܝܐ</placeName>
+               <placeName xml:id="name360-5" xml:lang="ar" source="#bib360-4">دير السريان</placeName>
                <placeName xml:id="name360-6" xml:lang="en" source="#bib360-6">Deir al-Surian</placeName>
-               <desc xml:id="abstract-en-360" xml:lang="en"/>
+               <desc xml:id="abstract-en-360" xml:lang="en">
+                  <quote source="#bib360-1">Monastery situated halfway between Cairo and Alexandria in Wadi al-Natrun, ancient Scetis, Egypt.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib360-1">523. al-Suryān, Dayr</quote>
                </desc>
@@ -132,9 +134,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=D&amp;sK=Deir al-Surian&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib360-1">
+                  <author>L. Van Rompay</author>
                   <title level="a" xml:lang="en">523. al-Suryān, Dayr</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">386-387</citedRange>
                </bibl>
                <bibl xml:id="bib360-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

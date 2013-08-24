@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -107,7 +107,9 @@
                <placeName xml:id="name66-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܪܡܣܘܩ</placeName>
                <placeName xml:id="name66-3" xml:lang="syr-Syrj" source="#bib66-3">ܕܰܪܡܣܘܩ</placeName>
                <placeName xml:id="name66-4" xml:lang="ar" source="#bib66-4">دمشق</placeName>
-               <desc xml:id="abstract-en-66" xml:lang="en">An ancient city and capital of the Umayyad Caliphate.</desc>
+               <desc xml:id="abstract-en-66" xml:lang="en">
+                  <quote source="#bib66-1">Syriac Darmsuq and Arabic Dimashq. City in Syria and the seat at present of the Syr. Orth. Patriarchate.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib66-1">148. Damascus</quote>
                </desc>
@@ -126,9 +128,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=D&amp;sK=Damascus&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib66-1">
+                  <author>H. Takahashi </author>
                   <title level="a" xml:lang="en">148. Damascus</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">111-113</citedRange>
                </bibl>
                <bibl xml:id="bib66-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

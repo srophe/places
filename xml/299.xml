@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -123,7 +123,10 @@
                <desc xml:lang="en">
                   <quote source="#bib299-3">a town in Syria between Aleppo and al-Raqqa, known in antiquity as Perpalisos, it is now called Maskana.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0253" to="1000">
+                  <precision match="@from" notAfter="0253"/>
+                  <precision match="@to" notBefore="1000"/>
+               </state>
                <note type="deprecation" xml:id="name299-12-deprecation">Moosa's transcription "Perpalisos" should be "Barbalissus".</note>
                <link target="#name299-12 #name299-12-deprecation"/>
                <idno type="URI">http://syriaca.org/place/299</idno>

@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -109,7 +109,9 @@
                <placeName xml:id="name130-4" xml:lang="syr-Syrj" source="#bib130-3">ܡܰܪܕܝܢ</placeName>
                <placeName xml:id="name130-5" xml:lang="ar" source="#bib130-4">ماردين</placeName>
                <placeName xml:id="name130-6" xml:lang="en" source="#bib130-7">Mardīn</placeName>
-               <desc xml:id="abstract-en-130" xml:lang="en"/>
+               <desc xml:id="abstract-en-130" xml:lang="en">
+                  <quote source="#bib130-1">City in upper Mesopotamia and important center of Syriac Christianity, especially for the Syr. Orth. Church as the city closest to Dayr al-Zaʿfarān, the seat of the patr. from 1293 until 1932.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib130-1">351. Mardin</quote>
                </desc>
@@ -125,9 +127,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=M&amp;sK=Mardin&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib130-1">
+                  <author>H. Takahashi </author>
                   <title level="a" xml:lang="en">351. Mardin</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">267-268</citedRange>
                </bibl>
                <bibl xml:id="bib130-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

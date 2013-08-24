@@ -38,6 +38,10 @@
                <resp>Arabic description entry by</resp>
                <name ref="http://syriaca.org/editors.xml#rakhrass">Dayroyo Roger-Youssef Akhrass</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -65,7 +69,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +101,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -112,6 +116,7 @@
                <placeName xml:id="name467-6" xml:lang="ar" source="#bib467-2">انطاخ</placeName>
                <placeName xml:id="name467-7" xml:lang="en" source="#bib467-3">Hattākh</placeName>
                <placeName xml:id="name467-8" xml:lang="en" source="#bib467-3">Antakh</placeName>
+               <placeName xml:id="name467-9" xml:lang="en" source="#bib467-4">Ḥattāḥ</placeName>
                <desc xml:id="abstract-en-467" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib467-1">ܩܶܠܥܳܐ ܘܐܰܬܪܳܐ ܕܰܒܓܰܪܒܰܝ ܡܝܺܦܰܪܩܰܛ ܒܰܐܬܪܳܐ ܕܨܘܦܢܳܝ̈ܐ ܡܫܰܡܗܝܢ ܠܳܗ̇ ܐܢܳܫ̈ܐ ܐܰܢܛܰܐܟ.</quote>
@@ -122,6 +127,9 @@
                <desc xml:lang="en">
                   <quote source="#bib467-3">a citadel and a small town north of Miyapharqin, in the Sufniyyin province; popularly called Antakh.</quote>
                </desc>
+               <location type="nested" source="#bib467-4">
+                  <region ref="http://syriaca.org/place/707">Āmid region</region>
+               </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/467</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874372</idno>
@@ -139,6 +147,12 @@
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">553</citedRange>
+               </bibl>
+               <bibl xml:id="bib467-4">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">53</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -109,7 +109,9 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib139-3">ܡܘܨܠ</placeName>
                <placeName xml:id="name139-3" xml:lang="ar" source="#bib139-4">الموصل</placeName>
-               <desc xml:id="abstract-en-139" xml:lang="en"/>
+               <desc xml:id="abstract-en-139" xml:lang="en">
+                  <quote source="#bib139-1">City in the north of Iraq, on the west bank of the Tigris opposite the ruins of ancient Nineveh.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib139-1">380. Mosul</quote>
                </desc>
@@ -128,9 +130,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=M&amp;sK=Mosul&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib139-1">
+                  <author>A. Harrak</author>
                   <title level="a" xml:lang="en">380. Mosul</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">294-296</citedRange>
                </bibl>
                <bibl xml:id="bib139-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

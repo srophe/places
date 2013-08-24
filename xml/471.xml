@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -82,7 +82,9 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib471-2 #bib471-3">Chicago</placeName>
-               <desc xml:id="abstract-en-471" xml:lang="en"/>
+               <desc xml:id="abstract-en-471" xml:lang="en">
+                  <quote source="#bib471-1">One of the centers of the Assyrian diaspora in the USA.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib471-1">128. Chicago</quote>
                </desc>
@@ -91,9 +93,11 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Chicago</idno>
                <idno type="URI">http://dbpedia.org/resource/Chicago</idno>
                <bibl xml:id="bib471-1">
+                  <author>J. F. Coakley</author>
                   <title level="a" xml:lang="en">128. Chicago</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">93-94</citedRange>
                </bibl>
                <bibl xml:id="bib471-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

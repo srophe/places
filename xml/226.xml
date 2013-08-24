@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -108,12 +108,15 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib226-2">Mor Gabriel</placeName>
-               <placeName xml:id="name226-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܩܪܛܡܝܢ</placeName>
-               <placeName xml:id="name226-3" xml:lang="syr-Syrj" source="#bib226-3">ܕܰܝܪܳܐ ܕܩܰܪܛܡܝܢ</placeName>
-               <placeName xml:id="name226-4" xml:lang="ar" source="#bib226-4">دير قرتمين</placeName>
-               <placeName xml:id="name226-5" xml:lang="en" source="#bib226-5">Qarṭmin Monastery</placeName>
-               <placeName xml:id="name226-6" xml:lang="en" source="#bib226-6">monastery of Gabriel of Qartmin</placeName>
-               <desc xml:id="abstract-en-226" xml:lang="en"/>
+               <placeName xml:id="name226-2" xml:lang="en" source="#bib226-2">Monastery of Qarṭmin</placeName>
+               <placeName xml:id="name226-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܩܪܛܡܝܢ</placeName>
+               <placeName xml:id="name226-4" xml:lang="syr-Syrj" source="#bib226-3">ܕܰܝܪܳܐ ܕܩܰܪܛܡܝܢ</placeName>
+               <placeName xml:id="name226-5" xml:lang="ar" source="#bib226-4">دير قرتمين</placeName>
+               <placeName xml:id="name226-6" xml:lang="en" source="#bib226-5">Qarṭmin Monastery</placeName>
+               <placeName xml:id="name226-7" xml:lang="en" source="#bib226-6">monastery of Gabriel of Qartmin</placeName>
+               <desc xml:id="abstract-en-226" xml:lang="en">
+                  <quote source="#bib226-1">The Monastery of Qarṭmin began long before its official foundation date of 397.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib226-1">214. Gabriel, Monastery of Mor</quote>
                </desc>
@@ -130,6 +133,7 @@
                   <geo>37.321778 41.5385</geo>
                </location>
                <state type="existence" from="0397" to="2013">
+                  <precision match="@from" notAfter="0397" notBefore="0300"/>
                   <precision match="@to" notBefore="2013"/>
                </state>
                <note type="errata">In Dolabani's translation of Barsoum's description ܛܒܺܝܒܶܐ should read ܛܒܺܝܒܳܐ.</note>
@@ -141,9 +145,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of Gabriel of Qartmin&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib226-1">
+                  <author>A. N. Palmer </author>
                   <title level="a" xml:lang="en">214. Gabriel, Monastery of Mor</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">167-169</citedRange>
                </bibl>
                <bibl xml:id="bib226-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

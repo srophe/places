@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -109,7 +109,9 @@
                <placeName xml:id="name69-4" xml:lang="ar" source="#bib69-4">دير الزعفران</placeName>
                <placeName xml:id="name69-5" xml:lang="en" source="#bib69-5">Zaʿfaran Monastery</placeName>
                <placeName xml:id="name69-6" xml:lang="en" source="#bib69-6">monastery Deir Zafaran</placeName>
-               <desc xml:id="abstract-en-69" xml:lang="en">A monastery near Mardin, the seat of a Syrian Orthodox patriachate from 1293 into the 20th C.</desc>
+               <desc xml:id="abstract-en-69" xml:lang="en">
+                  <quote source="#bib69-1">A Syr. Orth. monastery dedicated to Mar Ḥnonyo (Arab. Ḥanānyā) located outside Mardin, and the seat of the patriarchate from 1293 until after World War I.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib69-1">620. al-Zaʿfarān, Dayr</quote>
                </desc>
@@ -134,9 +136,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery Deir Zafaran&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib69-1">
+                  <author>G. A. Kiraz</author>
                   <title level="a" xml:lang="en">620. al-Zaʿfarān, Dayr</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">449</citedRange>
                </bibl>
                <bibl xml:id="bib69-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

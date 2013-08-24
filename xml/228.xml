@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -113,7 +113,9 @@
                <placeName xml:id="name228-4" xml:lang="ar" source="#bib228-4">دير مار موسى الحبشي</placeName>
                <placeName xml:id="name228-5" xml:lang="en" source="#bib228-5">Moses the Abyssinian Monastery</placeName>
                <placeName xml:id="name228-6" xml:lang="en" source="#bib228-6">monastery of Mar Musa al-Habashi</placeName>
-               <desc xml:id="abstract-en-228" xml:lang="en"/>
+               <desc xml:id="abstract-en-228" xml:lang="en">
+                  <quote source="#bib228-1">The Monastery of Moses the Ethiopian is perched on top of a steep, rocky promontory that juts out of a deep gully between two cliffs in the high region south of Nabk.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib228-1">383. Mūsā al-Ḥabashī, Dayr Mār</quote>
                </desc>
@@ -140,9 +142,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of Mar Musa al-Habashi&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib228-1">
+                  <author>E. C. Dodd </author>
                   <title level="a" xml:lang="en">383. Mūsā al-Ḥabashī, Dayr Mār</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">296-300</citedRange>
                </bibl>
                <bibl xml:id="bib228-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

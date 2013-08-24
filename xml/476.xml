@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -78,7 +78,9 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib476-2">School of Nisibis</placeName>
-               <desc xml:id="abstract-en-476" xml:lang="en"/>
+               <desc xml:id="abstract-en-476" xml:lang="en">
+                  <quote source="#bib476-1">The School of Nisibis was an E.-Syr. institution of learning founded in part by refugees from the School of Edessa after the latter was forcibly closed by the religious and political authorities in 489, because it had become an exegetical circle of dyophysite Christians whose Antiochene theology was no longer welcome in a Roman Empire split by Christological controversy.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib476-1">401. Nisibis, School of</quote>
                </desc>
@@ -87,9 +89,11 @@
                <idno type="URI">http://en.wikipedia.org/wiki/School_of_Nisibis</idno>
                <idno type="URI">http://dbpedia.org/resource/School_of_Nisibis</idno>
                <bibl xml:id="bib476-1">
+                  <author>A. H. Becker </author>
                   <title level="a" xml:lang="en">401. Nisibis, School of</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">311-312</citedRange>
                </bibl>
                <bibl xml:id="bib476-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

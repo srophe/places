@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -114,7 +114,9 @@
                <placeName xml:id="name388-8" xml:lang="en" source="#bib388-5">Mark the Evangelist Monastery and the Virgin Monastery</placeName>
                <placeName xml:id="name388-9" xml:lang="en" source="#bib388-5">Monastery of the Syrians</placeName>
                <placeName xml:id="name388-10" xml:lang="en" source="#bib388-6">monastery of St Mark</placeName>
-               <desc xml:id="abstract-en-388" xml:lang="en"/>
+               <desc xml:id="abstract-en-388" xml:lang="en">
+                  <quote source="#bib388-1">Said to be located on the site of the Last Supper and named after the Evangelist, the monastery is situated on mount Zion in Jerusalem.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib388-1">354. Mark, Monastery of St.</quote>
                </desc>
@@ -134,9 +136,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of St Mark&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib388-1">
+                  <author>G. A. Kiraz </author>
                   <title level="a" xml:lang="en">354. Mark, Monastery of St.</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">269-270</citedRange>
                </bibl>
                <bibl xml:id="bib388-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

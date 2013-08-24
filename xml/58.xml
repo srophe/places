@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -111,7 +111,9 @@
                <placeName xml:id="name58-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܩܛܝܣܦܘܢ</placeName>
                <placeName xml:id="name58-3" xml:lang="syr-Syrj" source="#bib58-3">ܩܰܛܝܣܦܘܢ</placeName>
                <placeName xml:id="name58-4" xml:lang="ar" source="#bib58-4">قسطفون</placeName>
-               <desc xml:id="abstract-en-58" xml:lang="en">The capital of the Parthian and Sasanian Empires, on the east bank of the Tigris.</desc>
+               <desc xml:id="abstract-en-58" xml:lang="en">
+                  <quote source="#bib58-1">Located on the Tigris, south of modern Baghdad.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib58-1">483. Seleucia-Ctesiphon</quote>
                </desc>
@@ -136,9 +138,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=S&amp;sK=Seleucia-Ctesiphon&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib58-1">
+                  <author>M. C. Cassis</author>
                   <title level="a" xml:lang="en">483. Seleucia-Ctesiphon</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">365</citedRange>
                </bibl>
                <bibl xml:id="bib58-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

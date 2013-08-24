@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -78,7 +78,9 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib478-2 #bib478-3">Turfan</placeName>
-               <desc xml:id="abstract-en-478" xml:lang="en"/>
+               <desc xml:id="abstract-en-478" xml:lang="en">
+                  <quote source="#bib478-1">German excavations (1904–7), conducted near Bulayıq, north of Turfan, brought to light numerous fragmentary mss. evidently from the library of an E.-Syr. monastery.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib478-1">566. Turfan, Syriac texts from</quote>
                </desc>
@@ -89,9 +91,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=T&amp;sK=Turfan&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib478-1">
+                  <author>S. P. Brock</author>
                   <title level="a" xml:lang="en">566. Turfan, Syriac texts from</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">420-421</citedRange>
                </bibl>
                <bibl xml:id="bib478-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

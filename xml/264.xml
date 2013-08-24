@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -78,16 +78,20 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib264-2">Maʿad</placeName>
-               <desc xml:id="abstract-en-264" xml:lang="en"/>
+               <desc xml:id="abstract-en-264" xml:lang="en">
+                  <quote source="#bib264-1">The village of Maʿad is 14 km. northeast of Byblos (Jbeil), 52 km. from Beirut, 525 m. above sea level.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib264-1">334. Maʿad</quote>
                </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/264</idno>
                <bibl xml:id="bib264-1">
+                  <author>E. C. Dodd </author>
                   <title level="a" xml:lang="en">334. Maʿad</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">252-253</citedRange>
                </bibl>
                <bibl xml:id="bib264-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

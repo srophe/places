@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -108,11 +108,15 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib464-2">Nagran</placeName>
-               <placeName xml:id="name464-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܢܓܪܐܢ</placeName>
-               <placeName xml:id="name464-3" xml:lang="syr-Syrj" source="#bib464-3">ܢܰܓܪܰܐܢ</placeName>
-               <placeName xml:id="name464-4" xml:lang="ar" source="#bib464-4">نجران</placeName>
-               <placeName xml:id="name464-5" xml:lang="en" source="#bib464-5 #bib464-6">Najran</placeName>
-               <desc xml:id="abstract-en-464" xml:lang="en"/>
+               <placeName xml:id="name464-2" xml:lang="en" source="#bib464-2">Negran</placeName>
+               <placeName xml:id="name464-3" xml:lang="en" source="#bib464-2">Najrān</placeName>
+               <placeName xml:id="name464-4" xml:lang="syr" syriaca-tags="#syriaca-headword">ܢܓܪܐܢ</placeName>
+               <placeName xml:id="name464-5" xml:lang="syr-Syrj" source="#bib464-3">ܢܰܓܪܰܐܢ</placeName>
+               <placeName xml:id="name464-6" xml:lang="ar" source="#bib464-4">نجران</placeName>
+               <placeName xml:id="name464-7" xml:lang="en" source="#bib464-5 #bib464-6">Najran</placeName>
+               <desc xml:id="abstract-en-464" xml:lang="en">
+                  <quote source="#bib464-1">City in S. Arabia (Syr. Nagran, or Negran; Arab. Najrān), and city in Iraq.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib464-1">388. Nagran</quote>
                </desc>
@@ -134,9 +138,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=N&amp;sK=Najran&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib464-1">
+                  <author>L. Van Rompay </author>
                   <title level="a" xml:lang="en">388. Nagran</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">302-303</citedRange>
                </bibl>
                <bibl xml:id="bib464-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

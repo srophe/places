@@ -57,7 +57,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -89,7 +89,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -106,7 +106,9 @@
                <placeName xml:id="name215-5" xml:lang="ar" source="#bib215-4">حمص</placeName>
                <placeName xml:id="name215-6" xml:lang="en" source="#bib215-5">Ḥomṣ</placeName>
                <placeName xml:id="name215-7" xml:lang="en" source="#bib215-6">Homs</placeName>
-               <desc xml:id="abstract-en-215" xml:lang="en"/>
+               <desc xml:id="abstract-en-215" xml:lang="en">
+                  <quote source="#bib215-1">City in Syria.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib215-1">259. Ḥimṣ</quote>
                </desc>
@@ -128,9 +130,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=E&amp;sK=Emesa&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib215-1">
+                  <author>H. Takahashi</author>
                   <title level="a" xml:lang="en">259. Ḥimṣ</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">196-197</citedRange>
                </bibl>
                <bibl xml:id="bib215-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

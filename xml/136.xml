@@ -69,7 +69,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -101,7 +101,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -118,7 +118,9 @@
                           source="#bib136-3">ܡܝܠܝܛܝܢܝ</placeName>
                <placeName xml:id="name136-3" xml:lang="ar" source="#bib136-4">ملطية</placeName>
                <placeName xml:id="name136-4" xml:lang="en" source="#bib136-5 #bib136-6">Malatya</placeName>
-               <desc xml:id="abstract-en-136" xml:lang="en"/>
+               <desc xml:id="abstract-en-136" xml:lang="en">
+                  <quote source="#bib136-1">City in eastern Anatolia, located near the right bank of the Euphrates and to the north of the main range of the Eastern Taurus.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib136-1">367. Melitene</quote>
                </desc>
@@ -140,9 +142,11 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Malatya</idno>
                <idno type="URI">http://dbpedia.org/resource/Malatya</idno>
                <bibl xml:id="bib136-1">
+                  <author>H. Takahashi </author>
                   <title level="a" xml:lang="en">367. Melitene</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">283-284</citedRange>
                </bibl>
                <bibl xml:id="bib136-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

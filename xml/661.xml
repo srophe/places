@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Mar Abraham</title>
+            <title level="a" xml:lang="en">Mar Gabriel and Mar Abraham</title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -77,7 +77,9 @@
                <placeName xml:id="name661-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib661-1">Mar Abraham</placeName>
+                          source="#bib661-1">Mar Gabriel and Mar Abraham</placeName>
+               <placeName xml:id="name661-2" xml:lang="en" source="#bib661-1">Mar Abraham</placeName>
+               <placeName xml:id="name661-3" xml:lang="en" source="#bib661-1">Upper Monastery</placeName>
                <desc xml:id="abstract-en-661" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/661</idno>

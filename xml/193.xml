@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -108,12 +108,15 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib193-2 #bib193-6">Tagrit</placeName>
-               <placeName xml:id="name193-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܬܓܪܝܬ</placeName>
-               <placeName xml:id="name193-3" xml:lang="syr-Syrj" source="#bib193-3">ܬܰܓܪܝܬ</placeName>
-               <placeName xml:id="name193-4" xml:lang="ar" source="#bib193-4">تكريت</placeName>
-               <placeName xml:id="name193-5" xml:lang="en" source="#bib193-5">Takrit</placeName>
-               <placeName xml:id="name193-6" xml:lang="en" source="#bib193-7">Tagrīt</placeName>
-               <desc xml:id="abstract-en-193" xml:lang="en"/>
+               <placeName xml:id="name193-2" xml:lang="en" source="#bib193-2">Tikrit</placeName>
+               <placeName xml:id="name193-3" xml:lang="en" source="#bib193-2 #bib193-5">Takrit</placeName>
+               <placeName xml:id="name193-4" xml:lang="syr" syriaca-tags="#syriaca-headword">ܬܓܪܝܬ</placeName>
+               <placeName xml:id="name193-5" xml:lang="syr-Syrj" source="#bib193-3">ܬܰܓܪܝܬ</placeName>
+               <placeName xml:id="name193-6" xml:lang="ar" source="#bib193-4">تكريت</placeName>
+               <placeName xml:id="name193-7" xml:lang="en" source="#bib193-7">Tagrīt</placeName>
+               <desc xml:id="abstract-en-193" xml:lang="en">
+                  <quote source="#bib193-1">Tagrit is a modern city located on the west bank of the Tigris, almost mid-way between Mosul and Baghdad.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib193-1">532. Tagrit</quote>
                </desc>
@@ -141,9 +144,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=T&amp;sK=Tagrit&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib193-1">
+                  <author>A. Harrak </author>
                   <title level="a" xml:lang="en">532. Tagrit</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">395-396</citedRange>
                </bibl>
                <bibl xml:id="bib193-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

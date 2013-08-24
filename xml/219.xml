@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -117,7 +117,9 @@
                <placeName xml:id="name219-5" xml:lang="en" source="#bib219-5">Ḥīra</placeName>
                <placeName xml:id="name219-6" xml:lang="en" source="#bib219-6">Hira</placeName>
                <placeName xml:id="name219-7" xml:lang="en" source="#bib219-7">Ḥirtā</placeName>
-               <desc xml:id="abstract-en-219" xml:lang="en"/>
+               <desc xml:id="abstract-en-219" xml:lang="en">
+                  <quote source="#bib219-1">Ancient city near the Euphrates to the southeast of present-day al-Najaf.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib219-1">262. Ḥirta</quote>
                </desc>
@@ -142,9 +144,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=H&amp;sK=Hira&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib219-1">
+                  <author>H. Takahashi</author>
                   <title level="a" xml:lang="en">262. Ḥirta</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">198-199</citedRange>
                </bibl>
                <bibl xml:id="bib219-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

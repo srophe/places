@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -107,7 +107,9 @@
                <placeName xml:id="name104-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܘܪܫܠܡ</placeName>
                <placeName xml:id="name104-3" xml:lang="syr-Syrj" source="#bib104-3">ܐܘܪܫܠܶܡ</placeName>
                <placeName xml:id="name104-4" xml:lang="ar" source="#bib104-4">اورشليم</placeName>
-               <desc xml:id="abstract-en-104" xml:lang="en"/>
+               <desc xml:id="abstract-en-104" xml:lang="en">
+                  <quote source="#bib104-1">As the birthplace of Christianity and the main destination of  pilgrimage, Jerusalem played an important role for Christians of all  Syr. traditions.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib104-1">301. Jerusalem</quote>
                </desc>
@@ -123,9 +125,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=J&amp;sK=Jerusalem&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib104-1">
+                  <author>G. A. Kiraz and L. Van Rompay</author>
                   <title level="a" xml:lang="en">301. Jerusalem</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">227-229</citedRange>
                </bibl>
                <bibl xml:id="bib104-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

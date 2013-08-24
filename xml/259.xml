@@ -23,6 +23,10 @@
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -35,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -78,7 +82,11 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib259-1">Shaqlāwa</placeName>
+               <placeName xml:id="name259-2" xml:lang="en" source="#bib259-2">Shaqlāwā</placeName>
                <desc xml:id="abstract-en-259" xml:lang="en"/>
+               <location type="nested" source="#bib259-2">
+                  <region ref="http://syriaca.org/place/993">Erbil region</region>
+               </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/259</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Shaqlawa</idno>
@@ -87,6 +95,12 @@
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="maps">Map IV</citedRange>
+               </bibl>
+               <bibl xml:id="bib259-2">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">89, 127, 141, 158, 166, 168, 171, 176, 181, 182, 205, 255, 264, 270, 273</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

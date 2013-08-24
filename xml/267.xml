@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -78,16 +78,20 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib267-2">Kfar Helda</placeName>
-               <desc xml:id="abstract-en-267" xml:lang="en"/>
+               <desc xml:id="abstract-en-267" xml:lang="en">
+                  <quote source="#bib267-1">Village in Lebanon, on the right bank of the Nahr al-Jaouz, ca. 15 km. from Batrun.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib267-1">317. Kfar Helda</quote>
                </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/267</idno>
                <bibl xml:id="bib267-1">
+                  <author>M. Immerzeel</author>
                   <title level="a" xml:lang="en">317. Kfar Helda</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">242</citedRange>
                </bibl>
                <bibl xml:id="bib267-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

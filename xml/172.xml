@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -109,11 +109,16 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib172-2">Reshʿayna</placeName>
                <placeName xml:id="name172-2" xml:lang="en" source="#bib172-2">Theodosiopolis</placeName>
-               <placeName xml:id="name172-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܪܝܫ ܥܝܢܐ</placeName>
-               <placeName xml:id="name172-4" xml:lang="syr-Syrj" source="#bib172-3">ܪܝܺܫ ܥܰܝܢܳܐ</placeName>
-               <placeName xml:id="name172-5" xml:lang="ar" source="#bib172-4">رأس عين</placeName>
-               <placeName xml:id="name172-6" xml:lang="en" source="#bib172-5">Rish ʿAyna</placeName>
-               <desc xml:id="abstract-en-172" xml:lang="en"/>
+               <placeName xml:id="name172-3" xml:lang="en" source="#bib172-2">Raʾs al-ʿAyn</placeName>
+               <placeName xml:id="name172-4" xml:lang="en" source="#bib172-2">Ceylanpınar</placeName>
+               <placeName xml:id="name172-5" xml:lang="en" source="#bib172-2">Resülayn</placeName>
+               <placeName xml:id="name172-6" xml:lang="syr" syriaca-tags="#syriaca-headword">ܪܝܫ ܥܝܢܐ</placeName>
+               <placeName xml:id="name172-7" xml:lang="syr-Syrj" source="#bib172-3">ܪܝܺܫ ܥܰܝܢܳܐ</placeName>
+               <placeName xml:id="name172-8" xml:lang="ar" source="#bib172-4">رأس عين</placeName>
+               <placeName xml:id="name172-9" xml:lang="en" source="#bib172-5">Rish ʿAyna</placeName>
+               <desc xml:id="abstract-en-172" xml:lang="en">
+                  <quote source="#bib172-1">City on the Khabur, located in the eastern part of ancient Osrhoene and today straddling the Turkish-Syrian border, the Syrian part now bearing the name Raʾs al-ʿAyn and the Turkish part Ceylanpınar (earlier Resülayn).</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib172-1">455. Reshʿayna</quote>
                </desc>
@@ -138,9 +143,11 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Ras_al-Ayn,_Syria</idno>
                <idno type="URI">http://dbpedia.org/resource/Ras_al-Ayn,_Syria</idno>
                <bibl xml:id="bib172-1">
+                  <author>H. Takahashi and L. Van Rompay</author>
                   <title level="a" xml:lang="en">455. Reshʿayna</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">351</citedRange>
                </bibl>
                <bibl xml:id="bib172-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

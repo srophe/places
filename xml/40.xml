@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -114,7 +114,9 @@
                <placeName xml:id="name40-6" xml:lang="ar" source="#bib40-4">اسكي شام</placeName>
                <placeName xml:id="name40-7" xml:lang="en" source="#bib40-5">Buṣra</placeName>
                <placeName xml:id="name40-8" xml:lang="en" source="#bib40-5">Eski Shām</placeName>
-               <desc xml:id="abstract-en-40" xml:lang="en">A city east of the Jordan River in the Roman province of Arabia.</desc>
+               <desc xml:id="abstract-en-40" xml:lang="en">
+                  <quote source="#bib40-1">City in the Ḥawrān, present-day southern Syria, ca. 120 fan. south of Damascus.</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib40-1">112. Bostra</quote>
                </desc>
@@ -139,9 +141,11 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Bosra</idno>
                <idno type="URI">http://dbpedia.org/resource/Bosra</idno>
                <bibl xml:id="bib40-1">
+                  <author>L. Van Rompay</author>
                   <title level="a" xml:lang="en">112. Bostra</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">86</citedRange>
                </bibl>
                <bibl xml:id="bib40-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

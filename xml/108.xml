@@ -69,7 +69,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-14-04:00</date>
+            <date>2013-08-24-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -101,7 +101,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -122,7 +122,9 @@
                <placeName xml:id="name108-9" xml:lang="en" source="#bib108-6">Karka de Beth Selok</placeName>
                <placeName xml:id="name108-10" xml:lang="en" source="#bib108-7">Kirkūk (Karkā d'Beṯ Ṣlōḥ)</placeName>
                <placeName xml:id="name108-11" xml:lang="en" source="#bib108-7">Slōḥ</placeName>
-               <desc xml:id="abstract-en-108" xml:lang="en"/>
+               <desc xml:id="abstract-en-108" xml:lang="en">
+                  <quote source="#bib108-1">The name occurs in the 6th cent. ‘History of Karka d- Beth Slokh and its Martyrs’ published by Bedjan, and it means literally 'Fortress of the House of Seleucus.'</quote>
+               </desc>
                <desc xml:lang="en">
                   <quote source="#bib108-1">316. Karka d-Beth Slokh</quote>
                </desc>
@@ -147,9 +149,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=K&amp;sK=Karka de Beth Selok&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib108-1">
+                  <author>A. Harrak</author>
                   <title level="a" xml:lang="en">316. Karka d-Beth Slokh</title>
                   <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">242</citedRange>
                </bibl>
                <bibl xml:id="bib108-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
