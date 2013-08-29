@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -108,9 +108,10 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib63-1 #bib63-4">Claudia</placeName>
-               <placeName xml:id="name63-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܩܠܘܕܝܐ</placeName>
-               <placeName xml:id="name63-3" xml:lang="syr-Syrj" source="#bib63-2">ܩܠܰܘܕܺܝܰܐ</placeName>
-               <placeName xml:id="name63-4" xml:lang="ar" source="#bib63-3">قلوذية</placeName>
+               <placeName xml:id="name63-2" xml:lang="en" source="#bib63-1">Qlaudia</placeName>
+               <placeName xml:id="name63-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܩܠܘܕܝܐ</placeName>
+               <placeName xml:id="name63-4" xml:lang="syr-Syrj" source="#bib63-2">ܩܠܰܘܕܺܝܰܐ</placeName>
+               <placeName xml:id="name63-5" xml:lang="ar" source="#bib63-3">قلوذية</placeName>
                <desc xml:id="abstract-en-63" xml:lang="en">A city southeast of Melitene.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib63-2">ܚܶܣܢܳܐ ܕܩܰܪܝܒ ܗܘܐ ܠܡܺܝܠܝܛܝܢܝ ܐܶܣܬܚܦ ܘܰܗܦܰܟ ܒܢܳܝܗܝ ܚܰܣܢ ܒܰܪ ܩܚܛܒܗ ܫܢܰܬ 141 ܗܳܓܳܪܳܝܬܐ. ܘܫܰܚܠܦܗ ܠܰܐܬܪܐ ܒܰܫܡܗ. ܘܰܚܪܒ ܒܳܬܰܪ ܕܳܪܐ ܬܠܳܬܰܥܣܝܪܳܝܐ. </quote>
@@ -132,6 +133,7 @@
                <bibl xml:id="bib63-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">178, 408</citedRange>
                   <citedRange unit="maps">Map II B1</citedRange>
                </bibl>
                <bibl xml:id="bib63-2">

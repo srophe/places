@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Dafna
+            <title level="a" xml:lang="en">Defne
                                         — <foreign xml:lang="syr">ܕܦܢܗ</foreign>
             </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
@@ -38,13 +38,13 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib553-1"/>
-                        </bibl>
-                        <bibl>
                            <ptr target="#bib553-2"/>
                         </bibl>
                         <bibl>
                            <ptr target="#bib553-3"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib553-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -94,24 +94,31 @@
                <placeName xml:id="name553-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib553-3">Dafna</placeName>
-               <placeName xml:id="name553-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܦܢܗ</placeName>
-               <placeName xml:id="name553-3" xml:lang="syr-Syrj" source="#bib553-1">ܕܶܦܢܗ</placeName>
-               <placeName xml:id="name553-4" xml:lang="ar" source="#bib553-2">دفنة</placeName>
-               <desc xml:id="abstract-en-553" xml:lang="en"/>
+                          source="#bib553-1">Defne</placeName>
+               <placeName xml:id="name553-2" xml:lang="en" source="#bib553-1">ʿAtafiyya</placeName>
+               <placeName xml:id="name553-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܦܢܗ</placeName>
+               <placeName xml:id="name553-4" xml:lang="syr-Syrj" source="#bib553-2">ܕܶܦܢܗ</placeName>
+               <placeName xml:id="name553-5" xml:lang="ar" source="#bib553-3">دفنة</placeName>
+               <placeName xml:id="name553-6" xml:lang="en" source="#bib553-4">Dafna</placeName>
+               <desc xml:id="abstract-en-553" xml:lang="en">A village near <placeName ref="http://syriaca.org/place/92">Ḥesno d-Kifo</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/553</idno>
                <bibl xml:id="bib553-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">357</citedRange>
+               </bibl>
+               <bibl xml:id="bib553-2">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">548</citedRange>
                </bibl>
-               <bibl xml:id="bib553-2">
+               <bibl xml:id="bib553-3">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">511</citedRange>
                </bibl>
-               <bibl xml:id="bib553-3">
+               <bibl xml:id="bib553-4">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">562</citedRange>

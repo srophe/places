@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -81,7 +81,7 @@
                <placeName xml:id="name572-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib572-1 #bib572-2">Alexandria</placeName>
+                          source="#bib572-1 #bib572-2 #bib572-3">Alexandria</placeName>
                <desc xml:id="abstract-en-572" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/572</idno>
@@ -92,12 +92,17 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=A&amp;sK=Alexandria&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib572-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">21–22, 45–46, 59 (with fig. 19), 76, 103–105, 109, 128, 135, 144–145, 155, 164, 188–189, 231, 248, 258–259, 278, 282, 285, 322, 325, 332, 340, 366, 367, 368, 370, 386, 407, 415, 418, 431, 432, 444, 448</citedRange>
+               </bibl>
+               <bibl xml:id="bib572-2">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=A&amp;sK=Alexandria&amp;sT=keywords">Alexandria</citedRange>
                </bibl>
-               <bibl xml:id="bib572-2">
+               <bibl xml:id="bib572-3">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">64-65, 364</citedRange>

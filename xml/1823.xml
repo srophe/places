@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Beṯ Bgāsh </title>
+            <title level="a" xml:lang="en">Beth Bgash</title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,19 +71,27 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-1823" type="region">
-               <placeName xml:id="name1823-1" xml:lang="en" syriaca-tags="#syriaca-headword">Beṯ Bgāsh </placeName>
-               <placeName xml:id="name1823-2" xml:lang="en" source="#bib1823-1">Beṯ Bgāsh</placeName>
+               <placeName xml:id="name1823-1"
+                          xml:lang="en"
+                          syriaca-tags="#syriaca-headword"
+                          source="#bib1823-1">Beth Bgash</placeName>
+               <placeName xml:id="name1823-2" xml:lang="en" source="#bib1823-2">Beṯ Bgāsh</placeName>
                <desc xml:id="abstract-en-1823" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/1823</idno>
                <bibl xml:id="bib1823-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">186, 414</citedRange>
+               </bibl>
+               <bibl xml:id="bib1823-2">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">277</citedRange>

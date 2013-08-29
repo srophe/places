@@ -38,13 +38,13 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib494-1"/>
-                        </bibl>
-                        <bibl>
                            <ptr target="#bib494-2"/>
                         </bibl>
                         <bibl>
                            <ptr target="#bib494-3"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib494-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,18 +84,22 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-494" type="settlement">
-               <placeName xml:id="name494-1" xml:lang="en" syriaca-tags="#syriaca-headword">Ancyra</placeName>
-               <placeName xml:id="name494-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܢܩܘܪܐ</placeName>
-               <placeName xml:id="name494-3" xml:lang="syr-Syrj" source="#bib494-1">ܐܰܢܩܘܪܰܐ</placeName>
-               <placeName xml:id="name494-4" xml:lang="ar" source="#bib494-2">انقرة</placeName>
-               <placeName xml:id="name494-5" xml:lang="en" source="#bib494-3">Ankara</placeName>
+               <placeName xml:id="name494-1"
+                          xml:lang="en"
+                          syriaca-tags="#syriaca-headword"
+                          source="#bib494-1">Ancyra</placeName>
+               <placeName xml:id="name494-2" xml:lang="en" source="#bib494-1">Ankyra</placeName>
+               <placeName xml:id="name494-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܢܩܘܪܐ</placeName>
+               <placeName xml:id="name494-4" xml:lang="syr-Syrj" source="#bib494-2">ܐܰܢܩܘܪܰܐ</placeName>
+               <placeName xml:id="name494-5" xml:lang="ar" source="#bib494-3">انقرة</placeName>
+               <placeName xml:id="name494-6" xml:lang="en" source="#bib494-4">Ankara</placeName>
                <desc xml:id="abstract-en-494" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/494</idno>
@@ -103,16 +107,21 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Ankara</idno>
                <idno type="URI">http://dbpedia.org/resource/Ankara</idno>
                <bibl xml:id="bib494-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">238, 307, 409</citedRange>
+               </bibl>
+               <bibl xml:id="bib494-2">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">560</citedRange>
                </bibl>
-               <bibl xml:id="bib494-2">
+               <bibl xml:id="bib494-3">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">518</citedRange>
                </bibl>
-               <bibl xml:id="bib494-3">
+               <bibl xml:id="bib494-4">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">552</citedRange>

@@ -51,13 +51,13 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib308-1"/>
-                        </bibl>
-                        <bibl>
                            <ptr target="#bib308-2"/>
                         </bibl>
                         <bibl>
                            <ptr target="#bib308-3"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib308-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -107,43 +107,48 @@
                <placeName xml:id="name308-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib308-3">Tabriz</placeName>
+                          source="#bib308-1 #bib308-4">Tabriz</placeName>
                <placeName xml:id="name308-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܬܒܪܝܙ</placeName>
-               <placeName xml:id="name308-3" xml:lang="syr-Syrj" source="#bib308-1">ܬܰܒܪܺܝܙ</placeName>
-               <placeName xml:id="name308-4" xml:lang="ar" source="#bib308-2">تبريز</placeName>
-               <placeName xml:id="name308-5" xml:lang="ar" source="#bib308-2">توريز</placeName>
-               <placeName xml:id="name308-6" xml:lang="en" source="#bib308-3">Tawriz</placeName>
-               <placeName xml:id="name308-7" xml:lang="en" source="#bib308-4">Tabrīz</placeName>
+               <placeName xml:id="name308-3" xml:lang="syr-Syrj" source="#bib308-2">ܬܰܒܪܺܝܙ</placeName>
+               <placeName xml:id="name308-4" xml:lang="ar" source="#bib308-3">تبريز</placeName>
+               <placeName xml:id="name308-5" xml:lang="ar" source="#bib308-3">توريز</placeName>
+               <placeName xml:id="name308-6" xml:lang="en" source="#bib308-4">Tawriz</placeName>
+               <placeName xml:id="name308-7" xml:lang="en" source="#bib308-5">Tabrīz</placeName>
                <desc xml:id="abstract-en-308" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib308-1">ܛܒܺܝܒܐ ܕܰܡܕܺܝܢ̈ܬܐ ܕܐܰܕܘܽܪܒܰܝܓܰܢ ܒܰܐܬܪ̈ܘܳܬܳܐ ܕܦܳܪܶܣ.</quote>
+                  <quote source="#bib308-2">ܛܒܺܝܒܐ ܕܰܡܕܺܝܢ̈ܬܐ ܕܐܰܕܘܽܪܒܰܝܓܰܢ ܒܰܐܬܪ̈ܘܳܬܳܐ ܕܦܳܪܶܣ.</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib308-2">اشهر مدن اذربيجان في بلاد فارس</quote>
+                  <quote source="#bib308-3">اشهر مدن اذربيجان في بلاد فارس</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib308-3">a very famous town of Azerbayjan, in Persia.</quote>
+                  <quote source="#bib308-4">a very famous town of Azerbayjan, in Persia.</quote>
                </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/308</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Tabriz</idno>
                <idno type="URI">http://dbpedia.org/resource/Tabriz</idno>
                <bibl xml:id="bib308-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">55</citedRange>
+               </bibl>
+               <bibl xml:id="bib308-2">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">537</citedRange>
                </bibl>
-               <bibl xml:id="bib308-2">
+               <bibl xml:id="bib308-3">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">505</citedRange>
                </bibl>
-               <bibl xml:id="bib308-3">
+               <bibl xml:id="bib308-4">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">558</citedRange>
                </bibl>
-               <bibl xml:id="bib308-4">
+               <bibl xml:id="bib308-5">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">17, 18, 322, 323</citedRange>

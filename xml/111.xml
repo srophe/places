@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -82,7 +82,7 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib111-1 #bib111-2 #bib111-3">Kashkar</placeName>
-               <desc xml:id="abstract-en-111" xml:lang="en"/>
+               <desc xml:id="abstract-en-111" xml:lang="en">An ancient town in southern Iraq.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/111</idno>
                <idno type="URI">http://pleiades.stoa.org/places/912880</idno>
@@ -94,6 +94,7 @@
                <bibl xml:id="bib111-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">1, 8, 50, 70, 162, 195, 212, 405</citedRange>
                   <citedRange unit="maps">Map I D3, II D3</citedRange>
                </bibl>
                <bibl xml:id="bib111-2">

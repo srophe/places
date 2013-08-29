@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Dayro d-Notpo
+            <title level="a" xml:lang="en">Dayro d-Noṭpo
                                         — <foreign xml:lang="syr">ܕܝܪܐ ܕܢܛܦܐ</foreign>
             </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -107,7 +107,7 @@
                <placeName xml:id="name73-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib73-1">Dayro d-Notpo</placeName>
+                          source="#bib73-1">Dayro d-Noṭpo</placeName>
                <placeName xml:id="name73-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܢܛܦܐ</placeName>
                <placeName xml:id="name73-3" xml:lang="syr-Syrj" source="#bib73-2">ܕܰܝܪܐ ܕܢܛܦܳܐ</placeName>
                <placeName xml:id="name73-4" xml:lang="ar" source="#bib73-3">دير القطرة</placeName>
@@ -127,10 +127,12 @@
                <state type="existence" to="1927">
                   <precision match="@to" notAfter="1927"/>
                </state>
+               <note type="errata">GEDSH Map III omits the dot in Noṭpo</note>
                <idno type="URI">http://syriaca.org/place/73</idno>
                <bibl xml:id="bib73-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">114, 129, 438</citedRange>
                   <citedRange unit="maps">Map III</citedRange>
                </bibl>
                <bibl xml:id="bib73-2">

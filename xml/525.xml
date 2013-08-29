@@ -38,13 +38,13 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib525-1"/>
-                        </bibl>
-                        <bibl>
                            <ptr target="#bib525-2"/>
                         </bibl>
                         <bibl>
                            <ptr target="#bib525-3"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib525-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -94,10 +94,10 @@
                <placeName xml:id="name525-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib525-3">Pisidia</placeName>
+                          source="#bib525-1 #bib525-4">Pisidia</placeName>
                <placeName xml:id="name525-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܝܣܝܕܝܗ</placeName>
-               <placeName xml:id="name525-3" xml:lang="syr-Syrj" source="#bib525-1">ܒܝܣܝܺܕܝܗ</placeName>
-               <placeName xml:id="name525-4" xml:lang="ar" source="#bib525-2">بيسيدية</placeName>
+               <placeName xml:id="name525-3" xml:lang="syr-Syrj" source="#bib525-2">ܒܝܣܝܺܕܝܗ</placeName>
+               <placeName xml:id="name525-4" xml:lang="ar" source="#bib525-3">بيسيدية</placeName>
                <desc xml:id="abstract-en-525" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/525</idno>
@@ -105,16 +105,21 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Pisidia</idno>
                <idno type="URI">http://dbpedia.org/resource/Pisidia</idno>
                <bibl xml:id="bib525-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">368, 396</citedRange>
+               </bibl>
+               <bibl xml:id="bib525-2">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">557</citedRange>
                </bibl>
-               <bibl xml:id="bib525-2">
+               <bibl xml:id="bib525-3">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">516</citedRange>
                </bibl>
-               <bibl xml:id="bib525-3">
+               <bibl xml:id="bib525-4">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">558</citedRange>

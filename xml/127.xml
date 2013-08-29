@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -78,8 +78,9 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib127-1">Mar Yawnan</placeName>
-               <placeName xml:id="name127-2" xml:lang="en" source="#bib127-2">monastery of Mar Yonan</placeName>
-               <desc xml:id="abstract-en-127" xml:lang="en"/>
+               <placeName xml:id="name127-2" xml:lang="en" source="#bib127-1">Monastery of Jonah</placeName>
+               <placeName xml:id="name127-3" xml:lang="en" source="#bib127-2">monastery of Mar Yonan</placeName>
+               <desc xml:id="abstract-en-127" xml:lang="en">A monastery near <placeName ref="http://syriaca.org/place/139">Mosul</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/127</idno>
                <idno type="URI">
@@ -88,6 +89,7 @@
                <bibl xml:id="bib127-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">194, 309</citedRange>
                   <citedRange unit="maps">Map IV</citedRange>
                </bibl>
                <bibl xml:id="bib127-2">

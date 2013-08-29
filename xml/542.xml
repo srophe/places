@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -98,7 +98,7 @@
                <placeName xml:id="name542-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܬܡܪܙ</placeName>
                <placeName xml:id="name542-3" xml:lang="syr-Syrj" source="#bib542-1">ܬܰܡܰܪܙ</placeName>
                <placeName xml:id="name542-4" xml:lang="ar" source="#bib542-2">تمرس</placeName>
-               <desc xml:id="abstract-en-542" xml:lang="en"/>
+               <desc xml:id="abstract-en-542" xml:lang="en">A village in <placeName ref="http://syriaca.org/place/221">Ṭur ʿAbdin</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/542</idno>
                <bibl xml:id="bib542-1">

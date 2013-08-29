@@ -51,13 +51,13 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib436-1"/>
-                        </bibl>
-                        <bibl>
                            <ptr target="#bib436-2"/>
                         </bibl>
                         <bibl>
                            <ptr target="#bib436-3"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib436-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -107,19 +107,19 @@
                <placeName xml:id="name436-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib436-3">Fayrūza</placeName>
+                          source="#bib436-1 #bib436-4">Fayrūza</placeName>
                <placeName xml:id="name436-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܦܝܪܘܙܗ</placeName>
-               <placeName xml:id="name436-3" xml:lang="syr-Syrj" source="#bib436-1">ܦܰܝܪܘܙܗ</placeName>
-               <placeName xml:id="name436-4" xml:lang="ar" source="#bib436-2">فيروزه</placeName>
-               <desc xml:id="abstract-en-436" xml:lang="en"/>
+               <placeName xml:id="name436-3" xml:lang="syr-Syrj" source="#bib436-2">ܦܰܝܪܘܙܗ</placeName>
+               <placeName xml:id="name436-4" xml:lang="ar" source="#bib436-3">فيروزه</placeName>
+               <desc xml:id="abstract-en-436" xml:lang="en">A village near <placeName ref="http://syriaca.org/place/215">Ḥimṣ</placeName>.</desc>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib436-1">ܡܶܢ ܩܘܪ̈ܝܐ ܕܰܚܡܶܨ ܠܡܰܕܢܚܳܐ ܡܝܰܬܒܳܐ ܒܣܘܪ̈ܝܝܐ.</quote>
+                  <quote source="#bib436-2">ܡܶܢ ܩܘܪ̈ܝܐ ܕܰܚܡܶܨ ܠܡܰܕܢܚܳܐ ܡܝܰܬܒܳܐ ܒܣܘܪ̈ܝܝܐ.</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib436-2">من قرى حمص الآهلة بالسريان شرقيها.</quote>
+                  <quote source="#bib436-3">من قرى حمص الآهلة بالسريان شرقيها.</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib436-3">a village north of Ḥomṣ, heavily populated by Syrians.</quote>
+                  <quote source="#bib436-4">a village north of Ḥomṣ, heavily populated by Syrians.</quote>
                </desc>
                <state type="existence"/>
                <note type="errata">Moosa's English translation of Barsoum's description says "north" when it should be "east."</note>
@@ -127,16 +127,21 @@
                <idno type="URI">http://en.wikipedia.org/wiki/Fairouzeh</idno>
                <idno type="URI">http://dbpedia.org/resource/Fairouzeh</idno>
                <bibl xml:id="bib436-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">110, 197</citedRange>
+               </bibl>
+               <bibl xml:id="bib436-2">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">559</citedRange>
                </bibl>
-               <bibl xml:id="bib436-2">
+               <bibl xml:id="bib436-3">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">518</citedRange>
                </bibl>
-               <bibl xml:id="bib436-3">
+               <bibl xml:id="bib436-4">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">553</citedRange>

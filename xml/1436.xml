@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Mātā Taḥtaiṯā</title>
+            <title level="a" xml:lang="en">Mata Taḥtayta</title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,18 +71,16 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-1436" type="settlement">
-               <placeName xml:id="name1436-1"
-                          xml:lang="en"
-                          syriaca-tags="#syriaca-headword"
-                          source="#bib1436-1">Mātā Taḥtaiṯā</placeName>
-               <placeName xml:id="name1436-2" xml:lang="en" source="#bib1436-1">Māṯā d'Bāz</placeName>
+               <placeName xml:id="name1436-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mata Taḥtayta</placeName>
+               <placeName xml:id="name1436-2" xml:lang="en" source="#bib1436-1">Mātā Taḥtaiṯā</placeName>
+               <placeName xml:id="name1436-3" xml:lang="en" source="#bib1436-1">Māṯā d'Bāz</placeName>
                <desc xml:id="abstract-en-1436" xml:lang="en"/>
                <location type="nested" source="#bib1436-1">
                   <region ref="http://syriaca.org/place/734">Bāz district</region>

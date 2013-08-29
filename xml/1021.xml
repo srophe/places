@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Beṯ ʿEḏraï</title>
+            <title level="a" xml:lang="en">Beth ʿEdray</title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -81,16 +81,22 @@
                <placeName xml:id="name1021-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib1021-1">Beṯ ʿEḏraï</placeName>
-               <placeName xml:id="name1021-2" xml:lang="en" source="#bib1021-1">Bā ʿAdre</placeName>
+                          source="#bib1021-1">Beth ʿEdray</placeName>
+               <placeName xml:id="name1021-2" xml:lang="en" source="#bib1021-2">Beṯ ʿEḏraï</placeName>
+               <placeName xml:id="name1021-3" xml:lang="en" source="#bib1021-2">Bā ʿAdre</placeName>
                <desc xml:id="abstract-en-1021" xml:lang="en"/>
-               <location type="nested" source="#bib1021-1">
+               <location type="nested" source="#bib1021-2">
                   <region ref="http://syriaca.org/place/777">Shemkān district</region>
                   <region ref="http://syriaca.org/place/703">ʿAmādīyā region</region>
                </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/1021</idno>
                <bibl xml:id="bib1021-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">27, 58, 436</citedRange>
+               </bibl>
+               <bibl xml:id="bib1021-2">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">156, 157, 189, 191, 203</citedRange>

@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -78,7 +78,7 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib195-1">Tyros</placeName>
-               <placeName xml:id="name195-2" xml:lang="en" source="#bib195-2">Tyre</placeName>
+               <placeName xml:id="name195-2" xml:lang="en" source="#bib195-1 #bib195-2">Tyre</placeName>
                <desc xml:id="abstract-en-195" xml:lang="en"/>
                <location type="gps" source="#bib195-1">
                   <geo>33.26889 35.21639</geo>
@@ -94,6 +94,7 @@
                <bibl xml:id="bib195-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">43, 107, 148, 327, 446</citedRange>
                   <citedRange unit="maps">Map I A2</citedRange>
                </bibl>
                <bibl xml:id="bib195-2">

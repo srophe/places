@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -78,7 +78,7 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib672-1">Arragan</placeName>
-               <desc xml:id="abstract-en-672" xml:lang="en"/>
+               <desc xml:id="abstract-en-672" xml:lang="en">A village in Fars.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/672</idno>
                <idno type="URI">http://pleiades.stoa.org/places/912989</idno>

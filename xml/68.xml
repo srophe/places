@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -106,9 +106,10 @@
                           source="#bib68-2">Dayr al-Ṣalīb</placeName>
                <placeName xml:id="name68-2" xml:lang="en" source="#bib68-2">Dayro da-Ṣlibo</placeName>
                <placeName xml:id="name68-3" xml:lang="en" source="#bib68-2 #bib68-5">Monastery of the Cross</placeName>
-               <placeName xml:id="name68-4" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܨܠܝܒܐ</placeName>
-               <placeName xml:id="name68-5" xml:lang="syr-Syrj" source="#bib68-3">ܕܰܝܪܐ ܕܰܨܠܝܒܐ</placeName>
-               <placeName xml:id="name68-6" xml:lang="ar" source="#bib68-4">دير الصليب</placeName>
+               <placeName xml:id="name68-4" xml:lang="en" source="#bib68-2">Monastery of Beth El</placeName>
+               <placeName xml:id="name68-5" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܨܠܝܒܐ</placeName>
+               <placeName xml:id="name68-6" xml:lang="syr-Syrj" source="#bib68-3">ܕܰܝܪܐ ܕܰܨܠܝܒܐ</placeName>
+               <placeName xml:id="name68-7" xml:lang="ar" source="#bib68-4">دير الصليب</placeName>
                <desc xml:id="abstract-en-68" xml:lang="en">
                   <quote source="#bib68-1">Monastery and village in Ṭur ʿAbdin.</quote>
                </desc>
@@ -140,6 +141,7 @@
                <bibl xml:id="bib68-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">38, 117, 168, 279, 357–358 (with fig. 107), 419</citedRange>
                   <citedRange unit="maps">Map III</citedRange>
                </bibl>
                <bibl xml:id="bib68-3">

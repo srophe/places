@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Arnas
+            <title level="a" xml:lang="en">ʿArdnas
                                         — <foreign xml:lang="syr">ܥܪܢܐܣ</foreign>
             </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
@@ -57,7 +57,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -89,7 +89,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -99,8 +99,8 @@
                <placeName xml:id="name242-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib242-1">Arnas</placeName>
-               <placeName xml:id="name242-2" xml:lang="en" source="#bib242-1">Ardnas</placeName>
+                          source="#bib242-1">ʿArdnas</placeName>
+               <placeName xml:id="name242-2" xml:lang="en" source="#bib242-1">Arnas</placeName>
                <placeName xml:id="name242-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܥܪܢܐܣ</placeName>
                <placeName xml:id="name242-4" xml:lang="syr-Syrj" source="#bib242-2">ܥܰܪܢܰܐܣ</placeName>
                <placeName xml:id="name242-5" xml:lang="ar" source="#bib242-3">عرناس</placeName>
@@ -111,6 +111,7 @@
                <bibl xml:id="bib242-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">466 (fig. 122c), 467 (fig. 123c)</citedRange>
                   <citedRange unit="maps">Map III</citedRange>
                </bibl>
                <bibl xml:id="bib242-2">

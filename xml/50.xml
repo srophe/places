@@ -57,7 +57,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -89,7 +89,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -100,10 +100,11 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib50-1">Birtha</placeName>
-               <placeName xml:id="name50-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܝܪܗܓܝܟ</placeName>
-               <placeName xml:id="name50-3" xml:lang="syr-Syrj" source="#bib50-2">ܒܺܝܪܰܗܓܺܝܟ</placeName>
-               <placeName xml:id="name50-4" xml:lang="ar" source="#bib50-3">بيره جك</placeName>
-               <placeName xml:id="name50-5" xml:lang="en" source="#bib50-4">Biricik</placeName>
+               <placeName xml:id="name50-2" xml:lang="en" source="#bib50-1">Birecik</placeName>
+               <placeName xml:id="name50-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܝܪܗܓܝܟ</placeName>
+               <placeName xml:id="name50-4" xml:lang="syr-Syrj" source="#bib50-2">ܒܺܝܪܰܗܓܺܝܟ</placeName>
+               <placeName xml:id="name50-5" xml:lang="ar" source="#bib50-3">بيره جك</placeName>
+               <placeName xml:id="name50-6" xml:lang="en" source="#bib50-4">Biricik</placeName>
                <desc xml:id="abstract-en-50" xml:lang="en">A village on the Euphrates north of Mabbug and south of Samosata.</desc>
                <location type="gps" source="#bib50-1">
                   <geo>37.02543 37.97877</geo>
@@ -116,6 +117,7 @@
                <bibl xml:id="bib50-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">363, 417</citedRange>
                   <citedRange unit="maps">Map I B1</citedRange>
                </bibl>
                <bibl xml:id="bib50-2">

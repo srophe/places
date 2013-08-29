@@ -51,13 +51,13 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib393-1"/>
-                        </bibl>
-                        <bibl>
                            <ptr target="#bib393-2"/>
                         </bibl>
                         <bibl>
                            <ptr target="#bib393-3"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib393-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,27 +97,30 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-393" type="monastery">
-               <placeName xml:id="name393-1" xml:lang="en" syriaca-tags="#syriaca-headword">Beth Malka</placeName>
+               <placeName xml:id="name393-1"
+                          xml:lang="en"
+                          syriaca-tags="#syriaca-headword"
+                          source="#bib393-1">Beth Malka</placeName>
                <placeName xml:id="name393-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܒܝܬ ܡܠܟܐ</placeName>
-               <placeName xml:id="name393-3" xml:lang="syr-Syrj" source="#bib393-1">ܕܰܝܪܳܐ ܕܒܶܝܬ ܡܰܠܟܐ</placeName>
-               <placeName xml:id="name393-4" xml:lang="ar" source="#bib393-2">دير بيث ملكي</placeName>
-               <placeName xml:id="name393-5" xml:lang="en" source="#bib393-3">Beth Malke Monastery</placeName>
+               <placeName xml:id="name393-3" xml:lang="syr-Syrj" source="#bib393-2">ܕܰܝܪܳܐ ܕܒܶܝܬ ܡܰܠܟܐ</placeName>
+               <placeName xml:id="name393-4" xml:lang="ar" source="#bib393-3">دير بيث ملكي</placeName>
+               <placeName xml:id="name393-5" xml:lang="en" source="#bib393-4">Beth Malke Monastery</placeName>
                <desc xml:id="abstract-en-393" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib393-1">ܒܟܘܪܳܐ ܕܐܰܢܛܝܘܟܝܐ ܒܓܰܘܗ ܥܡܰܪ ܐܰܬܰܢܐܣܝܘܣ ܬܪܰܝܳܢܐ ܡܝܰܒܠ ܟܬܳܒ̈ܐ ܦܝܠܳܣܘܦܳܝ̈ܐ ܠܠܶܫܳܢܰܢ ܒܡܶܨܥܳܝ̈ܬܗ ܕܕܳܪܐ ܫܒܝܥܳܝܐ</quote>
+                  <quote source="#bib393-2">ܒܟܘܪܳܐ ܕܐܰܢܛܝܘܟܝܐ ܒܓܰܘܗ ܥܡܰܪ ܐܰܬܰܢܐܣܝܘܣ ܬܪܰܝܳܢܐ ܡܝܰܒܠ ܟܬܳܒ̈ܐ ܦܝܠܳܣܘܦܳܝ̈ܐ ܠܠܶܫܳܢܰܢ ܒܡܶܨܥܳܝ̈ܬܗ ܕܕܳܪܐ ܫܒܝܥܳܝܐ</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib393-2">في كورة انطاكية فيه اقام اثناسيوس الثاني ينقل الكتب الفلسفية الى لغتنا في اواسط القرن السابع.</quote>
+                  <quote source="#bib393-3">في كورة انطاكية فيه اقام اثناسيوس الثاني ينقل الكتب الفلسفية الى لغتنا في اواسط القرن السابع.</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib393-3">in the province of Antioch. It was in this monastery that Dionysius II resided in the middle of the seventh century and translated books of philosophy into our Syriac language.</quote>
+                  <quote source="#bib393-4">in the province of Antioch. It was in this monastery that Dionysius II resided in the middle of the seventh century and translated books of philosophy into our Syriac language.</quote>
                </desc>
                <state type="existence" from="0645" to="0645">
                   <precision match="@from" notAfter="0645"/>
@@ -125,16 +128,21 @@
                </state>
                <idno type="URI">http://syriaca.org/place/393</idno>
                <bibl xml:id="bib393-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">46</citedRange>
+               </bibl>
+               <bibl xml:id="bib393-2">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">554</citedRange>
                </bibl>
-               <bibl xml:id="bib393-2">
+               <bibl xml:id="bib393-3">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">515</citedRange>
                </bibl>
-               <bibl xml:id="bib393-3">
+               <bibl xml:id="bib393-4">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">562</citedRange>

@@ -47,13 +47,13 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib314-1"/>
-                        </bibl>
-                        <bibl>
                            <ptr target="#bib314-2"/>
                         </bibl>
                         <bibl>
                            <ptr target="#bib314-3"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib314-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,28 +93,31 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-314" type="settlement">
-               <placeName xml:id="name314-1" xml:lang="en" syriaca-tags="#syriaca-headword">Tel Maḥre</placeName>
+               <placeName xml:id="name314-1"
+                          xml:lang="en"
+                          syriaca-tags="#syriaca-headword"
+                          source="#bib314-1">Tel Maḥre</placeName>
                <placeName xml:id="name314-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܬܠ ܡܚܪܝ</placeName>
-               <placeName xml:id="name314-3" xml:lang="syr-Syrj" source="#bib314-1">ܬܶܠ ܡܰܚܪܝ</placeName>
-               <placeName xml:id="name314-4" xml:lang="ar" source="#bib314-2">تلّ محرى </placeName>
-               <placeName xml:id="name314-5" xml:lang="en" source="#bib314-3">Tell Maḥre</placeName>
-               <placeName xml:id="name314-6" xml:lang="en" source="#bib314-3">Tell al-Manakhir</placeName>
+               <placeName xml:id="name314-3" xml:lang="syr-Syrj" source="#bib314-2">ܬܶܠ ܡܰܚܪܝ</placeName>
+               <placeName xml:id="name314-4" xml:lang="ar" source="#bib314-3">تلّ محرى </placeName>
+               <placeName xml:id="name314-5" xml:lang="en" source="#bib314-4">Tell Maḥre</placeName>
+               <placeName xml:id="name314-6" xml:lang="en" source="#bib314-4">Tell al-Manakhir</placeName>
                <desc xml:id="abstract-en-314" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib314-1">ܡܕܝܢܬܘܢܝܬܳܐ ܕܒܶܝܬ ܚܰܣܰܢ ܡܰܣܠܡܗ ܒܶܢ ܥܰܒܕ ܐܠܡܠܟ ܠܩܰܐܠܘܢܝܩܝ ܘܰܫܡܗ̇ ܝܰܘܡܳܢ ܬܠ ܐܠܡܰܢܰܐܟܝܪ.</quote>
+                  <quote source="#bib314-2">ܡܕܝܢܬܘܢܝܬܳܐ ܕܒܶܝܬ ܚܰܣܰܢ ܡܰܣܠܡܗ ܒܶܢ ܥܰܒܕ ܐܠܡܠܟ ܠܩܰܐܠܘܢܝܩܝ ܘܰܫܡܗ̇ ܝܰܘܡܳܢ ܬܠ ܐܠܡܰܢܰܐܟܝܪ.</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib314-2">بليدة بين حصن مسلمة بن عبد الملك والرقة واسمها اليوم تل المناخير</quote>
+                  <quote source="#bib314-3">بليدة بين حصن مسلمة بن عبد الملك والرقة واسمها اليوم تل المناخير</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib314-3">a small town between Ḥiṣn Maslama Ibn ʿAbd al-Malik and al-Raqqa, now called Tell al-Manakhir. </quote>
+                  <quote source="#bib314-4">a small town between Ḥiṣn Maslama Ibn ʿAbd al-Malik and al-Raqqa, now called Tell al-Manakhir. </quote>
                </desc>
                <state type="existence" from="0802" to="0745">
                   <precision match="@from" notAfter="0802"/>
@@ -122,16 +125,21 @@
                </state>
                <idno type="URI">http://syriaca.org/place/314</idno>
                <bibl xml:id="bib314-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">127</citedRange>
+               </bibl>
+               <bibl xml:id="bib314-2">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">538</citedRange>
                </bibl>
-               <bibl xml:id="bib314-2">
+               <bibl xml:id="bib314-3">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">505</citedRange>
                </bibl>
-               <bibl xml:id="bib314-3">
+               <bibl xml:id="bib314-4">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">559</citedRange>

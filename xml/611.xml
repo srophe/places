@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,16 +67,19 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-611" type="monastery">
-               <placeName xml:id="name611-1" xml:lang="en" syriaca-tags="#syriaca-headword">Beth Qoqa</placeName>
-               <placeName xml:id="name611-2" xml:lang="en" source="#bib611-1">monastery of Bet Qoqa</placeName>
-               <placeName xml:id="name611-3" xml:lang="en" source="#bib611-1">monastery of Sabrisho</placeName>
+               <placeName xml:id="name611-1"
+                          xml:lang="en"
+                          syriaca-tags="#syriaca-headword"
+                          source="#bib611-1">Beth Qoqa</placeName>
+               <placeName xml:id="name611-2" xml:lang="en" source="#bib611-2">monastery of Bet Qoqa</placeName>
+               <placeName xml:id="name611-3" xml:lang="en" source="#bib611-2">monastery of Sabrisho</placeName>
                <desc xml:id="abstract-en-611" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/611</idno>
@@ -87,6 +90,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of Sabrisho&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib611-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">9, 170, 318, 359, 430, 440</citedRange>
+               </bibl>
+               <bibl xml:id="bib611-2">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"

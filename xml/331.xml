@@ -47,13 +47,13 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib331-1"/>
-                        </bibl>
-                        <bibl>
                            <ptr target="#bib331-2"/>
                         </bibl>
                         <bibl>
                            <ptr target="#bib331-3"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib331-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,41 +93,49 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-331" type="settlement">
-               <placeName xml:id="name331-1" xml:lang="en" syriaca-tags="#syriaca-headword">al-Ḥafar</placeName>
+               <placeName xml:id="name331-1"
+                          xml:lang="en"
+                          syriaca-tags="#syriaca-headword"
+                          source="#bib331-1">al-Ḥafar</placeName>
                <placeName xml:id="name331-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܚܦܪ</placeName>
-               <placeName xml:id="name331-3" xml:lang="syr-Syrj" source="#bib331-1">ܚܰܦܪ</placeName>
-               <placeName xml:id="name331-4" xml:lang="ar" source="#bib331-2">الحَفر</placeName>
-               <placeName xml:id="name331-5" xml:lang="en" source="#bib331-3">Ḥafar</placeName>
+               <placeName xml:id="name331-3" xml:lang="syr-Syrj" source="#bib331-2">ܚܰܦܪ</placeName>
+               <placeName xml:id="name331-4" xml:lang="ar" source="#bib331-3">الحَفر</placeName>
+               <placeName xml:id="name331-5" xml:lang="en" source="#bib331-4">Ḥafar</placeName>
                <desc xml:id="abstract-en-331" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib331-1">ܚܕܳܐ ܗܝ ܡܶܢ ܩܘܽܪ̈ܝܳܐ ܕܰܚܡܶܨ. ܡܰܪܕܐ ܫܳܥܬܐ ܡܶܢ ܨܰܕܕ ܠܬܰܝܡܢܗ̇.</quote>
+                  <quote source="#bib331-2">ܚܕܳܐ ܗܝ ܡܶܢ ܩܘܽܪ̈ܝܳܐ ܕܰܚܡܶܨ. ܡܰܪܕܐ ܫܳܥܬܐ ܡܶܢ ܨܰܕܕ ܠܬܰܝܡܢܗ̇.</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib331-2">من قرى حمص مسير ساعة عن صدد جنوبيها</quote>
+                  <quote source="#bib331-3">من قرى حمص مسير ساعة عن صدد جنوبيها</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib331-3">a village in the province of Ḥomṣ, an hour journey south of Ṣadad.</quote>
+                  <quote source="#bib331-4">a village in the province of Ḥomṣ, an hour journey south of Ṣadad.</quote>
                </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/331</idno>
                <bibl xml:id="bib331-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">197</citedRange>
+               </bibl>
+               <bibl xml:id="bib331-2">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">539</citedRange>
                </bibl>
-               <bibl xml:id="bib331-2">
+               <bibl xml:id="bib331-3">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">507</citedRange>
                </bibl>
-               <bibl xml:id="bib331-3">
+               <bibl xml:id="bib331-4">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">553</citedRange>

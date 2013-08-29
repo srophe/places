@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Filastīn
+            <title level="a" xml:lang="en">Filasṭīn
                                         — <foreign xml:lang="syr">ܦܠܫܬ</foreign>
             </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
@@ -56,7 +56,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -88,14 +88,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-698" type="region">
-               <placeName xml:id="name698-1" xml:lang="en" syriaca-tags="#syriaca-headword">Filastīn</placeName>
+               <placeName xml:id="name698-1" xml:lang="en" syriaca-tags="#syriaca-headword">Filasṭīn</placeName>
                <placeName xml:id="name698-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܦܠܫܬ</placeName>
                <placeName xml:id="name698-3" xml:lang="syr-Syrj" source="#bib698-1">ܦܠܶܫܬ</placeName>
                <placeName xml:id="name698-4" xml:lang="ar" source="#bib698-2">فلسطين</placeName>

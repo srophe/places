@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Qanqart Monastery
+            <title level="a" xml:lang="en">Monastery of Prophet Elijah
                                         — <foreign xml:lang="syr">ܕܝܪܐ ܕܩܢܩܪܬ</foreign>
             </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
@@ -51,13 +51,13 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib378-1"/>
-                        </bibl>
-                        <bibl>
                            <ptr target="#bib378-2"/>
                         </bibl>
                         <bibl>
                            <ptr target="#bib378-3"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib378-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -107,40 +107,46 @@
                <placeName xml:id="name378-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib378-3">Qanqart Monastery</placeName>
+                          source="#bib378-1">Monastery of Prophet Elijah</placeName>
                <placeName xml:id="name378-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܩܢܩܪܬ</placeName>
-               <placeName xml:id="name378-3" xml:lang="syr-Syrj" source="#bib378-1">ܕܰܝܪܐ ܕܩܰܢܩܪܬ</placeName>
-               <placeName xml:id="name378-4" xml:lang="syr-Syrj" source="#bib378-1">ܩܰܪܰܗ ܟܺܝܠܺܝܣܰܐ</placeName>
-               <placeName xml:id="name378-5" xml:lang="ar" source="#bib378-2">دير قَنْقرت</placeName>
-               <placeName xml:id="name378-6" xml:lang="ar" source="#bib378-2">قره كليسا</placeName>
-               <placeName xml:id="name378-7" xml:lang="en" source="#bib378-3">Qara Kelisa</placeName>
-               <desc xml:id="abstract-en-378" xml:lang="en"/>
+               <placeName xml:id="name378-3" xml:lang="syr-Syrj" source="#bib378-2">ܕܰܝܪܐ ܕܩܰܢܩܪܬ</placeName>
+               <placeName xml:id="name378-4" xml:lang="syr-Syrj" source="#bib378-2">ܩܰܪܰܗ ܟܺܝܠܺܝܣܰܐ</placeName>
+               <placeName xml:id="name378-5" xml:lang="ar" source="#bib378-3">دير قَنْقرت</placeName>
+               <placeName xml:id="name378-6" xml:lang="ar" source="#bib378-3">قره كليسا</placeName>
+               <placeName xml:id="name378-7" xml:lang="en" source="#bib378-4">Qanqart Monastery</placeName>
+               <placeName xml:id="name378-8" xml:lang="en" source="#bib378-4">Qara Kelisa</placeName>
+               <desc xml:id="abstract-en-378" xml:lang="en">A monastery near <placeName ref="http://syriaca.org/place/565">Qanqart</placeName> about 8 km. southwest of <placeName ref="http://syriaca.org/place/8">Amid</placeName>.</desc>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib378-1">ܒܫܶܡ ܐܠܝܐ ܢܺܒܝܐ. ܠܒܰܪ ܡܶܢ ܐܳܡܝ̣ܕ ܗܘ ܡܰܪܕܶܐ ܫܳܥܐ ܘܦܶܠܓܳܐ ܠܘܳܬ ܩܰܢܩܪܰܬ ܩܪܝܬܳܐ ܕܟܺܝܪ ܫܢܰܬ  1050  ܘܚܰܕܶܬܘ ܒܶܢܝܳܢܰܘ̈ܗܝ ܡܝܟܳܐܝܠ ܪܰܒܐ ܫܢܬ  1173  ܘܐܝܓܢܰܐܛܝܘܣ ܫܟܪܐܠܠܗ ܫܢܰܬ 1730  ܘܐܶܬܓܰܙܝ ܡܶܢ ܐܢ̈ܫܰܘܗܝ ܒܫܘܪܳܝܐ ܕܡܰܐܬܐ ܬܫܰܥܣܝܪܳܝܬܐ. ܘܩܳܡܰܬ ܒܕܘܟܬܗ ܩܪܝܬܐ ܕܡܶܬܐܡܰܪ ܠܗ ܬܘܪܟܳܐܝܬ ܩܰܪܰܗ ܟܺܝܠܺܝܣܰܐ ܗܳܢܰܘ ܥܕܬܐ ܐܘܟܳܡܬܐ. ܡܶܛܠ ܐܘܟܳܡܘܬܐ ܕܐܰܬܪ̈ܘܳܬܐ ܗܳܢܘܢ ܘܰܥܕܰܡܐ ܠܝܰܘܡܳܢ ܩܳܝ̈ܡܝܢ ܚܰܪ̈ܒܬܳܗ̇</quote>
+                  <quote source="#bib378-2">ܒܫܶܡ ܐܠܝܐ ܢܺܒܝܐ. ܠܒܰܪ ܡܶܢ ܐܳܡܝ̣ܕ ܗܘ ܡܰܪܕܶܐ ܫܳܥܐ ܘܦܶܠܓܳܐ ܠܘܳܬ ܩܰܢܩܪܰܬ ܩܪܝܬܳܐ ܕܟܺܝܪ ܫܢܰܬ  1050  ܘܚܰܕܶܬܘ ܒܶܢܝܳܢܰܘ̈ܗܝ ܡܝܟܳܐܝܠ ܪܰܒܐ ܫܢܬ  1173  ܘܐܝܓܢܰܐܛܝܘܣ ܫܟܪܐܠܠܗ ܫܢܰܬ 1730  ܘܐܶܬܓܰܙܝ ܡܶܢ ܐܢ̈ܫܰܘܗܝ ܒܫܘܪܳܝܐ ܕܡܰܐܬܐ ܬܫܰܥܣܝܪܳܝܬܐ. ܘܩܳܡܰܬ ܒܕܘܟܬܗ ܩܪܝܬܐ ܕܡܶܬܐܡܰܪ ܠܗ ܬܘܪܟܳܐܝܬ ܩܰܪܰܗ ܟܺܝܠܺܝܣܰܐ ܗܳܢܰܘ ܥܕܬܐ ܐܘܟܳܡܬܐ. ܡܶܛܠ ܐܘܟܳܡܘܬܐ ܕܐܰܬܪ̈ܘܳܬܐ ܗܳܢܘܢ ܘܰܥܕܰܡܐ ܠܝܰܘܡܳܢ ܩܳܝ̈ܡܝܢ ܚܰܪ̈ܒܬܳܗ̇</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib378-2">باسم ايليا النبي بظاهر مدينة ديار بكر مسيرة ساعة ونصف عنها عند قرية قنقرت ذكر سنة 1050 وجدد ميخائيل الكبير عمارته عام 1173 ثم اغناطيوس شكرالله سنة 1730 وخلا من اهله في اوائل المئة التاسعة عشرة وقامت مكانه قرية يقال لها قره كليسا (الكنيسة السوداء لسواد حجارة تلك الديار) ولا تزال اطلاله ماثلة.</quote>
+                  <quote source="#bib378-3">باسم ايليا النبي بظاهر مدينة ديار بكر مسيرة ساعة ونصف عنها عند قرية قنقرت ذكر سنة 1050 وجدد ميخائيل الكبير عمارته عام 1173 ثم اغناطيوس شكرالله سنة 1730 وخلا من اهله في اوائل المئة التاسعة عشرة وقامت مكانه قرية يقال لها قره كليسا (الكنيسة السوداء لسواد حجارة تلك الديار) ولا تزال اطلاله ماثلة.</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib378-3">built in the name of the prophet Elijah near Qanqart, a journey of an hour and a half from Diyarbakir, was first mentioned in history in 1050. It was twice renovated, once by Patriarch Michael the Great in 1173 and again in 1730 by Patriarch Ignatius Shukr Allah. It was abandoned at the start of the nineteenth century and on its site today stands a village called Qara Kelisa (“The Black Church,” because of the black stones of the area). Its remains are still visible. See the Patriarchal Magazine, VI, 144-153.</quote>
+                  <quote source="#bib378-4">built in the name of the prophet Elijah near Qanqart, a journey of an hour and a half from Diyarbakir, was first mentioned in history in 1050. It was twice renovated, once by Patriarch Michael the Great in 1173 and again in 1730 by Patriarch Ignatius Shukr Allah. It was abandoned at the start of the nineteenth century and on its site today stands a village called Qara Kelisa (“The Black Church,” because of the black stones of the area). Its remains are still visible. See the Patriarchal Magazine, VI, 144-153.</quote>
                </desc>
-               <state type="existence" from="1203" to="1203">
-                  <precision match="@from" notAfter="1203"/>
-                  <precision match="@to" notBefore="1203"/>
+               <state type="existence" from="1100" to="1800">
+                  <precision match="@from" notAfter="1100"/>
+                  <precision match="@to" notBefore="1800"/>
                </state>
                <note type="errata">In Dolabani's translation of Barsoum's description ܐܠܝܐ ܢܺܒܝܐ should read ܐܠܝܐ ܢܒܺܝܐ.</note>
                <idno type="URI">http://syriaca.org/place/378</idno>
                <bibl xml:id="bib378-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">18</citedRange>
+               </bibl>
+               <bibl xml:id="bib378-2">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">551</citedRange>
                </bibl>
-               <bibl xml:id="bib378-2">
+               <bibl xml:id="bib378-3">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">513</citedRange>
                </bibl>
-               <bibl xml:id="bib378-3">
+               <bibl xml:id="bib378-4">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">567</citedRange>

@@ -51,13 +51,13 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib448-1"/>
-                        </bibl>
-                        <bibl>
                            <ptr target="#bib448-2"/>
                         </bibl>
                         <bibl>
                            <ptr target="#bib448-3"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib448-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -107,33 +107,38 @@
                <placeName xml:id="name448-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib448-3">Kandanad</placeName>
+                          source="#bib448-1 #bib448-4">Kandanad</placeName>
                <placeName xml:id="name448-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܟܢܕܝܢܐܛ</placeName>
-               <placeName xml:id="name448-3" xml:lang="syr-Syrj" source="#bib448-1">ܟܰܢܕܝܢܰܐܛ</placeName>
-               <placeName xml:id="name448-4" xml:lang="ar" source="#bib448-2">كنديناط</placeName>
+               <placeName xml:id="name448-3" xml:lang="syr-Syrj" source="#bib448-2">ܟܰܢܕܝܢܰܐܛ</placeName>
+               <placeName xml:id="name448-4" xml:lang="ar" source="#bib448-3">كنديناط</placeName>
                <desc xml:id="abstract-en-448" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib448-1">ܐܰܬܪܐ ܗܰܘ ܕܰܒܓܰܪܒܰܝ ܡܰܕܢܰܚ ܡܺܝܠܝܒܰܪ ܒܗܶܢܕܘ.</quote>
+                  <quote source="#bib448-2">ܐܰܬܪܐ ܗܰܘ ܕܰܒܓܰܪܒܰܝ ܡܰܕܢܰܚ ܡܺܝܠܝܒܰܪ ܒܗܶܢܕܘ.</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib448-2">بلدة في الشمال الشرقي من ملبار الهند.</quote>
+                  <quote source="#bib448-3">بلدة في الشمال الشرقي من ملبار الهند.</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib448-3">a town in the northeastern part of Malabar, in India.</quote>
+                  <quote source="#bib448-4">a town in the northeastern part of Malabar, in India.</quote>
                </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/448</idno>
                <bibl xml:id="bib448-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">259</citedRange>
+               </bibl>
+               <bibl xml:id="bib448-2">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">560</citedRange>
                </bibl>
-               <bibl xml:id="bib448-2">
+               <bibl xml:id="bib448-3">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">519</citedRange>
                </bibl>
-               <bibl xml:id="bib448-3">
+               <bibl xml:id="bib448-4">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">555</citedRange>

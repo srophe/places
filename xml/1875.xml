@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Mār ʿAbdā</title>
+            <title level="a" xml:lang="en">Mar ʿAbda</title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,20 +71,18 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-1875" type="church">
-               <placeName xml:id="name1875-1"
-                          xml:lang="en"
-                          syriaca-tags="#syriaca-headword"
-                          source="#bib1875-1">Mār ʿAbdā</placeName>
+               <placeName xml:id="name1875-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mar ʿAbda</placeName>
+               <placeName xml:id="name1875-2" xml:lang="en" source="#bib1875-1">Mār ʿAbdā</placeName>
                <desc xml:id="abstract-en-1875" xml:lang="en"/>
                <location type="nested" source="#bib1875-1">
-                  <settlement ref="http://syriaca.org/place/1876">Upper Artūn</settlement>
+                  <settlement ref="http://syriaca.org/place/921">Upper Artūn</settlement>
                   <region ref="http://syriaca.org/place/801">Ātel district</region>
                   <region ref="http://syriaca.org/place/188">Seert region</region>
                </location>

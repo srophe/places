@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Jabal Qalamūn</title>
+            <title level="a" xml:lang="en">Qalamun</title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,15 +67,18 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-597" type="mountain">
-               <placeName xml:id="name597-1" xml:lang="en" syriaca-tags="#syriaca-headword">Jabal Qalamūn</placeName>
-               <placeName xml:id="name597-2" xml:lang="en" source="#bib597-1">Jebel Qalamun</placeName>
+               <placeName xml:id="name597-1"
+                          xml:lang="en"
+                          syriaca-tags="#syriaca-headword"
+                          source="#bib597-1">Qalamun</placeName>
+               <placeName xml:id="name597-2" xml:lang="en" source="#bib597-2">Jebel Qalamun</placeName>
                <desc xml:id="abstract-en-597" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/597</idno>
@@ -84,6 +87,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=J&amp;sK=Jebel Qalamun&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib597-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">342–343</citedRange>
+               </bibl>
+               <bibl xml:id="bib597-2">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"

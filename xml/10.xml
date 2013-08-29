@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -104,9 +104,10 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib10-2 #bib10-5 #bib10-6 #bib10-7">Antioch</placeName>
-               <placeName xml:id="name10-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܢܛܝܘܟܝܐ</placeName>
-               <placeName xml:id="name10-3" xml:lang="syr-Syrj" source="#bib10-3">ܐܰܢܛܝܘܟܝܰܐ</placeName>
-               <placeName xml:id="name10-4" xml:lang="ar" source="#bib10-4">انطاكية</placeName>
+               <placeName xml:id="name10-2" xml:lang="en" source="#bib10-2">Antakya</placeName>
+               <placeName xml:id="name10-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܢܛܝܘܟܝܐ</placeName>
+               <placeName xml:id="name10-4" xml:lang="syr-Syrj" source="#bib10-3">ܐܰܢܛܝܘܟܝܰܐ</placeName>
+               <placeName xml:id="name10-5" xml:lang="ar" source="#bib10-4">انطاكية</placeName>
                <desc xml:id="abstract-en-10" xml:lang="en">
                   <quote source="#bib10-1">City in the historical region of Syria (today in Turkey).</quote>
                </desc>
@@ -137,6 +138,7 @@
                <bibl xml:id="bib10-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">5, 10, 14–15, 21–23, 37–38 (with fig. 9), 43, 44, 54, 60, 68, 72, 86, 99, 103–105, 107–108, 110, 125, 135–136, 145, 155, 173–174, 196, 207, 209–211 (with fig. 58), 213, 227, 229, 231, 236, 238, 240, 248–249, 258–259, 265, 269, 270–271, 280, 281, 283, 285, 288, 306, 307, 308, 317–318, 322–323, 332–333, 339, 347, 351, 366, 368, 377, 389, 393–394, 395, 401–402, 403, 410, 412, 418, 419, 427, 432, 443, 446, 447, 448</citedRange>
                   <citedRange unit="maps">Map I A2, II A2</citedRange>
                </bibl>
                <bibl xml:id="bib10-3">

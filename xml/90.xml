@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -84,7 +84,7 @@
                           source="#bib90-2 #bib90-3">Hakkari</placeName>
                <placeName xml:id="name90-2" xml:lang="en" source="#bib90-4">Hakkārī</placeName>
                <desc xml:id="abstract-en-90" xml:lang="en">
-                  <quote source="#bib90-1">The region in the southeast corner of Turkey dominated by the mountains  Cilo Dag (4170 m.) and Sat Dag (3810 m.), and the highlands around them,  cut by the gorges of the Great Zab River and its tributaries.</quote>
+                  <quote source="#bib90-1">The region in the southeast corner of Turkey dominated by the mountains Cilo Dag (4170 m.) and Sat Dag (3810 m.), and the highlands around them, cut by the gorges of the Great Zab River and its tributaries.</quote>
                </desc>
                <desc xml:lang="en">
                   <quote source="#bib90-1">245. Hakkari</quote>
@@ -106,6 +106,7 @@
                <bibl xml:id="bib90-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">94, 99, 186–187, 351, 352, 361, 436</citedRange>
                   <citedRange unit="maps">Map II C1</citedRange>
                </bibl>
                <bibl xml:id="bib90-3">

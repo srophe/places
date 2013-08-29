@@ -55,13 +55,13 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib415-1"/>
-                        </bibl>
-                        <bibl>
                            <ptr target="#bib415-2"/>
                         </bibl>
                         <bibl>
                            <ptr target="#bib415-3"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib415-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -69,7 +69,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -101,7 +101,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -111,24 +111,24 @@
                <placeName xml:id="name415-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib415-3 #bib415-4 #bib415-5">Susa</placeName>
+                          source="#bib415-1 #bib415-4 #bib415-5 #bib415-6">Susa</placeName>
                <placeName xml:id="name415-2"
                           xml:lang="syr"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib415-1">ܫܘܫ</placeName>
-               <placeName xml:id="name415-3" xml:lang="syr-Syrj" source="#bib415-1">ܫܘܫܰܢ</placeName>
-               <placeName xml:id="name415-4" xml:lang="ar" source="#bib415-2">السوس</placeName>
-               <placeName xml:id="name415-5" xml:lang="ar" source="#bib415-2">شوشان</placeName>
-               <placeName xml:id="name415-6" xml:lang="en" source="#bib415-3">Sus</placeName>
+                          source="#bib415-2">ܫܘܫ</placeName>
+               <placeName xml:id="name415-3" xml:lang="syr-Syrj" source="#bib415-2">ܫܘܫܰܢ</placeName>
+               <placeName xml:id="name415-4" xml:lang="ar" source="#bib415-3">السوس</placeName>
+               <placeName xml:id="name415-5" xml:lang="ar" source="#bib415-3">شوشان</placeName>
+               <placeName xml:id="name415-6" xml:lang="en" source="#bib415-4">Sus</placeName>
                <desc xml:id="abstract-en-415" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib415-1">ܐܰܬܪܰܐ ܗܘ ܒܟܳܘܙܣܬܰܐܢ ܐܰܘ ܒܰܐܬܪܐ ܕܗܘܙܳܝ̈ܐ ܘܗܽܘܝܘ ܫܘܫܰܢ ܥܰܬܝܩܬܳܐ.</quote>
+                  <quote source="#bib415-2">ܐܰܬܪܰܐ ܗܘ ܒܟܳܘܙܣܬܰܐܢ ܐܰܘ ܒܰܐܬܪܐ ܕܗܘܙܳܝ̈ܐ ܘܗܽܘܝܘ ܫܘܫܰܢ ܥܰܬܝܩܬܳܐ.</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib415-2">بلدة بخوزستان او الاهواز وهي شوشان القديمة.</quote>
+                  <quote source="#bib415-3">بلدة بخوزستان او الاهواز وهي شوشان القديمة.</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib415-3">a town in Khuzistan (Ahwaz); the ancient Susa.</quote>
+                  <quote source="#bib415-4">a town in Khuzistan (Ahwaz); the ancient Susa.</quote>
                </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/415</idno>
@@ -139,27 +139,32 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=S&amp;sK=Susa&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib415-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">72, 218, 320</citedRange>
+               </bibl>
+               <bibl xml:id="bib415-2">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">557</citedRange>
                </bibl>
-               <bibl xml:id="bib415-2">
+               <bibl xml:id="bib415-3">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">517</citedRange>
                </bibl>
-               <bibl xml:id="bib415-3">
+               <bibl xml:id="bib415-4">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">558</citedRange>
                </bibl>
-               <bibl xml:id="bib415-4">
+               <bibl xml:id="bib415-5">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=S&amp;sK=Susa&amp;sT=keywords">Susa</citedRange>
                </bibl>
-               <bibl xml:id="bib415-5">
+               <bibl xml:id="bib415-6">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">343, 346</citedRange>

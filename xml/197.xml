@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -83,6 +83,7 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib197-2 #bib197-3">Telkepe</placeName>
                <placeName xml:id="name197-2" xml:lang="en" source="#bib197-2">Tell Kaif</placeName>
+               <placeName xml:id="name197-3" xml:lang="en" source="#bib197-2">Talkef</placeName>
                <desc xml:id="abstract-en-197" xml:lang="en">
                   <quote source="#bib197-1">Town 15 km. north of Mosul, it is a populous Chald. settlement, seat of a bishopric., with a conspicuous diaspora in Iraq (Mosul, Baghdad, Baṣra, etc.) as well as in the USA, especially in San Diego and Detroit.</quote>
                </desc>
@@ -109,6 +110,7 @@
                <bibl xml:id="bib197-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">18, 226, 310, 385, 398, 435, 438</citedRange>
                   <citedRange unit="maps">Map IV</citedRange>
                </bibl>
                <bibl xml:id="bib197-3">

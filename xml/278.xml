@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -76,13 +76,14 @@
             <place xml:id="place-278" type="settlement">
                <placeName xml:id="name278-1" xml:lang="en" syriaca-tags="#syriaca-headword">Dayr ʿAṭiya</placeName>
                <placeName xml:id="name278-2" xml:lang="en" source="#bib278-1">Dayr ʿAtiya</placeName>
-               <desc xml:id="abstract-en-278" xml:lang="en"/>
+               <desc xml:id="abstract-en-278" xml:lang="en">A monastery between Nabk and Qara in Syria.</desc>
                <state type="existence"/>
                <note type="errata">GEDSH Map V omits the dot under the 't'.</note>
                <idno type="URI">http://syriaca.org/place/278</idno>
                <bibl xml:id="bib278-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">343</citedRange>
                   <citedRange unit="maps">Map V</citedRange>
                </bibl>
             </place>

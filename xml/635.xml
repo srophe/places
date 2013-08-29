@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -75,7 +75,8 @@
          <listPlace>
             <place xml:id="place-635" type="monastery">
                <placeName xml:id="name635-1" xml:lang="en" syriaca-tags="#syriaca-headword">Qalʿat Simʿān</placeName>
-               <placeName xml:id="name635-2" xml:lang="en" source="#bib635-1">Qalat Siman</placeName>
+               <placeName xml:id="name635-2" xml:lang="en" source="#bib635-1">Qalʿāt Simʿān</placeName>
+               <placeName xml:id="name635-3" xml:lang="en" source="#bib635-2">Qalat Siman</placeName>
                <desc xml:id="abstract-en-635" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/635</idno>
@@ -86,6 +87,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=Q&amp;sK=Qalat Siman&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib635-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">16, 377 (fig. 112)</citedRange>
+               </bibl>
+               <bibl xml:id="bib635-2">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"

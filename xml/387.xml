@@ -51,13 +51,13 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib387-1"/>
-                        </bibl>
-                        <bibl>
                            <ptr target="#bib387-2"/>
                         </bibl>
                         <bibl>
                            <ptr target="#bib387-3"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib387-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -105,19 +105,20 @@
          <listPlace>
             <place xml:id="place-387" type="monastery">
                <placeName xml:id="name387-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mary Magdalene</placeName>
-               <placeName xml:id="name387-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܓܕܠܝܬܐ</placeName>
-               <placeName xml:id="name387-3" xml:lang="syr-Syrj" source="#bib387-1">ܕܰܝܪܐ ܕܡܰܓܕܠܳܝܬܐ</placeName>
-               <placeName xml:id="name387-4" xml:lang="ar" source="#bib387-2">دير المجدلية</placeName>
-               <placeName xml:id="name387-5" xml:lang="en" source="#bib387-3">Magdalene Monastery</placeName>
+               <placeName xml:id="name387-2" xml:lang="en" source="#bib387-1">Mary Magdelene</placeName>
+               <placeName xml:id="name387-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܡܓܕܠܝܬܐ</placeName>
+               <placeName xml:id="name387-4" xml:lang="syr-Syrj" source="#bib387-2">ܕܰܝܪܐ ܕܡܰܓܕܠܳܝܬܐ</placeName>
+               <placeName xml:id="name387-5" xml:lang="ar" source="#bib387-3">دير المجدلية</placeName>
+               <placeName xml:id="name387-6" xml:lang="en" source="#bib387-4">Magdalene Monastery</placeName>
                <desc xml:id="abstract-en-387" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib387-1">ܒܐܘܪܫܠܶܡ ܒܡܰܫܪܝܬܐ ܕܬܰܪܥܐ ܕܥܰܡܘܼܕܐ. ܕܝܪܐ ܥܰܬܝܩܐ ܕܟܺܝܪ ܫܢܰܬ  1000  ܘܐܝܬܰܘܗܝ ܗܘܐ ܟܘܪܣܝܳܐ ܕܡܝܛܪܘܦܘܠܝܛܘܬܐ ܘܐܝܬ ܗܘܳܐ ܒܗ ܫܢܰܬ  1235  ܫܰܒܥܝܢ ܕܰܝܪ̈ܝܐ ܘܐܶܬܢܰܦܩܘ ܒܗ ܐܰܪܒܥܐ ܡܝܛܪ̈ܘܦܘܠܝܛܐ ܐܰܚܕܘܗܝ ܐܢܳܫܝ̈ܢ ܡܰܫܠܡܳܢ̈ܐ ܒܚܰܝܠܐ ܕܡܰܡܐܠܝܟ ܒܕܳܪܐ ܕܐܰܪܒܥܣܪ ܟܶܢ ܥܰܒܕܘܗܝ ܠܗܘܢ ܡܰܕܪܰܫܬܐ ܒܫܶܡ ܡܰܝܡܘܢܝܗ. ܩܰܘܝ̣ ܡܶܢܗ ܐܳܬܘ̈ܬ ܚܰܪ̈ܒܳܬܐ ܥܕܰܡܐ ܠܡܶܨܥܝ̈ܬܗ ܕܕܳܪܐ ܕܰܥܒܪ. ܒܳܬܰܪܟܢ ܐܶܬܠܰܝܬܝܰܬ ܕܘܟܬܗ. </quote>
+                  <quote source="#bib387-2">ܒܐܘܪܫܠܶܡ ܒܡܰܫܪܝܬܐ ܕܬܰܪܥܐ ܕܥܰܡܘܼܕܐ. ܕܝܪܐ ܥܰܬܝܩܐ ܕܟܺܝܪ ܫܢܰܬ  1000  ܘܐܝܬܰܘܗܝ ܗܘܐ ܟܘܪܣܝܳܐ ܕܡܝܛܪܘܦܘܠܝܛܘܬܐ ܘܐܝܬ ܗܘܳܐ ܒܗ ܫܢܰܬ  1235  ܫܰܒܥܝܢ ܕܰܝܪ̈ܝܐ ܘܐܶܬܢܰܦܩܘ ܒܗ ܐܰܪܒܥܐ ܡܝܛܪ̈ܘܦܘܠܝܛܐ ܐܰܚܕܘܗܝ ܐܢܳܫܝ̈ܢ ܡܰܫܠܡܳܢ̈ܐ ܒܚܰܝܠܐ ܕܡܰܡܐܠܝܟ ܒܕܳܪܐ ܕܐܰܪܒܥܣܪ ܟܶܢ ܥܰܒܕܘܗܝ ܠܗܘܢ ܡܰܕܪܰܫܬܐ ܒܫܶܡ ܡܰܝܡܘܢܝܗ. ܩܰܘܝ̣ ܡܶܢܗ ܐܳܬܘ̈ܬ ܚܰܪ̈ܒܳܬܐ ܥܕܰܡܐ ܠܡܶܨܥܝ̈ܬܗ ܕܕܳܪܐ ܕܰܥܒܪ. ܒܳܬܰܪܟܢ ܐܶܬܠܰܝܬܝܰܬ ܕܘܟܬܗ. </quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib387-2">باورشليم في حي باب العمود، دير قديم ذكر سنة 1000 وكان كرسي المطرانية وحوى عام 1235 سبعين راهبا وتخرج فيه اربعة مطارنة، اغتصبه قوم من المسلمين بنفوذ المماليك في القرن الرابع عشر ثم جعلوه مدرسة لهم باسم الميمونية، بقيت منه اطلال ظاهرة الى اواسط القرن الماضي ثم عفا اثره.</quote>
+                  <quote source="#bib387-3">باورشليم في حي باب العمود، دير قديم ذكر سنة 1000 وكان كرسي المطرانية وحوى عام 1235 سبعين راهبا وتخرج فيه اربعة مطارنة، اغتصبه قوم من المسلمين بنفوذ المماليك في القرن الرابع عشر ثم جعلوه مدرسة لهم باسم الميمونية، بقيت منه اطلال ظاهرة الى اواسط القرن الماضي ثم عفا اثره.</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib387-3">in the Bab al-ʿĀmūd district of Jerusalem, is an old monastery, first mentioned in history in 1000. It was the seat of the metropolitan of Jerusalem. In 1235, it housed seventy monks. Four metropolitans graduated from it. In the fourteenth century it was usurped by a group of Muslims, with the help of the Mamluks; they then converted it into a school called al-Maymūna. Parts of its ruins were still to be seen until the last century, but they no longer exist.</quote>
+                  <quote source="#bib387-4">in the Bab al-ʿĀmūd district of Jerusalem, is an old monastery, first mentioned in history in 1000. It was the seat of the metropolitan of Jerusalem. In 1235, it housed seventy monks. Four metropolitans graduated from it. In the fourteenth century it was usurped by a group of Muslims, with the help of the Mamluks; they then converted it into a school called al-Maymūna. Parts of its ruins were still to be seen until the last century, but they no longer exist.</quote>
                </desc>
                <state type="existence" from="1000" to="1300">
                   <precision match="@from" notAfter="1000"/>
@@ -125,16 +126,21 @@
                </state>
                <idno type="URI">http://syriaca.org/place/387</idno>
                <bibl xml:id="bib387-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">270</citedRange>
+               </bibl>
+               <bibl xml:id="bib387-2">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">552</citedRange>
                </bibl>
-               <bibl xml:id="bib387-2">
+               <bibl xml:id="bib387-3">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">514</citedRange>
                </bibl>
-               <bibl xml:id="bib387-3">
+               <bibl xml:id="bib387-4">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">565</citedRange>

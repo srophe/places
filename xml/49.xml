@@ -57,7 +57,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -89,7 +89,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -100,10 +100,13 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib49-1">Beth Sbirino</placeName>
-               <placeName xml:id="name49-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܝܬ ܣܒܝܪܝܢܐ</placeName>
-               <placeName xml:id="name49-3" xml:lang="syr-Syrj" source="#bib49-2">ܒܶܝܬ ܣܒܝܪܝܢܳܐ</placeName>
-               <placeName xml:id="name49-4" xml:lang="ar" source="#bib49-3">باسبرينة</placeName>
-               <placeName xml:id="name49-5" xml:lang="en" source="#bib49-4">Basibrina</placeName>
+               <placeName xml:id="name49-2" xml:lang="en" source="#bib49-1">Bsorino</placeName>
+               <placeName xml:id="name49-3" xml:lang="en" source="#bib49-1">Bāsebrīna</placeName>
+               <placeName xml:id="name49-4" xml:lang="en" source="#bib49-1">Beth Severianos</placeName>
+               <placeName xml:id="name49-5" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܝܬ ܣܒܝܪܝܢܐ</placeName>
+               <placeName xml:id="name49-6" xml:lang="syr-Syrj" source="#bib49-2">ܒܶܝܬ ܣܒܝܪܝܢܳܐ</placeName>
+               <placeName xml:id="name49-7" xml:lang="ar" source="#bib49-3">باسبرينة</placeName>
+               <placeName xml:id="name49-8" xml:lang="en" source="#bib49-4">Basibrina</placeName>
                <desc xml:id="abstract-en-49" xml:lang="en">A village in <placeName ref="http://syriaca.org/place/221">Ṭur ʿAbdin</placeName>.</desc>
                <location type="gps" source="#bib49-1">
                   <geo>37.316667 41.616667</geo>
@@ -116,6 +119,7 @@
                <bibl xml:id="bib49-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">140, 168, 465 (fig. 120c)</citedRange>
                   <citedRange unit="maps">Map III</citedRange>
                </bibl>
                <bibl xml:id="bib49-2">

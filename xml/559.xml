@@ -38,10 +38,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib559-1"/>
+                           <ptr target="#bib559-2"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib559-2"/>
+                           <ptr target="#bib559-3"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -49,7 +49,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -81,7 +81,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -91,18 +91,23 @@
                <placeName xml:id="name559-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib559-2">Arkaḥ</placeName>
+                          source="#bib559-1 #bib559-3">Arkaḥ</placeName>
                <placeName xml:id="name559-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܪܟܚ</placeName>
-               <placeName xml:id="name559-3" xml:lang="syr-Syrj" source="#bib559-1">ܐܰܪܟܰܚ</placeName>
+               <placeName xml:id="name559-3" xml:lang="syr-Syrj" source="#bib559-2">ܐܰܪܟܰܚ</placeName>
                <desc xml:id="abstract-en-559" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/559</idno>
                <bibl xml:id="bib559-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">187</citedRange>
+               </bibl>
+               <bibl xml:id="bib559-2">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">553</citedRange>
                </bibl>
-               <bibl xml:id="bib559-2">
+               <bibl xml:id="bib559-3">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">566</citedRange>

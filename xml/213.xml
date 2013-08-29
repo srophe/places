@@ -57,7 +57,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -89,7 +89,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -100,10 +100,10 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib213-1">al-Ḥasake</placeName>
-               <placeName xml:id="name213-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܚܣܝܟܐ</placeName>
-               <placeName xml:id="name213-3" xml:lang="syr-Syrj" source="#bib213-2">ܚܰܣܝܟܐ</placeName>
-               <placeName xml:id="name213-4" xml:lang="ar" source="#bib213-3">الحسكة</placeName>
-               <placeName xml:id="name213-5" xml:lang="en" source="#bib213-4">Ḥasaka</placeName>
+               <placeName xml:id="name213-2" xml:lang="en" source="#bib213-1 #bib213-4">Ḥasaka</placeName>
+               <placeName xml:id="name213-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܚܣܝܟܐ</placeName>
+               <placeName xml:id="name213-4" xml:lang="syr-Syrj" source="#bib213-2">ܚܰܣܝܟܐ</placeName>
+               <placeName xml:id="name213-5" xml:lang="ar" source="#bib213-3">الحسكة</placeName>
                <desc xml:id="abstract-en-213" xml:lang="en"/>
                <location type="gps" source="#bib213-1">
                   <geo>36.483333 40.75</geo>
@@ -118,6 +118,7 @@
                <bibl xml:id="bib213-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">100, 358, 389</citedRange>
                   <citedRange unit="maps">Map II B1, III</citedRange>
                </bibl>
                <bibl xml:id="bib213-2">

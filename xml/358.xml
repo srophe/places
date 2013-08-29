@@ -47,13 +47,13 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib358-1"/>
-                        </bibl>
-                        <bibl>
                            <ptr target="#bib358-2"/>
                         </bibl>
                         <bibl>
                            <ptr target="#bib358-3"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib358-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,27 +93,30 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-358" type="monastery">
-               <placeName xml:id="name358-1" xml:lang="en" syriaca-tags="#syriaca-headword">Zuqnin</placeName>
+               <placeName xml:id="name358-1"
+                          xml:lang="en"
+                          syriaca-tags="#syriaca-headword"
+                          source="#bib358-1">Zuqnin</placeName>
                <placeName xml:id="name358-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ  ܕܙܘܩܢ̈ܝܢ</placeName>
-               <placeName xml:id="name358-3" xml:lang="syr-Syrj" source="#bib358-1">ܕܰܝܪܳܐ  ܕܙܘܩܢ̈ܝܢ</placeName>
-               <placeName xml:id="name358-4" xml:lang="ar" source="#bib358-2">دير زوقنين</placeName>
-               <placeName xml:id="name358-5" xml:lang="en" source="#bib358-3">Zuqnīn Monastery</placeName>
+               <placeName xml:id="name358-3" xml:lang="syr-Syrj" source="#bib358-2">ܕܰܝܪܳܐ  ܕܙܘܩܢ̈ܝܢ</placeName>
+               <placeName xml:id="name358-4" xml:lang="ar" source="#bib358-3">دير زوقنين</placeName>
+               <placeName xml:id="name358-5" xml:lang="en" source="#bib358-4">Zuqnīn Monastery</placeName>
                <desc xml:id="abstract-en-358" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib358-1">ܠܒܰܪ ܡܶܢ ܐܳܡܝܕ ܕܰܝܪܳܐ ܪܰܒܐ ܘܰܛܒܝܒܳܐ. ܢܦܰܩ ܡܶܢܗ ܐܝܘܰܐܢܝܣ ܩܰܕܡܳܝܐ  755  ܘܐܰܪܒܰܥܣܰܪ ܐܶܦܝܣܩܘ̈ܦܶܐ.</quote>
+                  <quote source="#bib358-2">ܠܒܰܪ ܡܶܢ ܐܳܡܝܕ ܕܰܝܪܳܐ ܪܰܒܐ ܘܰܛܒܝܒܳܐ. ܢܦܰܩ ܡܶܢܗ ܐܝܘܰܐܢܝܣ ܩܰܕܡܳܝܐ  755  ܘܐܰܪܒܰܥܣܰܪ ܐܶܦܝܣܩܘ̈ܦܶܐ.</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib358-2">بظاهر ديار بكر دير عظيم مشهور نشأ منه اياونيس الاول 755+ واربعة عشر اسقفاً</quote>
+                  <quote source="#bib358-3">بظاهر ديار بكر دير عظيم مشهور نشأ منه اياونيس الاول 755+ واربعة عشر اسقفاً</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib358-3">outside Diyarbakir, is a famous, great monastery. Patriarch John I (d. 775) and fourteen bishops graduated from it.</quote>
+                  <quote source="#bib358-4">outside Diyarbakir, is a famous, great monastery. Patriarch John I (d. 775) and fourteen bishops graduated from it.</quote>
                </desc>
                <state type="existence" from="0568" to="0775">
                   <precision match="@from" notAfter="0568"/>
@@ -126,16 +129,21 @@
                <idno type="URI">http://pleiades.stoa.org/places/876742</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Zuqnin_Monastery</idno>
                <bibl xml:id="bib358-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">18, 201, 408, 438</citedRange>
+               </bibl>
+               <bibl xml:id="bib358-2">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">546</citedRange>
                </bibl>
-               <bibl xml:id="bib358-2">
+               <bibl xml:id="bib358-3">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">511</citedRange>
                </bibl>
-               <bibl xml:id="bib358-3">
+               <bibl xml:id="bib358-4">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">570</citedRange>

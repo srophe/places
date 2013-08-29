@@ -57,7 +57,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -89,7 +89,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -100,9 +100,10 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib266-1 #bib266-4">Batrun</placeName>
-               <placeName xml:id="name266-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܛܪܘܢ</placeName>
-               <placeName xml:id="name266-3" xml:lang="syr-Syrj" source="#bib266-2">ܒܰܛܪܘܢ</placeName>
-               <placeName xml:id="name266-4" xml:lang="ar" source="#bib266-3">البترون</placeName>
+               <placeName xml:id="name266-2" xml:lang="en" source="#bib266-1">Botrom</placeName>
+               <placeName xml:id="name266-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܛܪܘܢ</placeName>
+               <placeName xml:id="name266-4" xml:lang="syr-Syrj" source="#bib266-2">ܒܰܛܪܘܢ</placeName>
+               <placeName xml:id="name266-5" xml:lang="ar" source="#bib266-3">البترون</placeName>
                <desc xml:id="abstract-en-266" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/266</idno>
@@ -112,6 +113,7 @@
                <bibl xml:id="bib266-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">137, 242, 425</citedRange>
                   <citedRange unit="maps">Map V</citedRange>
                </bibl>
                <bibl xml:id="bib266-2">

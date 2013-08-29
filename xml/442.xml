@@ -51,10 +51,10 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib442-1"/>
+                           <ptr target="#bib442-2"/>
                         </bibl>
                         <bibl>
-                           <ptr target="#bib442-2"/>
+                           <ptr target="#bib442-3"/>
                         </bibl>
                         <bibl>
                            <ptr target="#bib442-"/>
@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,23 +97,26 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-442" type="settlement">
-               <placeName xml:id="name442-1" xml:lang="en" syriaca-tags="#syriaca-headword">Kaʿbiya</placeName>
+               <placeName xml:id="name442-1"
+                          xml:lang="en"
+                          syriaca-tags="#syriaca-headword"
+                          source="#bib442-1">Kaʿbiya</placeName>
                <placeName xml:id="name442-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܟܥܒܝܗ</placeName>
-               <placeName xml:id="name442-3" xml:lang="syr-Syrj" source="#bib442-1">ܟܰܥܒܺܝܶܗ</placeName>
-               <placeName xml:id="name442-4" xml:lang="ar" source="#bib442-2">كعبية</placeName>
-               <desc xml:id="abstract-en-442" xml:lang="en"/>
+               <placeName xml:id="name442-3" xml:lang="syr-Syrj" source="#bib442-2">ܟܰܥܒܺܝܶܗ</placeName>
+               <placeName xml:id="name442-4" xml:lang="ar" source="#bib442-3">كعبية</placeName>
+               <desc xml:id="abstract-en-442" xml:lang="en">A village near <placeName ref="http://syriaca.org/place/8">Amid</placeName>.</desc>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib442-1">ܡܶܢ ܩܘܪ̈ܝܳܐ ܕܐܳܡܝܕ ܕܰܡܝܰܬܒܳܐ ܗܘܳܬ ܒܣܘܪ̈ܝܳܝܐ ܐܶܣܬܰܚܦܰܬ ܒܰܩܪܳܒܐ ܕܰܥܒܰܪ.</quote>
+                  <quote source="#bib442-2">ܡܶܢ ܩܘܪ̈ܝܳܐ ܕܐܳܡܝܕ ܕܰܡܝܰܬܒܳܐ ܗܘܳܬ ܒܣܘܪ̈ܝܳܝܐ ܐܶܣܬܰܚܦܰܬ ܒܰܩܪܳܒܐ ܕܰܥܒܰܪ.</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib442-2">من قرى ديار بكر الآهلة بالسريان دمرت في الحرب الماضية.</quote>
+                  <quote source="#bib442-3">من قرى ديار بكر الآهلة بالسريان دمرت في الحرب الماضية.</quote>
                </desc>
                <desc xml:lang="en">
                   <quote source="#bib442-">a village in the vicinity of Diyarbakir which was populated by Syrians. It was destroyed in World War I.</quote>
@@ -122,11 +125,16 @@
                <note type="errata">Moosa's English translation of Barsoum's description was incorrectly published under the headword "Arsamosata."</note>
                <idno type="URI">http://syriaca.org/place/442</idno>
                <bibl xml:id="bib442-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">19</citedRange>
+               </bibl>
+               <bibl xml:id="bib442-2">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">560</citedRange>
                </bibl>
-               <bibl xml:id="bib442-2">
+               <bibl xml:id="bib442-3">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">518</citedRange>

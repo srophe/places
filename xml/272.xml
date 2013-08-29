@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Crac Des Chevaliers</title>
+            <title level="a" xml:lang="en">Crac des Chevaliers</title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -77,7 +77,7 @@
                <placeName xml:id="name272-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib272-1">Crac Des Chevaliers</placeName>
+                          source="#bib272-1">Crac des Chevaliers</placeName>
                <desc xml:id="abstract-en-272" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/272</idno>

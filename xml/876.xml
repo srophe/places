@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -81,11 +81,18 @@
                <placeName xml:id="name876-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib876-1">Trichur</placeName>
+                          source="#bib876-1 #bib876-2">Trichur</placeName>
                <desc xml:id="abstract-en-876" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/876</idno>
+               <idno type="URI">http://en.wikipedia.org/wiki/Thrissur</idno>
+               <idno type="URI">http://dbpedia.org/resource/Thrissur</idno>
                <bibl xml:id="bib876-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">92-93, 116, 255, 416</citedRange>
+               </bibl>
+               <bibl xml:id="bib876-2">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">11</citedRange>

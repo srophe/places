@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Ṭirhān</title>
+            <title level="a" xml:lang="en">Ṭirhan</title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -81,14 +81,20 @@
                <placeName xml:id="name789-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib789-1">Ṭirhān</placeName>
+                          source="#bib789-1">Ṭirhan</placeName>
+               <placeName xml:id="name789-2" xml:lang="en" source="#bib789-2">Ṭirhān</placeName>
                <desc xml:id="abstract-en-789" xml:lang="en"/>
-               <location type="nested" source="#bib789-1">
+               <location type="nested" source="#bib789-2">
                   <region ref="http://syriaca.org/place/718">Kirkūk region</region>
                </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/789</idno>
                <bibl xml:id="bib789-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">54, 141, 370</citedRange>
+               </bibl>
+               <bibl xml:id="bib789-2">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                   <citedRange unit="pp">19, 127, 175, 177, 346</citedRange>

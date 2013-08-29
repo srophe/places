@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -112,7 +112,7 @@
                <placeName xml:id="name368-6" xml:lang="en" source="#bib368-5">Mount Sinai Monastery</placeName>
                <placeName xml:id="name368-7" xml:lang="en" source="#bib368-6">Sinai</placeName>
                <desc xml:id="abstract-en-368" xml:lang="en">
-                  <quote source="#bib368-1">The Monastery of St. Catherine on Sinai was founded in the 6th cent. It  had a multicultural community prior to the Ottoman period when it became  entirely Greek.</quote>
+                  <quote source="#bib368-1">The Monastery of St. Catherine on Sinai was founded in the 6th cent. It had a multicultural community prior to the Ottoman period when it became entirely Greek.</quote>
                </desc>
                <desc xml:lang="en">
                   <quote source="#bib368-1">120. Catherine, Monastery of St.</quote>
@@ -143,6 +143,7 @@
                <bibl xml:id="bib368-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">49, 77, 89–90, 96, 146, 152, 173–174, 193, 237, 240, 262, 285–286, 317, 321, 381, 454 (fig. 32c)</citedRange>
                </bibl>
                <bibl xml:id="bib368-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

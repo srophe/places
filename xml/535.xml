@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -96,7 +96,7 @@
                <placeName xml:id="name535-3" xml:lang="syr-Syrj" source="#bib535-1">ܟܰܢܕܝܪܝܒ</placeName>
                <placeName xml:id="name535-4" xml:lang="ar" source="#bib535-2">كنديريب</placeName>
                <placeName xml:id="name535-5" xml:lang="en" source="#bib535-3">Kandarib</placeName>
-               <desc xml:id="abstract-en-535" xml:lang="en"/>
+               <desc xml:id="abstract-en-535" xml:lang="en">A village in <placeName ref="http://syriaca.org/place/221">Ṭur ʿAbdin</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/535</idno>
                <bibl xml:id="bib535-1">

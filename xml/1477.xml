@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Miloe
+            <title level="a" xml:lang="en">Meloe
                                         — <foreign xml:lang="syr">ܡܝܠܘܐ</foreign>
             </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,25 +84,24 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-1477" type="settlement">
-               <placeName xml:id="name1477-1"
-                          xml:lang="en"
-                          syriaca-tags="#syriaca-headword"
-                          source="#bib1477-3">Miloe</placeName>
+               <placeName xml:id="name1477-1" xml:lang="en" syriaca-tags="#syriaca-headword">Meloe</placeName>
                <placeName xml:id="name1477-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܡܝܠܘܐ</placeName>
                <placeName xml:id="name1477-3" xml:lang="syr-Syrj" source="#bib1477-1">ܡܺܝܠܘܰܐ</placeName>
                <placeName xml:id="name1477-4" xml:lang="ar" source="#bib1477-2">ميلوا</placeName>
+               <placeName xml:id="name1477-5" xml:lang="en" source="#bib1477-3">Miloe</placeName>
                <desc xml:id="abstract-en-1477" xml:lang="en">A city of Isauria.</desc>
                <state type="existence" from="0538">
                   <precision match="@from" notAfter="0538"/>
                </state>
                <idno type="URI">http://syriaca.org/place/1477</idno>
+               <idno type="URI">http://pleiades.stoa.org/places/648707</idno>
                <bibl xml:id="bib1477-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>

@@ -51,13 +51,13 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib460-1"/>
-                        </bibl>
-                        <bibl>
                            <ptr target="#bib460-2"/>
                         </bibl>
                         <bibl>
                            <ptr target="#bib460-3"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib460-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,43 +97,51 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-460" type="settlement">
-               <placeName xml:id="name460-1" xml:lang="en" syriaca-tags="#syriaca-headword">Maʿsarteh</placeName>
+               <placeName xml:id="name460-1"
+                          xml:lang="en"
+                          syriaca-tags="#syriaca-headword"
+                          source="#bib460-1">Maʿsarteh</placeName>
                <placeName xml:id="name460-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܡܥܨܪܬܗ</placeName>
-               <placeName xml:id="name460-3" xml:lang="syr-Syrj" source="#bib460-1">ܡܰܥܨܰܪܬܗ</placeName>
-               <placeName xml:id="name460-4" xml:lang="ar" source="#bib460-2">معسرتي</placeName>
-               <placeName xml:id="name460-5" xml:lang="en" source="#bib460-3">Maʿsarte</placeName>
-               <desc xml:id="abstract-en-460" xml:lang="en"/>
+               <placeName xml:id="name460-3" xml:lang="syr-Syrj" source="#bib460-2">ܡܰܥܨܰܪܬܗ</placeName>
+               <placeName xml:id="name460-4" xml:lang="ar" source="#bib460-3">معسرتي</placeName>
+               <placeName xml:id="name460-5" xml:lang="en" source="#bib460-4">Maʿsarte</placeName>
+               <desc xml:id="abstract-en-460" xml:lang="en">A village near <placeName ref="http://syriaca.org/place/130">Mardin</placeName>.</desc>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib460-1">ܡܶܢ ܩܘܪ̈ܝܳܐ ܕܡܰܪܕܝܢ ܡܰܪܕܶܐ ܫܶܬ ܫܳܥܝ̈ܢ ܠܓܰܪܒܝܗ̇. </quote>
+                  <quote source="#bib460-2">ܡܶܢ ܩܘܪ̈ܝܳܐ ܕܡܰܪܕܝܢ ܡܰܪܕܶܐ ܫܶܬ ܫܳܥܝ̈ܢ ܠܓܰܪܒܝܗ̇. </quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib460-2">من قرى ماردين مسير ست ساعات في شماليها.</quote>
+                  <quote source="#bib460-3">من قرى ماردين مسير ست ساعات في شماليها.</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib460-3">a village six hours’ journey north of Mardin.</quote>
+                  <quote source="#bib460-4">a village six hours’ journey north of Mardin.</quote>
                </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/460</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Ömerli,_Mardin</idno>
                <idno type="URI">http://dbpedia.org/resource/Ömerli,_Mardin</idno>
                <bibl xml:id="bib460-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">218, 358</citedRange>
+               </bibl>
+               <bibl xml:id="bib460-2">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">562</citedRange>
                </bibl>
-               <bibl xml:id="bib460-2">
+               <bibl xml:id="bib460-3">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">519</citedRange>
                </bibl>
-               <bibl xml:id="bib460-3">
+               <bibl xml:id="bib460-4">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">555</citedRange>

@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -83,7 +83,7 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib679-1">Awāna</placeName>
                <placeName xml:id="name679-2" xml:lang="en" source="#bib679-2">Awānā</placeName>
-               <desc xml:id="abstract-en-679" xml:lang="en"/>
+               <desc xml:id="abstract-en-679" xml:lang="en">A village in Iraq.</desc>
                <location type="nested" source="#bib679-2">
                   <region ref="http://syriaca.org/place/710">Beṯ ʿArabāye region</region>
                </location>

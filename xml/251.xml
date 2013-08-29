@@ -23,6 +23,10 @@
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -35,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -78,13 +82,24 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib251-1">Tkhuma</placeName>
-               <desc xml:id="abstract-en-251" xml:lang="en"/>
+               <placeName xml:id="name251-2" xml:lang="en" source="#bib251-2">Tḥūmā</placeName>
+               <desc xml:id="abstract-en-251" xml:lang="en">A region in the Hakkari mountains.</desc>
+               <location type="nested" source="#bib251-2">
+                  <region ref="http://syriaca.org/place/90">Hakkārī region</region>
+               </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/251</idno>
                <bibl xml:id="bib251-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">186, 358</citedRange>
                   <citedRange unit="maps">Map IV</citedRange>
+               </bibl>
+               <bibl xml:id="bib251-2">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">14, 33, 71, 105, 136, 151, 253, 259, 282, 285, 287, 289, 292, 294, 296-298, 299, 310, 337, 357, 366</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

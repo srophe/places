@@ -51,13 +51,13 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib385-1"/>
-                        </bibl>
-                        <bibl>
                            <ptr target="#bib385-2"/>
                         </bibl>
                         <bibl>
                            <ptr target="#bib385-3"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib385-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,48 +97,57 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-385" type="monastery">
-               <placeName xml:id="name385-1" xml:lang="en" syriaca-tags="#syriaca-headword">Gawikat</placeName>
-               <placeName xml:id="name385-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܓܘܝܟܐܬ</placeName>
-               <placeName xml:id="name385-3" xml:lang="syr-Syrj" source="#bib385-1">ܕܰܝܪܳܐ ܕܟܘܝ̣ܒܰܐܬ</placeName>
-               <placeName xml:id="name385-4" xml:lang="ar" source="#bib385-2">دير كريخات</placeName>
-               <placeName xml:id="name385-5" xml:lang="ar" source="#bib385-2">دير كويخات</placeName>
-               <placeName xml:id="name385-6" xml:lang="en" source="#bib385-3">Kuwaykhat Monastery</placeName>
-               <desc xml:id="abstract-en-385" xml:lang="en"/>
+               <placeName xml:id="name385-1"
+                          xml:lang="en"
+                          syriaca-tags="#syriaca-headword"
+                          source="#bib385-1">Gawikat</placeName>
+               <placeName xml:id="name385-2" xml:lang="en" source="#bib385-1">Kawikhat</placeName>
+               <placeName xml:id="name385-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܕܝܪܐ ܕܓܘܝܟܐܬ</placeName>
+               <placeName xml:id="name385-4" xml:lang="syr-Syrj" source="#bib385-2">ܕܰܝܪܳܐ ܕܟܘܝ̣ܒܰܐܬ</placeName>
+               <placeName xml:id="name385-5" xml:lang="ar" source="#bib385-3">دير كريخات</placeName>
+               <placeName xml:id="name385-6" xml:lang="ar" source="#bib385-3">دير كويخات</placeName>
+               <placeName xml:id="name385-7" xml:lang="en" source="#bib385-4">Kuwaykhat Monastery</placeName>
+               <desc xml:id="abstract-en-385" xml:lang="en">A monastery in Cilicia.</desc>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib385-1">ܒܓܶܢܒ ܡܣܝܣܛܐ ܒܩܝܺܠܝܩܝܰܐ  ܕܟܺܝܪ ܫܢܬ  1208  ܘܡܶܢܗ ܗܘܰܘ ܬܪܶܝܢ ܦܰܛܪܝܰܪ̈ܟܐ ܐܺܝܓܢܰܐܛܝܘܣ ܪܒܺܝܥܳܝܐ  1282  ܘܡܝܟܳܐܝܠ ܬܪܰܝܳܢܐ  1312 .  ܘܒܗ ܐܶܬܬܰܫܠܡ ܦܝܠܠܘܟܣܝܢ ܬܪܰܝܳܢܐ ܙܡܳܡܐ ܕܦܰܛܪܝܰܪܟܘܬܐ ܫܢܰܬ  1389</quote>
+                  <quote source="#bib385-2">ܒܓܶܢܒ ܡܣܝܣܛܐ ܒܩܝܺܠܝܩܝܰܐ  ܕܟܺܝܪ ܫܢܬ  1208  ܘܡܶܢܗ ܗܘܰܘ ܬܪܶܝܢ ܦܰܛܪܝܰܪ̈ܟܐ ܐܺܝܓܢܰܐܛܝܘܣ ܪܒܺܝܥܳܝܐ  1282  ܘܡܝܟܳܐܝܠ ܬܪܰܝܳܢܐ  1312 .  ܘܒܗ ܐܶܬܬܰܫܠܡ ܦܝܠܠܘܟܣܝܢ ܬܪܰܝܳܢܐ ܙܡܳܡܐ ܕܦܰܛܪܝܰܪܟܘܬܐ ܫܢܰܬ  1389</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib385-2">بجانب المصيصة في قيليقية ذكر سنة 1208 ومنه نشأ البطريركان اغناطيوس الرابع 1282+ وميخائيل الثاني 1312+ وفيه تقلد فيلكسين الثاني زمام البطريركية عام 1389.</quote>
+                  <quote source="#bib385-3">بجانب المصيصة في قيليقية ذكر سنة 1208 ومنه نشأ البطريركان اغناطيوس الرابع 1282+ وميخائيل الثاني 1312+ وفيه تقلد فيلكسين الثاني زمام البطريركية عام 1389.</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib385-3">near al-Maṣṣīṣa in Cilicia, was first mentioned in history in 1208. Two Patriarchs, Ignatius IV (d. 1282) and Michael II (d. 1312), came from it. It was in this monastery also that Phelixene II was consecrated as Patriarch in 1389.</quote>
+                  <quote source="#bib385-4">near al-Maṣṣīṣa in Cilicia, was first mentioned in history in 1208. Two Patriarchs, Ignatius IV (d. 1282) and Michael II (d. 1312), came from it. It was in this monastery also that Phelixene II was consecrated as Patriarch in 1389.</quote>
                </desc>
                <state type="existence"/>
-               <note type="deprecation" xml:id="name385-3-deprecation">Dolabani's printer misread his kaph as a beth, and Dolabani transcribed Barsoum's Arabic kaph as a Syriac kaph rather than as a gomal.</note>
-               <link target="#name385-3 #name385-3-deprecation"/>
-               <note type="deprecation" xml:id="name385-4-deprecation">Earlier editions of Barsoum's Arabic erroneously printed the waw as a raʾ.</note>
+               <note type="deprecation" xml:id="name385-4-deprecation">Dolabani's printer misread his kaph as a beth, and Dolabani transcribed Barsoum's Arabic kaph as a Syriac kaph rather than as a gomal.</note>
                <link target="#name385-4 #name385-4-deprecation"/>
-               <note type="deprecation" xml:id="name385-6-deprecation">Moosa's transcription "Kuwaykhat" should read "Gawikat".</note>
-               <link target="#name385-6 #name385-6-deprecation"/>
+               <note type="deprecation" xml:id="name385-5-deprecation">Earlier editions of Barsoum's Arabic erroneously printed the waw as a raʾ.</note>
+               <link target="#name385-5 #name385-5-deprecation"/>
+               <note type="deprecation" xml:id="name385-7-deprecation">Moosa's transcription "Kuwaykhat" should read "Gawikat".</note>
+               <link target="#name385-7 #name385-7-deprecation"/>
                <idno type="URI">http://syriaca.org/place/385</idno>
                <bibl xml:id="bib385-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">35</citedRange>
+               </bibl>
+               <bibl xml:id="bib385-2">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">552</citedRange>
                </bibl>
-               <bibl xml:id="bib385-2">
+               <bibl xml:id="bib385-3">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">514</citedRange>
                </bibl>
-               <bibl xml:id="bib385-3">
+               <bibl xml:id="bib385-4">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">565</citedRange>

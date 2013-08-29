@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -143,6 +143,7 @@
                <bibl xml:id="bib360-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">2, 27, 40–41 (with fig. 14), 43–44, 77, 89, 91, 103–106 (with fig. 37, 38), 109, 183, 209 (fig. 58), 210, 215, 245, 246, 248, 252, 262, 301–302 (with fig. 89, 90), 313, 317, 321 (with fig. 96), 326, 343, 367, 369 (fig. 110), 373, 386–387 (with fig. 113), 396, 427, 450</citedRange>
                </bibl>
                <bibl xml:id="bib360-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

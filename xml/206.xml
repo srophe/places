@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -112,6 +112,7 @@
                <bibl xml:id="bib206-2">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">29–30, 47, 48, 65, 92, 93 (with fig. 33), 99 (with fig. 35), 119, 187, 210, 246, 262, 312, 338, 339 (fig. 99), 352, 361, 385, 422 (with fig. 125, 126), 436</citedRange>
                   <citedRange unit="maps">Map II C1, IV</citedRange>
                </bibl>
                <bibl xml:id="bib206-3">

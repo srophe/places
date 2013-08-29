@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -105,10 +105,11 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib24-4">Anḥil</placeName>
                <placeName xml:id="name24-2" xml:lang="en" source="#bib24-1">Anhil</placeName>
-               <placeName xml:id="name24-3" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܢܚܠ</placeName>
-               <placeName xml:id="name24-4" xml:lang="syr-Syrj" source="#bib24-2">ܐܰܢܚܠ</placeName>
-               <placeName xml:id="name24-5" xml:lang="ar" source="#bib24-3">انحل</placeName>
-               <placeName xml:id="name24-6" xml:lang="en" source="#bib24-5">Enḥel</placeName>
+               <placeName xml:id="name24-3" xml:lang="en" source="#bib24-1">Anḥel</placeName>
+               <placeName xml:id="name24-4" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܢܚܠ</placeName>
+               <placeName xml:id="name24-5" xml:lang="syr-Syrj" source="#bib24-2">ܐܰܢܚܠ</placeName>
+               <placeName xml:id="name24-6" xml:lang="ar" source="#bib24-3">انحل</placeName>
+               <placeName xml:id="name24-7" xml:lang="en" source="#bib24-5">Enḥel</placeName>
                <desc xml:id="abstract-en-24" xml:lang="en">A village in <placeName ref="http://syriaca.org/place/221">Ṭur ʿAbdin</placeName>.</desc>
                <location type="gps" source="#bib24-1">
                   <geo>37.33 41.34</geo>
@@ -126,6 +127,7 @@
                <bibl xml:id="bib24-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">264</citedRange>
                   <citedRange unit="maps">Map III</citedRange>
                </bibl>
                <bibl xml:id="bib24-2">

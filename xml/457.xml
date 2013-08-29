@@ -51,13 +51,13 @@
                   <p>This entry incorporates copyrighted material from the following work(s):
                                                 <listBibl>
                         <bibl>
-                           <ptr target="#bib457-1"/>
-                        </bibl>
-                        <bibl>
                            <ptr target="#bib457-2"/>
                         </bibl>
                         <bibl>
                            <ptr target="#bib457-3"/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="#bib457-4"/>
                         </bibl>
                      </listBibl>
                      <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -107,23 +107,23 @@
                <placeName xml:id="name457-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib457-3 #bib457-4">Marga</placeName>
+                          source="#bib457-1 #bib457-4 #bib457-5">Marga</placeName>
                <placeName xml:id="name457-2"
                           xml:lang="syr"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib457-1">ܡܪܓܐ</placeName>
-               <placeName xml:id="name457-3" xml:lang="ar" source="#bib457-2">مرجا</placeName>
-               <placeName xml:id="name457-4" xml:lang="ar" source="#bib457-2">المرج</placeName>
-               <placeName xml:id="name457-5" xml:lang="en" source="#bib457-3">Marj</placeName>
+                          source="#bib457-2">ܡܪܓܐ</placeName>
+               <placeName xml:id="name457-3" xml:lang="ar" source="#bib457-3">مرجا</placeName>
+               <placeName xml:id="name457-4" xml:lang="ar" source="#bib457-3">المرج</placeName>
+               <placeName xml:id="name457-5" xml:lang="en" source="#bib457-4">Marj</placeName>
                <desc xml:id="abstract-en-457" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
-                  <quote source="#bib457-1">ܦܢܺܝܬܐ ܕܰܒܓܰܪܒܰܝ ܡܰܕܢܰܚ ܡܘܨܠ ܡܶܢܩܕܺܝܡ ܪܘܣܬܩܳܐ ܪܰܒܐ ܗܘܳܬ.</quote>
+                  <quote source="#bib457-2">ܦܢܺܝܬܐ ܕܰܒܓܰܪܒܰܝ ܡܰܕܢܰܚ ܡܘܨܠ ܡܶܢܩܕܺܝܡ ܪܘܣܬܩܳܐ ܪܰܒܐ ܗܘܳܬ.</quote>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib457-2">ناحية في شمال شرقي الموصل كانت قديما رستاقا كبيرا.</quote>
+                  <quote source="#bib457-3">ناحية في شمال شرقي الموصل كانت قديما رستاقا كبيرا.</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib457-3">a place northeast of Mosul, formerly a big province.</quote>
+                  <quote source="#bib457-4">a place northeast of Mosul, formerly a big province.</quote>
                </desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/457</idno>
@@ -133,21 +133,26 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=M&amp;sK=Marga&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib457-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">56, 414, 417</citedRange>
+               </bibl>
+               <bibl xml:id="bib457-2">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>
                   <citedRange unit="pp">561</citedRange>
                </bibl>
-               <bibl xml:id="bib457-2">
+               <bibl xml:id="bib457-3">
                   <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                   <ptr target="http://syriaca.org/bibl/2"/>
                   <citedRange unit="pp">519</citedRange>
                </bibl>
-               <bibl xml:id="bib457-3">
+               <bibl xml:id="bib457-4">
                   <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                   <ptr target="http://syriaca.org/bibl/4"/>
                   <citedRange unit="pp">556</citedRange>
                </bibl>
-               <bibl xml:id="bib457-4">
+               <bibl xml:id="bib457-5">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"

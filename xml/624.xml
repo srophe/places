@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-24-04:00</date>
+            <date>2013-08-29-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,15 +67,18 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-24-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-624" type="settlement">
-               <placeName xml:id="name624-1" xml:lang="en" syriaca-tags="#syriaca-headword">Gangra</placeName>
-               <placeName xml:id="name624-2" xml:lang="en" source="#bib624-1">Gangre</placeName>
+               <placeName xml:id="name624-1"
+                          xml:lang="en"
+                          syriaca-tags="#syriaca-headword"
+                          source="#bib624-1">Gangra</placeName>
+               <placeName xml:id="name624-2" xml:lang="en" source="#bib624-2">Gangre</placeName>
                <desc xml:id="abstract-en-624" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/624</idno>
@@ -86,6 +89,11 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=G&amp;sK=Gangre&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib624-1">
+                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <ptr target="http://syriaca.org/bibl/1"/>
+                  <citedRange unit="pp">140, 238</citedRange>
+               </bibl>
+               <bibl xml:id="bib624-2">
                   <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
