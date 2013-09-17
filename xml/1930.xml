@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -80,9 +80,8 @@
             <place xml:id="place-1930" type="church">
                <placeName xml:id="name1930-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mar Giwargis</placeName>
                <placeName xml:id="name1930-2" xml:lang="en" source="#bib1930-1">Mār Giwārgīs</placeName>
-               <desc xml:id="abstract-en-1930" xml:lang="en"/>
+               <desc xml:id="abstract-en-1930" xml:lang="en">A church serving both <placeName ref="http://syriaca.org/place/1171">Dīzā</placeName> and <placeName ref="http://syriaca.org/place/1809">Wazirābād</placeName>.</desc>
                <location type="nested" source="#bib1930-1">
-                  <settlement ref="http://syriaca.org/place/1931">Diza-Wāzirābād</settlement>
                   <region ref="http://syriaca.org/place/733">Baranduz district</region>
                   <region ref="http://syriaca.org/place/729">Ūrmī region</region>
                </location>

@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,15 +71,18 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-1106" type="settlement">
-               <placeName xml:id="name1106-1" xml:lang="en" syriaca-tags="#syriaca-headword">Bōzān</placeName>
-               <placeName xml:id="name1106-2" xml:lang="en" source="#bib1106-1">Bōzān (Beṯ Bōzi)</placeName>
+               <placeName xml:id="name1106-1"
+                          xml:lang="en"
+                          syriaca-tags="#syriaca-headword"
+                          source="#bib1106-1">Bōzān</placeName>
+               <placeName xml:id="name1106-2" xml:lang="en" source="#bib1106-1">Beṯ Bōzi</placeName>
                <desc xml:id="abstract-en-1106" xml:lang="en"/>
                <location type="nested" source="#bib1106-1">
                   <region ref="http://syriaca.org/place/722">Mosul region</region>

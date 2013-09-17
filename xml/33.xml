@@ -30,6 +30,10 @@
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -57,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -89,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -105,6 +109,8 @@
                <placeName xml:id="name33-4" xml:lang="ar" source="#bib33-4">باجرمي</placeName>
                <placeName xml:id="name33-5" xml:lang="en" source="#bib33-5">Bajermi</placeName>
                <placeName xml:id="name33-6" xml:lang="en" source="#bib33-6">Bet Garmai</placeName>
+               <placeName xml:id="name33-7" xml:lang="en" source="#bib33-7">Beṯ Garmaï</placeName>
+               <placeName xml:id="name33-8" xml:lang="en" source="#bib33-7">Dāqūqā</placeName>
                <desc xml:id="abstract-en-33" xml:lang="en">
                   <quote source="#bib33-1">An ecclesiastical province confined between the Lower Zab northward, the Tigris westward, the Diyālā river southward, and the mountains of Ḥimrīn eastward.</quote>
                </desc>
@@ -152,6 +158,12 @@
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Bet Garmai&amp;sT=keywords">Bet Garmai</citedRange>
+               </bibl>
+               <bibl xml:id="bib33-7">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">17, 127, 174-175, 178, 342, 344, 345, 346</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

@@ -34,6 +34,10 @@
                <resp>Syriac description entry by</resp>
                <name ref="http://syriaca.org/editors.xml#raydin">Robert Aydin</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -61,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -109,6 +113,7 @@
                <placeName xml:id="name360-4" xml:lang="syr-Syrj" source="#bib360-3">ܕܰܝܪܳܐ ܕܣܘܪ̈ܝܝܐ</placeName>
                <placeName xml:id="name360-5" xml:lang="ar" source="#bib360-4">دير السريان</placeName>
                <placeName xml:id="name360-6" xml:lang="en" source="#bib360-6">Deir al-Surian</placeName>
+               <placeName xml:id="name360-7" xml:lang="en" source="#bib360-7">Saint Mary Deipara (West Syrian)</placeName>
                <desc xml:id="abstract-en-360" xml:lang="en">
                   <quote source="#bib360-1">Monastery situated halfway between Cairo and Alexandria in Wadi al-Natrun, ancient Scetis, Egypt.</quote>
                </desc>
@@ -124,6 +129,10 @@
                <desc xml:lang="en">
                   <quote source="#bib360-5">this monastery was built in the name of the Virgin in the Scete desert in Egypt, perhaps in the fifth century. In the middle of the sixth century the Syrian merchant Marutha of Takrit bought it and dedicated it to the Syrian monks, whose number reached seventy in 1084. Inhabited by Syrian monks until the seventeenth century, it is presently inhabited by Coptic monks.</quote>
                </desc>
+               <location type="nested" source="#bib360-7">
+                  <region ref="http://syriaca.org/place/289">Nitrian desert</region>
+                  <region ref="http://syriaca.org/place/750">Egypt</region>
+               </location>
                <state type="existence"/>
                <note type="errata">In Dolabani's translation of Barsoum's description ܕܐܶܣܩܺܝܛܝ and ܕܰܫܒܰܥܣܶܪ̈ܐ should read ܕܶܐܣܩܺܝܛܝ and ܕܰܫܒܰܥܶܣܪ̈ܐ respectively.</note>
                <idno type="URI">http://syriaca.org/place/360</idno>
@@ -165,6 +174,12 @@
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=D&amp;sK=Deir al-Surian&amp;sT=keywords">Deir al-Surian</citedRange>
+               </bibl>
+               <bibl xml:id="bib360-7">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">10</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

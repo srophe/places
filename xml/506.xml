@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -98,7 +98,7 @@
                <placeName xml:id="name506-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܬܪܐܘܢܟܘܪ</placeName>
                <placeName xml:id="name506-3" xml:lang="syr-Syrj" source="#bib506-1">ܬܪܰܐܘܢܟܘܪ</placeName>
                <placeName xml:id="name506-4" xml:lang="ar" source="#bib506-2">تراونكور</placeName>
-               <desc xml:id="abstract-en-506" xml:lang="en"/>
+               <desc xml:id="abstract-en-506" xml:lang="en">A region in southern <placeName ref="http://syriaca.org/place/500">India</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/506</idno>
                <idno type="URI">http://pleiades.stoa.org/places/50205</idno>

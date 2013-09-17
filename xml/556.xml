@@ -25,6 +25,10 @@
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -52,7 +56,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +88,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -97,7 +101,11 @@
                <placeName xml:id="name556-4" xml:lang="ar" source="#bib556-2">دير يوحنا الطائي</placeName>
                <placeName xml:id="name556-5" xml:lang="en" source="#bib556-3">Monastery of St. John Ṭayoyo</placeName>
                <placeName xml:id="name556-6" xml:lang="en" source="#bib556-4">monastery of John the Arab</placeName>
+               <placeName xml:id="name556-7" xml:lang="en" source="#bib556-5">Mār Yōḥannān the Arab</placeName>
                <desc xml:id="abstract-en-556" xml:lang="en"/>
+               <location type="nested" source="#bib556-5">
+                  <region ref="http://syriaca.org/place/723">Nisibis region</region>
+               </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/556</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874586</idno>
@@ -124,6 +132,12 @@
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of John the Arab&amp;sT=keywords">monastery of John the Arab</citedRange>
+               </bibl>
+               <bibl xml:id="bib556-5">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">43, 46, 48, 354</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

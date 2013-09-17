@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -79,8 +79,11 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib582-1">Beth Zagba</placeName>
                <placeName xml:id="name582-2" xml:lang="en" source="#bib582-2">Bet Zagba</placeName>
-               <desc xml:id="abstract-en-582" xml:lang="en"/>
-               <state type="existence"/>
+               <desc xml:id="abstract-en-582" xml:lang="en">The site of the monastery where the Rabbula Gospels were copied, probably located north of <placeName ref="http://syriaca.org/place/11">Apamea</placeName>.</desc>
+               <state type="existence" from="0568" to="0586">
+                  <precision match="@from" notAfter="0568"/>
+                  <precision match="@to" notBefore="0586"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/582</idno>
                <idno type="URI">
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Bet Zagba&amp;sT=keywords

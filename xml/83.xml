@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -108,7 +108,8 @@
                <placeName xml:id="name83-3" xml:lang="syr-Syrj" source="#bib83-2">ܓܪܰܐܒܠܣ</placeName>
                <placeName xml:id="name83-4" xml:lang="ar" source="#bib83-3">جرابلس</placeName>
                <placeName xml:id="name83-5" xml:lang="en" source="#bib83-4">Jarābulus</placeName>
-               <desc xml:id="abstract-en-83" xml:lang="en"/>
+               <desc xml:id="abstract-en-83" xml:lang="en">A city on the <placeName ref="http://syriaca.org/place/82">Euphrates</placeName> north of <placeName ref="http://syriaca.org/place/122">Mabbug</placeName> and south of <placeName ref="http://syriaca.org/place/50">Birtha</placeName>
+               </desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib83-2">ܘܐܝܬܶܝܗ̇ ܐܘܪܘܦܘܣ ܥܰܬܝܺܩܬܐ ܕܰܠܡܰܥܪܰܒ ܦܪܳܬ ܘܰܠܓܰܪܒܰܝ ܡܰܒܘܓ.</quote>
                </desc>

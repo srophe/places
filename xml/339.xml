@@ -34,6 +34,10 @@
                <resp>Syriac description entry by</resp>
                <name ref="http://syriaca.org/editors.xml#raydin">Robert Aydin</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -61,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -106,6 +110,7 @@
                <placeName xml:id="name339-4" xml:lang="ar" source="#bib339-2">دير مار اوجين</placeName>
                <placeName xml:id="name339-5" xml:lang="en" source="#bib339-3">Eugene Monastery</placeName>
                <placeName xml:id="name339-6" xml:lang="en" source="#bib339-4">monastery of Mar Awgen</placeName>
+               <placeName xml:id="name339-7" xml:lang="en" source="#bib339-5">Mār Awgin</placeName>
                <desc xml:id="abstract-en-339" xml:lang="en">A monastery north of <placeName ref="http://syriaca.org/place/142">Nisibis</placeName>.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib339-1">ܒܰܫܦܘܠܳܐ ܕܛܘܪܳܐ ܕܐܝܺܙܠܐ ܗ̇ܘ ܕܚܳܐܰܪ ܠܰܢܨܝܒܝܢ ܐܶܫܬܰܬܐܣ ܒܡܰܐܬܐ ܪܒܝܥܳܝܬܐ ܐܰܘ ܒܪܺܝܫܐ ܕܰܚܡܝܫܳܝܬܐ ܘܐܶܫܬܰܚܠܦܘ ܙܰܒ̈ܢܐ ܥܠܰܘܗܝ ܘܐܶܫܬܰܠܛܘ ܥܠܰܘܗܝ ܢܰܣܛܘܪ̈ܝܰܢܘ ܙܰܒܢܳܐ ܢܰܓܝܪܐ ܘܰܗܦܟ ܠܘܳܬܢ ܒܰܐܚܪ̈ܝܬܗ̇ ܕܡܰܐܬܐ ܕܰܬܡܳܢܰܥܶܣܪ̈ܐ ܢܦܰܩܘ ܡܶܢܗ ܬܪܶܝܢ ܐܶܦܝܣܩܘܦ̈ܐ ܘܰܥܕܰܡܐ ܠܗܳܫܐ ܥܰܡܝܪ ܘܰܫܟܝܺܚ ܒܗ ܕܰܝܪܳܝܐ ܚܰܕ.</quote>
@@ -116,6 +121,9 @@
                <desc xml:lang="en">
                   <quote source="#bib339-3">at the foot of the Izla mountain, which overlooks Nisibin. Built at the end of the fourth or the start of the fifth century, it suffered many vicissitudes. The Nestorians held it for a long time, but we regained it at the end of the eighteenth century. It produced two bishops. At present it is inhabited by only one monk.</quote>
                </desc>
+               <location type="nested" source="#bib339-5">
+                  <region ref="http://syriaca.org/place/723">Nisibis region</region>
+               </location>
                <state type="existence"/>
                <note type="errata">In Dolabani's translation of Barsoum's description ܘܐܶܫܬܰܚܠܦܘ and ܘܐܶܫܬܰܠܛܘ should read ܘܶܐܫܬܰܚܠܦܘ and ܘܶܐܫܬܰܠܛܘ respectively.</note>
                <idno type="URI">http://syriaca.org/place/339</idno>
@@ -143,6 +151,12 @@
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of Mar Awgen&amp;sT=keywords">monastery of Mar Awgen</citedRange>
+               </bibl>
+               <bibl xml:id="bib339-5">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">16, 20, 38, 39, 42, 43-44, 45-47, 48, 85, 114, 124, 169, 178, 179, 208, 223, 259, 260, 345, 348, 353, 354</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

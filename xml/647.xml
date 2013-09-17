@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,18 +67,18 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-647" type="state">
+            <place xml:id="place-647" type="region">
                <placeName xml:id="name647-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib647-1">Turkestan</placeName>
-               <desc xml:id="abstract-en-647" xml:lang="en"/>
+               <desc xml:id="abstract-en-647" xml:lang="en">A region in <placeName ref="http://syriaca.org/place/585">Central Asia</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/647</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Turkestan</idno>

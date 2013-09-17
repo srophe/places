@@ -34,6 +34,10 @@
                <resp>Syriac description entry by</resp>
                <name ref="http://syriaca.org/editors.xml#raydin">Robert Aydin</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -61,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -111,6 +115,7 @@
                <placeName xml:id="name69-6" xml:lang="ar" source="#bib69-4">دير الزعفران</placeName>
                <placeName xml:id="name69-7" xml:lang="en" source="#bib69-5">Zaʿfaran Monastery</placeName>
                <placeName xml:id="name69-8" xml:lang="en" source="#bib69-6">monastery Deir Zafaran</placeName>
+               <placeName xml:id="name69-9" xml:lang="en" source="#bib69-7">Zaʿfarān (West Syrian)</placeName>
                <desc xml:id="abstract-en-69" xml:lang="en">
                   <quote source="#bib69-1">A Syr. Orth. monastery dedicated to Mar Ḥnonyo (Arab. Ḥanānyā) located outside Mardin, and the seat of the patriarchate from 1293 until after World War I.</quote>
                </desc>
@@ -126,6 +131,9 @@
                <desc xml:lang="en">
                   <quote source="#bib69-5">or St. Ḥananya Monastery, was built by Ḥananya, metropolitan of Mardin, between 793 and 800 on the site of an old monastery north of Mardin. This great and populous monastery in 1293 became the Patriarchal see for some six hundred years. It claims twenty-one Patriarchs, nine Maphryonos and 110 bishops. In 1917 we published its detailed history, entitled Nuzhat al-Adhhān (The Excursion of Minds). In its immediate neighborhood there are three small monasteries close together:</quote>
                </desc>
+               <location type="nested" source="#bib69-7">
+                  <region ref="http://syriaca.org/place/719">Mardīn region</region>
+               </location>
                <state type="existence" from="0800">
                   <precision match="@from" notAfter="0800" notBefore="0793"/>
                </state>
@@ -170,6 +178,12 @@
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery Deir Zafaran&amp;sT=keywords">monastery Deir Zafaran</citedRange>
+               </bibl>
+               <bibl xml:id="bib69-7">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">38, 95</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

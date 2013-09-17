@@ -38,6 +38,10 @@
                <resp>Arabic description entry by</resp>
                <name ref="http://syriaca.org/editors.xml#rakhrass">Dayroyo Roger-Youssef Akhrass</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -65,7 +69,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +101,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -114,6 +118,7 @@
                <placeName xml:id="name226-5" xml:lang="ar" source="#bib226-4">دير قرتمين</placeName>
                <placeName xml:id="name226-6" xml:lang="en" source="#bib226-5">Qarṭmin Monastery</placeName>
                <placeName xml:id="name226-7" xml:lang="en" source="#bib226-6">monastery of Gabriel of Qartmin</placeName>
+               <placeName xml:id="name226-8" xml:lang="en" source="#bib226-7">Qarṭmīn (West Syrian)</placeName>
                <desc xml:id="abstract-en-226" xml:lang="en">
                   <quote source="#bib226-1">The Monastery of Qarṭmin began long before its official foundation date of 397.</quote>
                </desc>
@@ -131,6 +136,9 @@
                </desc>
                <location type="gps" source="#bib226-2">
                   <geo>37.321778 41.5385</geo>
+               </location>
+               <location type="nested" source="#bib226-7">
+                  <region ref="http://syriaca.org/place/221">Ṭūr ʿAbdīn</region>
                </location>
                <state type="existence" from="0397" to="2013">
                   <precision match="@from" notAfter="0397" notBefore="0300"/>
@@ -177,6 +185,12 @@
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of Gabriel of Qartmin&amp;sT=keywords">monastery of Gabriel of Qartmin</citedRange>
+               </bibl>
+               <bibl xml:id="bib226-7">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">38</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

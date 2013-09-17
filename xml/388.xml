@@ -38,6 +38,10 @@
                <resp>Arabic description entry by</resp>
                <name ref="http://syriaca.org/editors.xml#rakhrass">Dayroyo Roger-Youssef Akhrass</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -65,7 +69,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +101,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -114,6 +118,7 @@
                <placeName xml:id="name388-8" xml:lang="en" source="#bib388-5">Mark the Evangelist Monastery and the Virgin Monastery</placeName>
                <placeName xml:id="name388-9" xml:lang="en" source="#bib388-5">Monastery of the Syrians</placeName>
                <placeName xml:id="name388-10" xml:lang="en" source="#bib388-6">monastery of St Mark</placeName>
+               <placeName xml:id="name388-11" xml:lang="en" source="#bib388-7">Saint Mark's (West Syrian)</placeName>
                <desc xml:id="abstract-en-388" xml:lang="en">
                   <quote source="#bib388-1">Said to be located on the site of the Last Supper and named after the Evangelist, the monastery is situated on mount Zion in Jerusalem.</quote>
                </desc>
@@ -129,6 +134,9 @@
                <desc xml:lang="en">
                   <quote source="#bib388-5">both located in Jerusalem. St. Mark is also known as the Monastery of the Syrians. It is an old monastery, built in the fifth or sixth century, according to an Estrangelo Syriac inscription on a stone discovered in 1940. Today it is the see of our metropolitan and it has been the home of our monks since 1472. The monastery has a magnificent library and a press. It has produced seven bishops.</quote>
                </desc>
+               <location type="nested" source="#bib388-7">
+                  <settlement ref="http://syriaca.org/place/104">Jerusalem</settlement>
+               </location>
                <state type="existence"/>
                <note type="errata">Moosa's English translation of Barsoum's description erroneously implies "Mark the Evangelist Monastery" and "Monastery of the Virgin" are two separate monasteries, when they are two names for the same monastery.</note>
                <idno type="URI">http://syriaca.org/place/388</idno>
@@ -167,6 +175,12 @@
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of St Mark&amp;sT=keywords">monastery of St Mark</citedRange>
+               </bibl>
+               <bibl xml:id="bib388-7">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">13, 68</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

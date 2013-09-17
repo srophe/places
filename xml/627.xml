@@ -23,6 +23,10 @@
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -35,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -76,7 +80,11 @@
             <place xml:id="place-627" type="monastery">
                <placeName xml:id="name627-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mar Yoḥannan Naḥlaya</placeName>
                <placeName xml:id="name627-2" xml:lang="en" source="#bib627-1">monastery of John Nahlaya</placeName>
-               <desc xml:id="abstract-en-627" xml:lang="en"/>
+               <placeName xml:id="name627-3" xml:lang="en" source="#bib627-2">Mār Yōḥannān Nahlāyā</placeName>
+               <desc xml:id="abstract-en-627" xml:lang="en">A monastery probably near <placeName ref="http://syriaca.org/place/142">Nisibis</placeName>.</desc>
+               <location type="nested" source="#bib627-2">
+                  <region ref="http://syriaca.org/place/724">Seert region</region>
+               </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/627</idno>
                <idno type="URI">
@@ -87,6 +95,12 @@
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of John Nahlaya&amp;sT=keywords">monastery of John Nahlaya</citedRange>
+               </bibl>
+               <bibl xml:id="bib627-2">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">91-92, 354</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

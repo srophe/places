@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -114,7 +114,7 @@
                <placeName xml:id="name86-5" xml:lang="ar" source="#bib86-3">كركر</placeName>
                <placeName xml:id="name86-6" xml:lang="ar" source="#bib86-3">جرجر</placeName>
                <placeName xml:id="name86-7" xml:lang="en" source="#bib86-4">Karkar</placeName>
-               <desc xml:id="abstract-en-86" xml:lang="en"/>
+               <desc xml:id="abstract-en-86" xml:lang="en">A city near the <placeName ref="http://syriaca.org/place/82">Euphrates</placeName> between <placeName ref="http://syriaca.org/place/136">Melitene</placeName> and <placeName ref="http://syriaca.org/place/8">Amida</placeName>.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib86-2">ܚܶܣܢܰܐ ܗܘ ܘܰܡܕܝܢܬܐ ܒܩܘܪܒܳܐ ܕܡܝܺܠܝܺܛܝܢܝ ܒܶܝܬ ܫܰܡܝܫܰܛ ܠܚܰܣܢ ܙܝܰܐܕ ܠܡܰܥܪܒܳܐ ܕܰܦܪܳܬ. ܚܶܪܒܰܬ.</quote>
                </desc>

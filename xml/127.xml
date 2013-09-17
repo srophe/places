@@ -23,6 +23,10 @@
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -35,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -80,7 +84,11 @@
                           source="#bib127-1">Mar Yawnan</placeName>
                <placeName xml:id="name127-2" xml:lang="en" source="#bib127-1">Monastery of Jonah</placeName>
                <placeName xml:id="name127-3" xml:lang="en" source="#bib127-2">monastery of Mar Yonan</placeName>
+               <placeName xml:id="name127-4" xml:lang="en" source="#bib127-3">Mār Yōnān</placeName>
                <desc xml:id="abstract-en-127" xml:lang="en">A monastery near <placeName ref="http://syriaca.org/place/139">Mosul</placeName>.</desc>
+               <location type="nested" source="#bib127-3">
+                  <settlement ref="http://syriaca.org/place/139">Mosul</settlement>
+               </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/127</idno>
                <idno type="URI">
@@ -97,6 +105,12 @@
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=m&amp;sK=monastery of Mar Yonan&amp;sT=keywords">monastery of Mar Yonan</citedRange>
+               </bibl>
+               <bibl xml:id="bib127-3">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">189</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

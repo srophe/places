@@ -23,6 +23,10 @@
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -35,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -78,7 +82,12 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib148-1">Our Lady of the Seeds</placeName>
+               <placeName xml:id="name148-2" xml:lang="en" source="#bib148-2">Notre Dame des Semences</placeName>
                <desc xml:id="abstract-en-148" xml:lang="en">A monastery near Alqosh.</desc>
+               <location type="nested" source="#bib148-2">
+                  <settlement ref="http://syriaca.org/place/19">Alqōsh</settlement>
+                  <region ref="http://syriaca.org/place/722">Mosul region</region>
+               </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/148</idno>
                <bibl xml:id="bib148-1">
@@ -86,6 +95,12 @@
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="pp">17, 204, 226, 451 (fig. 3c)</citedRange>
                   <citedRange unit="maps">Map IV</citedRange>
+               </bibl>
+               <bibl xml:id="bib148-2">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">9, 11, 12, 13, 14, 35, 37, 79, 121, 122, 138-139, 144, 147, 161, 164, 171, 172, 173, 181, 188, 190, 213, 221, 231, 232, 233, 236, 238, 242, 257, 258, 268, 269, 270-274</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

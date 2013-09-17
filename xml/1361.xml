@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Jūlpat ʿĀlīhān</title>
+            <title level="a" xml:lang="en">Jūlpat ʿĀlīḥān</title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,15 +71,15 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-1361" type="parish">
-               <placeName xml:id="name1361-1" xml:lang="en" syriaca-tags="#syriaca-headword">Jūlpat ʿĀlīhān</placeName>
-               <placeName xml:id="name1361-2" xml:lang="en" source="#bib1361-1">Jūlpat ʿĀlīhān parish</placeName>
+               <placeName xml:id="name1361-1" xml:lang="en" syriaca-tags="#syriaca-headword">Jūlpat ʿĀlīḥān</placeName>
+               <placeName xml:id="name1361-2" xml:lang="en" source="#bib1361-1">Jūlpat ʿĀlīḥān parish</placeName>
                <desc xml:id="abstract-en-1361" xml:lang="en"/>
                <location type="nested" source="#bib1361-1">
                   <settlement ref="http://syriaca.org/place/206">Ūrmī</settlement>

@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">ʿGulnca’</title>
+            <title level="a" xml:lang="en">‘Gulnca’</title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -81,7 +81,7 @@
                <placeName xml:id="name750-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib750-1">ʿGulnca’</placeName>
+                          source="#bib750-1">‘Gulnca’</placeName>
                <desc xml:id="abstract-en-750" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/750</idno>

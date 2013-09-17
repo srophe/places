@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../Identity%20Transforms/New%20Date%20Test%20Transform.xsl"?>
+<root>
+    <row>
+        <Place_ID>25</Place_ID>
+    </row>
+    <row>
+        <Place_ID>125</Place_ID>
+    </row>
+    <row>
+        <Place_ID>435</Place_ID>
+    </row>
+    <row>
+        <Place_ID>28</Place_ID>
+    </row>
+    <row>
+        <Place_ID>27</Place_ID>
+    </row>
+    <row>
+        <Place_ID>1840</Place_ID>
+    </row>
+</root>

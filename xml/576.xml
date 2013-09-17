@@ -56,7 +56,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -88,7 +88,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -102,7 +102,7 @@
                <placeName xml:id="name576-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܐܪܡܢܝܐ</placeName>
                <placeName xml:id="name576-3" xml:lang="syr-Syrj" source="#bib576-1">ܐܰܪܡܶܢܺܝܐ</placeName>
                <placeName xml:id="name576-4" xml:lang="ar" source="#bib576-2">ارمينية</placeName>
-               <desc xml:id="abstract-en-576" xml:lang="en"/>
+               <desc xml:id="abstract-en-576" xml:lang="en">A mountainous region between the Caspian Sea and eastern Anatolia, south of Georgia and north of Kurdistan.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/576</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874350</idno>

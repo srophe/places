@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -99,7 +99,7 @@
                <placeName xml:id="name630-3" xml:lang="syr-Syrj" source="#bib630-1">ܢܰܘܒܗ</placeName>
                <placeName xml:id="name630-4" xml:lang="ar" source="#bib630-2">النوبة</placeName>
                <placeName xml:id="name630-5" xml:lang="en" source="#bib630-3">Nuba</placeName>
-               <desc xml:id="abstract-en-630" xml:lang="en"/>
+               <desc xml:id="abstract-en-630" xml:lang="en">A region of northeastern Africa, south of <placeName ref="http://syriaca.org/place/715">Egypt</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/630</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Nubia</idno>

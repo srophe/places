@@ -38,6 +38,10 @@
                <resp>Arabic description entry by</resp>
                <name ref="http://syriaca.org/editors.xml#rakhrass">Dayroyo Roger-Youssef Akhrass</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -65,7 +69,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +101,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -115,6 +119,8 @@
                <placeName xml:id="name457-3" xml:lang="ar" source="#bib457-3">مرجا</placeName>
                <placeName xml:id="name457-4" xml:lang="ar" source="#bib457-3">المرج</placeName>
                <placeName xml:id="name457-5" xml:lang="en" source="#bib457-4">Marj</placeName>
+               <placeName xml:id="name457-6" xml:lang="en" source="#bib457-6">Margā (East Syrian diocese)</placeName>
+               <placeName xml:id="name457-7" xml:lang="en" source="#bib457-6">Tellā and Barbellī</placeName>
                <desc xml:id="abstract-en-457" xml:lang="en"/>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib457-2">ܦܢܺܝܬܐ ܕܰܒܓܰܪܒܰܝ ܡܰܕܢܰܚ ܡܘܨܠ ܡܶܢܩܕܺܝܡ ܪܘܣܬܩܳܐ ܪܰܒܐ ܗܘܳܬ.</quote>
@@ -157,6 +163,12 @@
                   <ptr target="http://syriaca.org/bibl/5"/>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=M&amp;sK=Marga&amp;sT=keywords">Marga</citedRange>
+               </bibl>
+               <bibl xml:id="bib457-6">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">62, 125, 128, 144, 156, 166, 191, 203, 218, 345, 347</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

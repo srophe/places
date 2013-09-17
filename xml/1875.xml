@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -84,7 +84,7 @@
                <location type="nested" source="#bib1875-1">
                   <settlement ref="http://syriaca.org/place/921">Upper Artūn</settlement>
                   <region ref="http://syriaca.org/place/801">Ātel district</region>
-                  <region ref="http://syriaca.org/place/188">Seert region</region>
+                  <region ref="http://syriaca.org/place/724">Seert region</region>
                </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/1875</idno>

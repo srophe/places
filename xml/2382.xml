@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Diza-Wāzirābād</title>
+            <title level="a" xml:lang="en">Taimanā</title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -33,13 +33,13 @@
          </editionStmt>
          <publicationStmt>
             <authority>Syriaca.org: The Syriac Reference Portal</authority>
-            <idno type="URI">http://syriaca.org/place/1931/tei</idno>
+            <idno type="URI">http://syriaca.org/place/2382/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,28 +71,24 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-1931" type="settlement">
-               <placeName xml:id="name1931-1"
+            <place xml:id="place-2382" type="diocese">
+               <placeName xml:id="name2382-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib1931-1">Diza-Wāzirābād</placeName>
-               <desc xml:id="abstract-en-1931" xml:lang="en"/>
-               <location type="nested" source="#bib1931-1">
-                  <region ref="http://syriaca.org/place/733">Baranduz district</region>
-                  <region ref="http://syriaca.org/place/729">Ūrmī region</region>
-               </location>
+                          source="#bib2382-1">Taimanā</placeName>
+               <desc xml:id="abstract-en-2382" xml:lang="en"/>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/1931</idno>
-               <bibl xml:id="bib1931-1">
+               <idno type="URI">http://syriaca.org/place/2382</idno>
+               <bibl xml:id="bib2382-1">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
-                  <citedRange unit="pp">334, 369</citedRange>
+                  <citedRange unit="pp">166, 191</citedRange>
                   <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>

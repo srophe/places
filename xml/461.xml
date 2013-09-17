@@ -69,7 +69,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -101,7 +101,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -115,7 +115,7 @@
                <placeName xml:id="name461-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܡܝܠܝܒܪ</placeName>
                <placeName xml:id="name461-3" xml:lang="syr-Syrj" source="#bib461-2">ܡܝܺܠܝܒܰܪ</placeName>
                <placeName xml:id="name461-4" xml:lang="ar" source="#bib461-3">ملبار</placeName>
-               <desc xml:id="abstract-en-461" xml:lang="en"/>
+               <desc xml:id="abstract-en-461" xml:lang="en">A coastal region in southern <placeName ref="http://syriaca.org/place/500">India</placeName>.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib461-2">ܩܠܝܡܰܐ ܗܘ ܕܰܒܬܝܡܰܢ ܡܰܥܪܰܒ ܐܰܬܪ̈ܰܘܳܬܐ ܕܗܶܢܕܘ ܥܰܠ ܝܰܕ ܐܘܩܝܰܐܢܘܣ ܗܶܢܕܘܳܝܳܐ ܕܐܳܚܶܕ ܠܬܰܪܬܶܝܢ ܐܰܡܝܪ̈ܘܳܬܐ ܕܟܺܘܓܝܺܢ ܘܰܬܪܰܐܘܢܟܘܪ</quote>
                </desc>

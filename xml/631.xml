@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-29-04:00</date>
+            <date>2013-09-17-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-29-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -76,7 +76,7 @@
             <place xml:id="place-631" type="state">
                <placeName xml:id="name631-1" xml:lang="en" syriaca-tags="#syriaca-headword">Ottoman Empire</placeName>
                <placeName xml:id="name631-2" xml:lang="en" source="#bib631-1">Ottoman empire</placeName>
-               <desc xml:id="abstract-en-631" xml:lang="en"/>
+               <desc xml:id="abstract-en-631" xml:lang="en">An early modern Empire with its capital for most of its existence at <placeName ref="http://syriaca.org/place/586">Constantinople</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/631</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Ottoman_Empire</idno>
