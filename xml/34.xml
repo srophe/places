@@ -30,6 +30,10 @@
                <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/editors.xml#tcarlson">Thomas A. Carlson</name>
             </respStmt>
+            <respStmt>
+               <resp>Wilmshurst index information entry by</resp>
+               <name ref="http://syriaca.org/editors.xml#adavis">Anthony Davis</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -57,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -89,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -108,6 +112,7 @@
                <placeName xml:id="name34-7" xml:lang="en" source="#bib34-4">Ahwaz</placeName>
                <placeName xml:id="name34-8" xml:lang="en" source="#bib34-5">Bet Huzaye</placeName>
                <placeName xml:id="name34-9" xml:lang="en" source="#bib34-5">Elam</placeName>
+               <placeName xml:id="name34-10" xml:lang="en" source="#bib34-6">ʿĪlām</placeName>
                <desc xml:id="abstract-en-34" xml:lang="en">A diocese of the Church of the East, also known as Elam, centered around Beth Lapaṭ.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/34</idno>
@@ -148,6 +153,12 @@
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Bet Huzaye&amp;sT=keywords">Bet Huzaye</citedRange>
                   <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=E&amp;sK=Elam&amp;sT=keywords">Elam</citedRange>
+               </bibl>
+               <bibl xml:id="bib34-6">
+                  <author>David Wilmshurst</author>
+                  <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                  <citedRange unit="pp">40, 175, 193, 342, 343, 346</citedRange>
+                  <ptr target="http://syriaca.org/bibl/9"/>
                </bibl>
             </place>
          </listPlace>

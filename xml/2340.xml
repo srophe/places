@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Manṣūrīyā</title>
+            <title level="a" xml:lang="en">Manṣūriyya</title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,18 +71,16 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-2340" type="diocese">
-               <placeName xml:id="name2340-1"
-                          xml:lang="en"
-                          syriaca-tags="#syriaca-headword"
-                          source="#bib2340-1">Manṣūrīyā</placeName>
-               <placeName xml:id="name2340-2" xml:lang="en" source="#bib2340-1">ʿMesciara’</placeName>
+               <placeName xml:id="name2340-1" xml:lang="en" syriaca-tags="#syriaca-headword">Manṣūriyya</placeName>
+               <placeName xml:id="name2340-2" xml:lang="en" source="#bib2340-1">Manṣūrīyā</placeName>
+               <placeName xml:id="name2340-3" xml:lang="en" source="#bib2340-1">ʻMesciara’</placeName>
                <desc xml:id="abstract-en-2340" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/2340</idno>

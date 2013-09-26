@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -98,7 +98,7 @@
                <placeName xml:id="name527-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܚܣܢ ܡܣܠܡܗ ܒܢ ܥܒܕ ܐܠܡܠܟ</placeName>
                <placeName xml:id="name527-3" xml:lang="syr-Syrj" source="#bib527-1">ܚܰܣܰܢ ܡܰܣܠܡܗ ܒܶܢ ܥܰܒܕ ܐܠܡܠܟ</placeName>
                <placeName xml:id="name527-4" xml:lang="ar" source="#bib527-2">حصن مسلمة بن عبد الملك</placeName>
-               <desc xml:id="abstract-en-527" xml:lang="en"/>
+               <desc xml:id="abstract-en-527" xml:lang="en">Not far from <placeName ref="http://syriaca.org/place/314">Tell Maḥre</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/527</idno>
                <bibl xml:id="bib527-1">

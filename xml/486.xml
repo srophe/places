@@ -56,7 +56,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -88,7 +88,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -102,7 +102,7 @@
                <placeName xml:id="name486-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܣܘܪܝܐ</placeName>
                <placeName xml:id="name486-3" xml:lang="syr-Syrj" source="#bib486-1">ܣܽܘܪܺܝܰܐ</placeName>
                <placeName xml:id="name486-4" xml:lang="ar" source="#bib486-2">ارض الشام</placeName>
-               <desc xml:id="abstract-en-486" xml:lang="en"/>
+               <desc xml:id="abstract-en-486" xml:lang="en">A historical region bounded on the north by the <placeName ref="http://syriaca.org/place/82">Euphrates River</placeName> and the Taurus Mountains, on the west by the <placeName ref="http://syriaca.org/place/135">Mediterranean Sea</placeName>, on the east by the desert, and on the south by <placeName ref="http://syriaca.org/place/698">Palestine</placeName>, which during the medieval period was considered the southernmost district of Syria.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/486</idno>
                <idno type="URI">http://pleiades.stoa.org/places/1306</idno>

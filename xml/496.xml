@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -96,7 +96,7 @@
                <placeName xml:id="name496-3" xml:lang="syr-Syrj" source="#bib496-1">ܦܰܢܺܝܗ</placeName>
                <placeName xml:id="name496-4" xml:lang="ar" source="#bib496-2">رفنية</placeName>
                <placeName xml:id="name496-5" xml:lang="en" source="#bib496-3">Raphina</placeName>
-               <desc xml:id="abstract-en-496" xml:lang="en"/>
+               <desc xml:id="abstract-en-496" xml:lang="en">A city of western Syria.</desc>
                <state type="existence"/>
                <note type="deprecation" xml:id="name496-3-deprecation">Dolabani or his printer dropped off the first consonant of the name.</note>
                <link target="#name496-3 #name496-3-deprecation"/>

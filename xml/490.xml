@@ -56,7 +56,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -88,7 +88,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -101,7 +101,7 @@
                <placeName xml:id="name490-4" xml:lang="ar" source="#bib490-2">تل ارمن</placeName>
                <placeName xml:id="name490-5" xml:lang="en" source="#bib490-3">Tell al-Arman</placeName>
                <placeName xml:id="name490-6" xml:lang="en" source="#bib490-4">Tel Armen</placeName>
-               <desc xml:id="abstract-en-490" xml:lang="en"/>
+               <desc xml:id="abstract-en-490" xml:lang="en">A town south of <placeName ref="http://syriaca.org/place/130">Mardin</placeName> near <placeName ref="http://syriaca.org/place/401">Dunaysar</placeName>.</desc>
                <location type="nested" source="#bib490-4">
                   <region ref="http://syriaca.org/place/719">Mardīn region</region>
                </location>

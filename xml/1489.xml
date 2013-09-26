@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -104,6 +104,7 @@
                   <precision match="@to" notBefore="1159"/>
                </state>
                <idno type="URI">http://syriaca.org/place/1489</idno>
+               <idno type="URI">http://pleiades.stoa.org/places/874720</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Tal_Afar</idno>
                <idno type="URI">http://dbpedia.org/resource/Tal_Afar</idno>
                <bibl xml:id="bib1489-1">

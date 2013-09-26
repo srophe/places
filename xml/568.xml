@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,13 +84,13 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-568" type="settlement">
+            <place xml:id="place-568" type="unknown">
                <placeName xml:id="name568-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
@@ -98,7 +98,7 @@
                <placeName xml:id="name568-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܡܪܓܐ ܕܥܝܢܐ</placeName>
                <placeName xml:id="name568-3" xml:lang="syr-Syrj" source="#bib568-1">ܡܰܪܓܐ ܕܥܰܝܢܳܐ</placeName>
                <placeName xml:id="name568-4" xml:lang="ar" source="#bib568-2">مرج العين</placeName>
-               <desc xml:id="abstract-en-568" xml:lang="en"/>
+               <desc xml:id="abstract-en-568" xml:lang="en">Near <placeName ref="http://syriaca.org/place/75">Doliche</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/568</idno>
                <bibl xml:id="bib568-1">

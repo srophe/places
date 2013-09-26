@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -120,7 +120,7 @@
                   <quote source="#bib332-2">ولاية واسعة وبلدان جمّة على نهر الخابور بين رأس عين والفرات من ارض الجزيرة غلب عليها اسم نهرها فنسبت اليه ومن بلادها القديمة قرقيسياء وماكسين والمجدل وعَربَان</quote>
                </desc>
                <desc xml:lang="en">
-                  <quote source="#bib332-3">a large territory containing many towns, extending between Rish ʿAyna and the Euphrates on the banks of the Khabur in al-Jazira, from which it derived its name. Among its ancient towns are Qarqīsiyyā, Macine, Majdal and ʿArbān.</quote>
+                  <quote source="#bib332-3">a large territory containing many towns, extending between Rish ʿAyna and the Euphrates on the banks of the Khabur in al-Jazira, from which it derived its name. Among its ancient towns are Qarqīsiyyā, Macine, Majdal and ʿArbān.`</quote>
                </desc>
                <location type="nested" source="#bib332-4">
                   <region ref="http://syriaca.org/place/712">Gāzartā region</region>

@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -96,7 +96,7 @@
                <placeName xml:id="name485-3" xml:lang="syr-Syrj" source="#bib485-1">ܢܰܗܪܘܣܐ ܕܟܘܣܪ</placeName>
                <placeName xml:id="name485-4" xml:lang="ar" source="#bib485-2">نهير الخوسر</placeName>
                <placeName xml:id="name485-5" xml:lang="en" source="#bib485-3">Khuser Creek</placeName>
-               <desc xml:id="abstract-en-485" xml:lang="en"/>
+               <desc xml:id="abstract-en-485" xml:lang="en">A tributary of the <placeName ref="http://syriaca.org/place/202">Tigris</placeName> in northern Iraq.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/485</idno>
                <idno type="URI">http://ar.wikipedia.org/wiki/الخوصر</idno>

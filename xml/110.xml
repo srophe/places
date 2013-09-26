@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -81,8 +81,8 @@
                <placeName xml:id="name110-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib110-2">Karamlish</placeName>
-               <placeName xml:id="name110-2" xml:lang="en" source="#bib110-3">Karamlish (Garmshā)</placeName>
+                          source="#bib110-2 #bib110-3">Karamlish</placeName>
+               <placeName xml:id="name110-2" xml:lang="en" source="#bib110-3">Garmshā</placeName>
                <desc xml:id="abstract-en-110" xml:lang="en">
                   <quote source="#bib110-1">A small town located between the Tigris and the Upper Zab, some 15 km. southeast of Mosul, between Barṭelle and Qaraqosh.</quote>
                </desc>

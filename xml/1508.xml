@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,13 +84,13 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-1508" type="unknown">
+            <place xml:id="place-1508" type="settlement">
                <placeName xml:id="name1508-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
@@ -99,12 +99,15 @@
                <placeName xml:id="name1508-3" xml:lang="syr-Syrj" source="#bib1508-2">ܒܶܝܬ ܓܘܽܒܪ̈ܺܝܢ</placeName>
                <placeName xml:id="name1508-4" xml:lang="ar" source="#bib1508-3">بيت جبرين</placeName>
                <placeName xml:id="name1508-5" xml:lang="en" source="#bib1508-4">Beth Gabrin</placeName>
-               <desc xml:id="abstract-en-1508" xml:lang="en">The site of a Syrian Orthodox synod in 807/8.</desc>
+               <desc xml:id="abstract-en-1508" xml:lang="en">A village in Palestine, the site of a Syrian Orthodox synod in 807/8.</desc>
                <state type="existence" from="0807" to="0808">
                   <precision match="@from" notAfter="0807"/>
                   <precision match="@to" notBefore="0808"/>
                </state>
                <idno type="URI">http://syriaca.org/place/1508</idno>
+               <idno type="URI">http://pleiades.stoa.org/places/687854</idno>
+               <idno type="URI">http://en.wikipedia.org/wiki/Bayt_Jibrin</idno>
+               <idno type="URI">http://dbpedia.org/resource/Bayt_Jibrin</idno>
                <bibl xml:id="bib1508-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>

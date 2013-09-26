@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -96,7 +96,7 @@
                <placeName xml:id="name522-3" xml:lang="syr-Syrj" source="#bib522-1">ܣܰܠܡܰܐܢ ܒܰܐܟ</placeName>
                <placeName xml:id="name522-4" xml:lang="ar" source="#bib522-2">سلمان باك</placeName>
                <placeName xml:id="name522-5" xml:lang="en" source="#bib522-3">Salman Pak</placeName>
-               <desc xml:id="abstract-en-522" xml:lang="en"/>
+               <desc xml:id="abstract-en-522" xml:lang="en">A modern city on the <placeName ref="http://syriaca.org/place/202">Tigris</placeName> south of <placeName ref="http://syriaca.org/place/41">Baghdad</placeName> which partially overlaps the ancient city of <placeName ref="http://syriaca.org/place/58">Ctesiphon</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/522</idno>
                <idno type="URI">http://pleiades.stoa.org/places/893947</idno>

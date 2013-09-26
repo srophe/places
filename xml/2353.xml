@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">ʿPersian Borders’</title>
+            <title level="a" xml:lang="en">ʻPersian Borders’</title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
             <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -81,7 +81,7 @@
                <placeName xml:id="name2353-1"
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
-                          source="#bib2353-1">ʿPersian Borders’</placeName>
+                          source="#bib2353-1">ʻPersian Borders’</placeName>
                <desc xml:id="abstract-en-2353" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/2353</idno>

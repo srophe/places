@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -98,7 +98,7 @@
                <placeName xml:id="name491-5" xml:lang="ar" source="#bib491-2">ديار مضر</placeName>
                <placeName xml:id="name491-6" xml:lang="en" source="#bib491-3">Mudar territory</placeName>
                <placeName xml:id="name491-7" xml:lang="en" source="#bib491-3">Diyar Miṣr</placeName>
-               <desc xml:id="abstract-en-491" xml:lang="en"/>
+               <desc xml:id="abstract-en-491" xml:lang="en">A region of Mesopotamia on the <placeName ref="http://syriaca.org/place/82">Euphrates</placeName> from <placeName ref="http://syriaca.org/place/178">Samosata</placeName> to western Iraq.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/491</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Diyar_Mudar</idno>

@@ -69,7 +69,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -101,7 +101,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -120,8 +120,9 @@
                <placeName xml:id="name108-7" xml:lang="ar" source="#bib108-4">كركوك</placeName>
                <placeName xml:id="name108-8" xml:lang="en" source="#bib108-5">Karkh Slukh</placeName>
                <placeName xml:id="name108-9" xml:lang="en" source="#bib108-6">Karka de Beth Selok</placeName>
-               <placeName xml:id="name108-10" xml:lang="en" source="#bib108-7">Kirkūk (Karkā d'Beṯ Ṣlōḥ)</placeName>
-               <placeName xml:id="name108-11" xml:lang="en" source="#bib108-7">Slōḥ</placeName>
+               <placeName xml:id="name108-10" xml:lang="en" source="#bib108-7">Kirkūk</placeName>
+               <placeName xml:id="name108-11" xml:lang="en" source="#bib108-7">Karkā d'Beṯ Ṣlōḥ</placeName>
+               <placeName xml:id="name108-12" xml:lang="en" source="#bib108-7">Slōḥ</placeName>
                <desc xml:id="abstract-en-108" xml:lang="en">
                   <quote source="#bib108-1">The name occurs in the 6th cent. ‘History of Karka d- Beth Slokh and its Martyrs’ published by Bedjan, and it means literally 'Fortress of the House of Seleucus.'</quote>
                </desc>

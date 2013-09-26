@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -82,9 +82,12 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib877-1">Ṭūs</placeName>
-               <desc xml:id="abstract-en-877" xml:lang="en"/>
+               <desc xml:id="abstract-en-877" xml:lang="en">A medieval city in northeastern Persia.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/877</idno>
+               <idno type="URI">http://pleiades.stoa.org/places/952108</idno>
+               <idno type="URI">http://en.wikipedia.org/wiki/Tus,_Iran</idno>
+               <idno type="URI">http://dbpedia.org/resource/Tus,_Iran</idno>
                <bibl xml:id="bib877-1">
                   <author>David Wilmshurst</author>
                   <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>

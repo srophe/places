@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -98,7 +98,7 @@
                <placeName xml:id="name488-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܝܡܐ ܕܡܪܡܪܐ</placeName>
                <placeName xml:id="name488-3" xml:lang="syr-Syrj" source="#bib488-1">ܝܰܡܐ ܕܡܰܪܡܰܪܐ</placeName>
                <placeName xml:id="name488-4" xml:lang="ar" source="#bib488-2">بحر مرمرة</placeName>
-               <desc xml:id="abstract-en-488" xml:lang="en"/>
+               <desc xml:id="abstract-en-488" xml:lang="en">A small sea on the waterway between the <placeName ref="http://syriaca.org/place/503">Black Sea</placeName> and the Aegean, south of <placeName ref="http://syriaca.org/place/586">Constantinople</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/488</idno>
                <idno type="URI">http://pleiades.stoa.org/places/511381</idno>

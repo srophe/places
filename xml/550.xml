@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -98,7 +98,7 @@
                           source="#bib550-1">ܫܓܪ̈ܐ</placeName>
                <placeName xml:id="name550-3" xml:lang="ar" source="#bib550-2">الشغر</placeName>
                <placeName xml:id="name550-4" xml:lang="en" source="#bib550-3">Shaghr</placeName>
-               <desc xml:id="abstract-en-550" xml:lang="en"/>
+               <desc xml:id="abstract-en-550" xml:lang="en">A village near <placeName ref="http://syriaca.org/place/438">Qlisuro</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/550</idno>
                <bibl xml:id="bib550-1">

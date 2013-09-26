@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -98,7 +98,7 @@
                <placeName xml:id="name525-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܒܝܣܝܕܝܗ</placeName>
                <placeName xml:id="name525-3" xml:lang="syr-Syrj" source="#bib525-2">ܒܝܣܝܺܕܝܗ</placeName>
                <placeName xml:id="name525-4" xml:lang="ar" source="#bib525-3">بيسيدية</placeName>
-               <desc xml:id="abstract-en-525" xml:lang="en"/>
+               <desc xml:id="abstract-en-525" xml:lang="en">A region of southwestern <placeName ref="http://syriaca.org/place/504">Anatolia</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/525</idno>
                <idno type="URI">http://pleiades.stoa.org/places/981544</idno>

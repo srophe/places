@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -96,7 +96,7 @@
                <placeName xml:id="name493-3" xml:lang="syr-Syrj" source="#bib493-1">ܐܰܬܪܳܐ ܕܨܘܦܢܳܝ̈ܐ</placeName>
                <placeName xml:id="name493-4" xml:lang="ar" source="#bib493-2">قطر الصوفنيين</placeName>
                <placeName xml:id="name493-5" xml:lang="en" source="#bib493-3">Sufniyyin province</placeName>
-               <desc xml:id="abstract-en-493" xml:lang="en"/>
+               <desc xml:id="abstract-en-493" xml:lang="en">A region north of <placeName ref="http://syriaca.org/place/134">Maypherqaṭ</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/493</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874707</idno>

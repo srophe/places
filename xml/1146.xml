@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,15 +71,18 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-1146" type="settlement">
-               <placeName xml:id="name1146-1" xml:lang="en" syriaca-tags="#syriaca-headword">Dārāwā</placeName>
-               <placeName xml:id="name1146-2" xml:lang="en" source="#bib1146-1">Dārāwā (Ishte d'Nahrā)</placeName>
+               <placeName xml:id="name1146-1"
+                          xml:lang="en"
+                          syriaca-tags="#syriaca-headword"
+                          source="#bib1146-1">Dārāwā</placeName>
+               <placeName xml:id="name1146-2" xml:lang="en" source="#bib1146-1">Ishte d'Nahrā</placeName>
                <desc xml:id="abstract-en-1146" xml:lang="en"/>
                <location type="nested" source="#bib1146-1">
                   <region ref="http://syriaca.org/place/790">Upper Ṭiyārī district</region>

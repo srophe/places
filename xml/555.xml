@@ -47,7 +47,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -79,7 +79,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -89,7 +89,7 @@
                <placeName xml:id="name555-1" xml:lang="en" syriaca-tags="#syriaca-headword">Dayrkah</placeName>
                <placeName xml:id="name555-2" xml:lang="ar" source="#bib555-1">ديركه</placeName>
                <placeName xml:id="name555-3" xml:lang="en" source="#bib555-2">Dairkah</placeName>
-               <desc xml:id="abstract-en-555" xml:lang="en"/>
+               <desc xml:id="abstract-en-555" xml:lang="en">A village north of <placeName ref="http://syriaca.org/place/130">Mardin</placeName> near which is the monastery of <placeName ref="http://syriaca.org/place/353">Mor Daniel of Jolsh</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/555</idno>
                <bibl xml:id="bib555-1">

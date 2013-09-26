@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -96,9 +96,11 @@
                <placeName xml:id="name517-3" xml:lang="syr-Syrj" source="#bib517-1">ܥܳܒܐ</placeName>
                <placeName xml:id="name517-4" xml:lang="ar" source="#bib517-2">غوطة</placeName>
                <placeName xml:id="name517-5" xml:lang="en" source="#bib517-3">Ghūta</placeName>
-               <desc xml:id="abstract-en-517" xml:lang="en"/>
+               <desc xml:id="abstract-en-517" xml:lang="en">The fertile farmland surrounding <placeName ref="http://syriaca.org/place/66">Damascus</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/517</idno>
+               <idno type="URI">http://en.wikipedia.org/wiki/Ghouta</idno>
+               <idno type="URI">http://dbpedia.org/resource/Ghouta</idno>
                <bibl xml:id="bib517-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                   <ptr target="http://syriaca.org/bibl/3"/>

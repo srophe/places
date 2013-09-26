@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-09-17-04:00</date>
+            <date>2013-09-25-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-17-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -82,14 +82,13 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib2373-1">Shemsdīn</placeName>
-               <placeName xml:id="name2373-2" xml:lang="en" source="#bib2373-1">ʿRustāqā</placeName>
-               <placeName xml:id="name2373-3" xml:lang="en" source="#bib2373-1">Ṭārōn</placeName>
-               <placeName xml:id="name2373-4" xml:lang="en" source="#bib2373-1">Ūrmī’</placeName>
-               <placeName xml:id="name2373-5" xml:lang="en" source="#bib2373-1">ʿSciabathan’ (Shāpātan)</placeName>
-               <placeName xml:id="name2373-6" xml:lang="en" source="#bib2373-1">ʿSepatkai’</placeName>
-               <placeName xml:id="name2373-7" xml:lang="en" source="#bib2373-1">Shāpāt</placeName>
-               <placeName xml:id="name2373-8" xml:lang="en" source="#bib2373-1">ʿShaptan’</placeName>
-               <placeName xml:id="name2373-9" xml:lang="en" source="#bib2373-1">ʿSolotam’</placeName>
+               <placeName xml:id="name2373-2" xml:lang="en" source="#bib2373-1">ʻRustāqā, Ṭārōn, and Ūrmī’</placeName>
+               <placeName xml:id="name2373-3" xml:lang="en" source="#bib2373-1">ʻSciabathan’</placeName>
+               <placeName xml:id="name2373-4" xml:lang="en" source="#bib2373-1">Shāpātan</placeName>
+               <placeName xml:id="name2373-5" xml:lang="en" source="#bib2373-1">ʻSepatkai’</placeName>
+               <placeName xml:id="name2373-6" xml:lang="en" source="#bib2373-1">Shāpāt</placeName>
+               <placeName xml:id="name2373-7" xml:lang="en" source="#bib2373-1">ʻShaptan’</placeName>
+               <placeName xml:id="name2373-8" xml:lang="en" source="#bib2373-1">ʻSolotam’</placeName>
                <desc xml:id="abstract-en-2373" xml:lang="en"/>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/2373</idno>
