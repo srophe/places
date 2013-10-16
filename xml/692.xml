@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-25-04:00</date>
+            <date>2013-10-16-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -98,7 +98,7 @@
                <placeName xml:id="name692-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܥܕܬܐ ܕܡܪܝ ܩܘܙܡܐ</placeName>
                <placeName xml:id="name692-3" xml:lang="syr-Syrj" source="#bib692-1">ܥܕܬܐ ܕܡܳܪܝ ܩܘܙܡܐ</placeName>
                <placeName xml:id="name692-4" xml:lang="ar" source="#bib692-2">بيعة مار قزما</placeName>
-               <desc xml:id="abstract-en-692" xml:lang="en"/>
+               <desc xml:id="abstract-en-692" xml:lang="en">A church in the <placeName ref="http://syriaca.org/placeName/318">Ṭuro Briko</placeName> outside of <placeName ref="http://syriaca.org/place/78">Edessa</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/692</idno>
                <bibl xml:id="bib692-1">

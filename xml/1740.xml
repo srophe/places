@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-09-25-04:00</date>
+            <date>2013-10-16-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,18 +71,18 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-1740" type="settlement">
+            <place xml:id="place-1740" type="quarter">
                <placeName xml:id="name1740-1" xml:lang="en" syriaca-tags="#syriaca-headword">Sūq al-Thalātha</placeName>
                <placeName xml:id="name1740-2" xml:lang="en" source="#bib1740-1">Sūq al-Ṯalāṯa</placeName>
                <desc xml:id="abstract-en-1740" xml:lang="en"/>
                <location type="nested" source="#bib1740-1">
-                  <region ref="http://syriaca.org/place/709">Baghdad</region>
+                  <settlement ref="http://syriaca.org/place/41">Baghdad</settlement>
                </location>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/1740</idno>

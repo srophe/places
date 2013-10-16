@@ -66,7 +66,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2013-08-14</date>
+                <date>2013-10-02</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -98,6 +98,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
+            <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-02">REMOVED: <gi>relation</gi> to Ephrem (http://syriaca.org/person/13), to be stored in person record</change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25">ADDED: name and confession attestations, and Chabot bibl item</change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25">FIXED: typo in errata note</change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-14">ADDED: errata note</change>
@@ -229,8 +230,7 @@
                         <citedRange unit="pp">2:136</citedRange>
                     </bibl>
                 </place>
-                <relation name="contains" active="http://syriaca.org/place/145 http://syriaca.org/place/166" passive="#place-78" source="#bib78-1" to="0363"/>
-                <relation name="resided" active="http://syriaca.org/person/13" passive="#place-78" from="0363" to="0373" source="#bib78-1"/>
+                <relation name="contained" active="http://syriaca.org/place/145 http://syriaca.org/place/166" passive="#place-78" source="#bib78-1" to="0363"/>
             </listPlace>
         </body>
     </text>

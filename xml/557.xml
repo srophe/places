@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Bāb al-ʿĀmūd
+            <title level="a" xml:lang="en">Bāb al-ʿAmūd
                                         — <foreign xml:lang="syr">ܬܪܥܐ ܕܥܡܘܕܐ</foreign>
             </title>
             <title level="m" xml:lang="en">The Syriac Gazetteer</title>
@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-09-25-04:00</date>
+            <date>2013-10-16-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,14 +84,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-25-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPlace>
             <place xml:id="place-557" type="quarter">
-               <placeName xml:id="name557-1" xml:lang="en" syriaca-tags="#syriaca-headword">Bāb al-ʿĀmūd</placeName>
+               <placeName xml:id="name557-1" xml:lang="en" syriaca-tags="#syriaca-headword">Bāb al-ʿAmūd</placeName>
                <placeName xml:id="name557-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܬܪܥܐ ܕܥܡܘܕܐ</placeName>
                <placeName xml:id="name557-3" xml:lang="syr-Syrj" source="#bib557-1">ܬܰܪܥܐ ܕܥܰܡܘܕܐ</placeName>
                <placeName xml:id="name557-4" xml:lang="ar" source="#bib557-2">باب العمود</placeName>
