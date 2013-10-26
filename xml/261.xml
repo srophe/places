@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -84,7 +84,7 @@
                           source="#bib261-1">ʿAynkawa</placeName>
                <placeName xml:id="name261-2" xml:lang="en" source="#bib261-2">ʿAïnqāwā</placeName>
                <placeName xml:id="name261-3" xml:lang="en" source="#bib261-2">ʿAmkābā</placeName>
-               <desc xml:id="abstract-en-261" xml:lang="en"/>
+               <desc xml:id="abstract-en-261" xml:lang="en">A town northeast of <placeName ref="http://syriaca.org/place/13">Arbela</placeName>.</desc>
                <location type="nested" source="#bib261-2">
                   <region ref="http://syriaca.org/place/993">Erbil region</region>
                </location>

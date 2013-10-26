@@ -56,7 +56,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -88,7 +88,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -101,7 +101,7 @@
                           source="#bib125-1">Magdal</placeName>
                <placeName xml:id="name125-2" xml:lang="ar" source="#bib125-2">مجدل</placeName>
                <placeName xml:id="name125-3" xml:lang="en" source="#bib125-3">Majdal</placeName>
-               <desc xml:id="abstract-en-125" xml:lang="en"/>
+               <desc xml:id="abstract-en-125" xml:lang="en">A frontier town on the <placeName ref="http://syriaca.org/place/114">Khabur River</placeName>.</desc>
                <desc xml:lang="ar">
                   <quote source="#bib125-2">اسم بلدة مندرسة بالخابور الى جانبه كانت تحت رأس عين بمرحلة وذكر ياقوت شاعرا منها معاصرا له.</quote>
                </desc>

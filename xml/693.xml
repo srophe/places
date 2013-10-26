@@ -49,7 +49,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -81,7 +81,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -94,7 +94,7 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib693-1">ܫܥܒ</placeName>
                <placeName xml:id="name693-3" xml:lang="ar" source="#bib693-2">شعب</placeName>
-               <desc xml:id="abstract-en-693" xml:lang="en"/>
+               <desc xml:id="abstract-en-693" xml:lang="en">A village south of <placeName ref="http://syriaca.org/place/130">Mardin</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/693</idno>
                <bibl xml:id="bib693-1">

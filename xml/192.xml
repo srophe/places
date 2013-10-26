@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -84,11 +84,13 @@
                           source="#bib192-1">Sulaymāniyya</placeName>
                <placeName xml:id="name192-2" xml:lang="en" source="#bib192-2">Sulemaniyya</placeName>
                <placeName xml:id="name192-3" xml:lang="en" source="#bib192-3">Suleimaniya</placeName>
-               <desc xml:id="abstract-en-192" xml:lang="en"/>
+               <desc xml:id="abstract-en-192" xml:lang="en">A modern city in northern <placeName ref="http://syriaca.org/place/98">Iraq</placeName> east of <placeName ref="http://syriaca.org/place/108">Kirkuk</placeName> and southeast of <placeName ref="http://syriaca.org/place/13">Erbil</placeName>.</desc>
                <location type="gps" source="#bib192-1">
                   <geo>35.55 45.433333</geo>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="1784-11-14" to="2013">
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/192</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Sulaymaniyah</idno>
                <idno type="URI">http://dbpedia.org/resource/Sulaymaniyah</idno>

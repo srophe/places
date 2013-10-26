@@ -57,7 +57,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -89,7 +89,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -104,7 +104,7 @@
                <placeName xml:id="name135-3" xml:lang="syr-Syrj" source="#bib135-2">ܝܰܡܳܐ ܡܶܨܥܳܝܐ</placeName>
                <placeName xml:id="name135-4" xml:lang="ar" source="#bib135-3">بحر الروم</placeName>
                <placeName xml:id="name135-5" xml:lang="en" source="#bib135-4">Mediterranean</placeName>
-               <desc xml:id="abstract-en-135" xml:lang="en"/>
+               <desc xml:id="abstract-en-135" xml:lang="en">The large sea which divides Europe from Africa and whose eastern waters reach Anatolia, Syria, and Egypt.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/135</idno>
                <idno type="URI">http://pleiades.stoa.org/places/1043</idno>

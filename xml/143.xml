@@ -57,7 +57,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -89,7 +89,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -104,7 +104,7 @@
                <placeName xml:id="name143-3" xml:lang="syr-Syrj" source="#bib143-2">ܢܰܒܟ</placeName>
                <placeName xml:id="name143-4" xml:lang="ar" source="#bib143-3">النبك</placeName>
                <placeName xml:id="name143-5" xml:lang="en" source="#bib143-4">al-Nabak</placeName>
-               <desc xml:id="abstract-en-143" xml:lang="en"/>
+               <desc xml:id="abstract-en-143" xml:lang="en">A town northeast of <placeName ref="http://syriaca.org/place/66">Damascus</placeName> and southwest of <placeName ref="http://syriaca.org/place/212">al-Qaryatayn</placeName>.</desc>
                <location type="gps" source="#bib143-1">
                   <geo>34.016667 36.716667</geo>
                </location>

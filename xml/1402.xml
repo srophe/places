@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -83,7 +83,7 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib1402-1">Maʿalta</placeName>
                <placeName xml:id="name1402-2" xml:lang="en" source="#bib1402-2">Maʿalṯā</placeName>
-               <desc xml:id="abstract-en-1402" xml:lang="en">A village of Beth Nuhadra.</desc>
+               <desc xml:id="abstract-en-1402" xml:lang="en">A village of <placeName ref="http://syriaca.org/place/1262">Beth Nuhadra</placeName>.</desc>
                <location type="nested" source="#bib1402-2">
                   <region ref="http://syriaca.org/place/742">Dohuk district</region>
                   <region ref="http://syriaca.org/place/703">ʿAmādīyā region</region>

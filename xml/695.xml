@@ -49,7 +49,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -81,7 +81,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -94,7 +94,7 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib695-1">ܟ̣ܠܦܬܝ</placeName>
                <placeName xml:id="name695-3" xml:lang="ar" source="#bib695-2">خلفتي</placeName>
-               <desc xml:id="abstract-en-695" xml:lang="en"/>
+               <desc xml:id="abstract-en-695" xml:lang="en">A village on the <placeName ref="http://syriaca.org/place/82">Euphrates</placeName> west of <placeName ref="http://syriaca.org/place/78">Edessa</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/695</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Halfeti</idno>

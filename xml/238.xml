@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -115,7 +115,7 @@
                           source="#bib238-2">ܩܠܬ</placeName>
                <placeName xml:id="name238-4" xml:lang="ar" source="#bib238-3">قلث</placeName>
                <placeName xml:id="name238-5" xml:lang="en" source="#bib238-4">Qellith</placeName>
-               <desc xml:id="abstract-en-238" xml:lang="en"/>
+               <desc xml:id="abstract-en-238" xml:lang="en">A village in <placeName ref="http://syriaca.org/place/221">Ṭur ʿAbdin</placeName> northwest of <placeName ref="http://syriaca.org/place/137">Midyat</placeName>.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib238-2">ܩܪܝܬܳܐ ܗܝ ܕܰܠܓܰܪܒܰܝ ܡܰܪܕܝܢ ܡܰܫܩܶܠ ܝܰܘܡܳܐ ܡܝܰܬܒܳܐ ܒܣܘܪ̈ܝܝܐ.</quote>
                </desc>

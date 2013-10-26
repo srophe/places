@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -131,6 +131,7 @@
                   <precision match="@from" notAfter="0400" notBefore="0300"/>
                   <precision match="@to" notBefore="0942"/>
                </state>
+               <note type="errata">GEDSH Map II displays the location too far to the south, east of <placeName ref="http://syriaca.org/place/91">Ḥama</placeName> rather than west of <placeName ref="http://syriaca.org/place/18">Aleppo</placeName>.</note>
                <note type="errata">In Dolabani's translation of Barsoum's description ܕܐܶܦܶܣܘܣ should read ܕܶܐܦܶܣܘܣ.</note>
                <idno type="URI">http://syriaca.org/place/233</idno>
                <idno type="URI">
@@ -147,6 +148,7 @@
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="pp">64, 69, 184, 377, 398, 432</citedRange>
+                  <citedRange unit="maps">Map II</citedRange>
                </bibl>
                <bibl xml:id="bib233-3">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

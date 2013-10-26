@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -78,7 +78,7 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib671-1">Ardashir Khurrah</placeName>
-               <desc xml:id="abstract-en-671" xml:lang="en"/>
+               <desc xml:id="abstract-en-671" xml:lang="en">A city of <placeName ref="http://syriaca.org/place/84">Fars</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/671</idno>
                <idno type="URI">http://pleiades.stoa.org/places/922617</idno>

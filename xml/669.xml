@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -83,13 +83,13 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib669-1">Mar Aphnimaran</placeName>
                <placeName xml:id="name669-2" xml:lang="en" source="#bib669-2">Mār Apnī-māran</placeName>
-               <desc xml:id="abstract-en-669" xml:lang="en"/>
+               <desc xml:id="abstract-en-669" xml:lang="en">A monastery frequented by <persName ref="http://syriaca.org/person/826">Yoḥannan of Dalyatha</persName>.</desc>
                <location type="nested" source="#bib669-2">
                   <region ref="http://syriaca.org/place/722">Mosul region</region>
                </location>
-               <state type="existence" from="1092" to="1092">
-                  <precision match="@from" notAfter="1092"/>
-                  <precision match="@to" notBefore="1092"/>
+               <state type="existence" from="0800" to="1092">
+                  <precision match="@from" notAfter="0800" notBefore="0300"/>
+                  <precision match="@to" notAfter="1899" notBefore="1092"/>
                </state>
                <idno type="URI">http://syriaca.org/place/669</idno>
                <bibl xml:id="bib669-1">

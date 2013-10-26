@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -118,7 +118,7 @@
                <placeName xml:id="name109-9" xml:lang="ar" source="#bib109-3">قالونيقس</placeName>
                <placeName xml:id="name109-10" xml:lang="en" source="#bib109-4">al-Raqqa</placeName>
                <placeName xml:id="name109-11" xml:lang="en" source="#bib109-4">Callinicus</placeName>
-               <desc xml:id="abstract-en-109" xml:lang="en"/>
+               <desc xml:id="abstract-en-109" xml:lang="en">A city on the <placeName ref="http://syriaca.org/place/82">Euphrates</placeName> where the <placeName ref="http://syriaca.org/place/191">Daiṣan</placeName> enters it.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib109-2">ܡܕܝܢܬܳܐ ܗܘܳܬ ܪܰܒܬܳܐ ܒܩܘܪܒܳܐ ܕܰܦܪܳܬ ܘܡܶܬܰܐܡܪ ܠܗ̇ ܪܰܩܰܗ̈ ܘܝܰܘܡܳܢܐ ܗܘܳܬ ܡܕܝܢܬܳܘܢܺܝܬܳܐ ܕܕܳܡܝܳܐ ܠܰܩܪܺܝܬܳܐ.</quote>
                </desc>

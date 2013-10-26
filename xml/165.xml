@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -80,7 +80,7 @@
                           source="#bib165-1">Sergiopolis</placeName>
                <placeName xml:id="name165-2" xml:lang="en" source="#bib165-1">Reṣafa</placeName>
                <placeName xml:id="name165-3" xml:lang="en" source="#bib165-2">Rusafa</placeName>
-               <desc xml:id="abstract-en-165" xml:lang="en"/>
+               <desc xml:id="abstract-en-165" xml:lang="en">A town southwest of <placeName ref="http://syriaca.org/place/109">Kallinikos</placeName>.</desc>
                <location type="gps" source="#bib165-1">
                   <geo>35.616667 38.75</geo>
                </location>

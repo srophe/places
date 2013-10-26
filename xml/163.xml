@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -84,7 +84,7 @@
                           source="#bib163-1">Qudshanis</placeName>
                <placeName xml:id="name163-2" xml:lang="en" source="#bib163-1">Kochanes</placeName>
                <placeName xml:id="name163-3" xml:lang="en" source="#bib163-2">Qūdshānīs</placeName>
-               <desc xml:id="abstract-en-163" xml:lang="en"/>
+               <desc xml:id="abstract-en-163" xml:lang="en">A town in the <placeName ref="http://syriaca.org/place/90">Hakkari mountains</placeName> near the <placeName ref="http://syriaca.org/place/204">Greater Zab</placeName>, northeast of <placeName ref="http://syriaca.org/place/107">Julamerk</placeName>.</desc>
                <location type="gps" source="#bib163-1">
                   <geo>37.642778 43.789444</geo>
                </location>

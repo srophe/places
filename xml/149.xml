@@ -57,7 +57,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -89,7 +89,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -105,7 +105,7 @@
                <placeName xml:id="name149-4" xml:lang="ar" source="#bib149-3">فلسطين</placeName>
                <placeName xml:id="name149-5" xml:lang="en" source="#bib149-4">Palestine</placeName>
                <placeName xml:id="name149-6" xml:lang="en" source="#bib149-5">Roman Palestine</placeName>
-               <desc xml:id="abstract-en-149" xml:lang="en"/>
+               <desc xml:id="abstract-en-149" xml:lang="en">A Roman province including <placeName ref="http://syriaca.org/place/53">Caesarea</placeName> and <placeName ref="http://syriaca.org/place/104">Jerusalem</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/149</idno>
                <idno type="URI">http://pleiades.stoa.org/places/991396</idno>

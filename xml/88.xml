@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -117,7 +117,7 @@
                <placeName xml:id="name88-8" xml:lang="ar" source="#bib88-3">جزيرة ابن عمر</placeName>
                <placeName xml:id="name88-9" xml:lang="en" source="#bib88-4">Jazirat Ibn ʿUmar</placeName>
                <placeName xml:id="name88-10" xml:lang="en" source="#bib88-5">Gāzartā</placeName>
-               <desc xml:id="abstract-en-88" xml:lang="en"/>
+               <desc xml:id="abstract-en-88" xml:lang="en">A city on the <placeName ref="http://syriaca.org/place/202">Tigris river</placeName> between <placeName ref="http://syriaca.org/place/8">Amida</placeName> and <placeName ref="http://syriaca.org/place/139">Mosul</placeName>.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib88-2">ܡܕܺܝܢܬܘܢܝܬܳܐ ܗܝ ܕܥܰܠ ܕܶܩܠܰܬ ܒܶܝܬ ܐܳܡܝܕ ܠܡܰܘܨܠ.</quote>
                </desc>

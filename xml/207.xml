@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -83,7 +83,7 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib207-1">Van</placeName>
                <placeName xml:id="name207-2" xml:lang="en" source="#bib207-2">Vān</placeName>
-               <desc xml:id="abstract-en-207" xml:lang="en"/>
+               <desc xml:id="abstract-en-207" xml:lang="en">A city southeast of <placeName ref="http://syriaca.org/place/117">Lake Van</placeName>.</desc>
                <location type="gps" source="#bib207-1">
                   <geo>38.494167 43.38</geo>
                </location>

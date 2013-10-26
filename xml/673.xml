@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -78,12 +78,12 @@
                           xml:lang="en"
                           syriaca-tags="#syriaca-headword"
                           source="#bib673-1">Arzanene</placeName>
-               <desc xml:id="abstract-en-673" xml:lang="en"/>
+               <desc xml:id="abstract-en-673" xml:lang="en">A region west and a bit south of <placeName ref="http://syriaca.org/place/117">Lake Van</placeName>.</desc>
                <state type="existence"/>
                <idno type="URI">http://syriaca.org/place/673</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874367/</idno>
-               <idno type="URI">http://en.wikipedia.org/wiki/Aghdznik</idno>
-               <idno type="URI">http://dbpedia.org/resource/Aghdznik</idno>
+               <idno type="URI">http://en.wikipedia.org/wiki/Arzanene</idno>
+               <idno type="URI">http://dbpedia.org/resource/Arzanene</idno>
                <bibl xml:id="bib673-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>

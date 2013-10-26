@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,7 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -96,7 +96,7 @@
                <placeName xml:id="name571-3" xml:lang="syr-Syrj" source="#bib571-1">ܐܘܦܘܡܺܝܰܐ</placeName>
                <placeName xml:id="name571-4" xml:lang="ar" source="#bib571-2">اوفيمية</placeName>
                <placeName xml:id="name571-5" xml:lang="en" source="#bib571-3">Euphemia</placeName>
-               <desc xml:id="abstract-en-571" xml:lang="en">A ruined monastery attested near <placeName ref="http://syriaca.org/place/215">Ḥomṣ</placeName>
+               <desc xml:id="abstract-en-571" xml:lang="en">A ruined monastery attested near <placeName ref="http://syriaca.org/place/215">Ḥimṣ</placeName>
                </desc>
                <state type="existence" from="1286" to="1286">
                   <precision match="@from" notAfter="1286"/>

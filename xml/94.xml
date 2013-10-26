@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-16-04:00</date>
+            <date>2013-10-26-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-16-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -111,7 +111,7 @@
                <placeName xml:id="name94-6" xml:lang="syr" syriaca-tags="#syriaca-headword">ܚܣܢ ܡܢܨܘܪ</placeName>
                <placeName xml:id="name94-7" xml:lang="syr-Syrj" source="#bib94-2">ܚܰܣܰܢ ܡܰܢܨܘܪ</placeName>
                <placeName xml:id="name94-8" xml:lang="ar" source="#bib94-3">حصن منصور</placeName>
-               <desc xml:id="abstract-en-94" xml:lang="en"/>
+               <desc xml:id="abstract-en-94" xml:lang="en">A city north of <placeName ref="http://syriaca.org/place/97">Qalʿa Rumayta</placeName> and southwest of <placeName ref="http://syriaca.org/place/136">Melitene</placeName>.</desc>
                <desc xml:lang="syr-Syrj">
                   <quote source="#bib94-2">ܡܕܝܰܢܬܐ ܗܝ ܕܰܒܓܰܪܒܰܝ ܫܰܡܝܫܰܛ ܠܡܰܥܪܒܳܐ ܕܰܦܪܳܬ ܕܡܶܬܶܐܡܰܪ ܠܗ̇ ܬܘܒ ܐܰܕܺܝܰܐܡܰܐܢ.</quote>
                </desc>
