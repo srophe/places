@@ -66,7 +66,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2013-11-06</date>
+                <date>2013-11-07</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -98,6 +98,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
+            <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-11-07">ADDED: confession78-6 and bib78-11</change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-11-06">ADDED: confession URIs</change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-11-06">FIXED: missing attestation 5</change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26">ADDED: confession Melkite, attestations 3-7</change>
@@ -187,24 +188,31 @@
                     </event>
                     <event type="attestation" xml:id="attestation78-1" notBefore="1146" notAfter="1234" source="#bib78-9">
                         <label>Attestation of name ܐܘܪܗܝ in the anonymous Chronicle of 1234.</label>
+                        <link target="#name78-3 #attestation78-1"/>
                     </event>
                     <event type="attestation" xml:id="attestation78-2" when="1146" source="#bib78-9">
                         <label>Attestation of confession Syrian Orthodox in the anonymous Chronicle of 1234.</label>
+                        <link target="#confession78-1 #attestation78-2"/>
                     </event>
                     <event type="attestation" xml:id="attestation78-3" when="0201" source="#bib78-10">
                         <label>Attestation of Christian church in Edessa according to the Chronicle of Edessa.</label>
+                        <link target="#confession78-2 #attestation78-3"/>
                     </event>
                     <event type="attestation" xml:id="attestation78-4" notBefore="0540" source="#bib78-10">
                         <label>Attestation of Chalcedonian author in Edessa according to the Chronicle of Edessa.</label>
+                        <link target="#confession78-3 #attestation78-4"/>
                     </event>
                     <event type="attestation" xml:id="attestation78-5" when="0522" source="#bib78-10">
                         <label>Attestation of Chalcedonian bishop in Edessa according to the Chronicle of Edessa.</label>
+                        <link target="#confession78-3 #attestation78-5"/>
                     </event>
                     <event type="attestation" xml:id="attestation78-6" when="0520" source="#bib78-10">
                         <label>Attestation of anti-Chalcedonian bishop in Edessa according to the Chronicle of Edessa.</label>
+                        <link target="#confession78-2 #attestation78-6"/>
                     </event>
                     <event type="attestation" xml:id="attestation78-7" when="1624" source="#bib78-5">
                         <label>Attestation of Syrian Orthodox metropolitan for Edessa according to Barsoum's Scattered Pearls.</label>
+                        <link target="#confession78-2 #attestation78-7"/>
                     </event>
                     <state type="existence" from="-0304"/>
                     <state type="confession" xml:id="confession78-2" ref="http://syriaca.org/confessions.xml#christians" from="0030" to="1924" source="#bib78-1">
@@ -222,16 +230,12 @@
                     <state type="confession" xml:id="confession78-5" ref="http://syriaca.org/confessions.xml#latin" from="1098" to="1144" source="#bib78-1">
                         <label>Latin</label>
                     </state>
+                    <state type="confession" xml:id="confession78-6" ref="http://syriaca.org/confessions.xml#jews" from="0050" to="0424" source="#bib78-11">
+                        <label>Jews</label>
+                        <precision match="@from" notAfter="0100"/>
+                        <precision match="@to" notBefore="0412"/>
+                    </state>
                     <note type="errata">Amir Harrak's GEDSH article identifies its river as the <placeName ref="http://syriaca.org/place/43">Balikh</placeName>, but the identification is contested.</note>
-                    <linkGrp type="attestations">
-                        <link target="#name78-3 #attestation78-1"/>
-                        <link target="#confession78-1 #attestation78-2"/>
-                        <link target="#confession78-2 #attestation78-3"/>
-                        <link target="#confession78-3 #attestation78-4"/>
-                        <link target="#confession78-3 #attestation78-5"/>
-                        <link target="#confession78-2 #attestation78-6"/>
-                        <link target="#confession78-2 #attestation78-7"/>
-                    </linkGrp>
                     <idno type="URI">http://syriaca.org/place/78</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/658457</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Edessa</idno>
@@ -291,6 +295,12 @@
                         <editor>Ignatius Guidi</editor>
                         <ptr target="http://syriaca.org/bibl/633"/>
                         <citedRange unit="pp">1:2, 11, 13</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib78-11">
+                        <title xml:lang="en" level="a">Jews and Christians at Edessa</title>
+                        <author>Han J. W. Drijvers</author>
+                        <ptr target="http://syriaca.org/bibl/634"/>
+                        <citedRange unit="pp">90, 102</citedRange>
                     </bibl>
                 </place>
                 <relation name="contained" active="http://syriaca.org/place/145 http://syriaca.org/place/166" passive="#place-78" source="#bib78-1" to="0363"/>
