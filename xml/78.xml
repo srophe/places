@@ -66,7 +66,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2013-10-26</date>
+                <date>2013-11-06</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -98,6 +98,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
+            <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-11-06">ADDED: confession URIs</change>
+            <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-11-06">FIXED: missing attestation 5</change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26">ADDED: confession Melkite, attestations 3-7</change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26">ADDED: names 8-10, events in 213, 489, 641, 1098, 1144, 1517, 1913-1919, 1924</change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-02">REMOVED: <gi>relation</gi> to Ephrem (http://syriaca.org/person/13), to be stored in person record</change>
@@ -195,6 +197,9 @@
                     <event type="attestation" xml:id="attestation78-4" notBefore="0540" source="#bib78-10">
                         <label>Attestation of Chalcedonian author in Edessa according to the Chronicle of Edessa.</label>
                     </event>
+                    <event type="attestation" xml:id="attestation78-5" when="0522" source="#bib78-10">
+                        <label>Attestation of Chalcedonian bishop in Edessa according to the Chronicle of Edessa.</label>
+                    </event>
                     <event type="attestation" xml:id="attestation78-6" when="0520" source="#bib78-10">
                         <label>Attestation of anti-Chalcedonian bishop in Edessa according to the Chronicle of Edessa.</label>
                     </event>
@@ -202,19 +207,19 @@
                         <label>Attestation of Syrian Orthodox metropolitan for Edessa according to Barsoum's Scattered Pearls.</label>
                     </event>
                     <state type="existence" from="-0304"/>
-                    <state type="confession" xml:id="confession78-2" from="0030" to="1924" source="#bib78-1">
-                        <label>Christian</label>
+                    <state type="confession" xml:id="confession78-2" ref="http://syriaca.org/confessions.xml#christians" from="0030" to="1924" source="#bib78-1">
+                        <label>Christians</label>
                     </state>
-                    <state type="confession" xml:id="confession78-1" from="0451" to="1924" source="#bib78-1">
+                    <state type="confession" xml:id="confession78-1" ref="http://syriaca.org/confessions.xml#syrian-orthodox" from="0451" to="1924" source="#bib78-1">
                         <label>Syrian Orthodox</label>
                     </state> 
-                    <state type="confession" xml:id="confession78-3" from="0451" to="0641">
+                    <state type="confession" xml:id="confession78-3" ref="http://syriaca.org/confessions.xml#melkite" from="0451" to="0641">
                         <label>Melkite</label>
                     </state>
-                    <state type="confession" from="0641" source="#bib78-1">
-                        <label>Muslim</label>
+                    <state type="confession" xml:id="confession78-4" ref="http://syriaca.org/confessions.xml#muslims" from="0641" source="#bib78-1">
+                        <label>Muslims</label>
                     </state>
-                    <state type="confession" from="1098" to="1144" source="#bib78-1">
+                    <state type="confession" xml:id="confession78-5" ref="http://syriaca.org/confessions.xml#latin" from="1098" to="1144" source="#bib78-1">
                         <label>Latin</label>
                     </state>
                     <note type="errata">Amir Harrak's GEDSH article identifies its river as the <placeName ref="http://syriaca.org/place/43">Balikh</placeName>, but the identification is contested.</note>
