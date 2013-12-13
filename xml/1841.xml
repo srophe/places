@@ -78,10 +78,7 @@
       <body>
          <listPlace>
             <place xml:id="place-1841" type="church">
-               <placeName xml:id="name1841-1"
-                          xml:lang="en"
-                          syriaca-tags="#syriaca-headword"
-                          source="#bib1841-1">﻿Asbag</placeName>
+               <placeName xml:id="name1841-1" xml:lang="en" syriaca-tags="#syriaca-headword" source="#bib1841-1">Asbag</placeName>
                <desc xml:id="abstract-en-1841" xml:lang="en"/>
                <location type="nested" source="#bib1841-1">
                   <settlement ref="http://syriaca.org/place/41">Baghdad</settlement>
