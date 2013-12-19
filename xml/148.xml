@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -88,7 +88,9 @@
                   <settlement ref="http://syriaca.org/place/19">Alqōsh</settlement>
                   <region ref="http://syriaca.org/place/722">Mosul region</region>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="1858" to="1933">
+                  <precision match="@to" notBefore="1933"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/148</idno>
                <bibl xml:id="bib148-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

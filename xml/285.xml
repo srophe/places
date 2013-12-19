@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -121,7 +121,10 @@
                <desc xml:lang="en">
                   <quote source="#bib285-4">a large city, formerly northwest of Seʿert. Its ruins can still be seen.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0410" to="1281">
+                  <precision match="@from" notAfter="0410"/>
+                  <precision match="@to" notBefore="1281"/>
+               </state>
                <note type="deprecation" xml:id="name285-5-deprecation">Barsoum also refers to this place in his description for Philoxenus of Mabbug as "Ghurzān" erroneously.</note>
                <link target="#name285-5 #name285-5-deprecation"/>
                <link target="#name285-7 #name285-5-deprecation"/>

@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -120,8 +120,8 @@
                   <quote source="#bib395-3">in Shaghr, in the province of Qallisura. Two patriarchs and five bishops graduated from it between 986 and 1170.</quote>
                </desc>
                <state type="existence" from="0986" to="1170">
-                  <precision match="@from" notAfter="0986"/>
-                  <precision match="@to" notBefore="1170"/>
+                  <precision match="@from" notAfter="0986" notBefore="0300"/>
+                  <precision match="@to" notAfter="1943" notBefore="1170"/>
                </state>
                <idno type="URI">http://syriaca.org/place/395</idno>
                <bibl xml:id="bib395-1">

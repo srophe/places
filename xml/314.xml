@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -119,8 +119,8 @@
                <desc xml:lang="en">
                   <quote source="#bib314-4">a small town between Ḥiṣn Maslama Ibn ʿAbd al-Malik and al-Raqqa, now called Tell al-Manakhir. </quote>
                </desc>
-               <state type="existence" from="0802" to="0745">
-                  <precision match="@from" notAfter="0802"/>
+               <state type="existence" from="0718" to="0745">
+                  <precision match="@from" notAfter="0718"/>
                   <precision match="@to" notBefore="0745"/>
                </state>
                <idno type="URI">http://syriaca.org/place/314</idno>

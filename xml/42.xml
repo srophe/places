@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -130,8 +130,9 @@
                <desc xml:lang="en">
                   <quote source="#bib42-5">an ancient town above Mosul on the western bank of the Tigris, ruined in the fourteenth century. It is now called Eski Mosul.</quote>
                </desc>
-               <state type="existence" from="0559">
+               <state type="existence" from="0559" to="1318">
                   <precision match="@from" notAfter="0559"/>
+                  <precision match="@to" notAfter="1985" notBefore="1318"/>
                </state>
                <idno type="URI">http://syriaca.org/place/42</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874379</idno>

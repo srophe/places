@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -120,8 +120,8 @@
                   <quote source="#bib369-3">between Tell Mawzalt and Tālbsam, nearer to Tell Mawzalt. It was built in the fifth century and is described in history as having been inhabited from 521 to 854. Four bishops graduated from it.</quote>
                </desc>
                <state type="existence" from="0521" to="0854">
-                  <precision match="@from" notAfter="0521"/>
-                  <precision match="@to" notBefore="0854"/>
+                  <precision match="@from" notAfter="0521" notBefore="0400"/>
+                  <precision match="@to" notAfter="1943" notBefore="0854"/>
                </state>
                <idno type="URI">http://syriaca.org/place/369</idno>
                <bibl xml:id="bib369-1">

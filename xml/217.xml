@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -112,9 +112,9 @@
                <location type="nested" source="#bib217-5">
                   <region ref="http://syriaca.org/place/724">Seert region</region>
                </location>
-               <state type="existence" from="1461" to="1505">
-                  <precision match="@from" notAfter="1461"/>
-                  <precision match="@to" notBefore="1505"/>
+               <state type="existence" from="0640" to="1913">
+                  <precision match="@from" notAfter="0640"/>
+                  <precision match="@to" notBefore="1913"/>
                </state>
                <idno type="URI">http://syriaca.org/place/217</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874496</idno>

@@ -69,7 +69,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -101,7 +101,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -131,7 +131,9 @@
                   <settlement ref="http://syriaca.org/place/408">Zargel</settlement>
                   <region ref="http://syriaca.org/place/724">Seert region</region>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="1400" to="1941">
+                  <precision match="@from" notAfter="1400" notBefore="0300"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/377</idno>
                <bibl xml:id="bib377-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

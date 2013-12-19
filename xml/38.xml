@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -79,7 +79,10 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib38-1">Beth Raziqaye</placeName>
                <desc xml:id="abstract-en-38" xml:lang="en">A diocese of the Church of the East, south of the <placeName ref="http://syriaca.org/place/61">Caspian Sea</placeName>.</desc>
-               <state type="existence"/>
+               <state type="existence" from="0410" to="1075">
+                  <precision match="@from" notAfter="0410"/>
+                  <precision match="@to" notAfter="2013" notBefore="1075"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/38</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Rai_(East_Syrian_Ecclesiastical_Province)</idno>
                <idno type="URI">http://dbpedia.org/resource/Rai_(East_Syrian_Ecclesiastical_Province)</idno>

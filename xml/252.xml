@@ -35,7 +35,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -67,7 +67,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -80,7 +80,9 @@
                           source="#bib252-1">Ṭiyari</placeName>
                <placeName xml:id="name252-2" xml:lang="en" source="#bib252-2">Tyare</placeName>
                <desc xml:id="abstract-en-252" xml:lang="en">A region in the Hakkari mountains.</desc>
-               <state type="existence"/>
+               <state type="existence" from="2000">
+                  <precision match="@from" notAfter="2000"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/252</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Tyari</idno>
                <idno type="URI">

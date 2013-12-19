@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -123,10 +123,10 @@
                   <quote source="#bib398-3">in the Mount of Edessa, an hour and a half south of the city. It was built in the fifth century and was mentioned by John of Ephesus in his history in 519.  It was renovated by its abbot, John of Sarug, who was elevated to the office of Maphryono of the East in 1164. It remained inhabited until 1223. Its ruins are still visible.</quote>
                </desc>
                <state type="existence" from="0500" to="1223">
-                  <precision match="@from" notAfter="0500"/>
+                  <precision match="@from" notAfter="0500" notBefore="0400"/>
                   <precision match="@to" notAfter="1943" notBefore="1223"/>
                </state>
-               <note type="errata">In Dolabani's translation of Barsoum's description ܒܡܰܐܬܰܐ should read ܒܡܰܐܬܳܐ.</note>
+               <note type="corrigenda">In Dolabani's translation of Barsoum's description ܒܡܰܐܬܰܐ should read ܒܡܰܐܬܳܐ.</note>
                <idno type="URI">http://syriaca.org/place/398</idno>
                <idno type="URI">http://pleiades.stoa.org/places/658527</idno>
                <bibl xml:id="bib398-1">

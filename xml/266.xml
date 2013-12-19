@@ -57,7 +57,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -89,7 +89,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -105,7 +105,10 @@
                <placeName xml:id="name266-4" xml:lang="syr-Syrj" source="#bib266-2">ܒܰܛܪܘܢ</placeName>
                <placeName xml:id="name266-5" xml:lang="ar" source="#bib266-3">البترون</placeName>
                <desc xml:id="abstract-en-266" xml:lang="en">A coastal town between <placeName ref="http://syriaca.org/place/203">Tripoli</placeName> and <placeName ref="http://syriaca.org/place/52">Jubail</placeName>.</desc>
-               <state type="existence"/>
+               <state type="existence" from="0024" to="2013">
+                  <precision match="@from" notAfter="0024"/>
+                  <precision match="@to" notBefore="2013"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/266</idno>
                <idno type="URI">http://pleiades.stoa.org/places/668214</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Batroun</idno>

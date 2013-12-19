@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -93,7 +93,10 @@
                <desc xml:lang="en">
                   <quote source="#bib36-1">101. Beth Nuhadra</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="0410" to="1265">
+                  <precision match="@from" notAfter="0410"/>
+                  <precision match="@to" notAfter="2013" notBefore="1265"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/36</idno>
                <idno type="URI">
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Bet Nuhadre&amp;sT=keywords

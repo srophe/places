@@ -69,7 +69,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -101,7 +101,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -130,7 +130,10 @@
                <location type="nested" source="#bib467-4">
                   <region ref="http://syriaca.org/place/707">Āmid region</region>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="0640" to="1913">
+                  <precision match="@from" notAfter="0640"/>
+                  <precision match="@to" notBefore="1913"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/467</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874372</idno>
                <bibl xml:id="bib467-1">

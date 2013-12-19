@@ -57,7 +57,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -89,7 +89,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -104,7 +104,9 @@
                <placeName xml:id="name54-3" xml:lang="syr-Syrj" source="#bib54-2">ܩܰܦܰܐܕܽܘܩܝܐ</placeName>
                <placeName xml:id="name54-4" xml:lang="ar" source="#bib54-3">قبادوقية</placeName>
                <desc xml:id="abstract-en-54" xml:lang="en">A Roman province in central Anatolia.</desc>
-               <state type="existence"/>
+               <state type="existence" from="0018" to="0600">
+                  <precision match="@to" notAfter="0700" notBefore="0600"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/54</idno>
                <idno type="URI">http://pleiades.stoa.org/places/991402</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Cappadocia_(Roman_province)</idno>

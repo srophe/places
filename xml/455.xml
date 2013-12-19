@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -122,7 +122,10 @@
                <desc xml:lang="en">
                   <quote source="#bib455-4">an ancient town in the province of Melitene.</quote>
                </desc>
-               <state type="existence"/>
+               <state type="existence" from="1030" to="1283">
+                  <precision match="@from" notAfter="1030"/>
+                  <precision match="@to" notBefore="1283"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/455</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Laqabin_(West_Syrian_Diocese)</idno>
                <bibl xml:id="bib455-1">

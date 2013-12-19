@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -121,8 +121,11 @@
                <desc xml:lang="en">
                   <quote source="#bib442-">a village in the vicinity of Diyarbakir which was populated by Syrians. It was destroyed in World War I.</quote>
                </desc>
-               <state type="existence"/>
-               <note type="errata">Moosa's English translation of Barsoum's description was incorrectly published under the headword "Arsamosata."</note>
+               <state type="existence" from="1914" to="1914">
+                  <precision match="@from" notAfter="1914"/>
+                  <precision match="@to" notAfter="1920" notBefore="1914"/>
+               </state>
+               <note type="corrigenda">Moosa's English translation of Barsoum's description was incorrectly published under the headword "Arsamosata."</note>
                <idno type="URI">http://syriaca.org/place/442</idno>
                <bibl xml:id="bib442-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>

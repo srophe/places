@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -119,8 +119,7 @@
                   <quote source="#bib337-3">in Karkar, was built in 1138 and remained in existence until 1600. In 1170, Patriarch Michael the Great rebuilt its church. It produced five bishops.</quote>
                </desc>
                <state type="existence" from="1137" to="1600">
-                  <precision match="@from" notAfter="1137"/>
-                  <precision match="@to" notBefore="1600"/>
+                  <precision match="@to" notAfter="1943" notBefore="1600"/>
                </state>
                <idno type="URI">http://syriaca.org/place/337</idno>
                <bibl xml:id="bib337-1">

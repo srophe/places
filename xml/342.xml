@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -119,7 +119,7 @@
                   <quote source="#bib342-4">was built in the province of Melitene in 969 by the Patriarch John VII, who lived and died there. A magnificent monastery, it produced one Patriarch, one Maphryono and eighteen bishops and metropolitans. We find no mention of it after 1213.</quote>
                </desc>
                <state type="existence" from="0969" to="1213">
-                  <precision match="@to" notBefore="1213"/>
+                  <precision match="@to" notAfter="1943" notBefore="1213"/>
                </state>
                <idno type="URI">http://syriaca.org/place/342</idno>
                <bibl xml:id="bib342-1">

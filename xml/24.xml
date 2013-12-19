@@ -61,7 +61,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -93,7 +93,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -117,9 +117,9 @@
                <location type="nested" source="#bib24-5">
                   <region ref="http://syriaca.org/place/221">Ṭūr ʿAbdīn</region>
                </location>
-               <state type="existence" from="0734" to="0675">
+               <state type="existence" from="0734" to="2013">
                   <precision match="@from" notAfter="0734"/>
-                  <precision match="@to" notBefore="0675"/>
+                  <precision match="@to" notBefore="2013"/>
                </state>
                <idno type="URI">http://syriaca.org/place/24</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Yemişli,_Midyat</idno>

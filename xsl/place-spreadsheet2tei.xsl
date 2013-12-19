@@ -423,6 +423,12 @@
                                     <xsl:for-each select="*/errata">
                                         <note type="errata"><xsl:apply-templates select="child::node()"/></note>
                                     </xsl:for-each>
+                                    <xsl:for-each select="*/incerta">
+                                        <note type="incerta"><xsl:apply-templates select="child::node()"/></note>
+                                    </xsl:for-each>
+                                    <xsl:for-each select="*/corrigenda">
+                                        <note type="corrigenda"><xsl:apply-templates select="child::node()"/></note>
+                                    </xsl:for-each>
                                     
                                     <!-- Insert deprecation notes here -->
                                     <xsl:for-each select="*[ends-with(name(),'Notes') and count(child::node()) &lt; 2 and starts-with(node(),'Deprecation: ')]"> <!-- need to make sure the element contains only a string before testing starts-with(), or it barfs -->

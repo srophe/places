@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-10-26-04:00</date>
+            <date>2013-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,7 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-10-26-04:00">CREATED: place</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -121,8 +121,8 @@
                   <quote source="#bib397-4">near Kesūm, was first mentioned in history at the end of the seventh century. Ten bishops graduated from it between 810 and 925.</quote>
                </desc>
                <state type="existence" from="0688" to="0925">
-                  <precision match="@from" notAfter="0688"/>
-                  <precision match="@to" notBefore="0925"/>
+                  <precision match="@from" notAfter="0688" notBefore="0300"/>
+                  <precision match="@to" notAfter="1943" notBefore="0925"/>
                </state>
                <idno type="URI">http://syriaca.org/place/397</idno>
                <bibl xml:id="bib397-1">
