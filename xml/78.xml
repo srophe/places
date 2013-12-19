@@ -65,7 +65,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2013-12-08</date>
+                <date>2013-12-18</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -97,6 +97,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
+            <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18">ADDED: work URIs to attestation <gi>state</gi> elements</change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-08">CHANGED: <gi>desc</gi> or <gi>label</gi> within <gi>event</gi> to <gi>p</gi></change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-11-13">FIXED: renamed "errata" to "incerta" as note type</change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-11-12">FIXED: attestation78-6 and attestation78-7 pointed to the wrong confession</change>
@@ -189,31 +190,31 @@
                         <p xml:lang="en">Emigration of remaining Armenian and Syrian Christians to <placeName ref="http://syriaca.org/place/18">Aleppo</placeName>.</p>
                     </event>
                     <event type="attestation" xml:id="attestation78-1" notBefore="1146" notAfter="1234" source="#bib78-9">
-                        <p xml:lang="en">Attestation of name ܐܘܪܗܝ in the anonymous Chronicle of 1234.</p>
+                        <p xml:lang="en">Attestation of name ܐܘܪܗܝ in the anonymous <title ref="http://syriaca.org/work/113">Chronicle of 1234</title>.</p>
                         <link target="#name78-3 #attestation78-1"/>
                     </event>
                     <event type="attestation" xml:id="attestation78-2" when="1146" source="#bib78-9">
-                        <p xml:lang="en">Attestation of confession Syrian Orthodox in the anonymous Chronicle of 1234.</p>
+                        <p xml:lang="en">Attestation of Syrian Orthodox church in Edessa in the anonymous <title ref="http://syriaca.org/work/113">Chronicle of 1234</title>.</p>
                         <link target="#confession78-1 #attestation78-2"/>
                     </event>
                     <event type="attestation" xml:id="attestation78-3" when="0201" source="#bib78-10">
-                        <p xml:lang="en">Attestation of Christian church in Edessa according to the Chronicle of Edessa.</p>
+                        <p xml:lang="en">Attestation of Christian church in Edessa according to the <title ref="http://syriaca.org/work/119">Chronicle of Edessa</title>.</p>
                         <link target="#confession78-2 #attestation78-3"/>
                     </event>
                     <event type="attestation" xml:id="attestation78-4" notBefore="0540" source="#bib78-10">
-                        <p xml:lang="en">Attestation of Chalcedonian author in Edessa according to the Chronicle of Edessa.</p>
+                        <p xml:lang="en">Attestation of Chalcedonian author in Edessa according to the <title ref="http://syriaca.org/work/119">Chronicle of Edessa</title>.</p>
                         <link target="#confession78-3 #attestation78-4"/>
                     </event>
                     <event type="attestation" xml:id="attestation78-5" when="0522" source="#bib78-10">
-                        <p xml:lang="en">Attestation of Chalcedonian bishop in Edessa according to the Chronicle of Edessa.</p>
+                        <p xml:lang="en">Attestation of Chalcedonian bishop in Edessa according to the <title ref="http://syriaca.org/work/119">Chronicle of Edessa</title>.</p>
                         <link target="#confession78-3 #attestation78-5"/>
                     </event>
                     <event type="attestation" xml:id="attestation78-6" when="0520" source="#bib78-10">
-                        <p xml:lang="en">Attestation of anti-Chalcedonian bishop in Edessa according to the Chronicle of Edessa.</p>
+                        <p xml:lang="en">Attestation of anti-Chalcedonian bishop in Edessa according to the <title ref="http://syriaca.org/work/119">Chronicle of Edessa</title>.</p>
                         <link target="#confession78-1 #attestation78-6"/>
                     </event>
                     <event type="attestation" xml:id="attestation78-7" when="1624" source="#bib78-5">
-                        <p xml:lang="en">Attestation of Syrian Orthodox metropolitan for Edessa according to Barsoum's Scattered Pearls.</p>
+                        <p xml:lang="en">Attestation of Syrian Orthodox metropolitan for Edessa according to <persName ref="http://syriaca.org/person/372">Barsoum</persName>'s <title ref="http://syriaca.org/work/215">Scattered Pearls</title>.</p>
                         <link target="#confession78-1 #attestation78-7"/>
                     </event>
                     <state type="existence" from="-0304"/>
