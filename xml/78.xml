@@ -65,7 +65,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2013-12-18</date>
+                <date>2014-01-04</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -97,6 +97,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
+            <change who="http://syriaca.org/editors.xml#tcarlson" when="2014-01-04">FIXED: location of quotation marks relative to elements in <gi>location</gi> of type "relative"</change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18">ADDED: work URIs to attestation <gi>state</gi> elements</change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-08">CHANGED: <gi>desc</gi> or <gi>label</gi> within <gi>event</gi> to <gi>p</gi></change>
             <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-11-13">FIXED: renamed "errata" to "incerta" as note type</change>
@@ -155,9 +156,9 @@
                         <geo>37.15 38.8</geo>
                     </location>
                     <location type="relative" source="#bib78-5">
-                        <measure unit="days-journey" quantity="5">"five day journey</measure>
+                        "<measure unit="days-journey" quantity="5">five day journey</measure>
                         <offset>eastward from</offset>
-                        <placeName ref="http://syriaca.org/place/18">Aleppo"</placeName>
+                        <placeName ref="http://syriaca.org/place/18">Aleppo</placeName>"
                     </location>
                     <event when="-0304" source="#bib78-1">
                         <p xml:lang="en">Renamed Edessa by Seleucus I Nicator.</p>
