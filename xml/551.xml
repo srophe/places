@@ -52,7 +52,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-12-18-05:00</date>
+            <date>2014-01-10</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -84,6 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2014-01-10">ADDED: disambiguation note</change>
          <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
@@ -101,6 +102,7 @@
                   <precision match="@from" notAfter="1943" notBefore="0300"/>
                   <precision match="@to" notAfter="1943"/>
                </state>
+               <note type="disambiguation">Not the same place as <placeName ref="http://syriaca.org/place/346">St. Barbara</placeName>.</note>
                <idno type="URI">http://syriaca.org/place/551</idno>
                <bibl xml:id="bib551-1">
                   <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>

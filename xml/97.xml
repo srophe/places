@@ -65,7 +65,7 @@
                   </p>
                </licence>
             </availability>
-            <date>2013-12-18-05:00</date>
+            <date>2014-01-10</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -97,6 +97,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2014-01-10">ADDED: disambiguation note</change>
          <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
@@ -131,6 +132,7 @@
                   <precision match="@to" notAfter="2013" notBefore="1293"/>
                </state>
                <note type="errata">Barsoum's description erroneously identifies this place with <placeName ref="http://syriaca.org/place/209">Zeugma</placeName>.</note>
+               <note type="disambiguation">Not the same place as <placeName ref="http://syriaca.org/place/695">Halfeti</placeName>.</note>
                <idno type="URI">http://syriaca.org/place/97</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Rumkale</idno>
                <idno type="URI">http://dbpedia.org/resource/Rumkale</idno>

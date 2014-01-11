@@ -39,7 +39,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-12-18-05:00</date>
+            <date>2014-01-10</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,6 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2014-01-10">ADDED: existence dates</change>
          <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
@@ -89,7 +90,10 @@
                   <region ref="http://syriaca.org/place/776">Sapsāpā district</region>
                   <region ref="http://syriaca.org/place/708">ʿAqrā region</region>
                </location>
-               <state type="existence"/>
+               <state type="existence" from="0779" to="0720" source="#bib980-1">
+                  <precision match="@from" notAfter="0779"/>
+                  <precision match="@to" notBefore="0720"/>
+               </state>
                <idno type="URI">http://syriaca.org/place/980</idno>
                <bibl xml:id="bib980-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
